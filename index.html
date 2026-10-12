@@ -207,6 +207,13 @@ body.toasting .mini{visibility:hidden}
 .ask-card p{margin:0 0 22px;color:var(--text-soft);font-size:19px}
 
 /* ---------- sound check ---------- */
+.sfx-head{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.switch{flex:none;display:inline-flex;align-items:center;gap:10px;min-height:52px;min-width:112px;padding:6px 16px 6px 6px;border-radius:999px;border:2px solid var(--ghost-line);background:transparent;color:var(--text);font:700 18px var(--f-body)}
+.switch .knob{width:40px;height:40px;border-radius:50%;background:var(--ghost-line);transition:background .2s}
+.switch[aria-checked="true"]{border-color:var(--gold);background:#f6c64a26}
+.switch[aria-checked="true"] .knob{background:var(--gold)}
+.sfx-row.off .sfx-opts,.sfx-list.all-off .sfx-opts{opacity:.45}
+.sfx-row.master{background:linear-gradient(180deg,var(--tile),var(--tile-deep))}
 .sfx-list{display:grid;gap:12px}
 .sfx-row{display:grid;gap:10px;padding:14px 16px;border-radius:14px;background:var(--pod)}
 .sfx-name{font:700 20px var(--f-body)}
@@ -339,6 +346,7 @@ body.toasting .mini{visibility:hidden}
         <label class="label" for="vol">Volume <span id="volOut">80%</span></label>
         <input type="range" id="vol" min="0" max="100" value="80">
       </div>
+      <div class="sfx-row master"><div class="sfx-head"><span class="sfx-name">All sound effects</span><button class="switch" role="switch" id="masterSw" aria-checked="true" aria-label="All sound effects"><span class="knob"></span><span class="sw-label">On</span></button></div><p class="hint" style="margin:0">Turn off any sound that startles or bothers your players. The reading voice has its own setting.</p></div>
       <div class="sfx-list" id="sfxList"></div>
       <h2 style="font-size:clamp(26px,3.6vw,38px);margin-top:12px">Reading voice</h2>
       <p class="hint">Each sample reads the same question, its choices, the answer and the fun fact. The last option is the voice already built into this device, for comparison. In this mockup the chosen voice reads the <b>Music 300</b> question; other questions use the device voice.</p>
@@ -775,6 +783,7 @@ const SFX_MENU=[
 const FILES={open:{a:'ding_a',b:'ding_b'},correct:{a:'correct_a',b:'correct_b'},wrong:{a:'wrong_a',b:'wrong_b'},lucky:{a:'lucky_a',b:'lucky_b'},points:{a:'points'},finale:{a:'finale_a',b:'finale_b'}};
 state.sfx={open:'b',correct:'b',wrong:'a',lucky:'b',points:'a',finale:'a'}; // Kevin's picks 2026-10-11
 state.volume=.8;
+state.sfxOn={open:true,correct:true,wrong:true,lucky:true,points:true,finale:true}; // each sound can be switched off; all on by default
 let ac=null,master=null;const BUF={};
 function ctx(){
   if(!ac){try{ac=new(window.AudioContext||window.webkitAudioContext)();master=ac.createGain();master.gain.value=state.volume;master.connect(ac.destination);decodeAll()}catch(e){ac=null}}
@@ -823,8 +832,8 @@ function renderVoices(){
   });
   box.appendChild(row);
 }
-function play(moment){
-  if(!state.sound)return;const a=ctx();if(!a)return;
+function play(moment,preview){
+  if(!preview&&(!state.sound||state.sfxOn[moment]===false))return;const a=ctx();if(!a)return;
   const b=BUF[FILES[moment][state.sfx[moment]]];
   if(!b){fallback(moment);return}
   const s=a.createBufferSource();s.buffer=b;s.connect(master);s.start();
@@ -839,19 +848,28 @@ function renderSfx(){
   const box=$('sfxList');box.innerHTML='';
   SFX_MENU.forEach(m=>{
     const row=document.createElement('div');row.className='sfx-row';
-    row.innerHTML=`<span class="sfx-name"></span><div class="sfx-opts"></div>`;row.querySelector('.sfx-name').textContent=m.name;
+    row.innerHTML=`<div class="sfx-head"><span class="sfx-name"></span><button class="switch" role="switch" aria-checked="${state.sfxOn[m.id]}"><span class="knob"></span><span class="sw-label">${state.sfxOn[m.id]?'On':'Off'}</span></button></div><div class="sfx-opts"></div>`;
+    row.querySelector('.sfx-name').textContent=m.name;row.classList.toggle('off',!state.sfxOn[m.id]);
+    const sw=row.querySelector('.switch');sw.setAttribute('aria-label',m.name+' sound');
+    sw.addEventListener('click',()=>{state.sfxOn[m.id]=!state.sfxOn[m.id];sw.setAttribute('aria-checked',state.sfxOn[m.id]);sw.querySelector('.sw-label').textContent=state.sfxOn[m.id]?'On':'Off';row.classList.toggle('off',!state.sfxOn[m.id])});
     m.opts.forEach(([v,label])=>{
       const b=document.createElement('button');b.className='sfx-opt';b.setAttribute('aria-pressed',state.sfx[m.id]===v);
       b.innerHTML=`<span class="sfx-v">${v.toUpperCase()}</span><span class="sfx-l"></span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z" fill="currentColor"/></svg>`;
       b.querySelector('.sfx-l').textContent=label;
-      b.addEventListener('click',()=>{state.sfx[m.id]=v;row.querySelectorAll('.sfx-opt').forEach(o=>o.setAttribute('aria-pressed',o===b));const was=state.sound;state.sound=true;play(m.id);state.sound=was;});
+      b.addEventListener('click',()=>{state.sfx[m.id]=v;row.querySelectorAll('.sfx-opt').forEach(o=>o.setAttribute('aria-pressed',o===b));play(m.id,true);});
       row.querySelector('.sfx-opts').appendChild(b);
     });
     box.appendChild(row);
   });
 }
 $('vol').addEventListener('input',e=>{state.volume=e.target.value/100;if(master)master.gain.value=state.volume;$('volOut').textContent=e.target.value+'%'});
-$('soundBtn').addEventListener('click',e=>{state.sound=!state.sound;e.currentTarget.setAttribute('aria-pressed',state.sound);e.currentTarget.textContent=state.sound?'Sound effects on':'Sound effects off'});
+function setMaster(on){
+  state.sound=on;const b=$('soundBtn');b.setAttribute('aria-pressed',on);b.textContent=on?'Sound effects on':'Sound effects off';
+  const m=$('masterSw');m.setAttribute('aria-checked',on);m.querySelector('.sw-label').textContent=on?'On':'Off';
+  $('sfxList').classList.toggle('all-off',!on);
+}
+$('soundBtn').addEventListener('click',()=>setMaster(!state.sound));
+$('masterSw').addEventListener('click',()=>setMaster(!state.sound));
 
 /* ---------- confetti ---------- */
 function confetti(origin,n){
