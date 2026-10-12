@@ -256,7 +256,7 @@ body.toasting .mini{visibility:hidden}
   <!-- SETUP -->
   <section class="screen" id="s-setup" aria-label="Game setup">
     <div class="panel">
-      <h2>Set up tonight's game</h2>
+      <h2>Set up today's game</h2>
       <div class="field">
         <span class="label" id="era-l">Our players were born in the</span>
         <div class="chips" role="radiogroup" aria-labelledby="era-l" id="era">
@@ -354,7 +354,7 @@ body.toasting .mini{visibility:hidden}
       <h2 class="wordmark">Final <em>Scores</em></h2>
       <p class="final-note" id="finalNote"></p>
       <ol class="final" id="final"></ol>
-      <p class="tagline" style="margin:0 auto">Thanks for playing. Every memory shared tonight counts as a win.</p>
+      <p class="tagline" style="margin:0 auto">Thanks for playing. Every memory shared today counts as a win.</p>
       <div class="row">
         <button class="btn-gold" id="againBtn">Play a new board</button>
         <button class="btn-ghost" data-go="title">Main menu</button>
@@ -755,7 +755,7 @@ function renderFinal(){
   const s=scores(),top=Math.max(...s),order=state.teams.map((n,i)=>({n,i,s:s[i]})).sort((a,b)=>b.s-a.s);
   const ol=$('final');ol.innerHTML='';clearSave();
   const tied=order.filter(t=>t.s===top).length>1&&top>0;
-  if(state.teams.length===1){const n=Object.values(state.used).filter(t=>t===0).length;$('finalNote').textContent=`You remembered ${n} ${n===1?'thing':'things'} tonight!`}
+  if(state.teams.length===1){const n=Object.values(state.used).filter(t=>t===0).length;$('finalNote').textContent=`You remembered ${n} ${n===1?'thing':'things'} today!`}
   else $('finalNote').textContent=top===0?'Thanks for playing, everyone!':tied?"It's a tie at the top. What a match!":`Congratulations, ${order[0].n}!`;
   order.forEach(t=>{const li=document.createElement('li');li.style.setProperty('--c',COLORS[t.i]);
     if(t.s===top&&top>0)li.className='top';
