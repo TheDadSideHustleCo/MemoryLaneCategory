@@ -109,20 +109,34 @@ button:focus-visible,input:focus-visible{outline:4px solid var(--bulb);outline-o
 .clue{position:fixed;inset:0;z-index:20;overflow:auto;display:flex;flex-direction:column;align-items:center;gap:clamp(12px,2vh,20px);padding-inline:16px;padding-block:clamp(16px,3vh,32px) 70px;
   background:radial-gradient(ellipse 80% 60% at 50% -10%,var(--glow),transparent 70%),var(--stage);transition:opacity .25s}
 .clue.closing{opacity:0}
-.clue-top{display:flex;gap:18px;align-items:baseline;justify-content:center;flex-wrap:wrap;text-align:center}
+.clue-top{display:flex;gap:18px;align-items:baseline;justify-content:center;flex-wrap:wrap;text-align:center;
+  position:sticky;top:calc(-1 * clamp(16px,3vh,32px));z-index:2;align-self:stretch;margin-inline:-16px;padding:clamp(10px,1.6vh,16px) 16px;
+  background:linear-gradient(var(--stage) 75%,#070b2e00)}
+.clue.revealed .ans{min-height:clamp(52px,6.5vh,64px);padding-block:8px;font-size:clamp(18px,2.1vw,25px)}
+.clue.revealed .ans .k{width:clamp(32px,3.4vw,42px);height:clamp(32px,3.4vw,42px)}
+.clue.revealed .q{margin:.4em 0 .5em}
+.clue.revealed .reveal{margin-top:16px}
+.clue.revealed .card-meta{display:none}
+.clue.revealed .q{margin-top:0}
+.clue.revealed .answers{grid-template-columns:1fr}
+.clue.revealed .ans:not(.right){display:none}
+@media (min-width:900px){
+  .clue.revealed .award.single{grid-template-columns:auto auto;justify-content:center;align-items:center;column-gap:24px}
+  .clue.revealed .award.single p{text-align:right}
+}
 .clue-cat{font:700 clamp(18px,2.4vw,28px)/1.1 var(--f-body);letter-spacing:.12em;text-transform:uppercase;color:var(--text-soft)}
 .clue-val{font:400 clamp(30px,4.4vw,54px)/1 var(--f-display);color:var(--gold);text-shadow:0 3px 0 var(--gold-shadow)}
 .lucky-tag{font:700 16px/1 var(--f-body);letter-spacing:.1em;text-transform:uppercase;color:var(--ink);background:var(--gold);border-radius:999px;padding:8px 14px}
-.card{position:relative;width:min(1000px,100%);box-sizing:border-box;background:var(--card);color:var(--ink);border-radius:22px;padding:clamp(20px,3.6vw,46px);
+.card{position:relative;width:min(1000px,100%);box-sizing:border-box;background:var(--card);color:var(--ink);border-radius:22px;padding:clamp(20px,min(3.6vw,5vh),46px);
   box-shadow:0 0 0 5px var(--gold),0 0 0 10px var(--tile-deep),0 30px 80px #000c;animation:rise .45s cubic-bezier(.2,.8,.2,1)}
 @keyframes rise{from{transform:translateY(24px) scale(.97);opacity:0}}
 .card-meta{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;padding-bottom:14px;border-bottom:2px solid var(--rule)}
 .year{font:700 15px/1 var(--f-body);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
 .read{display:inline-flex;align-items:center;gap:10px;min-height:58px;padding:10px 20px;border:0;border-radius:999px;background:var(--ink);color:var(--card);font:700 17px/1 var(--f-body)}
 .read svg{width:22px;height:22px}
-.q{font:700 clamp(25px,3.5vw,46px)/1.25 var(--f-body);margin:.5em 0 .6em;text-wrap:pretty}
+.q{font:700 clamp(24px,min(3.5vw,5.4vh),46px)/1.25 var(--f-body);margin:.5em 0 .6em;text-wrap:wrap}
 .answers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(10px,1.5vw,16px)}
-.ans{display:flex;align-items:center;gap:14px;text-align:left;min-height:clamp(66px,9vh,94px);padding:12px 18px;border-radius:16px;border:3px solid var(--line);background:var(--text);color:var(--ink);font:700 clamp(19px,2.4vw,29px)/1.2 var(--f-body);transition:opacity .3s,border-color .15s,transform .15s}
+.ans{display:flex;align-items:center;gap:14px;text-align:left;min-height:clamp(66px,9vh,94px);padding:12px 18px;border-radius:16px;border:3px solid var(--line);background:var(--text);color:var(--ink);font:700 clamp(19px,min(2.4vw,3.7vh),29px)/1.2 var(--f-body);transition:opacity .3s,border-color .15s,transform .15s}
 .ans:hover:not(:disabled){border-color:var(--tile);transform:translateY(-1px)}
 .ans:disabled{cursor:default}
 .ans .k{flex:none;width:clamp(38px,4vw,50px);height:clamp(38px,4vw,50px);border-radius:50%;display:grid;place-items:center;background:var(--tile);color:var(--text);font:400 .8em/1 var(--f-display)}
@@ -135,11 +149,11 @@ button:focus-visible,input:focus-visible{outline:4px solid var(--bulb);outline-o
 @keyframes pop{40%{transform:scale(1.04)}}
 .reveal{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:22px}
 .reveal > div{border-radius:14px;padding:16px 18px;min-width:0}
-.reveal p{margin:.45em 0 0;font-size:clamp(17px,1.9vw,22px);line-height:1.45}
+.reveal p{margin:.45em 0 0;font-size:clamp(17px,min(1.9vw,2.9vh),22px);line-height:1.45}
 .fact{background:var(--fact-bg)}
 .talk{background:var(--talk-bg)}
 .reveal .label{color:var(--muted)}
-.award{width:min(1000px,100%);text-align:center;display:grid;gap:14px}
+.award{width:min(1000px,100%);text-align:center;display:grid;gap:14px;scroll-margin-bottom:80px}
 .award p{margin:0;font-size:clamp(21px,2.5vw,27px);font-weight:700}
 .award b{color:var(--gold);font-family:var(--f-display);font-weight:400}
 .aw{min-height:62px;padding:14px 26px;border:0;border-radius:999px;background:var(--c);color:var(--ink);font:700 clamp(18px,2vw,22px)/1 var(--f-body);box-shadow:0 4px 0 #0006}
@@ -603,7 +617,7 @@ function showClue(){
     b.innerHTML=`<span class="k">${'ABCD'[n]}</span><span class="txt"></span>`;b.querySelector('.txt').textContent=q.o[oi];
     b.addEventListener('click',()=>choose(oi));box.appendChild(b);
   });
-  const cl=$('clue');cl.classList.remove('closing');cl.hidden=false;cl.scrollTop=0;
+  const cl=$('clue');cl.classList.remove('closing','revealed');cl.hidden=false;cl.scrollTop=0;
   const card=cl.querySelector('.card');card.style.animation='none';card.offsetHeight;card.style.animation='';
   box.querySelector('.ans').focus({preventScroll:true});
   $('readBtn').hidden=state.readMode==='off';
@@ -641,6 +655,7 @@ function setAward(msgParts,buttons){
   const p=$('awardMsg');p.textContent='';
   msgParts.forEach(([txt,bold])=>{const s=document.createElement(bold?'b':'span');s.textContent=txt;p.appendChild(s)});
   const row=$('awardRow');row.innerHTML='';buttons.forEach(b=>row.appendChild(b));
+  $('award').classList.toggle('single',buttons.length===1);
   $('award').hidden=false;
   setTimeout(()=>$('award').scrollIntoView({behavior:reduced?'auto':'smooth',block:'end'}),reduced?0:450);
 }
@@ -653,6 +668,7 @@ function offerSecondChance(){
   ]);
 }
 function afterAnswer(correct){
+  $('clue').classList.add('revealed');
   $('reveal').hidden=false;$('showAns').hidden=true;$('backBtn').hidden=true;
   if(state.readMode==='auto')readReveal();
   const val=valueOf(current.c,current.r),v=val.toLocaleString('en-US');
