@@ -1,0 +1,5711 @@
+{
+ "edition": "us",
+ "decade": "1940s",
+ "years": [
+  1955,
+  1964
+ ],
+ "count": 300,
+ "questions": [
+  {
+   "id": "us55-mus-001",
+   "year": 1956,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which nickname did Elvis Presley earn by the mid-1950s?",
+   "options": [
+    "The Velvet Fog",
+    "The Chairman of the Board",
+    "The King of Rock and Roll",
+    "The Voice"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Early in his career he was also called 'the Hillbilly Cat.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Elvis_Presley",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-002",
+   "year": 1957,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which 1957 Elvis movie had a famous dance number set in a prison?",
+   "options": [
+    "Loving You",
+    "Blue Hawaii",
+    "Jailhouse Rock",
+    "King Creole"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Jerry Leiber and Mike Stoller wrote the song, and RCA released it as a single in September 1957.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jailhouse_Rock_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-003",
+   "year": 1958,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which brothers sang the 1958 hit 'All I Have to Do Is Dream'?",
+   "options": [
+    "The Everly Brothers",
+    "The Louvin Brothers",
+    "The Ames Brothers",
+    "The Mills Brothers"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Don and Phil Everly's close harmony took the song to No. 1 on the pop, country and rhythm and blues charts.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/All_I_Have_to_Do_Is_Dream",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-004",
+   "year": 1958,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In 'The Chipmunk Song' of 1958, which chipmunk was always getting into trouble?",
+   "options": [
+    "Alvin",
+    "Theodore",
+    "Simon",
+    "Chip"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Ross Bagdasarian, billed as David Seville, sang all the voices and sped up the tape to make them squeaky.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Chipmunk_Song_(Christmas_Don%27t_Be_Late)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-005",
+   "year": 1958,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "The song 'Volare' was a huge hit in 1958. Which country did it come from?",
+   "options": [
+    "France",
+    "Italy",
+    "Spain",
+    "Greece"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Domenico Modugno's recording won the very first Grammy Awards for Record of the Year and Song of the Year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Nel_blu,_dipinto_di_blu",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-006",
+   "year": 1960,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which dance craze did Chubby Checker start with his 1960 No. 1 hit?",
+   "options": [
+    "The Mashed Potato",
+    "The Twist",
+    "The Swim",
+    "The Stroll"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It reached No. 1 in 1960, then climbed back to No. 1 in 1962 when grown-ups caught the craze too.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Twist_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-007",
+   "year": 1956,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Elvis Presley's first movie, in 1956, shared its title with which of his songs?",
+   "options": [
+    "Don't Be Cruel",
+    "Hound Dog",
+    "Love Me Tender",
+    "All Shook Up"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The melody came from 'Aura Lea,' a song from the Civil War era.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Love_Me_Tender_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-008",
+   "year": 1961,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which singer recorded the 1961 classic 'Stand By Me'?",
+   "options": [
+    "Otis Redding",
+    "Ben E. King",
+    "Sam Cooke",
+    "Ray Charles"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It returned to the charts in 1986, when a hit movie used its title and theme song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Stand_by_Me_(Ben_E._King_song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-009",
+   "year": 1964,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "The Beatles arrived in America in February 1964. Which English city were they from?",
+   "options": [
+    "Liverpool",
+    "Manchester",
+    "London",
+    "Birmingham"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Before they were famous, they played hundreds of shows at Liverpool's Cavern Club.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Beatles",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-010",
+   "year": 1964,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "What was the name of the Beatles' first film, released in 1964?",
+   "options": [
+    "Help!",
+    "Let It Be",
+    "A Hard Day's Night",
+    "Yellow Submarine"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It was shot in black and white and shows a few hectic days in the band's life, chased by screaming fans.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/A_Hard_Day%27s_Night_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-011",
+   "year": 1955,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Tennessee Ernie Ford's 1955 No. 1 hit 'Sixteen Tons' is sung by what kind of worker?",
+   "options": [
+    "A coal miner",
+    "A cowboy",
+    "A sailor",
+    "A railroad man"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Merle Travis wrote it. Its line 'I owe my soul to the company store' became famous.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sixteen_Tons",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-012",
+   "year": 1956,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which song became Elvis Presley's first No. 1 hit, in 1956?",
+   "options": [
+    "Blue Suede Shoes",
+    "Heartbreak Hotel",
+    "Jailhouse Rock",
+    "Hound Dog"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It was his first single for RCA Records, which had just bought his contract.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Heartbreak_Hotel",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-013",
+   "year": 1955,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which wild Little Richard hit of 1955 begins 'A-wop-bop-a-loo-bop'?",
+   "options": [
+    "Good Golly, Miss Molly",
+    "Tutti Frutti",
+    "Long Tall Sally",
+    "Lucille"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Pat Boone recorded a much tamer version that sold even more copies.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tutti_Frutti_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-014",
+   "year": 1957,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Buddy Holly and the Crickets had a big 1957 hit with which song?",
+   "options": [
+    "Peggy Sue",
+    "Not Fade Away",
+    "Maybe Baby",
+    "That'll Be the Day"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "The title came from a line John Wayne kept saying in the movie 'The Searchers.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/That%27ll_Be_the_Day",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-015",
+   "year": 1957,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Gospel singer Sam Cooke crossed over to pop in 1957 with which silky No. 1 hit?",
+   "options": [
+    "Wonderful World",
+    "Chain Gang",
+    "Twistin' the Night Away",
+    "You Send Me"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Before this, he had been a gospel singer. 'You Send Me' was his first pop release under his own name to become a hit.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/You_Send_Me",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-016",
+   "year": 1959,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which 'Bobby' had a No. 1 hit with 'Mack the Knife' in 1959?",
+   "options": [
+    "Bobby Vee",
+    "Bobby Darin",
+    "Bobby Rydell",
+    "Bobby Vinton"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It won the Grammy Award for Record of the Year, and he was named Best New Artist.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mack_the_Knife",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-017",
+   "year": 1960,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Ray Charles won Grammy Awards in 1960 for a song named after which state?",
+   "options": [
+    "Tennessee",
+    "Alabama",
+    "Georgia",
+    "Carolina"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "'Georgia on My Mind' became that state's official state song in 1979.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Georgia_on_My_Mind",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-018",
+   "year": 1960,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Elvis's 1960 hit 'It's Now or Never' was based on which Italian song?",
+   "options": [
+    "Arrivederci Roma",
+    "Santa Lucia",
+    "Funiculì, Funiculà",
+    "'O Sole Mio"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He recorded it soon after coming home from his Army service in Germany.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/It%27s_Now_or_Never_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-019",
+   "year": 1962,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Frankie Valli's soaring falsetto led which group to No. 1 with 'Sherry' in 1962?",
+   "options": [
+    "The Four Aces",
+    "The Four Tops",
+    "The Four Seasons",
+    "The Four Lads"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It was their first No. 1, and 'Big Girls Don't Cry' followed it to the top the same year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sherry_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-020",
+   "year": 1963,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Peter, Paul and Mary had a 1963 hit with which Bob Dylan song?",
+   "options": [
+    "Like a Rolling Stone",
+    "Blowin' in the Wind",
+    "Mr. Tambourine Man",
+    "The Times They Are a-Changin'"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Dylan first published the song in 1962 in a small folk-music magazine called Broadside.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Blowin%27_in_the_Wind",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-021",
+   "year": 1955,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "In Chuck Berry's 1955 hit 'Maybellene,' the singer is chasing his girl, who is driving what?",
+   "options": [
+    "A Cadillac",
+    "A pickup truck",
+    "A bus",
+    "A motorcycle"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He's in a V8 Ford trying to catch her Cadillac Coupe DeVille. The tune grew out of an old fiddle song, 'Ida Red.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Maybellene",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-022",
+   "year": 1958,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which Philadelphia group had a No. 1 hit in 1958 with 'At the Hop'?",
+   "options": [
+    "Danny and the Juniors",
+    "The Everly Brothers",
+    "Buddy Holly and the Crickets",
+    "Dion and the Belmonts"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The song was first called 'Do the Bop.' Dick Clark suggested the new title.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/At_the_Hop",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-023",
+   "year": 1961,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which Motown girl group had the label's first No. 1 hit, 'Please Mr. Postman,' in 1961?",
+   "options": [
+    "The Supremes",
+    "Martha and the Vandellas",
+    "The Shirelles",
+    "The Marvelettes"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "They recorded it at Motown's Hitsville U.S.A. studio in Detroit. The Beatles later recorded the song too.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Please_Mr._Postman",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-024",
+   "year": 1962,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Little Eva sang the 1962 hit 'The Loco-Motion.' Who was she before she was a star?",
+   "options": [
+    "A dancer",
+    "A backup singer",
+    "Carole King's babysitter",
+    "Berry Gordy's cousin"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Eva Boyd was babysitting for songwriters Carole King and Gerry Goffin, who wrote the song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Loco-Motion",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-025",
+   "year": 1963,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "The Beach Boys' 1963 hit 'Surfin' U.S.A.' borrowed its tune from which Chuck Berry song?",
+   "options": [
+    "Rock and Roll Music",
+    "Johnny B. Goode",
+    "Roll Over Beethoven",
+    "Sweet Little Sixteen"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Chuck Berry was later given a songwriting credit on it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Surfin%27_U.S.A.",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mus-026",
+   "year": 1956,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In Fats Domino's 1956 hit, where did he find his thrill?",
+   "options": [
+    "Down by the river",
+    "On Blueberry Hill",
+    "In the city",
+    "On Lovers' Lane"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "The song was already 16 years old. Glenn Miller and Gene Autry had both recorded it in 1940.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Blueberry_Hill",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-027",
+   "year": 1958,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In Sheb Wooley's 1958 novelty hit, what color was the one-eyed, one-horned flying people eater?",
+   "options": [
+    "Purple",
+    "Green",
+    "Yellow",
+    "Orange"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Sheb Wooley wrote it himself. It was No. 1 from June 9 to July 14, 1958, and also topped the charts in Canada.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Purple_People_Eater",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-028",
+   "year": 1960,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In Brian Hyland's 1960 hit, the itsy bitsy teenie weenie bikini had polka dots of what color?",
+   "options": [
+    "Red",
+    "Blue",
+    "Pink",
+    "Yellow"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Brian Hyland was only 16 when the song reached No. 1.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Itsy_Bitsy_Teenie_Weenie_Yellow_Polka_Dot_Bikini",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-029",
+   "year": 1956,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In his 1956 hit, Johnny Cash promised he would 'walk the' what?",
+   "options": [
+    "Road",
+    "Line",
+    "Floor",
+    "Mile"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "'I Walk the Line' was his first No. 1 country hit, and it crossed over to the pop charts too.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/I_Walk_the_Line",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-030",
+   "year": 1961,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which country singer had a 1961 hit with 'Crazy,' written by a young Willie Nelson?",
+   "options": [
+    "Patsy Cline",
+    "Kitty Wells",
+    "Brenda Lee",
+    "Loretta Lynn"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Willie Nelson waited outside in the car while his demo was played for her. She had him come into the house.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Crazy_(Willie_Nelson_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-031",
+   "year": 1964,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which singer in dark glasses had a 1964 hit with 'Oh, Pretty Woman'?",
+   "options": [
+    "Ray Charles",
+    "Roy Orbison",
+    "Buddy Holly",
+    "Del Shannon"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He recorded it with his band, the Candy Men. Its famous opening guitar riff is instantly recognizable.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Oh,_Pretty_Woman",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-032",
+   "year": 1961,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In the Tokens' 1961 hit, what sleeps tonight in the jungle?",
+   "options": [
+    "The tiger",
+    "The monkey",
+    "The bear",
+    "The lion"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It was based on 'Mbube,' a South African song first recorded by Solomon Linda in 1939.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Lion_Sleeps_Tonight",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-033",
+   "year": 1962,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which Halloween novelty dance song was a No. 1 hit in 1962?",
+   "options": [
+    "The Monster Mash",
+    "The Witch Doctor",
+    "Ghost Riders",
+    "The Werewolf Hop"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Bobby 'Boris' Pickett sang it in his best impression of horror-movie star Boris Karloff.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Monster_Mash",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-034",
+   "year": 1963,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In Lesley Gore's 1963 hit, it's her party and she'll do what if she wants to?",
+   "options": [
+    "Dance",
+    "Sing",
+    "Leave",
+    "Cry"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "She was 16 when she recorded it. A young Quincy Jones produced the record.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/It%27s_My_Party_(Lesley_Gore_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-035",
+   "year": 1956,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Harry Belafonte sang 'Day-O!' in a 1956 hit about dock workers loading what?",
+   "options": [
+    "Coconuts",
+    "Bananas",
+    "Coffee",
+    "Sugar"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "'The Banana Boat Song' was on his album 'Calypso,' said to be the first LP by one artist to sell a million copies.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Day-O_(The_Banana_Boat_Song)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-036",
+   "year": 1959,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which teen idol had a No. 1 hit in 1959 with 'Venus'?",
+   "options": [
+    "Frankie Avalon",
+    "Fabian",
+    "Paul Anka",
+    "Bobby Rydell"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He later starred with Annette Funicello in a string of beach party movies.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Frankie_Avalon",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-037",
+   "year": 1957,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which clean-cut singer was second only to Elvis in popularity in the 1950s?",
+   "options": [
+    "Perry Como",
+    "Fabian",
+    "Tab Hunter",
+    "Pat Boone"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He was famous for his wholesome image, and for recording smoother versions of rock and roll songs like 'Tutti Frutti.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pat_Boone",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-038",
+   "year": 1958,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which song was the very first No. 1 on Billboard's new Hot 100 chart, in August 1958?",
+   "options": [
+    "Volare",
+    "At the Hop",
+    "Splish Splash",
+    "Poor Little Fool"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It was sung by teen idol Ricky Nelson, who also starred on his family's TV show.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Poor_Little_Fool",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-039",
+   "year": 1962,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which Memphis band made the 1962 organ instrumental 'Green Onions'?",
+   "options": [
+    "The Bar-Kays",
+    "Booker T. & the M.G.'s",
+    "The Mar-Keys",
+    "The Ventures"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "They were the house band at Stax Records and played on many soul hits of the 1960s.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Green_Onions",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-040",
+   "year": 1963,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which group's 1963 hit 'Louie Louie' had words so mumbled that nobody was sure what they said?",
+   "options": [
+    "The Kingsmen",
+    "The Ventures",
+    "The Trashmen",
+    "The Rivieras"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The song was written in 1955 by Richard Berry. The Kingsmen recorded it in about an hour.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Louie_Louie",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-041",
+   "year": 1964,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Whose 'Everybody Loves Somebody' knocked the Beatles' 'A Hard Day's Night' from No. 1 in 1964?",
+   "options": [
+    "Bobby Vinton",
+    "Frank Sinatra",
+    "Dean Martin",
+    "Andy Williams"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It became his signature song and the theme of his TV variety show.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Everybody_Loves_Somebody",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-042",
+   "year": 1955,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which 'King of the Mambo' had a 1955 No. 1 with 'Cherry Pink and Apple Blossom White'?",
+   "options": [
+    "Desi Arnaz",
+    "Xavier Cugat",
+    "Tito Puente",
+    "Pérez Prado"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It stayed at No. 1 for ten weeks. Its trumpet slide became the record's trademark.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cherry_Pink_(and_Apple_Blossom_White)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-043",
+   "year": 1957,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Debbie Reynolds had a No. 1 hit in 1957 with a song from her movie. What was it called?",
+   "options": [
+    "Tammy",
+    "Gidget",
+    "Sabrina",
+    "Gigi"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It came from 'Tammy and the Bachelor,' in which she played a backwoods girl.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tammy_(song)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-044",
+   "year": 1958,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Connie Francis's career took off in 1958 with which song from 1923?",
+   "options": [
+    "Who's Sorry Now?",
+    "Stupid Cupid",
+    "Lipstick on Your Collar",
+    "Where the Boys Are"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Bert Kalmar, Harry Ruby and Ted Snyder wrote it in 1923. Her version made it a hit all over again 35 years later.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Who%27s_Sorry_Now%3F_(song)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-045",
+   "year": 1955,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which vocal group had a No. 1 hit with 'The Great Pretender' in early 1956?",
+   "options": [
+    "The Coasters",
+    "The Drifters",
+    "The Platters",
+    "The Five Satins"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Their manager, Buck Ram, wrote it. They also had hits with 'Only You' and 'Smoke Gets in Your Eyes.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Great_Pretender",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-046",
+   "year": 1960,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which tiny teenage singer was nicknamed 'Little Miss Dynamite'?",
+   "options": [
+    "Little Peggy March",
+    "Connie Francis",
+    "Lesley Gore",
+    "Brenda Lee"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "She was about 4 feet 9 inches tall. She recorded 'Rockin' Around the Christmas Tree' at 13.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Brenda_Lee",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-047",
+   "year": 1963,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "In 1963, a Belgian nun reached No. 1 in America with which song?",
+   "options": [
+    "Sister Sara",
+    "Ave Maria",
+    "Dominique",
+    "Kumbaya"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "She was billed as 'the Singing Nun,' and she sang it in French.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dominique_(song)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-048",
+   "year": 1963,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "How old was 'Little Stevie Wonder' when 'Fingertips' hit No. 1 in 1963?",
+   "options": [
+    "10",
+    "13",
+    "16",
+    "19"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was recorded live on stage, and the harmonica was a big part of it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Fingertips_(song)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-049",
+   "year": 1956,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which rockabilly singer had a 1956 hit with 'Be-Bop-a-Lula'?",
+   "options": [
+    "Eddie Cochran",
+    "Carl Perkins",
+    "Gene Vincent",
+    "Buddy Knox"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "His band was called the Blue Caps.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Be-Bop-a-Lula",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mus-050",
+   "year": 1957,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which teenage singer wrote and recorded the 1957 smash 'Diana'?",
+   "options": [
+    "Neil Sedaka",
+    "Bobby Darin",
+    "Paul Anka",
+    "Frankie Avalon"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He was still a teenager. The record has reportedly sold over nine million copies.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Diana_(Paul_Anka_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-001",
+   "year": 1955,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which frontier hero's TV adventures in 1955 started a nationwide craze for coonskin caps?",
+   "options": [
+    "Daniel Boone",
+    "Davy Crockett",
+    "Kit Carson",
+    "Wild Bill Hickok"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Fess Parker played him on Walt Disney's TV show, and 'The Ballad of Davy Crockett' became a No. 1 hit.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Davy_Crockett_(miniseries)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-002",
+   "year": 1957,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'Leave It to Beaver' began in 1957. What was the family's last name?",
+   "options": [
+    "Anderson",
+    "Nelson",
+    "Cleaver",
+    "Stone"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Ward, June, Wally and the Beaver lived in the town of Mayfield.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Leave_It_to_Beaver",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-003",
+   "year": 1959,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which TV Western family, starting in 1959, lived on the Ponderosa ranch?",
+   "options": [
+    "The Cartwrights",
+    "The Barkleys",
+    "The McCoys",
+    "The Cannons"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It was one of the first series filmed in color, and NBC used it to help sell color TV sets.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bonanza",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-004",
+   "year": 1959,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'The Twilight Zone' began on CBS in 1959. Who created and hosted it?",
+   "options": [
+    "Rod Serling",
+    "Alfred Hitchcock",
+    "Boris Karloff",
+    "Vincent Price"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He wrote or co-wrote 92 of the show's 156 episodes himself.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-005",
+   "year": 1960,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'The Andy Griffith Show' began in 1960. What was the name of Sheriff Andy Taylor's small town?",
+   "options": [
+    "Hooterville",
+    "Pine Valley",
+    "Mayberry",
+    "Springfield"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It was based on Mount Airy, North Carolina, Andy Griffith's real hometown.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Andy_Griffith_Show",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-006",
+   "year": 1960,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'The Flintstones' began on TV in 1960. In which town did the Flintstones live?",
+   "options": [
+    "Rockville",
+    "Cobbleville",
+    "Stonetown",
+    "Bedrock"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Fred's happy shout, 'Yabba dabba doo!', became one of TV's most famous catchphrases.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Flintstones",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-007",
+   "year": 1960,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "The first televised presidential debates took place in 1960. Who were the two candidates?",
+   "options": [
+    "Kennedy and Humphrey",
+    "Eisenhower and Stevenson",
+    "Johnson and Goldwater",
+    "Kennedy and Nixon"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Many people who heard the first debate on radio thought Nixon did better, while TV viewers favored Kennedy.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1960_United_States_presidential_debates",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-008",
+   "year": 1961,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Who played Laura Petrie, Rob's wife, on 'The Dick Van Dyke Show,' which began in 1961?",
+   "options": [
+    "Donna Reed",
+    "Mary Tyler Moore",
+    "Barbara Eden",
+    "Marlo Thomas"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Dick Van Dyke played Rob, a TV comedy writer. Carl Reiner created the show and played Rob's boss, Alan Brady.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Dick_Van_Dyke_Show",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-009",
+   "year": 1962,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On 'The Beverly Hillbillies,' which began in 1962, how did the Clampetts get rich?",
+   "options": [
+    "They won a lottery",
+    "They found gold",
+    "They inherited money",
+    "They struck oil"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Jed was 'shootin' at some food, and up through the ground come a-bubblin' crude.' The theme song told the whole story.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Beverly_Hillbillies",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-010",
+   "year": 1964,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'Bewitched' began in 1964. Who played Samantha, the witch who married an ad man?",
+   "options": [
+    "Mary Tyler Moore",
+    "Elizabeth Montgomery",
+    "Barbara Eden",
+    "Marlo Thomas"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "She cast her spells with a twitch of her nose. She also played Samantha's mischievous cousin Serena.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bewitched",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-011",
+   "year": 1956,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "What did Ed Sullivan famously promise his Sunday night audience?",
+   "options": [
+    "A night to remember",
+    "A really big show",
+    "The best of the best",
+    "Laughs and music"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He said it with his own pronunciation: a 'really big shew.' Impressionists loved to copy him.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-012",
+   "year": 1961,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On 'Mister Ed,' which began in 1961, the talking horse would only speak to whom?",
+   "options": [
+    "His owner, Wilbur",
+    "The milkman",
+    "Any child",
+    "The mayor"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Alan Young played Wilbur Post. The horse's voice came from former Western star Allan Lane.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mister_Ed",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-013",
+   "year": 1955,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "'Gunsmoke' came to CBS in 1955 and ran for 20 seasons. Who played Marshal Matt Dillon?",
+   "options": [
+    "Glenn Ford",
+    "John Wayne",
+    "James Arness",
+    "Chuck Connors"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "John Wayne is said to have recommended him for the part. Dodge City, Kansas was his beat.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gunsmoke",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-014",
+   "year": 1957,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "'American Bandstand' went national on ABC in 1957. Which young host made it a hit?",
+   "options": [
+    "Alan Freed",
+    "Murray the K",
+    "Dick Clark",
+    "Ed Sullivan"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He looked so young for so long that he was nicknamed 'America's Oldest Teenager.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dick_Clark",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-015",
+   "year": 1957,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "On 'Leave It to Beaver,' what was the Beaver's real first name?",
+   "options": [
+    "Billy",
+    "Bobby",
+    "Thomas",
+    "Theodore"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Jerry Mathers played the Beaver, and Tony Dow played his big brother Wally.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Beaver_Cleaver",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-016",
+   "year": 1958,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "On 'The Donna Reed Show,' which began in 1958, what did Donna's husband Alex do for a living?",
+   "options": [
+    "Doctor",
+    "Banker",
+    "Lawyer",
+    "Engineer"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He was a pediatrician. Donna Reed's own production company made the show.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Donna_Reed_Show",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-017",
+   "year": 1960,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "Which 1960 cartoon was the first animated series to run in prime time?",
+   "options": [
+    "Top Cat",
+    "The Jetsons",
+    "The Flintstones",
+    "The Bullwinkle Show"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It was inspired by 'The Honeymooners,' with Fred and Barney standing in for Ralph and Norton.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Flintstones",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-018",
+   "year": 1962,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "Johnny Carson took over 'The Tonight Show' in October 1962. How long did he keep the job?",
+   "options": [
+    "10 years",
+    "15 years",
+    "22 years",
+    "30 years"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He hosted until 1992. His sidekick, Ed McMahon, introduced him every night with 'Heeere's Johnny!'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Johnny_Carson",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-019",
+   "year": 1964,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "About how many Americans watched the Beatles on Ed Sullivan's show in February 1964?",
+   "options": [
+    "7 million",
+    "23 million",
+    "73 million",
+    "123 million"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It was one of the biggest TV audiences ever up to that time.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Beatles_on_The_Ed_Sullivan_Show",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-020",
+   "year": 1964,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "'Gilligan's Island' began in 1964. How many castaways were stranded on the island?",
+   "options": [
+    "5",
+    "6",
+    "7",
+    "9"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "They had set out on 'a three-hour tour' aboard the S.S. Minnow.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gilligan%27s_Island",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-021",
+   "year": 1956,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "'The Price Is Right' began on NBC in 1956. Who was its original host?",
+   "options": [
+    "Bill Cullen",
+    "Bob Barker",
+    "Monty Hall",
+    "Tom Kennedy"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He hosted until 1965. Bob Barker hosted the new version that began in 1972.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Price_Is_Right_(1956_American_game_show)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-022",
+   "year": 1958,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "'Peter Gunn,' with its famous jazzy theme by Henry Mancini, began in 1958. What kind of show was it?",
+   "options": [
+    "Western",
+    "Detective series",
+    "Medical drama",
+    "Science fiction"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "The soundtrack album won the first Grammy Award for Album of the Year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Peter_Gunn",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-023",
+   "year": 1958,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which college teacher became a star on the quiz show 'Twenty-One,' before the 1959 quiz show scandal?",
+   "options": [
+    "Bill Cullen",
+    "Hal March",
+    "Charles Van Doren",
+    "Garry Moore"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "He was even on the cover of Time magazine. He later admitted the show had given him the answers.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Charles_Van_Doren",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-024",
+   "year": 1961,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "In a famous 1961 speech, the head of the FCC called TV programming a 'vast' what?",
+   "options": [
+    "Desert",
+    "Wasteland",
+    "Wonderland",
+    "Circus"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Newton Minow gave the speech to TV broadcasters, urging them to do better.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Television_and_the_Public_Interest",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-025",
+   "year": 1962,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which satellite carried the first live TV pictures across the Atlantic in 1962?",
+   "options": [
+    "Sputnik",
+    "Vanguard",
+    "Echo",
+    "Telstar"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Bell Labs built it, and AT&T and NASA operated it. It weighed only about 171 pounds.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Telstar_1",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-tv-026",
+   "year": 1955,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which gentle children's TV host with a walrus mustache began on CBS in 1955?",
+   "options": [
+    "Mister Rogers",
+    "Captain Kangaroo",
+    "Buffalo Bob",
+    "Pinky Lee"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Bob Keeshan played the Captain for nearly 30 years, with friends like Mr. Green Jeans and Bunny Rabbit.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Captain_Kangaroo",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-027",
+   "year": 1955,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "What were the young performers on 'The Mickey Mouse Club,' which began in 1955, called?",
+   "options": [
+    "Mouseketeers",
+    "Mickey Kids",
+    "Disney Darlings",
+    "Mouse Scouts"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "They wore mouse-ear hats. Annette Funicello became the most famous of them.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Mickey_Mouse_Club",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-028",
+   "year": 1955,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which TV bandleader, on ABC from 1955, was famous for 'champagne music' and floating bubbles?",
+   "options": [
+    "Guy Lombardo",
+    "Lawrence Welk",
+    "Mitch Miller",
+    "Xavier Cugat"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He counted off songs with 'a-one an' a-two.' His show stayed on the air for decades.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Lawrence_Welk_Show",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-029",
+   "year": 1962,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "What was the name of the family dog on 'The Jetsons,' which began in 1962?",
+   "options": [
+    "Dino",
+    "Astro",
+    "Scooby",
+    "Rex"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "The Jetsons were the space-age opposite of the Stone Age Flintstones, living in a city in the sky.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Jetsons",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-030",
+   "year": 1964,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which spooky TV family of 1964 had a tall butler named Lurch?",
+   "options": [
+    "The Cleavers",
+    "The Munsters",
+    "The Addams Family",
+    "The Stones"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Lurch greeted callers with a deep 'You rang?' The family came from Charles Addams's magazine cartoons.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Addams_Family_(1964_TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-031",
+   "year": 1960,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which TV show caught people on hidden cameras, then told them 'Smile, you're on…' its name?",
+   "options": [
+    "You Asked for It",
+    "Truth or Consequences",
+    "People Are Funny",
+    "Candid Camera"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Allen Funt created it. It started on radio as 'Candid Microphone.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Candid_Camera",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-032",
+   "year": 1959,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On the cartoon show that began in 1959, Bullwinkle was a moose. What was his pal Rocky?",
+   "options": [
+    "A chipmunk",
+    "A raccoon",
+    "A beaver",
+    "A flying squirrel"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Their enemies were the spies Boris Badenov and Natasha Fatale.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rocky_and_Bullwinkle",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-033",
+   "year": 1960,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which future movie director played little Opie Taylor on 'The Andy Griffith Show'?",
+   "options": [
+    "Penny Marshall",
+    "Steven Spielberg",
+    "Rob Reiner",
+    "Ron Howard"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He was six when the show began. He later starred as Richie Cunningham on 'Happy Days.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ron_Howard",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-034",
+   "year": 1960,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "On 'The Andy Griffith Show,' where did Deputy Barney Fife have to keep his one bullet?",
+   "options": [
+    "In his shirt pocket",
+    "In his hat",
+    "In his boot",
+    "In a drawer"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Don Knotts won five Emmy Awards for playing the jumpy deputy.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Barney_Fife",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-035",
+   "year": 1959,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "Which future movie star played cattle drover Rowdy Yates on TV's 'Rawhide,' starting in 1959?",
+   "options": [
+    "James Garner",
+    "Steve McQueen",
+    "Clint Eastwood",
+    "Burt Reynolds"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The show's theme song, with its cracking whips and 'Rollin', rollin', rollin',' was sung by Frankie Laine.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rawhide_(TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-036",
+   "year": 1958,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On '77 Sunset Strip,' which began in 1958, what was parking-lot attendant Kookie always doing?",
+   "options": [
+    "Combing his hair",
+    "Eating a sandwich",
+    "Reading comics",
+    "Whistling"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Edd Byrnes played him. The novelty song 'Kookie, Kookie (Lend Me Your Comb)' became a hit in 1959.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/77_Sunset_Strip",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-037",
+   "year": 1960,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which movie star played the widowed dad on 'My Three Sons,' which began in 1960?",
+   "options": [
+    "Robert Young",
+    "Fred MacMurray",
+    "Hugh Beaumont",
+    "Andy Griffith"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "It ran for 12 seasons, one of the longest runs for a family sitcom.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/My_Three_Sons",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-038",
+   "year": 1963,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On 'My Favorite Martian,' which began in 1963, what did reporter Tim tell people the Martian was?",
+   "options": [
+    "His landlord",
+    "His cousin",
+    "His boss",
+    "His Uncle Martin"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Ray Walston played the Martian, who could raise antennas from the back of his head.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/My_Favorite_Martian",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-039",
+   "year": 1956,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which NBC news team, starting in 1956, signed off with 'Good night, Chet' and 'Good night, David'?",
+   "options": [
+    "Cronkite and Sevareid",
+    "Huntley and Brinkley",
+    "Murrow and Friendly",
+    "Swayze and Edwards"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Chet Huntley reported from New York and David Brinkley from Washington.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Huntley%E2%80%93Brinkley_Report",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-040",
+   "year": 1957,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which TV Western, starting in 1957, followed settlers heading west, led first by Ward Bond?",
+   "options": [
+    "Wagon Train",
+    "Rawhide",
+    "The Big Valley",
+    "Laramie"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Each week a different guest star played a traveler with a story to tell.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Wagon_Train",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-041",
+   "year": 1962,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "'The Virginian,' which began in 1962, was the first TV Western to run how long each week?",
+   "options": [
+    "2 hours",
+    "15 minutes",
+    "45 minutes",
+    "90 minutes"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "James Drury played the ranch foreman, whose real name was never given.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Virginian_(TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-042",
+   "year": 1963,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On 'Petticoat Junction,' which began in 1963, what was the little train called?",
+   "options": [
+    "The Mayberry Express",
+    "The Hooterville Cannonball",
+    "The Shady Rest Special",
+    "The Pixley Flyer"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "The Shady Rest Hotel sat by the tracks, run by Kate Bradley and her three daughters.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Petticoat_Junction",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-043",
+   "year": 1955,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Phil Silvers starred in a 1955 Army comedy as which fast-talking, scheming sergeant?",
+   "options": [
+    "Sergeant Schultz",
+    "Sergeant Carter",
+    "Sergeant Bilko",
+    "Sergeant Friday"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The show was officially called 'You'll Never Get Rich,' but everyone just called it 'Sergeant Bilko.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Phil_Silvers_Show",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-044",
+   "year": 1958,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which actor played scuba diver Mike Nelson on 'Sea Hunt,' starting in 1958?",
+   "options": [
+    "Lloyd Bridges",
+    "Jeff Bridges",
+    "Richard Boone",
+    "Robert Stack"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "His sons Beau and Jeff Bridges sometimes appeared on the show as boys.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sea_Hunt",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-045",
+   "year": 1961,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On 'Car 54, Where Are You?', which began in 1961, who were the two bumbling police officers?",
+   "options": [
+    "Friday and Gannon",
+    "Malloy and Reed",
+    "Toody and Muldoon",
+    "Bilko and Doberman"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Joe E. Ross played Toody, who was always saying 'Ooh! Ooh!' Fred Gwynne, later Herman Munster, played Muldoon.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Car_54,_Where_Are_You%3F",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-046",
+   "year": 1960,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which slow-talking blue cartoon dog starred in the first animated TV show to win an Emmy, in 1960?",
+   "options": [
+    "Huckleberry Hound",
+    "Droopy",
+    "Deputy Dawg",
+    "Snooper"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "His show also introduced Yogi Bear, who soon got a show of his own.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Huckleberry_Hound_Show",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-047",
+   "year": 1956,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which daytime soap opera, set in the town of Oakdale, began in 1956?",
+   "options": [
+    "Days of Our Lives",
+    "General Hospital",
+    "Search for Tomorrow",
+    "As the World Turns"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It was one of the first soaps to run for a full half hour instead of 15 minutes. It lasted 54 years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/As_the_World_Turns",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-048",
+   "year": 1964,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Who played secret agent Napoleon Solo on 'The Man from U.N.C.L.E.,' which began in 1964?",
+   "options": [
+    "David McCallum",
+    "Robert Vaughn",
+    "Robert Culp",
+    "Patrick McGoohan"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "David McCallum played his partner, Illya Kuryakin, who became a teen heartthrob.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Man_from_U.N.C.L.E.",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-049",
+   "year": 1957,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which actor played gambler Bret Maverick on the TV Western 'Maverick,' starting in 1957?",
+   "options": [
+    "James Garner",
+    "James Arness",
+    "Clint Walker",
+    "Hugh O'Brian"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The show was known for its humor, and Bret usually avoided a fight if he could.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Maverick_(TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-tv-050",
+   "year": 1959,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On TV's 'Dennis the Menace,' which began in 1959, who was the grumpy neighbor Dennis always pestered?",
+   "options": [
+    "Mr. Wilson",
+    "Mr. Mooney",
+    "Mr. Kravitz",
+    "Mr. Wheeler"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Jay North played the tousle-haired Dennis, based on Hank Ketcham's comic strip.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dennis_the_Menace_(1959_TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-001",
+   "year": 1955,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "James Dean played a troubled teenager in which 1955 film?",
+   "options": [
+    "Giant",
+    "East of Eden",
+    "Rebel Without a Cause",
+    "The Wild One"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Natalie Wood and Sal Mineo co-starred, and Nicholas Ray directed.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rebel_Without_a_Cause",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-002",
+   "year": 1955,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In Disney's 1955 'Lady and the Tramp,' what do the two dogs share in the famous dinner scene?",
+   "options": [
+    "A bowl of soup",
+    "Spaghetti",
+    "A steak",
+    "A pizza"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "They slurp the same strand until their noses meet, while the waiters sing 'Bella Notte.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lady_and_the_Tramp",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-003",
+   "year": 1956,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1956 epic starred Charlton Heston as Moses parting the Red Sea?",
+   "options": [
+    "The Ten Commandments",
+    "Spartacus",
+    "The Robe",
+    "Ben-Hur"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Yul Brynner played the Pharaoh, Rameses. TV stations still show it every spring.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Ten_Commandments_(1956_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-004",
+   "year": 1959,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "The 1959 film 'Ben-Hur' is famous for a thrilling race with what?",
+   "options": [
+    "Race cars",
+    "Camels",
+    "Sailboats",
+    "Chariots"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It won a record eleven Academy Awards, a total later tied by 'Titanic' and 'The Return of the King.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ben-Hur_(1959_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-005",
+   "year": 1959,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1959 comedy has Tony Curtis and Jack Lemmon hiding out in an all-girl band?",
+   "options": [
+    "The Seven Year Itch",
+    "Bus Stop",
+    "Some Like It Hot",
+    "Pillow Talk"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Marilyn Monroe co-starred. The film ends with the famous line 'Well, nobody's perfect.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Some_Like_It_Hot",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-006",
+   "year": 1959,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Cary Grant is chased across Mount Rushmore in which 1959 Hitchcock thriller?",
+   "options": [
+    "Vertigo",
+    "North by Northwest",
+    "To Catch a Thief",
+    "Rear Window"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "In another famous scene, a crop-dusting plane chases him across an empty cornfield.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/North_by_Northwest",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-007",
+   "year": 1961,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Audrey Hepburn sang 'Moon River' in which 1961 film?",
+   "options": [
+    "Charade",
+    "Roman Holiday",
+    "Breakfast at Tiffany's",
+    "Sabrina"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "'Moon River' won the Academy Award for Best Original Song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany%27s_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-008",
+   "year": 1961,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1961 musical, a Romeo and Juliet story set in New York, won 10 Academy Awards?",
+   "options": [
+    "The Music Man",
+    "West Side Story",
+    "Flower Drum Song",
+    "Gypsy"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Rita Moreno won Best Supporting Actress for playing Anita.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/West_Side_Story_(1961_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-009",
+   "year": 1962,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Who played James Bond in the first Bond film, 'Dr. No,' in 1962?",
+   "options": [
+    "Sean Connery",
+    "Pierce Brosnan",
+    "Roger Moore",
+    "Michael Caine"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Ursula Andress co-starred. The series became one of the longest-running in movie history.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dr._No_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-010",
+   "year": 1963,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In Alfred Hitchcock's 1963 thriller, what kind of creatures swoop down on a seaside town?",
+   "options": [
+    "Bats",
+    "Butterflies",
+    "Bees",
+    "Birds"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Tippi Hedren starred. It was set in the real town of Bodega Bay, California.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Birds_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-011",
+   "year": 1963,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1963 epic starred Elizabeth Taylor as the queen of Egypt?",
+   "options": [
+    "The Fall of the Roman Empire",
+    "Cleopatra",
+    "Spartacus",
+    "Ben-Hur"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Richard Burton co-starred as Mark Antony. It was one of the most expensive films ever made.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cleopatra_(1963_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-012",
+   "year": 1964,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Who played the magical nanny in Disney's 1964 'Mary Poppins'?",
+   "options": [
+    "Debbie Reynolds",
+    "Julie Andrews",
+    "Audrey Hepburn",
+    "Doris Day"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was her first movie, and she won the Academy Award for Best Actress.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mary_Poppins_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-013",
+   "year": 1964,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1964 musical about a flower girl taught to speak 'properly' won Best Picture?",
+   "options": [
+    "My Fair Lady",
+    "The Sound of Music",
+    "Funny Girl",
+    "Mary Poppins"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Audrey Hepburn played Eliza Doolittle, and Rex Harrison played Professor Henry Higgins.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-014",
+   "year": 1961,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which Disney villain wanted a fur coat made from puppies in 1961?",
+   "options": [
+    "Lady Tremaine",
+    "Maleficent",
+    "The Evil Queen",
+    "Cruella de Vil"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "The film was '101 Dalmatians.' Her name is a play on 'cruel devil.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/One_Hundred_and_One_Dalmatians",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-015",
+   "year": 1956,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1956 John Ford Western starred John Wayne on a years-long search for his niece?",
+   "options": [
+    "The Searchers",
+    "The Man Who Shot Liberty Valance",
+    "Fort Apache",
+    "Rio Bravo"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It was filmed in Monument Valley and is often named one of the greatest Westerns ever made.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Searchers",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-016",
+   "year": 1957,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1957 drama, starring Henry Fonda, takes place almost entirely in a jury room?",
+   "options": [
+    "Witness for the Prosecution",
+    "Inherit the Wind",
+    "12 Angry Men",
+    "Anatomy of a Murder"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Sidney Lumet directed it. It was his first feature film.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/12_Angry_Men_(1957_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-017",
+   "year": 1957,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Audrey Hepburn and Fred Astaire starred together in which 1957 musical set in Paris fashion?",
+   "options": [
+    "Funny Face",
+    "Sabrina",
+    "An American in Paris",
+    "Gigi"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Astaire played a fashion photographer who turns a shy bookstore clerk into a model.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Funny_Face",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-018",
+   "year": 1958,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1958 musical starring Leslie Caron and Maurice Chevalier won 9 Academy Awards?",
+   "options": [
+    "An American in Paris",
+    "Funny Face",
+    "Can-Can",
+    "Gigi"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Maurice Chevalier sang 'Thank Heaven for Little Girls.' It won every award it was nominated for.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gigi_(1958_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-019",
+   "year": 1958,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1958 Hitchcock film starred James Stewart as a detective with a fear of heights?",
+   "options": [
+    "The Wrong Man",
+    "Rope",
+    "Rear Window",
+    "Vertigo"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Kim Novak co-starred. It was set in San Francisco.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Vertigo_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-020",
+   "year": 1960,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1960 epic starred Kirk Douglas as a gladiator who leads a slave revolt against Rome?",
+   "options": [
+    "Ben-Hur",
+    "Gladiator",
+    "Spartacus",
+    "The Robe"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Kirk Douglas insisted that blacklisted writer Dalton Trumbo get screen credit for the script.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Spartacus_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-021",
+   "year": 1962,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Gregory Peck won Best Actor playing lawyer Atticus Finch in which 1962 film?",
+   "options": [
+    "To Kill a Mockingbird",
+    "12 Angry Men",
+    "Inherit the Wind",
+    "Judgment at Nuremberg"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It was based on Harper Lee's Pulitzer Prize-winning novel.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-022",
+   "year": 1955,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which 1955 Best Picture about a lonely Bronx butcher began as a TV play?",
+   "options": [
+    "Love Me or Leave Me",
+    "Marty",
+    "Bad Day at Black Rock",
+    "Mister Roberts"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Ernest Borgnine won Best Actor for the title role.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Marty_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-023",
+   "year": 1956,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Grace Kelly's last film before becoming Princess of Monaco was which 1956 musical?",
+   "options": [
+    "Rear Window",
+    "To Catch a Thief",
+    "High Society",
+    "The Swan"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Bing Crosby and Frank Sinatra co-starred, and Louis Armstrong played himself.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/High_Society_(1956_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-024",
+   "year": 1961,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Paul Newman played pool shark 'Fast Eddie' Felson in which 1961 film?",
+   "options": [
+    "Cool Hand Luke",
+    "The Color of Money",
+    "The Hustler",
+    "The Sting"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Jackie Gleason played his rival, Minnesota Fats.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Hustler_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-025",
+   "year": 1963,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "'Tom Jones,' the 1963 Best Picture, was a rowdy comedy set in 18th-century England. Who directed it?",
+   "options": [
+    "David Lean",
+    "Karel Reisz",
+    "John Schlesinger",
+    "Tony Richardson"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Albert Finney played the title role, a charming young rascal.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tom_Jones_(1963_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-mov-026",
+   "year": 1959,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In Disney's 1959 'Sleeping Beauty,' what does Princess Aurora prick her finger on?",
+   "options": [
+    "A golden pin",
+    "A rose thorn",
+    "A sewing needle",
+    "A spinning wheel"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "The wicked fairy Maleficent cast the spell. Her name comes from a word meaning 'harmful.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sleeping_Beauty_(1959_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-027",
+   "year": 1955,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Marilyn Monroe's white dress blew up over a subway grate in which 1955 film?",
+   "options": [
+    "Bus Stop",
+    "The Seven Year Itch",
+    "Niagara",
+    "How to Marry a Millionaire"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Billy Wilder directed. The scene became one of the most famous images of the 20th century.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Seven_Year_Itch",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-028",
+   "year": 1961,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In Disney's 1961 'The Parent Trap,' Hayley Mills plays what?",
+   "options": [
+    "Twin sisters",
+    "A mermaid",
+    "A ghost",
+    "A princess"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "The twins meet at summer camp and swap places to bring their parents back together.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Parent_Trap_(1961_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-029",
+   "year": 1962,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 1962's 'The Music Man,' how many trombones led the big parade?",
+   "options": [
+    "50",
+    "76",
+    "100",
+    "110"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Robert Preston played smooth-talking 'Professor' Harold Hill, a role he first played on Broadway.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Music_Man_(1962_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-030",
+   "year": 1963,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In Disney's 1963 'The Sword in the Stone,' who is young Arthur's wizard teacher?",
+   "options": [
+    "Prospero",
+    "Gandalf",
+    "Merlin",
+    "Zorro"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Merlin's grumpy pet owl is named Archimedes.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Sword_in_the_Stone_(1963_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-031",
+   "year": 1960,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In Disney's 1960 'Swiss Family Robinson,' where does the shipwrecked family build their home?",
+   "options": [
+    "In a cave",
+    "In a giant tree",
+    "On the beach",
+    "On the ship"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was filmed on the Caribbean island of Tobago.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Swiss_Family_Robinson_(1960_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-032",
+   "year": 1956,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "In the 1956 Best Picture 'Around the World in 80 Days,' how do Phileas Fogg and Passepartout float over Europe?",
+   "options": [
+    "In a hot-air balloon",
+    "On a zeppelin",
+    "On a glider",
+    "On a magic carpet"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "David Niven played Fogg. The film was packed with dozens of cameo appearances by famous stars.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Around_the_World_in_80_Days_(1956_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-033",
+   "year": 1959,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "In 1959's 'Pillow Talk,' Doris Day and Rock Hudson clash because they share what?",
+   "options": [
+    "A telephone party line",
+    "An apartment",
+    "A taxi",
+    "An office"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It was the first of three hit comedies they made together.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pillow_Talk_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-034",
+   "year": 1957,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "In 1957's 'An Affair to Remember,' Cary Grant and Deborah Kerr agree to meet on top of which building?",
+   "options": [
+    "The Eiffel Tower",
+    "The Chrysler Building",
+    "The Empire State Building",
+    "The Space Needle"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The film was a remake of 'Love Affair' from 1939, by the same director, Leo McCarey.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/An_Affair_to_Remember",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-035",
+   "year": 1955,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which 1955 movie musical opens with a cowboy singing 'Oh, What a Beautiful Mornin''?",
+   "options": [
+    "Annie Get Your Gun",
+    "Carousel",
+    "Oklahoma!",
+    "Seven Brides for Seven Brothers"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Gordon MacRae played cowboy Curly, and Shirley Jones made her film debut as Laurey.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Oklahoma!_(1955_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-036",
+   "year": 1956,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "James Dean's last film, 1956's 'Giant,' is set on a huge ranch in which state?",
+   "options": [
+    "Oklahoma",
+    "Montana",
+    "Texas",
+    "Wyoming"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Elizabeth Taylor and Rock Hudson starred, and George Stevens won the Academy Award for Best Director.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Giant_(1956_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-037",
+   "year": 1956,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 1956's 'Invasion of the Body Snatchers,' the alien copies of people grow inside what?",
+   "options": [
+    "Rocks",
+    "Glass jars",
+    "Snowballs",
+    "Giant seed pods"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It is set in the fictional California town of Santa Mira.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Invasion_of_the_Body_Snatchers",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-038",
+   "year": 1958,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which future star got his first leading role in the 1958 sci-fi film 'The Blob'?",
+   "options": [
+    "Clint Eastwood",
+    "James Dean",
+    "Paul Newman",
+    "Steve McQueen"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Its catchy theme song was co-written by a young Burt Bacharach.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Blob",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-039",
+   "year": 1959,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Sandra Dee played a teenage girl who learns to surf in which 1959 film?",
+   "options": [
+    "Tammy",
+    "Gidget",
+    "Beach Party",
+    "Where the Boys Are"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Her nickname is a mix of 'girl' and 'midget.' It helped start the surf craze.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gidget_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-040",
+   "year": 1962,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which desert epic starring Peter O'Toole won Best Picture for 1962?",
+   "options": [
+    "Mutiny on the Bounty",
+    "The Longest Day",
+    "Lawrence of Arabia",
+    "El Cid"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It was Peter O'Toole's first starring role, and much of it was filmed in the deserts of Jordan.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-041",
+   "year": 1963,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Cary Grant and Audrey Hepburn starred in which 1963 romantic mystery set in Paris?",
+   "options": [
+    "Sabrina",
+    "Charade",
+    "How to Steal a Million",
+    "Funny Face"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was the only movie Cary Grant and Audrey Hepburn made together.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Charade_(1963_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-042",
+   "year": 1963,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 1963's 'It's a Mad, Mad, Mad, Mad World,' the hidden money is buried under a big what?",
+   "options": [
+    "W",
+    "X",
+    "Palm tree",
+    "Statue"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Spencer Tracy starred with a who's who of comedians, including Milton Berle and Sid Caesar.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/It%27s_a_Mad,_Mad,_Mad,_Mad_World",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-043",
+   "year": 1962,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which two screen legends played feuding sisters in 1962's 'What Ever Happened to Baby Jane?'",
+   "options": [
+    "Kim Novak and Doris Day",
+    "Lana Turner and Ava Gardner",
+    "De Havilland and Fontaine",
+    "Bette Davis and Joan Crawford"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "The two stars were famous rivals in real life too.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/What_Ever_Happened_to_Baby_Jane%3F_(1962_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-044",
+   "year": 1963,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 1963's 'Bye Bye Birdie,' rock star Conrad Birdie is leaving to join what?",
+   "options": [
+    "A monastery",
+    "A circus",
+    "The Army",
+    "The Navy"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "The story poked fun at Elvis Presley being drafted in 1957. Ann-Margret starred.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bye_Bye_Birdie_(1963_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-045",
+   "year": 1958,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which actress played the free-spirited aunt in 1958's 'Auntie Mame'?",
+   "options": [
+    "Rosalind Russell",
+    "Lucille Ball",
+    "Katharine Hepburn",
+    "Bette Davis"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "She had starred as Mame on Broadway first, from 1956 to 1958.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Auntie_Mame",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-046",
+   "year": 1960,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "The 1960 film 'The Time Machine' was based on a novel by which author?",
+   "options": [
+    "Isaac Asimov",
+    "Jules Verne",
+    "Ray Bradbury",
+    "H.G. Wells"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Rod Taylor played the inventor, who travels to the year 802,701.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Time_Machine_(1960_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-047",
+   "year": 1960,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 'Pollyanna,' filmed by Disney in 1960, what game does the cheerful girl teach everyone to play?",
+   "options": [
+    "The Thank-You Game",
+    "The Glad Game",
+    "The Smile Game",
+    "The Lucky Game"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "The 1913 novel was so popular that 'Pollyanna' became a word for someone who is always optimistic.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pollyanna",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-048",
+   "year": 1963,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Who became the first Black man to win the Best Actor Oscar, for 1963's 'Lilies of the Field'?",
+   "options": [
+    "James Earl Jones",
+    "Harry Belafonte",
+    "Sammy Davis Jr.",
+    "Sidney Poitier"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He played a handyman who helps a group of nuns build a chapel in the Arizona desert.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lilies_of_the_Field_(1963_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-049",
+   "year": 1958,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Elizabeth Taylor and Paul Newman starred in which 1958 film of a Tennessee Williams play?",
+   "options": [
+    "Cat on a Hot Tin Roof",
+    "Suddenly, Last Summer",
+    "Sweet Bird of Youth",
+    "The Glass Menagerie"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Burl Ives played the rich patriarch, Big Daddy.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cat_on_a_Hot_Tin_Roof_(1958_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-mov-050",
+   "year": 1960,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "The 1960 courtroom drama 'Inherit the Wind' was based on the famous 'monkey trial' about teaching what?",
+   "options": [
+    "Evolution",
+    "Astronomy",
+    "Foreign languages",
+    "Music"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Spencer Tracy played the defense lawyer. The real trial took place in Dayton, Tennessee, in 1925.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Inherit_the_Wind_(1960_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-001",
+   "year": 1955,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "The Brooklyn Dodgers won their only World Series in 1955. Which team did they finally beat?",
+   "options": [
+    "Cleveland Indians",
+    "New York Giants",
+    "New York Yankees",
+    "Boston Red Sox"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Johnny Podres shut out the Yankees in Game 7.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1955_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-002",
+   "year": 1957,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Running back Jim Brown joined which NFL team as a rookie in 1957?",
+   "options": [
+    "Chicago Bears",
+    "Green Bay Packers",
+    "New York Giants",
+    "Cleveland Browns"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He led the league in rushing in eight of his nine seasons, then retired to become a movie actor.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jim_Brown",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-003",
+   "year": 1959,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which coach took over the struggling Green Bay Packers in 1959 and turned them into champions?",
+   "options": [
+    "Tom Landry",
+    "Vince Lombardi",
+    "Don Shula",
+    "George Halas"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The Super Bowl trophy is named the Vince Lombardi Trophy in his honor.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Vince_Lombardi",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-004",
+   "year": 1960,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Cassius Clay, later known as Muhammad Ali, won Olympic gold in 1960. In which sport?",
+   "options": [
+    "Track",
+    "Swimming",
+    "Wrestling",
+    "Boxing"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He was just 18 and won the light heavyweight division at the Rome Olympics.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-005",
+   "year": 1961,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "How many home runs did Roger Maris hit in 1961, breaking Babe Ruth's record?",
+   "options": [
+    "59",
+    "60",
+    "61",
+    "62"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "He hit number 61 on the last day of the season. His teammate Mickey Mantle hit 54.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Roger_Maris",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-006",
+   "year": 1962,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "How many points did Wilt Chamberlain score in a single NBA game in 1962?",
+   "options": [
+    "50",
+    "73",
+    "100",
+    "120"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "He did it against the New York Knicks in Hershey, Pennsylvania. No one has matched it since.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Wilt_Chamberlain%27s_100-point_game",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-007",
+   "year": 1964,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Young boxer Cassius Clay said he would 'float like a butterfly, sting like a…' what?",
+   "options": [
+    "Wasp",
+    "Bee",
+    "Scorpion",
+    "Hornet"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He loved to make up rhyming predictions before his fights, and called himself 'The Greatest.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-008",
+   "year": 1956,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Which Yankees pitcher threw a perfect game in the 1956 World Series?",
+   "options": [
+    "Whitey Ford",
+    "Bob Turley",
+    "Tommy Byrne",
+    "Don Larsen"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It is still the only perfect game ever pitched in a World Series. Yogi Berra leaped into his arms at the end.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Don_Larsen%27s_perfect_game",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-009",
+   "year": 1958,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Which Colts quarterback led Baltimore to victory in 1958's 'Greatest Game Ever Played'?",
+   "options": [
+    "Bart Starr",
+    "Bobby Layne",
+    "Johnny Unitas",
+    "Y. A. Tittle"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It was the first NFL title game decided in sudden-death overtime, and millions watched on TV.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1958_NFL_Championship_Game",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-010",
+   "year": 1960,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Bill Mazeroski's home run won the 1960 World Series for Pittsburgh. Which team did they beat?",
+   "options": [
+    "New York Giants",
+    "Brooklyn Dodgers",
+    "New York Yankees",
+    "Milwaukee Braves"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It was the first time a World Series ended on a home run.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1960_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-011",
+   "year": 1962,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Which team was Wilt Chamberlain playing for when he scored 100 points in 1962?",
+   "options": [
+    "Los Angeles Lakers",
+    "Boston Celtics",
+    "Syracuse Nationals",
+    "Philadelphia Warriors"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "That same season he averaged over 50 points a game, still an NBA record.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Wilt_Chamberlain%27s_100-point_game",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-012",
+   "year": 1963,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Which Dodgers pitcher dominated the Yankees as Los Angeles swept the 1963 World Series?",
+   "options": [
+    "Sandy Koufax",
+    "Bob Gibson",
+    "Don Drysdale",
+    "Juan Marichal"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He struck out 15 Yankees in Game 1, a World Series record at the time.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1963_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-013",
+   "year": 1964,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Cassius Clay became heavyweight champion in February 1964 by beating which fighter?",
+   "options": [
+    "Sonny Liston",
+    "Floyd Patterson",
+    "Joe Frazier",
+    "Ingemar Johansson"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He was a big underdog. Soon after, he announced his new name, Muhammad Ali.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Muhammad_Ali_vs._Sonny_Liston",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-014",
+   "year": 1956,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which Australian swimmer won the women's 100 meter freestyle at three Olympics in a row, starting in 1956?",
+   "options": [
+    "Lorraine Crapp",
+    "Dawn Fraser",
+    "Shane Gould",
+    "Ilsa Konrads"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "She won in Melbourne in 1956, Rome in 1960 and Tokyo in 1964.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dawn_Fraser",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-015",
+   "year": 1956,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Floyd Patterson became the youngest heavyweight champion in 1956. How old was he?",
+   "options": [
+    "17",
+    "19",
+    "21",
+    "25"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "He was also the first heavyweight champion to win the title back after losing it, in 1960.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Floyd_Patterson",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-016",
+   "year": 1957,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "The Milwaukee Braves beat the Yankees in the 1957 World Series. Which pitcher won three games?",
+   "options": [
+    "Bob Buhl",
+    "Gene Conley",
+    "Warren Spahn",
+    "Lew Burdette"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He threw three complete-game wins, two of them shutouts.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1957_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-017",
+   "year": 1958,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In the 1958 World Series, the Yankees got revenge on which team that had beaten them the year before?",
+   "options": [
+    "Milwaukee Braves",
+    "Boston Red Sox",
+    "Chicago White Sox",
+    "Brooklyn Dodgers"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "New York came back from three games to one down to win.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1958_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-018",
+   "year": 1959,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In 1959, the newly moved Los Angeles Dodgers won the World Series. Which team did they beat?",
+   "options": [
+    "Chicago White Sox",
+    "Milwaukee Braves",
+    "Cleveland Indians",
+    "New York Yankees"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Game crowds at the giant Los Angeles Memorial Coliseum topped 92,000.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1959_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-019",
+   "year": 1960,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "The new American Football League played its first season in 1960. Which team won its first title?",
+   "options": [
+    "Oakland Raiders",
+    "Houston Oilers",
+    "Kansas City Chiefs",
+    "Dallas Texans"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "The AFL later merged with the NFL, and the rivalry gave birth to the Super Bowl.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1960_American_Football_League_Championship_Game",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-020",
+   "year": 1960,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which American won the decathlon at the 1960 Rome Olympics?",
+   "options": [
+    "Al Oerter",
+    "Jim Thorpe",
+    "Rafer Johnson",
+    "Bob Mathias"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "In 1984 he lit the Olympic flame at the opening of the Los Angeles Games.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rafer_Johnson",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-021",
+   "year": 1961,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "The Yankees won the 1961 World Series. Which team did they defeat?",
+   "options": [
+    "Los Angeles Dodgers",
+    "Cincinnati Reds",
+    "San Francisco Giants",
+    "Minnesota Twins"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Whitey Ford ran his streak of scoreless World Series innings to a record 32.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1961_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-022",
+   "year": 1964,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which American swimmer won four gold medals at the 1964 Tokyo Olympics?",
+   "options": [
+    "Don Schollander",
+    "Mark Spitz",
+    "Murray Rose",
+    "Johnny Weissmuller"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He was 18 and won both freestyle sprints plus two relays.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Don_Schollander",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-023",
+   "year": 1964,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which fiery St. Louis pitcher beat the Yankees in Game 7 of the 1964 World Series?",
+   "options": [
+    "Roger Craig",
+    "Bob Gibson",
+    "Ray Sadecki",
+    "Curt Simmons"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "He was named Most Valuable Player of the Series.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1964_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-spt-024",
+   "year": 1958,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "What were golfer Arnold Palmer's huge, loyal crowds of fans called?",
+   "options": [
+    "Arnie's Army",
+    "Palmer's Pals",
+    "The Golf Club",
+    "Arnie's Navy"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He won the first of his four Masters titles in 1958.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Arnold_Palmer",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-025",
+   "year": 1958,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which 17-year-old Brazilian star helped his country win the 1958 World Cup?",
+   "options": [
+    "Eusébio",
+    "Garrincha",
+    "Pelé",
+    "Zico"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He scored twice in the final against Sweden.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_final",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-026",
+   "year": 1956,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Yankee center fielder won baseball's Triple Crown in 1956?",
+   "options": [
+    "Willie Mays",
+    "Joe DiMaggio",
+    "Mickey Mantle",
+    "Duke Snider"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He led the league in batting average, home runs and runs batted in, with 52 home runs.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mickey_Mantle",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-027",
+   "year": 1958,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1958, the New York Giants baseball team moved to which city?",
+   "options": [
+    "Seattle",
+    "San Francisco",
+    "San Diego",
+    "Denver"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Their old rivals, the Brooklyn Dodgers, moved to Los Angeles the very same year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/History_of_the_San_Francisco_Giants",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-028",
+   "year": 1958,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1958, the Brooklyn Dodgers began playing in which city?",
+   "options": [
+    "Houston",
+    "San Diego",
+    "Los Angeles",
+    "Kansas City"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Until Dodger Stadium was ready, they played in the huge Los Angeles Memorial Coliseum.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Los_Angeles_Dodgers",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-029",
+   "year": 1957,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Boston Celtics center won 11 championships, the first in 1957?",
+   "options": [
+    "George Mikan",
+    "Wilt Chamberlain",
+    "Bob Cousy",
+    "Bill Russell"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "The NBA Finals Most Valuable Player award is now named after him.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bill_Russell",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-030",
+   "year": 1960,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which sprinter, who wore a leg brace as a child after polio, won three gold medals at the 1960 Olympics?",
+   "options": [
+    "Betty Cuthbert",
+    "Babe Didrikson",
+    "Althea Gibson",
+    "Wilma Rudolph"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "She was called 'the fastest woman in the world.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Wilma_Rudolph",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-031",
+   "year": 1962,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which golfer, who won his first major in 1962, was nicknamed 'the Golden Bear'?",
+   "options": [
+    "Arnold Palmer",
+    "Jack Nicklaus",
+    "Gary Player",
+    "Lee Trevino"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He beat Arnold Palmer in a playoff to win the 1962 U.S. Open.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jack_Nicklaus",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-032",
+   "year": 1961,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which TV sports show, starting in 1961, promised 'the thrill of victory… and the agony of defeat'?",
+   "options": [
+    "Wide World of Sports",
+    "Monday Night Football",
+    "Sports Center",
+    "The Game of the Week"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Jim McKay hosted it for decades on ABC.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Wide_World_of_Sports_(American_TV_program)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-033",
+   "year": 1961,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1961, Yankee sluggers Mickey Mantle and Roger Maris were nicknamed what?",
+   "options": [
+    "The M&M Boys",
+    "The Bronx Bombers",
+    "The Twin Towers",
+    "The Big Two"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "They chased Babe Ruth's home run record together all summer.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Roger_Maris",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-034",
+   "year": 1957,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1957, which tennis player became the first Black champion at Wimbledon?",
+   "options": [
+    "Arthur Ashe",
+    "Althea Gibson",
+    "Venus Williams",
+    "Zina Garrison"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "She won Wimbledon and the U.S. title in both 1957 and 1958, and later played pro golf too.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Althea_Gibson",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-035",
+   "year": 1964,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Soon after winning the heavyweight title in 1964, Cassius Clay changed his name to what?",
+   "options": [
+    "Kareem",
+    "Joe Louis",
+    "Sugar Ray",
+    "Muhammad Ali"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He became one of the most famous people in the world, in sports and beyond.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-036",
+   "year": 1961,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Chicago Black Hawks star of the early 1960s was nicknamed 'the Golden Jet'?",
+   "options": [
+    "Bobby Hull",
+    "Gordie Howe",
+    "Stan Mikita",
+    "Bobby Orr"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He was famous for his blazing slap shot, and helped Chicago win the Stanley Cup in 1961.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bobby_Hull",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-037",
+   "year": 1962,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "The brand-new New York Mets of 1962 set a record for what?",
+   "options": [
+    "Most home runs",
+    "Most losses",
+    "Most wins",
+    "Most strikeouts"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "They lost 120 games. Their manager was 72-year-old Casey Stengel.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1962_New_York_Mets_season",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-038",
+   "year": 1960,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "What did Ted Williams do in the very last at-bat of his career, in 1960?",
+   "options": [
+    "Hit a home run",
+    "Struck out",
+    "Bunted for a hit",
+    "Walked"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He would not tip his cap to the cheering Fenway Park crowd. Writer John Updike wrote a famous story about the day.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ted_Williams",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-039",
+   "year": 1955,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Which jockey, nicknamed 'The Shoe,' stood under five feet tall and won thousands of races?",
+   "options": [
+    "Johnny Longden",
+    "Eddie Arcaro",
+    "Bill Hartack",
+    "Willie Shoemaker"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He won the Kentucky Derby four times, the first in 1955 aboard Swaps.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bill_Shoemaker",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-040",
+   "year": 1963,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "The Pro Football Hall of Fame opened in 1963 in which Ohio city?",
+   "options": [
+    "Columbus",
+    "Cleveland",
+    "Canton",
+    "Akron"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "The NFL was founded in Canton in 1920.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pro_Football_Hall_of_Fame",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-041",
+   "year": 1960,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Abebe Bikila of Ethiopia won the 1960 Olympic marathon in Rome. What was unusual about how he ran?",
+   "options": [
+    "He ran barefoot",
+    "He ran backward",
+    "He wore boots",
+    "He ran at night"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He became the first Black African to win an Olympic gold medal. He won the marathon again in 1964.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Abebe_Bikila",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-042",
+   "year": 1962,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which player, nicknamed 'the Big O,' averaged a triple-double for a whole NBA season in 1961–62?",
+   "options": [
+    "Bill Russell",
+    "Jerry West",
+    "Elgin Baylor",
+    "Oscar Robertson"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "That means he averaged double figures in points, rebounds and assists. No one did it again for 55 years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Oscar_Robertson",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-043",
+   "year": 1964,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Northern Dancer won the 1964 Kentucky Derby. Which country was he from?",
+   "options": [
+    "Canada",
+    "England",
+    "Ireland",
+    "Australia"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He became one of the most important sires in racing history.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Northern_Dancer",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-044",
+   "year": 1955,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which little-known golfer stunned Ben Hogan to win the 1955 U.S. Open?",
+   "options": [
+    "Tommy Bolt",
+    "Sam Snead",
+    "Gene Littler",
+    "Jack Fleck"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He beat Hogan in an 18-hole playoff, using clubs made by Hogan's own company.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jack_Fleck",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-045",
+   "year": 1963,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which San Francisco Giants pitcher was famous for his sky-high leg kick?",
+   "options": [
+    "Sandy Koufax",
+    "Gaylord Perry",
+    "Juan Marichal",
+    "Bob Gibson"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "He was nicknamed 'the Dominican Dandy.' He threw a no-hitter in 1963.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Juan_Marichal",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-046",
+   "year": 1961,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which Green Bay Packers star was nicknamed 'the Golden Boy'?",
+   "options": [
+    "Max McGee",
+    "Bart Starr",
+    "Jim Taylor",
+    "Paul Hornung"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He ran, caught passes and kicked, and set an NFL scoring record in 1960.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Paul_Hornung",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-047",
+   "year": 1962,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Maury Wills of the Dodgers set a record in 1962 by stealing how many bases?",
+   "options": [
+    "54",
+    "78",
+    "104",
+    "130"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "He broke the modern record set by Ty Cobb back in 1915, and was named National League MVP.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Maury_Wills",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-048",
+   "year": 1959,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Who won the very first Daytona 500, in 1959, after a photo finish?",
+   "options": [
+    "Richard Petty",
+    "Lee Petty",
+    "Junior Johnson",
+    "Fireball Roberts"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "It took NASCAR three days of studying photos to declare him the winner. His son Richard later won the race seven times.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1959_Daytona_500",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-049",
+   "year": 1961,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In 1961, which South African became the first golfer from outside the US to win the Masters?",
+   "options": [
+    "Bobby Locke",
+    "Gary Player",
+    "Ernie Els",
+    "Peter Thomson"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He was nicknamed 'the Black Knight' because he often dressed all in black.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gary_Player",
+   "origin": "new"
+  },
+  {
+   "id": "us55-spt-050",
+   "year": 1962,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which Green Bay quarterback led the Packers to five NFL titles in the 1960s?",
+   "options": [
+    "Bart Starr",
+    "Johnny Unitas",
+    "Y. A. Tittle",
+    "Sonny Jurgensen"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He was also named MVP of the first two Super Bowls.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bart_Starr",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-001",
+   "year": 1955,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1955, Rosa Parks refused to give up her seat on a city bus. In which city did this happen?",
+   "options": [
+    "Montgomery",
+    "Atlanta",
+    "Birmingham",
+    "Memphis"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Her quiet stand led to a bus boycott that lasted 381 days.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Montgomery_bus_boycott",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-002",
+   "year": 1955,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which young minister rose to fame leading the Montgomery bus boycott, starting in 1955?",
+   "options": [
+    "Malcolm X",
+    "Martin Luther King Jr.",
+    "Thurgood Marshall",
+    "John Lewis"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He was just 26 years old and pastor of a church in Montgomery, Alabama.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Montgomery_bus_boycott",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-003",
+   "year": 1957,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1957, the Soviet Union launched the world's first satellite. What was it called?",
+   "options": [
+    "Sputnik",
+    "Luna",
+    "Explorer",
+    "Vostok"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It was a shiny metal ball only 58 centimeters (about 23 inches) across, and its radio beeps could be picked up on Earth.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sputnik_1",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-004",
+   "year": 1959,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "After Alaska and Hawaii became states in 1959, how many stars did the American flag have?",
+   "options": [
+    "48",
+    "49",
+    "50",
+    "51"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "The 50-star flag became official on July 4, 1960, the first Independence Day after Hawaii joined.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Flag_of_the_United_States",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-005",
+   "year": 1961,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which country sent the first human into space, in 1961?",
+   "options": [
+    "Soviet Union",
+    "France",
+    "China",
+    "United States"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Yuri Gagarin made one orbit of the Earth and became a hero around the world.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-006",
+   "year": 1961,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1961, a wall was built splitting a famous German city in two. Which city?",
+   "options": [
+    "Hamburg",
+    "Berlin",
+    "Frankfurt",
+    "Munich"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It stood for 28 years, until joyful crowds began tearing it down in November 1989.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Berlin_Wall",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-007",
+   "year": 1963,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which famous speech did Martin Luther King Jr. give at the March on Washington in 1963?",
+   "options": [
+    "The Long March",
+    "Freedom Now",
+    "I Have a Dream",
+    "We Shall Overcome"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "He spoke from the steps of the Lincoln Memorial.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/I_Have_a_Dream",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-008",
+   "year": 1964,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which president signed the Civil Rights Act into law in 1964?",
+   "options": [
+    "John F. Kennedy",
+    "Richard Nixon",
+    "Lyndon B. Johnson",
+    "Dwight Eisenhower"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He signed it on July 2, 1964, with civil rights leaders gathered around him.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-009",
+   "year": 1955,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Disneyland opened in July 1955 in which California city?",
+   "options": [
+    "San Diego",
+    "Burbank",
+    "Pasadena",
+    "Anaheim"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Opening day had so many problems, from melting asphalt to broken rides, that staff called it 'Black Sunday.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Disneyland",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-010",
+   "year": 1956,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "President Eisenhower signed a 1956 law that created what?",
+   "options": [
+    "Amtrak",
+    "The National Parks",
+    "The Interstate Highway System",
+    "Route 66"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He had been impressed by Germany's autobahns. The system is officially named after him.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Interstate_Highway_System",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-011",
+   "year": 1957,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "In 1957, nine Black students bravely integrated Central High School in Little Rock. Which state is that in?",
+   "options": [
+    "Mississippi",
+    "Alabama",
+    "Arkansas",
+    "Georgia"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "They became known as the Little Rock Nine. President Eisenhower sent soldiers to escort them to class.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Little_Rock_Nine",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-012",
+   "year": 1958,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "NASA was created in 1958 mainly in response to which Soviet success?",
+   "options": [
+    "The launch of Sputnik",
+    "A hydrogen bomb test",
+    "The first man in space",
+    "A moon landing"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "NASA officially opened for business on October 1, 1958.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/NASA",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-013",
+   "year": 1959,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Cuba, where Fidel Castro took power in 1959, lies about how far from Key West, Florida?",
+   "options": [
+    "90 miles",
+    "250 miles",
+    "500 miles",
+    "1,000 miles"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "On a clear night, Cuban radio stations could be heard in Florida.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cuba",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-014",
+   "year": 1959,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Vice President Nixon and Soviet leader Khrushchev had a famous 1959 argument in a model of which room?",
+   "options": [
+    "A classroom",
+    "A living room",
+    "A garage",
+    "A kitchen"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It happened at an American exhibition in Moscow, and became known as the 'Kitchen Debate.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kitchen_Debate",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-015",
+   "year": 1960,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "How old was John F. Kennedy when he was elected president in 1960?",
+   "options": [
+    "38",
+    "43",
+    "47",
+    "52"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He was the youngest person ever elected president, and the first Catholic.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1960_United_States_presidential_election",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-016",
+   "year": 1962,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "In 1962, John Glenn became the first American to orbit the Earth. How many times did he go around?",
+   "options": [
+    "Once",
+    "Ten times",
+    "Three times",
+    "Twenty times"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "His capsule was named Friendship 7. He returned to space at age 77 in 1998.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mercury-Atlas_6",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-017",
+   "year": 1962,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Rachel Carson's 1962 book 'Silent Spring' warned about the dangers of what?",
+   "options": [
+    "Smog",
+    "Pesticides",
+    "Noise",
+    "Litter"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It helped lead to a US ban on the pesticide DDT and to the modern environmental movement.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Silent_Spring",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-018",
+   "year": 1963,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "About how many people attended the 1963 March on Washington?",
+   "options": [
+    "1 million",
+    "50,000",
+    "100,000",
+    "250,000"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "It was one of the largest gatherings for civil rights in American history.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/March_on_Washington_for_Jobs_and_Freedom",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-019",
+   "year": 1957,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "The 1957 Treaty of Rome created the European Common Market. How many countries signed it?",
+   "options": [
+    "4",
+    "6",
+    "10",
+    "12"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "They were Belgium, France, West Germany, Italy, Luxembourg and the Netherlands.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Treaty_of_Rome",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-020",
+   "year": 1958,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "America's first satellite, Explorer 1, made a big discovery in 1958. What did it find?",
+   "options": [
+    "Water on the Moon",
+    "Radiation belts around Earth",
+    "A new planet",
+    "Life in space"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "They were named the Van Allen belts, after the scientist whose instruments found them.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Explorer_1",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-021",
+   "year": 1959,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "The Antarctic Treaty, signed in 1959, set Antarctica aside for what?",
+   "options": [
+    "Military bases",
+    "Mining",
+    "Peaceful science",
+    "Fishing"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It was first signed by 12 countries. Military activity there is banned.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Antarctic_Treaty_System",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-022",
+   "year": 1960,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Kennedy beat Nixon in 1960 by about what share of the popular vote?",
+   "options": [
+    "Less than 1 percent",
+    "About 5 percent",
+    "About 10 percent",
+    "About 15 percent"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He won by about 112,000 votes out of almost 69 million cast.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1960_United_States_presidential_election",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-023",
+   "year": 1960,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Seventeen African nations gained independence in 1960. What is that year often called?",
+   "options": [
+    "The Year of Liberation",
+    "The Year of Africa",
+    "The Year of Freedom",
+    "The Year of Nations"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Most of the new nations had been French colonies.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Year_of_Africa",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-024",
+   "year": 1961,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Yuri Gagarin became the first person in space in 1961. About how long did his flight last?",
+   "options": [
+    "2 days",
+    "3 hours",
+    "15 minutes",
+    "108 minutes"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "As he blasted off he called out 'Poyekhali!', Russian for 'Let's go!'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Vostok_1",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-hdl-025",
+   "year": 1959,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which became the 49th state in January 1959?",
+   "options": [
+    "Arizona",
+    "Hawaii",
+    "Puerto Rico",
+    "Alaska"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It is by far the largest state. The US had bought it from Russia in 1867.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Alaska",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-026",
+   "year": 1961,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which volunteer program, sending Americans to help in other countries, did President Kennedy start in 1961?",
+   "options": [
+    "AmeriCorps",
+    "The Job Corps",
+    "The Peace Corps",
+    "The Red Cross"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Volunteers taught school, built wells and helped on farms around the world.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Peace_Corps",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-027",
+   "year": 1962,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which First Lady gave the country a televised tour of the newly restored White House in 1962?",
+   "options": [
+    "Mamie Eisenhower",
+    "Jacqueline Kennedy",
+    "Lady Bird Johnson",
+    "Bess Truman"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "More than 80 million viewers watched her show off the $2 million restoration with CBS reporter Charles Collingwood.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/A_Tour_of_the_White_House_with_Mrs._John_F._Kennedy",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-028",
+   "year": 1963,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "How many digits were in the new ZIP codes the Post Office introduced in 1963?",
+   "options": [
+    "3",
+    "5",
+    "7",
+    "9"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "A cartoon mailman named Mr. ZIP helped teach people to use them.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/ZIP_Code",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-029",
+   "year": 1962,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which tower was built for the 1962 World's Fair in Seattle?",
+   "options": [
+    "The Rocket Tower",
+    "The Sky Spire",
+    "The Space Needle",
+    "The Unisphere"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The fair was called the Century 21 Exposition, and it looked ahead to life in the future.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Space_Needle",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-030",
+   "year": 1958,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "What happened to Elvis Presley in March 1958 that made headlines everywhere?",
+   "options": [
+    "He was drafted into the Army",
+    "He got married",
+    "He bought Graceland",
+    "He retired"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "News cameras filmed his famous Army haircut. He served in West Germany.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Elvis_Presley",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-031",
+   "year": 1958,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which Ford car of 1958 became a famous flop?",
+   "options": [
+    "The Edsel",
+    "The Thunderbird",
+    "The Falcon",
+    "The Fairlane"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It was named after Henry Ford's son Edsel. Its name became a byword for a failure.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Edsel",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-032",
+   "year": 1961,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Finish Kennedy's 1961 line: 'Ask not what your country can do for you, ask what you can do for…'",
+   "options": [
+    "Yourself",
+    "Your neighbor",
+    "The world",
+    "Your country"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He said it in his inaugural address on a snowy January day in Washington.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Inauguration_of_John_F._Kennedy",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-033",
+   "year": 1963,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1963, Valentina Tereshkova of the Soviet Union became the first woman to do what?",
+   "options": [
+    "Climb Everest",
+    "Fly in space",
+    "Swim the Atlantic",
+    "Fly a jet"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "She orbited the Earth 48 times in nearly three days aboard Vostok 6.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Valentina_Tereshkova",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-034",
+   "year": 1959,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which Soviet leader complained during his 1959 US visit that he wasn't allowed to go to Disneyland?",
+   "options": [
+    "Mikhail Gorbachev",
+    "Joseph Stalin",
+    "Leonid Brezhnev",
+    "Nikita Khrushchev"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Officials said they couldn't guarantee his safety there. He visited a farm in Iowa instead.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Nikita_Khrushchev",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-035",
+   "year": 1964,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1964, the Surgeon General's famous report warned Americans about the health dangers of what?",
+   "options": [
+    "Sugar",
+    "Smoking",
+    "Sunburn",
+    "Television"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was released on a Saturday in January 1964 to limit the effect on the stock market.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Smoking_and_Health:_Report_of_the_Advisory_Committee_to_the_Surgeon_General_of_the_United_States",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-036",
+   "year": 1961,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In January 1961, Ham went into space and came back safely. What was Ham?",
+   "options": [
+    "A cat",
+    "A dog",
+    "A chimpanzee",
+    "A mouse"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He was trained to pull levers when lights flashed, and he did his job well. He lived for another 22 years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ham_(chimpanzee)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-037",
+   "year": 1964,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "What giant steel globe was the symbol of the 1964 New York World's Fair?",
+   "options": [
+    "The Space Needle",
+    "The Trylon",
+    "The Atomium",
+    "The Unisphere"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It is 12 stories high and still stands in Flushing Meadows, Queens.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Unisphere",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-038",
+   "year": 1959,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which waterway, opened in 1959 by the US and Canada, let ocean ships sail from the Atlantic into the Great Lakes?",
+   "options": [
+    "The St. Lawrence Seaway",
+    "The Erie Canal",
+    "The Panama Canal",
+    "The Hudson Channel"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Queen Elizabeth II and President Eisenhower took part in the opening ceremonies.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/St._Lawrence_Seaway",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-039",
+   "year": 1960,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "TIROS-1, launched in 1960, was the first successful satellite of what kind?",
+   "options": [
+    "Moon probe",
+    "Spy satellite",
+    "TV satellite",
+    "Weather satellite"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It sent back the first television pictures of Earth's clouds from space.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/TIROS-1",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-040",
+   "year": 1959,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1959, NASA introduced its first group of astronauts. How many were there?",
+   "options": [
+    "3",
+    "5",
+    "7",
+    "12"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "They were called the Mercury Seven and included Alan Shepard and John Glenn.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mercury_Seven",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-041",
+   "year": 1955,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1955, America's two biggest labor groups joined together. What was the new group called?",
+   "options": [
+    "The UAW",
+    "The Teamsters",
+    "The AFL-CIO",
+    "The NLRB"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "George Meany became its first president.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/AFL%E2%80%93CIO",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-042",
+   "year": 1958,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which pope, elected in 1958, called the Second Vatican Council?",
+   "options": [
+    "John Paul II",
+    "Pius XII",
+    "Paul VI",
+    "John XXIII"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He was 76 when elected, and is still fondly remembered as 'the Good Pope.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pope_John_XXIII",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-043",
+   "year": 1959,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which World War II French leader became president of France in 1959?",
+   "options": [
+    "Charles de Gaulle",
+    "Georges Pompidou",
+    "François Mitterrand",
+    "Jacques Chirac"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He founded France's Fifth Republic. The main Paris airport is named after him.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Charles_de_Gaulle",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-044",
+   "year": 1956,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "President Eisenhower beat the same Democrat in both 1952 and 1956. Who was he?",
+   "options": [
+    "Harry Truman",
+    "Adlai Stevenson",
+    "Estes Kefauver",
+    "Hubert Humphrey"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "He was the governor of Illinois and later served as ambassador to the United Nations.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Adlai_Stevenson_II",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-045",
+   "year": 1957,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1957, a copy of which famous ship sailed from England to Plymouth, Massachusetts?",
+   "options": [
+    "The Santa Maria",
+    "The Mayflower",
+    "The Bounty",
+    "The Endeavour"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It left Plymouth, England, in April 1957 and got a ticker-tape parade in New York. Visitors can still tour it today.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mayflower_II",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-046",
+   "year": 1964,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1964, which Maine senator became the first woman to seek the Republican nomination for president?",
+   "options": [
+    "Frances Perkins",
+    "Shirley Chisholm",
+    "Clare Boothe Luce",
+    "Margaret Chase Smith"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "She served in both the House and the Senate, and was the first woman elected to both.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Margaret_Chase_Smith",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-047",
+   "year": 1962,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Comedian Vaughn Meader's best-selling 1962 album poked fun at which family?",
+   "options": [
+    "The Kennedys",
+    "The Eisenhowers",
+    "The Nixons",
+    "The Nelsons"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It was called 'The First Family,' and it won the Grammy Award for Album of the Year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_First_Family_(album)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-048",
+   "year": 1958,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1958, Pan Am began jet service across the Atlantic with which new Boeing airliner?",
+   "options": [
+    "The 707",
+    "The 727",
+    "The 737",
+    "The 747"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Jets cut the trip from New York to Europe to about seven or eight hours.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Boeing_707",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-049",
+   "year": 1957,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "The first full-scale nuclear power plant in the US began making electricity in 1957 in which state?",
+   "options": [
+    "New York",
+    "California",
+    "Pennsylvania",
+    "Illinois"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It was at Shippingport, near Pittsburgh.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Shippingport_Atomic_Power_Station",
+   "origin": "new"
+  },
+  {
+   "id": "us55-hdl-050",
+   "year": 1961,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "The 23rd Amendment, ratified in 1961, gave voters in which place the right to vote for president?",
+   "options": [
+    "U.S. Virgin Islands",
+    "Puerto Rico",
+    "Guam",
+    "Washington, D.C."
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "D.C. residents first voted for president in the 1964 election.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Twenty-third_Amendment_to_the_United_States_Constitution",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-001",
+   "year": 1956,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Movie star Grace Kelly married a real prince in 1956. Which country's royal family did she join?",
+   "options": [
+    "England",
+    "Sweden",
+    "Denmark",
+    "Monaco"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "She married Prince Rainier III and became Princess Grace. She gave up acting for good.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Grace_Kelly",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-002",
+   "year": 1957,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Dr. Seuss published 'The Cat in the Hat' in 1957. What colors is the Cat's tall hat?",
+   "options": [
+    "Red and blue",
+    "Green and white",
+    "Black and white",
+    "Red and white"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Dr. Seuss used only 236 different words, so beginning readers could read it on their own.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Cat_in_the_Hat",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-003",
+   "year": 1958,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which toy craze of 1958 had kids swiveling their hips to keep a plastic ring spinning?",
+   "options": [
+    "The pogo stick",
+    "The yo-yo",
+    "The Hula Hoop",
+    "The Slinky"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "An inventor saw children in Australia playing with bamboo hoops, and Wham-O began selling a plastic version in 1958.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hula_hoop",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-004",
+   "year": 1959,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "The Barbie doll first went on sale in 1959. Which toy company made her?",
+   "options": [
+    "Mattel",
+    "Fisher-Price",
+    "Hasbro",
+    "Milton Bradley"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Ruth Handler created Barbie and named her after her daughter, Barbara.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Barbie",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-005",
+   "year": 1961,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In early 1960s slang, if something was 'a drag,' what was it?",
+   "options": [
+    "Boring or a bother",
+    "Very exciting",
+    "Fashionable",
+    "A car race"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "'What a drag!' was a favorite teenage groan when plans fell through.",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/drag",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-006",
+   "year": 1962,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In early 1960s slang, what did 'Far out!' mean?",
+   "options": [
+    "Too far away",
+    "Old-fashioned",
+    "Wonderfully unusual",
+    "Very expensive"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It started with jazz and beatnik fans and later became a favorite of the hippies.",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/far_out",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-007",
+   "year": 1964,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In 1964, G.I. Joe was introduced as a boys' version of which hugely popular doll?",
+   "options": [
+    "Raggedy Ann",
+    "Chatty Cathy",
+    "Barbie",
+    "Betsy Wetsy"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Hasbro never called him a doll. They invented the term 'action figure' instead.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/G.I._Joe",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-008",
+   "year": 1955,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Ray Kroc opened his first McDonald's in 1955. How much was a hamburger?",
+   "options": [
+    "1 dollar",
+    "15 cents",
+    "25 cents",
+    "50 cents"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "His restaurant was in Des Plaines, Illinois. Fries cost a dime.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ray_Kroc",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-009",
+   "year": 1955,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "What did 'keeping up with the Joneses' mean in the 1950s suburbs?",
+   "options": [
+    "Knowing the gossip",
+    "Visiting relatives",
+    "Following politics",
+    "Matching your neighbors' lifestyle"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "The phrase came from a newspaper comic strip that started in 1913.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Keeping_up_with_the_Joneses",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-010",
+   "year": 1958,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "In 1958, the price of a first-class stamp went up from 3 cents to what?",
+   "options": [
+    "4 cents",
+    "5 cents",
+    "7 cents",
+    "10 cents"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It was the first increase in 26 years. The price went up again, to 5 cents, in 1963.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/History_of_United_States_postage_rates",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-011",
+   "year": 1957,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Jack Kerouac's 1957 novel 'On the Road' became the bible of which group?",
+   "options": [
+    "The hippies",
+    "The folk singers",
+    "The Beat Generation",
+    "The greasers"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He typed the first draft on one long scroll of taped-together paper.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/On_the_Road",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-012",
+   "year": 1958,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "In late 1950s hip talk, if you needed some 'bread,' what were you short of?",
+   "options": [
+    "Food",
+    "Money",
+    "Sleep",
+    "Friends"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "'Dough' had meant money for years, so 'bread' was a short hop away.",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/bread",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-013",
+   "year": 1964,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "In mid-1960s teen slang, if a new car was 'boss,' what was it?",
+   "options": [
+    "Bossy",
+    "Expensive",
+    "Excellent",
+    "Old-fashioned"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Ford even named a famous high-powered Mustang the 'Boss.'",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/boss",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-014",
+   "year": 1956,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In 1956, the federal minimum wage went up to how much an hour?",
+   "options": [
+    "1 dollar",
+    "2 dollars",
+    "25 cents",
+    "50 cents"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "President Eisenhower signed the raise into law in August 1955, and it took effect the next year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Fair_Labor_Standards_Act_of_1938",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-015",
+   "year": 1963,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Betty Friedan's 1963 best seller about the lives of American housewives was called 'The Feminine…' what?",
+   "options": [
+    "Manifesto",
+    "Mystery",
+    "Majority",
+    "Mystique"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "She called the unhappiness of many educated homemakers 'the problem that has no name.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Feminine_Mystique",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-016",
+   "year": 1964,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "About how much did the new Ford Mustang cost when it came out in April 1964?",
+   "options": [
+    "About $1,000",
+    "About $2,400",
+    "About $5,000",
+    "About $10,000"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Its advertised list price was $2,368. Ford built it on the parts of its plain, economical Falcon to keep the price low.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ford_Mustang",
+   "origin": "trivia"
+  },
+  {
+   "id": "us55-life-017",
+   "year": 1956,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which squishy modeling dough for children was first made as a wallpaper cleaner?",
+   "options": [
+    "Silly Putty",
+    "Play-Doh",
+    "Plasticine",
+    "Gak"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was sold to schools as a toy starting in 1956, and its smell is still famous.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Play-Doh",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-018",
+   "year": 1960,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which red drawing toy with two white knobs became a Christmas hit in 1960?",
+   "options": [
+    "Etch A Sketch",
+    "Spirograph",
+    "Lite-Brite",
+    "View-Master"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "You shook it upside down to erase the picture.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Etch_A_Sketch",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-019",
+   "year": 1957,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which flying plastic disc did the Wham-O company start selling in 1957?",
+   "options": [
+    "The kite",
+    "The boomerang",
+    "The Hula Hoop",
+    "The Frisbee"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "It was first sold as the 'Pluto Platter,' cashing in on the craze for flying saucers.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Frisbee",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-020",
+   "year": 1963,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "What did the original Easy-Bake Oven of 1963 use to bake its tiny cakes?",
+   "options": [
+    "A candle",
+    "A light bulb",
+    "Batteries",
+    "Sunlight"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Kenner made it, and it came in turquoise or yellow.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Easy-Bake_Oven",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-021",
+   "year": 1956,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "At a 1950s drive-in movie, where did the sound come from?",
+   "options": [
+    "Headphones",
+    "Giant outdoor speakers",
+    "Your car's horn",
+    "A speaker hung on your car window"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Drive-ins hit their peak in the late 1950s, with about 4,000 across the country.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Drive-in_theater",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-022",
+   "year": 1957,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which big Burger King sandwich was introduced in 1957?",
+   "options": [
+    "The Whopper",
+    "The Big Mac",
+    "The Quarter Pounder",
+    "The Big Boy"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It sold for 37 cents when it first came out.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Whopper",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-023",
+   "year": 1960,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which towering 1960s hairdo was named after the home of a busy insect?",
+   "options": [
+    "The beehive",
+    "The anthill",
+    "The wasp nest",
+    "The cocoon"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It was created in 1960 by Chicago hairdresser Margaret Vinci Heldt, and needed lots of hairspray.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Beehive_(hairstyle)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-024",
+   "year": 1964,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which toaster pastries first came out in 1964?",
+   "options": [
+    "Eggo Waffles",
+    "Toaster Strudel",
+    "Pop-Tarts",
+    "Danish Rolls"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Kellogg's made them. The first ones had no frosting.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pop-Tarts",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-025",
+   "year": 1959,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In cereal ads from 1959 on, the kids told a rabbit: 'Silly rabbit, ___ are for kids!'",
+   "options": [
+    "Kix",
+    "Trix",
+    "Cheerios",
+    "Froot Loops"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "The poor rabbit almost never got to eat any.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Trix_(cereal)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-026",
+   "year": 1960,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which 1960 Mattel doll talked when you pulled the string in her back?",
+   "options": [
+    "Baby Alive",
+    "Betsy Wetsy",
+    "Tiny Tears",
+    "Chatty Cathy"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "She said 11 phrases at random, like 'I love you' and 'Please take me with you.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Chatty_Cathy",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-027",
+   "year": 1961,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "What was the name of Barbie's boyfriend, introduced in 1961?",
+   "options": [
+    "Ken",
+    "Kevin",
+    "Kurt",
+    "Keith"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He was named after Ruth Handler's son, Kenneth.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ken_(doll)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-028",
+   "year": 1961,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which wet backyard toy did Wham-O start selling in 1961?",
+   "options": [
+    "Water Wiggle",
+    "Super Soaker",
+    "Slip 'N Slide",
+    "Sprinkler Sam"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It was a long plastic sheet that you sprayed with a garden hose and slid across on your belly.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Slip_%27N_Slide",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-029",
+   "year": 1958,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which bald, muscular cleaning mascot first appeared in 1958?",
+   "options": [
+    "The Brawny Man",
+    "Mr. Clean",
+    "Mr. Muscle",
+    "The Maytag Man"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Procter & Gamble introduced him, and his catchy jingle helped sales take off.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mr._Clean",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-030",
+   "year": 1959,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which orange drink powder came out in 1959 and later went into space with astronauts?",
+   "options": [
+    "Kool-Aid",
+    "Tang",
+    "Ovaltine",
+    "Hi-C"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Sales were slow until NASA used it on John Glenn's 1962 flight.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tang_(drink)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-031",
+   "year": 1960,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which board game, first made in 1860, was relaunched by Milton Bradley in 1960 with a spinning wheel and little cars?",
+   "options": [
+    "Monopoly",
+    "The Game of Life",
+    "Parcheesi",
+    "Chutes and Ladders"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Players fill their little plastic cars with pegs as they marry and have children along the way.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Game_of_Life",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-032",
+   "year": 1962,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In 1962, Sam Walton opened his first Walmart in which Arkansas town?",
+   "options": [
+    "Fayetteville",
+    "Bentonville",
+    "Little Rock",
+    "Rogers"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He had already been running Ben Franklin variety stores in Arkansas for years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Walmart",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-033",
+   "year": 1963,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In 1963, the Bell System began offering which new kind of telephone?",
+   "options": [
+    "Picture phone",
+    "Cordless",
+    "Car phone",
+    "Push-button"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "The Touch-Tone phone replaced the rotary dial, and later added the * and # keys.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Push-button_telephone",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-034",
+   "year": 1956,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Zenith's 'Space Command' of 1956 was one of the first wireless what?",
+   "options": [
+    "TV remote controls",
+    "Garage door openers",
+    "Doorbells",
+    "Radios"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It used sound you couldn't hear. Pressing a button struck a tiny metal rod inside, so people called it a 'clicker.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Remote_control",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-035",
+   "year": 1958,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Bank of America's charge card, launched in 1958, later became which famous card?",
+   "options": [
+    "MasterCard",
+    "Visa",
+    "Discover",
+    "American Express"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was called BankAmericard and was first tested by mailing cards to people in Fresno, California.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Visa_Inc.",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-036",
+   "year": 1960,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which tiny brine shrimp, sold through comic book ads, became a popular 'instant pet'?",
+   "options": [
+    "Water Bugs",
+    "Fish Pals",
+    "Sea-Monkeys",
+    "Aqua Dragons"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Inventor Harold von Braunhut first sold them in 1957 as 'Instant Life.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sea-Monkeys",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-037",
+   "year": 1958,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "The first Pizza Hut opened in 1958 in which Kansas city?",
+   "options": [
+    "Dodge City",
+    "Topeka",
+    "Kansas City",
+    "Wichita"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Two college-age brothers, Dan and Frank Carney, borrowed $600 from their mother to start it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pizza_Hut",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-038",
+   "year": 1961,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which slippery coating came to American kitchens on frying pans in the early 1960s?",
+   "options": [
+    "Teflon",
+    "Pyrex",
+    "Formica",
+    "Bakelite"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "The first nonstick pan sold in America was called 'The Happy Pan.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Polytetrafluoroethylene",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-039",
+   "year": 1955,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which toothpaste, launched in 1955, was one of the first with fluoride to fight cavities?",
+   "options": [
+    "Ipana",
+    "Colgate",
+    "Crest",
+    "Pepsodent"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "In 1960 it became the first toothpaste approved by the American Dental Association.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Crest_(toothpaste)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-040",
+   "year": 1963,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which diet group was started in 1963 by a New York homemaker, Jean Nidetch?",
+   "options": [
+    "Slim-Fast",
+    "Jenny Craig",
+    "TOPS",
+    "Weight Watchers"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It began as weekly meetings of friends in her home in Queens.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/WW_International",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-041",
+   "year": 1957,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which sugar substitute in pink packets was introduced in 1957?",
+   "options": [
+    "Splenda",
+    "Equal",
+    "Sweet'N Low",
+    "Sugar Twin"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It was created by a Brooklyn father and son who ran a cafeteria across from the Navy Yard.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sweet%27N_Low",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-042",
+   "year": 1957,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Converse's canvas basketball sneakers, a 1950s teen favorite, were named after which man?",
+   "options": [
+    "Bill Russell",
+    "Chuck Taylor",
+    "Ben Hogan",
+    "Pat Boone"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Teenagers called them 'Chucks,' and they came in high-tops and low-tops.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Chuck_Taylor_All-Stars",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-043",
+   "year": 1963,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In the early 1960s, what new invention let you open a can of soda or beer without an opener?",
+   "options": [
+    "The cork",
+    "The screw cap",
+    "The pull tab",
+    "The straw slot"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Ermal Fraze came up with it after he forgot his can opener and had to open a beer on a car bumper.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Beverage_can",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-044",
+   "year": 1963,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which wild-haired little dolls from Denmark became a fad in America in the early 1960s?",
+   "options": [
+    "Kewpie dolls",
+    "Troll dolls",
+    "Cabbage Patch Kids",
+    "Kissy dolls"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "A Danish woodcarver, Thomas Dam, made the first ones, starting in 1959.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Troll_doll",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-045",
+   "year": 1959,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "The Xerox 914, introduced in 1959, was the first popular office machine that could do what?",
+   "options": [
+    "Send faxes",
+    "Make copies on plain paper",
+    "Print photos",
+    "Type by itself"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was so popular that 'to Xerox' became an everyday word for making a copy.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Xerox_914",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-046",
+   "year": 1958,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which boxed rice dish, launched in 1958, was sold as 'the San Francisco treat'?",
+   "options": [
+    "Rice-A-Roni",
+    "Uncle Ben's",
+    "Minute Rice",
+    "Near East"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It was made by the Golden Grain Macaroni Company of San Francisco.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rice-A-Roni",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-047",
+   "year": 1955,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which two-seat Ford sports car first went on sale in 1955?",
+   "options": [
+    "The Falcon",
+    "The Mustang",
+    "The Thunderbird",
+    "The Galaxie"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Ford called it a 'personal luxury car,' not a sports car, to set it apart from the Corvette.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ford_Thunderbird_(first_generation)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-048",
+   "year": 1961,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which lemon-lime soda did the Coca-Cola Company launch in the US in 1961?",
+   "options": [
+    "Mountain Dew",
+    "7 Up",
+    "Fresca",
+    "Sprite"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "It was created to compete with 7 Up. It had started in West Germany in 1959 as Fanta Klare Zitrone.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sprite_(drink)",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-049",
+   "year": 1955,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Velcro was patented in 1955. What gave its Swiss inventor the idea?",
+   "options": [
+    "Burrs stuck to his dog",
+    "A spider web",
+    "A zipper that broke",
+    "Bird feathers"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "George de Mestral spent years working out how to copy the tiny hooks that made burrs cling to fur.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/George_de_Mestral",
+   "origin": "new"
+  },
+  {
+   "id": "us55-life-050",
+   "year": 1959,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "What was the very first Barbie doll of 1959 wearing?",
+   "options": [
+    "A zebra-striped swimsuit",
+    "A wedding gown",
+    "A nurse's uniform",
+    "A pink party dress"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "She came as a blonde or a brunette, with her hair in a ponytail.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Barbie",
+   "origin": "new"
+  }
+ ]
+}

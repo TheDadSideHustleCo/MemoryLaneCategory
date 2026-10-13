@@ -1,0 +1,5711 @@
+{
+ "edition": "us",
+ "decade": "1960s",
+ "years": [
+  1975,
+  1984
+ ],
+ "count": 300,
+ "questions": [
+  {
+   "id": "us75-mus-001",
+   "year": 1976,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which band released the album 'Hotel California' in December 1976?",
+   "options": [
+    "Fleetwood Mac",
+    "The Doobie Brothers",
+    "Lynyrd Skynyrd",
+    "The Eagles"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "The title song ends with a famous guitar duel between Don Felder and Joe Walsh.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hotel_California_(Eagles_album)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-002",
+   "year": 1978,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which group sang 'Y.M.C.A.' in 1978, with a dance where fans spell out the letters with their arms?",
+   "options": [
+    "Chic",
+    "KC and the Sunshine Band",
+    "The Bee Gees",
+    "The Village People"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It is still played at ballgames and weddings, and crowds still make the letters.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Y.M.C.A._(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-003",
+   "year": 1977,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which brothers sang most of the hits on the 1977 'Saturday Night Fever' soundtrack?",
+   "options": [
+    "Earth, Wind & Fire",
+    "The Isley Brothers",
+    "The Jacksons",
+    "The Bee Gees"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Their songs included 'Stayin' Alive,' 'Night Fever' and 'How Deep Is Your Love.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Saturday_Night_Fever_(soundtrack)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-004",
+   "year": 1978,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Who starred with John Travolta in the 1978 musical 'Grease'?",
+   "options": [
+    "Farrah Fawcett",
+    "Olivia Newton-John",
+    "Stevie Nicks",
+    "Debbie Harry"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Their duet 'You're the One That I Want' went to No. 1 in many countries.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Grease_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-005",
+   "year": 1980,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which band had a huge 1980 hit with the bass-driven 'Another One Bites the Dust'?",
+   "options": [
+    "Queen",
+    "AC/DC",
+    "The Police",
+    "Blondie"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Bass player John Deacon wrote it. Freddie Mercury sang lead.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Another_One_Bites_the_Dust",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-006",
+   "year": 1981,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "MTV began on August 1, 1981. Which song was the very first video it played?",
+   "options": [
+    "Jessie's Girl",
+    "Thriller",
+    "Girls on Film",
+    "Video Killed the Radio Star"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "It was by a British duo called the Buggles, a fitting choice for a channel built on videos.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Video_Killed_the_Radio_Star",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-007",
+   "year": 1982,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Who sang the 1982 No. 1 hit 'Ebony and Ivory' about living in harmony?",
+   "options": [
+    "Simon & Garfunkel",
+    "Hall & Oates",
+    "Elton John and Kiki Dee",
+    "Paul McCartney and Stevie Wonder"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It compares people to the black and white keys on a piano, side by side in perfect harmony.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ebony_and_Ivory",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-008",
+   "year": 1982,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Toto's 1982 hit is named after which continent?",
+   "options": [
+    "Africa",
+    "South America",
+    "Asia",
+    "Australia"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It was Toto's only No. 1 single in America.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Africa_(Toto_song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-009",
+   "year": 1982,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which 1982 Survivor song was the theme of 'Rocky III'?",
+   "options": [
+    "Eye of the Tiger",
+    "Burning Heart",
+    "Gonna Fly Now",
+    "High on You"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Sylvester Stallone asked the band for a song after he could not get the rights to Queen's 'Another One Bites the Dust.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Eye_of_the_Tiger",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-010",
+   "year": 1984,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which singer made a huge comeback in 1984 with 'What's Love Got to Do with It'?",
+   "options": [
+    "Diana Ross",
+    "Tina Turner",
+    "Donna Summer",
+    "Aretha Franklin"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "It was her first solo No. 1, at age 44, and won three Grammy Awards.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/What%27s_Love_Got_to_Do_with_It_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-011",
+   "year": 1976,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "On 'Frampton Comes Alive!' (1976), Peter Frampton made his guitar 'talk' using what device?",
+   "options": [
+    "A talk box",
+    "A vocoder",
+    "An echo chamber",
+    "A harmonizer"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "A tube carried the guitar sound into his mouth, and he shaped it with his lips into words.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Talk_box",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-012",
+   "year": 1977,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which singer, the daughter of Pat Boone, spent 10 weeks at No. 1 in 1977 with 'You Light Up My Life'?",
+   "options": [
+    "Crystal Gayle",
+    "Debby Boone",
+    "Anne Murray",
+    "Karen Carpenter"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It set a new record for the most weeks at No. 1 on the Billboard Hot 100.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/You_Light_Up_My_Life_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-013",
+   "year": 1979,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which 1979 Michael Jackson album made him a solo superstar, before 'Thriller'?",
+   "options": [
+    "Thriller",
+    "Off the Wall",
+    "Bad",
+    "Dangerous"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Quincy Jones produced it, and it included 'Don't Stop 'Til You Get Enough' and 'Rock with You.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Off_the_Wall",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-014",
+   "year": 1979,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Who was the platinum-blonde lead singer of Blondie, who hit No. 1 with 'Heart of Glass' in 1979?",
+   "options": [
+    "Patti Smith",
+    "Chrissie Hynde",
+    "Pat Benatar",
+    "Debbie Harry"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Blondie came out of the New York punk scene before crossing over to disco and pop.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Heart_of_Glass_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-015",
+   "year": 1982,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Michael Jackson's 'Thriller' came out in 1982. How many Grammy Awards did it win in one night?",
+   "options": [
+    "5",
+    "7",
+    "8",
+    "11"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It is the best-selling album of all time.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Thriller_(album)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-016",
+   "year": 1983,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Who sang the 1983 duet 'Islands in the Stream'?",
+   "options": [
+    "Dolly Parton and Willie Nelson",
+    "Reba and Glen Campbell",
+    "Kenny Rogers and Dolly Parton",
+    "Barbara Mandrell and Kenny Rogers"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Barry Gibb of the Bee Gees wrote it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Islands_in_the_Stream_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-017",
+   "year": 1983,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which Welsh singer reached No. 1 in 1983 with 'Total Eclipse of the Heart'?",
+   "options": [
+    "Celine Dion",
+    "Whitney Houston",
+    "Barbra Streisand",
+    "Bonnie Tyler"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Jim Steinman, who also wrote for Meat Loaf, wrote and produced it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Total_Eclipse_of_the_Heart",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-018",
+   "year": 1983,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which British band sang on a yacht in the 1983 music video for 'Rio'?",
+   "options": [
+    "Culture Club",
+    "Spandau Ballet",
+    "Duran Duran",
+    "Wham!"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The video was filmed on the Caribbean island of Antigua.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rio_(Duran_Duran_song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-019",
+   "year": 1984,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "What did Madonna wear to sing 'Like a Virgin' at the very first MTV Video Music Awards in 1984?",
+   "options": [
+    "A sequined minidress",
+    "A leather jumpsuit",
+    "A sailor suit",
+    "A wedding dress"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "She performed on top of a giant wedding cake.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Like_a_Virgin_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-020",
+   "year": 1984,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which Van Halen song, built around a keyboard riff, became their only No. 1 hit in 1984?",
+   "options": [
+    "Jump",
+    "Hot for Teacher",
+    "Panama",
+    "Runnin' with the Devil"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Eddie Van Halen played the famous riff on an Oberheim synthesizer.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jump_(Van_Halen_song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-021",
+   "year": 1975,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which 1975 album put Bruce Springsteen on the covers of both Time and Newsweek in the same week?",
+   "options": [
+    "Born to Run",
+    "Darkness on the Edge of Town",
+    "The River",
+    "Greetings from Asbury Park"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Fans call him 'The Boss.' His band is the E Street Band.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Born_to_Run",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-022",
+   "year": 1979,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "The Knack's 'My Sharona' was 1979's biggest rock hit. How many weeks was it at No. 1?",
+   "options": [
+    "2 weeks",
+    "3 weeks",
+    "6 weeks",
+    "10 weeks"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It was inspired by a real teenager named Sharona, whom singer Doug Fieger was dating.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/My_Sharona",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-023",
+   "year": 1981,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Soft Cell's 1981 synth hit 'Tainted Love' was a cover. Who first recorded it, in 1964?",
+   "options": [
+    "Brenda Lee",
+    "Diana Ross",
+    "Gloria Jones",
+    "Gladys Knight"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Her version became a favorite of England's 'Northern soul' dance clubs.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tainted_Love",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-024",
+   "year": 1983,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Michael Jackson first did the moonwalk on TV in 1983 on which special?",
+   "options": [
+    "Motown 25",
+    "The Grammy Awards",
+    "American Bandstand",
+    "Soul Train"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He did it during 'Billie Jean,' wearing a single sparkling glove.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Motown_25:_Yesterday,_Today,_Forever",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-025",
+   "year": 1984,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Prince's 'Purple Rain' soundtrack stayed at No. 1 on the album chart for how many weeks in a row?",
+   "options": [
+    "10 weeks",
+    "18 weeks",
+    "24 weeks",
+    "30 weeks"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Its first single, 'When Doves Cry,' was the biggest hit of 1984.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Purple_Rain_(album)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mus-026",
+   "year": 1975,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which husband-and-wife duo had the top song of 1975, 'Love Will Keep Us Together'?",
+   "options": [
+    "Ashford & Simpson",
+    "Sonny & Cher",
+    "Captain & Tennille",
+    "Carly Simon & James Taylor"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Daryl Dragon was called 'the Captain' because he often wore a sea captain's hat.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Captain_%26_Tennille",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-027",
+   "year": 1976,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which 1976 ABBA song was the Swedish group's only No. 1 hit in the United States?",
+   "options": [
+    "Dancing Queen",
+    "Mamma Mia",
+    "Fernando",
+    "Take a Chance on Me"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It topped the charts in more than a dozen countries.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dancing_Queen",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-028",
+   "year": 1978,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Kenny Rogers's 1978 hit 'The Gambler' gives life advice using which game as its picture?",
+   "options": [
+    "Horse racing",
+    "Dice",
+    "Pool",
+    "Poker"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Don Schlitz wrote it, and it later became a series of TV movies starring Rogers.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Gambler_(song)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-029",
+   "year": 1981,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which band sang 'Don't Stop Believin'' in 1981?",
+   "options": [
+    "REO Speedwagon",
+    "Foreigner",
+    "Styx",
+    "Journey"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Steve Perry sang lead. Decades later it became the best-selling digital download from the 20th century.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Don%27t_Stop_Believin%27",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-030",
+   "year": 1982,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which rocker spent seven weeks at No. 1 in 1982 with 'I Love Rock 'n' Roll'?",
+   "options": [
+    "Chrissie Hynde",
+    "Pat Benatar",
+    "Joan Jett",
+    "Stevie Nicks"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Her band was called the Blackhearts.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/I_Love_Rock_%27n%27_Roll",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-031",
+   "year": 1984,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which singer had a 1984 hit with 'Girls Just Want to Have Fun'?",
+   "options": [
+    "Pat Benatar",
+    "Madonna",
+    "Cyndi Lauper",
+    "Debbie Gibson"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Her album 'She's So Unusual' also included 'Time After Time.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-032",
+   "year": 1980,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Dolly Parton sang about working from what time to what in her 1980 hit?",
+   "options": [
+    "7 to 3",
+    "8 to 4",
+    "9 to 5",
+    "Noon to midnight"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "She wrote it for the movie '9 to 5' and made the clacking sound by running her fingernails together.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/9_to_5_(Dolly_Parton_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-033",
+   "year": 1982,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Men at Work's 1982 hit 'Down Under' is about which country?",
+   "options": [
+    "Australia",
+    "New Zealand",
+    "South Africa",
+    "Ireland"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It mentions eating a Vegemite sandwich.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Down_Under_(song)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-034",
+   "year": 1979,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In 1979's 'The Devil Went Down to Georgia,' what did the devil challenge Johnny to play?",
+   "options": [
+    "The banjo",
+    "The guitar",
+    "The fiddle",
+    "The harmonica"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Johnny won a golden fiddle. Charlie Daniels played both parts himself.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Devil_Went_Down_to_Georgia",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-035",
+   "year": 1980,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which country star sang 'On the Road Again' in 1980?",
+   "options": [
+    "Waylon Jennings",
+    "Johnny Cash",
+    "Merle Haggard",
+    "Willie Nelson"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He wrote it quickly for the movie 'Honeysuckle Rose,' reportedly on a barf bag.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/On_the_Road_Again_(Willie_Nelson_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-036",
+   "year": 1984,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Who sang the 1984 movie theme 'Ghostbusters'?",
+   "options": [
+    "Ray Parker Jr.",
+    "Huey Lewis",
+    "Lionel Richie",
+    "Kenny Loggins"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It spent three weeks at No. 1 and was nominated for an Academy Award.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ghostbusters_(song)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-037",
+   "year": 1976,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which band, led by Paul McCartney, topped the charts in 1976 with 'Silly Love Songs'?",
+   "options": [
+    "Badfinger",
+    "The Plastic Ono Band",
+    "ELO",
+    "Wings"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Billboard named it the top song of 1976.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Silly_Love_Songs",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-038",
+   "year": 1981,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which singer, also a soap opera actor, had a 1981 No. 1 with 'Jessie's Girl'?",
+   "options": [
+    "John Stamos",
+    "Rick Springfield",
+    "Billy Squier",
+    "Bryan Adams"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "He played Dr. Noah Drake on 'General Hospital.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rick_Springfield",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-039",
+   "year": 1983,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which singer partied 'All Night Long' in his 1983 No. 1 hit?",
+   "options": [
+    "Lionel Richie",
+    "Stevie Wonder",
+    "Smokey Robinson",
+    "Kool"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He sang it at the closing ceremony of the 1984 Los Angeles Olympics.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/All_Night_Long_(All_Night)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-040",
+   "year": 1984,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Who sang the 1984 hit 'I Just Called to Say I Love You'?",
+   "options": [
+    "Billy Ocean",
+    "Lionel Richie",
+    "Stevie Wonder",
+    "Jeffrey Osborne"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It came from the film 'The Woman in Red' and won the Academy Award for Best Original Song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/I_Just_Called_to_Say_I_Love_You",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-041",
+   "year": 1984,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which future TV star was pulled up on stage to dance in Bruce Springsteen's 1984 'Dancing in the Dark' video?",
+   "options": [
+    "Jennifer Aniston",
+    "Courteney Cox",
+    "Heather Locklear",
+    "Alyssa Milano"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "She later starred as Monica on 'Friends.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dancing_in_the_Dark_(Bruce_Springsteen_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-042",
+   "year": 1975,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which tartan-wearing Scottish band spelled out 'S-A-T-U-R-D-A-Y Night' in a 1975 No. 1 hit?",
+   "options": [
+    "Bay City Rollers",
+    "The Sweet",
+    "Slade",
+    "Smokie"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Their fans wore tartan scarves to their concerts.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bay_City_Rollers",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-043",
+   "year": 1977,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Who had a 1977 No. 1 hit with a disco version of the 'Star Wars' theme?",
+   "options": [
+    "Giorgio Moroder",
+    "Meco",
+    "Van McCoy",
+    "Walter Murphy"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was certified platinum for selling two million copies.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Star_Wars_Theme/Cantina_Band",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-044",
+   "year": 1982,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which Philadelphia duo hit No. 1 in 1982 with 'Maneater'?",
+   "options": [
+    "Simon & Garfunkel",
+    "Hall & Oates",
+    "The Everly Brothers",
+    "The Carpenters"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "They had six No. 1 hits, including 'Rich Girl' and 'Kiss on My List.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hall_%26_Oates",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-045",
+   "year": 1983,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Who was the flamboyant lead singer of Culture Club, famous for 1983's 'Karma Chameleon'?",
+   "options": [
+    "Annie Lennox",
+    "George Michael",
+    "Simon Le Bon",
+    "Boy George"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "'Karma Chameleon' was No. 1 in both Britain and America.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Karma_Chameleon",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-046",
+   "year": 1983,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Who sang 'Flashdance… What a Feeling,' the 1983 movie theme that won an Oscar?",
+   "options": [
+    "Donna Summer",
+    "Irene Cara",
+    "Sheena Easton",
+    "Laura Branigan"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "She had also sung the title song from the 1980 movie 'Fame.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Flashdance..._What_a_Feeling",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-047",
+   "year": 1984,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which British duo sang 'Wake Me Up Before You Go-Go' in 1984?",
+   "options": [
+    "Tears for Fears",
+    "Wham!",
+    "Eurythmics",
+    "Pet Shop Boys"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "George Michael and Andrew Ridgeley formed the band as schoolfriends.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Wake_Me_Up_Before_You_Go-Go",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-048",
+   "year": 1975,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which horn-filled band, led by Maurice White, had a 1975 No. 1 with 'Shining Star'?",
+   "options": [
+    "Kool & the Gang",
+    "Earth, Wind & Fire",
+    "The Commodores",
+    "Chicago"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It won a Grammy Award and was later added to the Grammy Hall of Fame.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Shining_Star_(Earth,_Wind_%26_Fire_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-049",
+   "year": 1976,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Elton John's 1976 duet 'Don't Go Breaking My Heart' was sung with which singer?",
+   "options": [
+    "Dusty Springfield",
+    "Olivia Newton-John",
+    "Kiki Dee",
+    "Cher"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It was the first No. 1 single in Britain for both Elton and Kiki Dee.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Don%27t_Go_Breaking_My_Heart",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mus-050",
+   "year": 1978,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which Canadian singer won a Grammy for her 1978 hit 'You Needed Me'?",
+   "options": [
+    "Gordon Lightfoot",
+    "Anne Murray",
+    "Joni Mitchell",
+    "Celine Dion"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "She grew up in Springhill, a small mining town in Nova Scotia.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Anne_Murray",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-001",
+   "year": 1975,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'Saturday Night Live' began on NBC on October 11, 1975. Who was its first guest host?",
+   "options": [
+    "George Carlin",
+    "Lily Tomlin",
+    "Richard Pryor",
+    "Steve Martin"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "In its early seasons, the show was called 'NBC's Saturday Night.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Saturday_Night_Live_season_1",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-002",
+   "year": 1976,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which 'Charlie's Angels' star became famous for her feathered hair and left after one season?",
+   "options": [
+    "Farrah Fawcett",
+    "Kate Jackson",
+    "Cheryl Ladd",
+    "Jaclyn Smith"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Her poster in a red swimsuit sold six million copies in its first year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Farrah_Fawcett",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-003",
+   "year": 1976,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'The Muppet Show' began in 1976. Who created the Muppets?",
+   "options": [
+    "Jim Henson",
+    "Frank Oz",
+    "Walt Disney",
+    "Jerry Juhl"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The show was filmed in England, at the ATV studios in Elstree.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Muppet_Show",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-004",
+   "year": 1977,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Who played Jack Tripper, who shared an apartment with two women on 'Three's Company' (1977)?",
+   "options": [
+    "Gabe Kaplan",
+    "Tony Danza",
+    "Henry Winkler",
+    "John Ritter"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "The show was based on a British sitcom called 'Man About the House.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Three%27s_Company",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-005",
+   "year": 1980,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'Who shot J.R.?' was the big TV mystery of 1980. Which show was it from?",
+   "options": [
+    "Dynasty",
+    "Knots Landing",
+    "Falcon Crest",
+    "Dallas"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "About 83 million Americans tuned in that November to learn the answer.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Who_shot_J.R.%3F",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-006",
+   "year": 1978,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'Mork & Mindy' began in 1978. Which planet was Mork from?",
+   "options": [
+    "Mars",
+    "Jupiter",
+    "The moon",
+    "Ork"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Robin Williams first played Mork on an episode of 'Happy Days.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mork_%26_Mindy",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-007",
+   "year": 1980,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Ted Turner launched which 24-hour news channel in June 1980?",
+   "options": [
+    "MSNBC",
+    "The Weather Channel",
+    "CNN",
+    "C-SPAN"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It was the first TV channel to offer news around the clock.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/CNN",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-008",
+   "year": 1981,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which prime-time soap, launched by ABC in January 1981, followed a rich Denver oil family?",
+   "options": [
+    "Knots Landing",
+    "Falcon Crest",
+    "Dynasty",
+    "Dallas"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Joan Collins joined in the second season as Alexis, the scheming ex-wife of Blake Carrington.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dynasty_(1981_TV_series)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-009",
+   "year": 1982,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which sitcom, set in a Boston bar, began on NBC in September 1982?",
+   "options": [
+    "Taxi",
+    "Night Court",
+    "Cheers",
+    "Family Ties"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It nearly finished last in the ratings in its first season, but NBC kept it and it ran for 11 seasons.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cheers",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-010",
+   "year": 1983,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On 'The A-Team' (1983), who liked to say, 'I love it when a plan comes together'?",
+   "options": [
+    "Hannibal",
+    "B.A. Baracus",
+    "Face",
+    "Murdock"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Hannibal was played by George Peppard. Mr. T played B.A. Baracus.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_A-Team",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-011",
+   "year": 1975,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "The theme of 'The Jeffersons' (1975) said they were 'movin' on up' to which side of Manhattan?",
+   "options": [
+    "The West Side",
+    "The East Side",
+    "Harlem",
+    "Greenwich Village"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Ja'Net DuBois co-wrote the theme song, 'Movin' on Up,' and sang it too.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Jeffersons",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-012",
+   "year": 1977,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "In 'Roots' (1977), Kunta Kinte was taken from his village in which African country?",
+   "options": [
+    "Nigeria",
+    "Ghana",
+    "The Gambia",
+    "Senegal"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "About 100 million people watched the final episode, a record at the time.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Roots_(1977_miniseries)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-013",
+   "year": 1978,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "'Dallas' began on CBS in April 1978. Who played the scheming J.R. Ewing?",
+   "options": [
+    "Larry Hagman",
+    "Ken Kercheval",
+    "Patrick Duffy",
+    "David Soul"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Hagman had earlier starred as the astronaut on 'I Dream of Jeannie.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Larry_Hagman",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-014",
+   "year": 1984,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "'Miami Vice' (1984) made which men's look famous?",
+   "options": [
+    "Wide-shouldered power suits",
+    "T-shirts, sport coats, no socks",
+    "Leather jackets and jeans",
+    "Hawaiian shirts and shorts"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Don Johnson's T-shirts, Italian sport coats and sockless loafers were copied by men everywhere.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Miami_Vice",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-015",
+   "year": 1982,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "Which comedian began 'Late Night' on NBC in February 1982, airing after Johnny Carson?",
+   "options": [
+    "David Letterman",
+    "Jay Leno",
+    "Arsenio Hall",
+    "Tom Snyder"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "His show was famous for its Top Ten Lists and 'Stupid Pet Tricks.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Late_Night_with_David_Letterman",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-016",
+   "year": 1975,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "'Wheel of Fortune' began on NBC in 1975. Who was its first host?",
+   "options": [
+    "Pat Sajak",
+    "Chuck Woolery",
+    "Bob Barker",
+    "Wink Martindale"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Pat Sajak took over in 1981 and hosted for more than 40 years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_(American_game_show)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-017",
+   "year": 1977,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "'The Love Boat' (1977) filmed on a real cruise ship. What was it called?",
+   "options": [
+    "Pacific Star",
+    "Pacific Princess",
+    "SS Minnow",
+    "Fantasy"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Gavin MacLeod played the ship's captain, Merrill Stubing.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Love_Boat",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-018",
+   "year": 1979,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On 'The Dukes of Hazzard' (1979), what kind of car was the General Lee?",
+   "options": [
+    "1968 Plymouth Barracuda",
+    "1969 Ford Mustang",
+    "1969 Dodge Charger",
+    "1970 Chevy Camaro"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The Duke boys never opened its doors. They climbed in through the windows.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/General_Lee_(car)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-019",
+   "year": 1979,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "ESPN began on September 7, 1979. What sport was its first live event?",
+   "options": [
+    "College football",
+    "Golf",
+    "Boxing",
+    "Slow-pitch softball"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "The very first program was 'SportsCenter.' The softball game came right after.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/History_of_ESPN",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-020",
+   "year": 1981,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "About how many people around the world watched Prince Charles and Lady Diana's 1981 wedding on TV?",
+   "options": [
+    "1 billion",
+    "250 million",
+    "450 million",
+    "750 million"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Diana's silk dress had a train 25 feet long.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Wedding_of_Prince_Charles_and_Lady_Diana_Spencer",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-tv-021",
+   "year": 1978,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On 'The Incredible Hulk' (1978), which bodybuilder played the green Hulk?",
+   "options": [
+    "Hulk Hogan",
+    "Arnold Schwarzenegger",
+    "Lou Ferrigno",
+    "Bill Bixby"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Bill Bixby played David Banner, who turned into the Hulk whenever he got angry.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_(1978_TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-022",
+   "year": 1978,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "In a famous 1978 'WKRP in Cincinnati' Thanksgiving episode, what did the station drop from a helicopter?",
+   "options": [
+    "Live turkeys",
+    "Pumpkins",
+    "Footballs",
+    "Pies"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Station manager Mr. Carlson summed it up: 'As God is my witness, I thought turkeys could fly.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Turkeys_Away",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-023",
+   "year": 1978,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On 'Diff'rent Strokes' (1978), who played Arnold, famous for 'What'chu talkin' 'bout, Willis?'",
+   "options": [
+    "Ricky Schroder",
+    "Emmanuel Lewis",
+    "Todd Bridges",
+    "Gary Coleman"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Arnold and his brother Willis were adopted by a rich Manhattan widower, Mr. Drummond.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Diff%27rent_Strokes",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-024",
+   "year": 1980,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Tom Selleck's 'Magnum, P.I.' (1980) was set in which state?",
+   "options": [
+    "Hawaii",
+    "Florida",
+    "California",
+    "Texas"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Magnum drove a red Ferrari that belonged to Robin Masters, the estate's unseen owner.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Magnum,_P.I.",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-025",
+   "year": 1977,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On 'Fantasy Island' (1977), who rang the bell and shouted 'De plane! De plane!'?",
+   "options": [
+    "Mr. Roarke",
+    "Tattoo",
+    "Isaac",
+    "Gopher"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Hervé Villechaize played Tattoo. Ricardo Montalbán played Mr. Roarke.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Fantasy_Island",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-026",
+   "year": 1982,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which young actor played Alex P. Keaton on 'Family Ties' (1982)?",
+   "options": [
+    "Matthew Broderick",
+    "Kirk Cameron",
+    "Scott Baio",
+    "Michael J. Fox"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Alex was a young Republican with former hippie parents. Fox won three Emmys for the role.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Family_Ties",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-027",
+   "year": 1982,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "What was the name of the talking car on 'Knight Rider' (1982)?",
+   "options": [
+    "Herbie",
+    "KITT",
+    "The General Lee",
+    "Christine"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "David Hasselhoff played Michael Knight. KITT was a black Pontiac Trans Am.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-028",
+   "year": 1975,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Who first starred as 'Wonder Woman' on TV, starting in 1975?",
+   "options": [
+    "Lindsay Wagner",
+    "Lynda Carter",
+    "Jaclyn Smith",
+    "Cheryl Ladd"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "She changed into Wonder Woman by spinning around in place.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Wonder_Woman_(TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-029",
+   "year": 1977,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "In a 1977 episode of 'Happy Days,' what did the Fonz jump over on water skis?",
+   "options": [
+    "A dolphin",
+    "A whale",
+    "A speedboat",
+    "A shark"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "The scene gave us the phrase 'jump the shark,' for a show that has passed its best days.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jumping_the_shark",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-030",
+   "year": 1976,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Who was the first host of 'Family Feud' in 1976?",
+   "options": [
+    "Gene Rayburn",
+    "Bob Barker",
+    "Monty Hall",
+    "Richard Dawson"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He had earlier played Corporal Newkirk on 'Hogan's Heroes.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Richard_Dawson",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-031",
+   "year": 1976,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "'Laverne & Shirley' (1976) worked at a brewery in which city?",
+   "options": [
+    "Milwaukee",
+    "Chicago",
+    "St. Louis",
+    "Cleveland"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Each show opened with their skipping chant, 'Schlemiel! Schlimazel!'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Laverne_%26_Shirley",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-032",
+   "year": 1978,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "On 'Taxi' (1978), who played the grumpy dispatcher Louie De Palma?",
+   "options": [
+    "Danny DeVito",
+    "Judd Hirsch",
+    "Tony Danza",
+    "Christopher Lloyd"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Andy Kaufman played Latka, the garage's lovable mechanic.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Taxi_(TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-033",
+   "year": 1975,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "What were the high school students called on 'Welcome Back, Kotter' (1975)?",
+   "options": [
+    "The Greasers",
+    "The Sweathogs",
+    "The Jets",
+    "The Wildcats"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "John Travolta played one of them, Vinnie Barbarino.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Welcome_Back,_Kotter",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-034",
+   "year": 1977,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "On 'CHiPs' (1977), Ponch and Jon rode motorcycles for which police force?",
+   "options": [
+    "U.S. Marshals",
+    "Los Angeles Police",
+    "Texas Rangers",
+    "California Highway Patrol"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Erik Estrada played Ponch, and Larry Wilcox played Jon.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/CHiPs",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-035",
+   "year": 1981,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "On the cartoon 'The Smurfs' (1981), which wizard was always trying to catch them?",
+   "options": [
+    "Merlin",
+    "Skeletor",
+    "Rasputin",
+    "Gargamel"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "His cat was named Azrael.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Smurfs_(1981_TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-036",
+   "year": 1976,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On the sitcom 'Alice' (1976), which waitress liked to say, 'Kiss my grits!'?",
+   "options": [
+    "Alice",
+    "Vera",
+    "Flo",
+    "Belle"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Polly Holliday played Flo, who left in 1980 to star in her own spinoff show.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Alice_(American_TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-037",
+   "year": 1983,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which 'Roots' star hosted the PBS children's show 'Reading Rainbow,' starting in 1983?",
+   "options": [
+    "Ben Vereen",
+    "LeVar Burton",
+    "John Amos",
+    "Louis Gossett Jr."
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He later played Geordi La Forge on 'Star Trek: The Next Generation.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/LeVar_Burton",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-038",
+   "year": 1975,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On 'Starsky & Hutch' (1975), what did Starsky's Ford Gran Torino look like?",
+   "options": [
+    "Red with a white stripe",
+    "Black with gold trim",
+    "Blue with a white stripe",
+    "Bright yellow"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Fans nicknamed the car the 'Striped Tomato.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Starsky_%26_Hutch",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-039",
+   "year": 1975,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which 1975 sitcom was set in a New York City police station in Greenwich Village?",
+   "options": [
+    "Car 54, Where Are You?",
+    "Barney Miller",
+    "Taxi",
+    "Night Court"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Abe Vigoda's tired Detective Fish got his own spinoff, 'Fish,' in 1977.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Barney_Miller",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-040",
+   "year": 1981,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which police drama's morning roll calls ended with 'Let's be careful out there'?",
+   "options": [
+    "Cagney & Lacey",
+    "Hill Street Blues",
+    "T.J. Hooker",
+    "Simon & Simon"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Sergeant Phil Esterhaus said it at the end of each roll call.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hill_Street_Blues",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-041",
+   "year": 1982,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On 'Newhart' (1982), Bob Newhart ran a country inn in which state?",
+   "options": [
+    "New Hampshire",
+    "Maine",
+    "Vermont",
+    "Connecticut"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Its final episode revealed the whole show had been a dream of his character from 'The Bob Newhart Show.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Newhart",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-042",
+   "year": 1984,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Who hosted 'Lifestyles of the Rich and Famous,' which began in 1984?",
+   "options": [
+    "Geraldo Rivera",
+    "Dick Clark",
+    "Robin Leach",
+    "Regis Philbin"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He signed off by wishing viewers 'champagne wishes and caviar dreams.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lifestyles_of_the_Rich_and_Famous",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-043",
+   "year": 1983,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which 'Tonight Show' sidekick hosted the talent contest 'Star Search,' starting in 1983?",
+   "options": [
+    "Dick Clark",
+    "Doc Severinsen",
+    "Ed McMahon",
+    "Bob Barker"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "He was Johnny Carson's sidekick for 30 years, opening each show with 'Heeere's Johnny!'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ed_McMahon",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-044",
+   "year": 1976,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Who played Jaime Sommers on 'The Bionic Woman' (1976)?",
+   "options": [
+    "Farrah Fawcett",
+    "Lynda Carter",
+    "Lindsay Wagner",
+    "Kate Jackson"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "She won an Emmy in 1977, the first for a lead actress in a science fiction series.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lindsay_Wagner",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-045",
+   "year": 1983,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On 'He-Man and the Masters of the Universe' (1983), Prince Adam cried, 'By the power of…' what?",
+   "options": [
+    "Grayskull",
+    "Eternia",
+    "Thundera",
+    "Snake Mountain"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The cartoon was based on Mattel's toy line.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/He-Man_and_the_Masters_of_the_Universe_(1983_TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-046",
+   "year": 1976,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Who created and hosted 'The Gong Show' (1976)?",
+   "options": [
+    "Monty Hall",
+    "Chuck Barris",
+    "Wink Martindale",
+    "Gene Rayburn"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He also created 'The Dating Game' and 'The Newlywed Game.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Chuck_Barris",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-047",
+   "year": 1979,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which 'Diff'rent Strokes' housekeeper got her own spinoff, 'The Facts of Life,' in 1979?",
+   "options": [
+    "Mrs. Roper",
+    "Mrs. Drummond",
+    "Mrs. Garrett",
+    "Alice Nelson"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Charlotte Rae played her. A young Molly Ringwald was in the first season's cast.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Facts_of_Life_(TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-048",
+   "year": 1982,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On 'Silver Spoons' (1982), what ran through the rooms of Ricky's family mansion?",
+   "options": [
+    "A go-kart track",
+    "A ride-on model train",
+    "A water slide",
+    "A bowling alley"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Ricky Schroder played Ricky Stratton, a boy who moves in with his rich, fun-loving father.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Silver_Spoons",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-049",
+   "year": 1975,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "What nickname was given to the first cast of 'Saturday Night Live'?",
+   "options": [
+    "The Late Show Gang",
+    "The Second City Gang",
+    "The Midnight Crew",
+    "Not Ready for Prime-Time Players"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "The first cast included Chevy Chase, Gilda Radner, John Belushi and Dan Aykroyd.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
+   "origin": "new"
+  },
+  {
+   "id": "us75-tv-050",
+   "year": 1978,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which 'Bonanza' star played Commander Adama on 'Battlestar Galactica' in 1978?",
+   "options": [
+    "Michael Landon",
+    "Dan Blocker",
+    "Lorne Greene",
+    "William Shatner"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Richard Hatch and Dirk Benedict co-starred as the fighter pilots Apollo and Starbuck.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Battlestar_Galactica_(1978_TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-001",
+   "year": 1975,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Steven Spielberg's 'Jaws' (1975) made millions afraid to go in the ocean. What kind of animal was it about?",
+   "options": [
+    "Killer whale",
+    "Octopus",
+    "Barracuda",
+    "Great white shark"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "The mechanical shark kept breaking down, so Spielberg showed it as little as possible, which made the film even scarier.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jaws_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-002",
+   "year": 1976,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1976 film, starring Sylvester Stallone as an underdog boxer, won Best Picture?",
+   "options": [
+    "Rocky",
+    "The Champ",
+    "Raging Bull",
+    "Champion"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Stallone wrote the script himself and would only sell it if he could play the lead.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rocky",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-003",
+   "year": 1978,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "At the end of 'Grease' (1978), how does Sandy surprise Danny?",
+   "options": [
+    "She moves back to Australia",
+    "She turns up in black leather",
+    "She marries another boy",
+    "She wins a drag race"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "The movie was based on a 1971 stage musical of the same name.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Grease_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-004",
+   "year": 1980,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1980 movie had the famous line 'I am your father'?",
+   "options": [
+    "Raiders of the Lost Ark",
+    "The Empire Strikes Back",
+    "Superman II",
+    "Flash Gordon"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "George Lucas handed the director's chair to Irvin Kershner for this sequel.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Empire_Strikes_Back",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-005",
+   "year": 1981,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "'Raiders of the Lost Ark' (1981) introduced which adventurer, played by Harrison Ford?",
+   "options": [
+    "Indiana Jones",
+    "Han Solo",
+    "Rick Deckard",
+    "Jack Ryan"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Tom Selleck was the first choice, but he could not get out of his contract for 'Magnum, P.I.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-006",
+   "year": 1982,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 'E.T. the Extra-Terrestrial' (1982), what famous words did the alien say about going home?",
+   "options": [
+    "Take me home",
+    "Help me go home",
+    "I must go home",
+    "E.T. phone home"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "It passed 'Star Wars' to become the highest-grossing film of all time.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-007",
+   "year": 1983,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 'Return of the Jedi' (1983), which furry creatures helped the rebels on the forest moon of Endor?",
+   "options": [
+    "Jawas",
+    "Tribbles",
+    "Wookiees",
+    "Ewoks"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "George Lucas first planned for Wookiees to fill that role.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ewok",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-008",
+   "year": 1984,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1984 film followed a team of ghost-catching scientists in New York City?",
+   "options": [
+    "Poltergeist",
+    "Gremlins",
+    "Ghostbusters",
+    "Ghost Story"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Dan Aykroyd and Harold Ramis wrote it and starred in it with Bill Murray.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ghostbusters",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-009",
+   "year": 1984,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1984 film was about a boy whose cute pet Mogwai comes with three strict rules?",
+   "options": [
+    "E.T.",
+    "The NeverEnding Story",
+    "Gremlins",
+    "The Last Starfighter"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "The rules: keep him out of bright light, never get him wet, and never feed him after midnight.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gremlins",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-010",
+   "year": 1977,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Who starred as Tony Manero, the disco king of Brooklyn, in 'Saturday Night Fever' (1977)?",
+   "options": [
+    "Sylvester Stallone",
+    "Donny Osmond",
+    "Andy Gibb",
+    "John Travolta"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "His white suit from the film became a famous symbol of the disco era.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Saturday_Night_Fever",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-011",
+   "year": 1976,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "In 'All the President's Men' (1976), who played the reporters Woodward and Bernstein?",
+   "options": [
+    "Dustin Hoffman and Robert Redford",
+    "Jack Nicholson and Warren Beatty",
+    "Al Pacino and Gene Hackman",
+    "Paul Newman and Steve McQueen"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Redford bought the film rights to the reporters' book.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/All_the_President%27s_Men_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-012",
+   "year": 1977,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "In 'Star Wars' (1977), who gave Darth Vader his deep voice?",
+   "options": [
+    "Orson Welles",
+    "David Prowse",
+    "Harrison Ford",
+    "James Earl Jones"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "At his own request, his name was left out of the original film's credits.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/James_Earl_Jones",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-013",
+   "year": 1977,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1977 Woody Allen film won the Best Picture Oscar?",
+   "options": [
+    "Sleeper",
+    "Bananas",
+    "Manhattan",
+    "Annie Hall"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Diane Keaton won Best Actress, and her menswear look set off a fashion trend.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Annie_Hall",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-014",
+   "year": 1979,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "What was 'Kramer vs. Kramer' (1979), with Dustin Hoffman and Meryl Streep, about?",
+   "options": [
+    "A spy case at a big company",
+    "A divorce and custody fight",
+    "A man wrongly sent to prison",
+    "Two brothers who run a store"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It won Best Picture, and Streep won her first Oscar.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kramer_vs._Kramer",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-015",
+   "year": 1980,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1980 comedy starred Bill Murray as a golf course groundskeeper at war with a gopher?",
+   "options": [
+    "Meatballs",
+    "Stripes",
+    "Caddyshack",
+    "Animal House"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Chevy Chase, Rodney Dangerfield and Ted Knight also starred.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Caddyshack",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-016",
+   "year": 1980,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1980 movie starred Dan Aykroyd and John Belushi as brothers 'on a mission from God'?",
+   "options": [
+    "Animal House",
+    "Trading Places",
+    "Caddyshack",
+    "The Blues Brothers"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "The two characters began as a musical act on 'Saturday Night Live.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Blues_Brothers_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-017",
+   "year": 1982,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "In 'Tootsie' (1982), Dustin Hoffman dresses as a woman to win a part in what?",
+   "options": [
+    "A Broadway musical",
+    "A daytime soap opera",
+    "A Hollywood film",
+    "A TV variety show"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Jessica Lange won an Oscar for her role in the film.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tootsie",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-018",
+   "year": 1984,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "What was Arnold Schwarzenegger's most famous line in 'The Terminator' (1984)?",
+   "options": [
+    "Come with me if you want to live",
+    "Hasta la vista, baby",
+    "I'll be back",
+    "You've been terminated"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "James Cameron directed it on a budget of about $6.4 million.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Terminator",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-019",
+   "year": 1984,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Scary scenes in 'Gremlins' and 'Indiana Jones and the Temple of Doom' (1984) led to which new movie rating?",
+   "options": [
+    "PG-13",
+    "PG-15",
+    "R-16",
+    "NC-17"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Steven Spielberg suggested the new rating himself.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Motion_Picture_Association_film_rating_system",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-020",
+   "year": 1975,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Who played Randle McMurphy in 'One Flew Over the Cuckoo's Nest' (1975)?",
+   "options": [
+    "Dustin Hoffman",
+    "Warren Beatty",
+    "Jack Nicholson",
+    "Al Pacino"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It won all five top Oscars, the first film to do that since 'It Happened One Night' (1934).",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/One_Flew_Over_the_Cuckoo%27s_Nest_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-021",
+   "year": 1977,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "'Star Wars' opened on May 25, 1977. About how much did it cost to make?",
+   "options": [
+    "About $1 million",
+    "About $11 million",
+    "About $50 million",
+    "About $100 million"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It became the highest-grossing film of its time.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Star_Wars_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-022",
+   "year": 1977,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 'Close Encounters of the Third Kind' (1977), Richard Dreyfuss keeps shaping which landmark?",
+   "options": [
+    "Half Dome",
+    "Mount Rushmore",
+    "Devils Tower",
+    "Pikes Peak"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "People and the aliens 'talk' to each other with a five-note tune.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Close_Encounters_of_the_Third_Kind",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-023",
+   "year": 1981,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "'Chariots of Fire,' Best Picture for 1981, is about British runners at which Olympics?",
+   "options": [
+    "1924 Paris",
+    "1936 Berlin",
+    "1948 London",
+    "1952 Helsinki"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Vangelis's synthesizer theme became a hit and won the Oscar for Best Original Score.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Chariots_of_Fire",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-mov-024",
+   "year": 1978,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Who starred as the Man of Steel in the 1978 movie 'Superman'?",
+   "options": [
+    "Christopher Reeve",
+    "Harrison Ford",
+    "Christopher Walken",
+    "Burt Reynolds"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Margot Kidder played reporter Lois Lane.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Superman_(1978_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-025",
+   "year": 1977,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 'Star Wars' (1977), what was the name of Han Solo's spaceship?",
+   "options": [
+    "Galactica",
+    "Enterprise",
+    "Millennium Falcon",
+    "Death Star"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Han bragged that it 'made the Kessel Run in less than twelve parsecs.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Millennium_Falcon",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-026",
+   "year": 1980,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 'Airplane!' (1980), Leslie Nielsen tells Ted, 'I am serious… and don't call me' what?",
+   "options": [
+    "Captain",
+    "Doc",
+    "Shirley",
+    "Buddy"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "The movie poked fun at the airline disaster movies of the 1950s and 1970s.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Airplane!",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-027",
+   "year": 1984,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 'The Karate Kid' (1984), Daniel wins the big tournament from which stance he saw Mr. Miyagi do on a beach?",
+   "options": [
+    "The Mantis",
+    "The Tiger",
+    "The Dragon",
+    "The Crane"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Pat Morita was nominated for an Oscar for playing Mr. Miyagi.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Karate_Kid_(1984_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-028",
+   "year": 1984,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 'Footloose' (1984), what had the small town banned?",
+   "options": [
+    "Cars",
+    "Movies",
+    "Dancing",
+    "Television"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Kevin Bacon starred, and Kenny Loggins sang the title song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Footloose_(1984_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-029",
+   "year": 1982,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "What was the name of the dog in the 1982 movie 'Annie'?",
+   "options": [
+    "Lady",
+    "Toto",
+    "Benji",
+    "Sandy"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Albert Finney played the rich and gruff Daddy Warbucks.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Annie_(1982_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-030",
+   "year": 1978,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 'Animal House' (1978), what kind of party did the Delta fraternity throw?",
+   "options": [
+    "A toga party",
+    "A luau",
+    "A costume ball",
+    "A beach party"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "John Belushi played the wild 'Bluto' Blutarsky.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/National_Lampoon%27s_Animal_House",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-031",
+   "year": 1981,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 'Raiders of the Lost Ark' (1981), what is Indiana Jones afraid of?",
+   "options": [
+    "Snakes",
+    "Spiders",
+    "Heights",
+    "Rats"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "In one famous scene he has to drop into a pit full of them.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-032",
+   "year": 1984,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Who played the Detroit cop Axel Foley in 'Beverly Hills Cop' (1984)?",
+   "options": [
+    "Richard Pryor",
+    "Eddie Murphy",
+    "Gregory Hines",
+    "Billy Crystal"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Its catchy synthesizer theme is called 'Axel F.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Beverly_Hills_Cop",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-033",
+   "year": 1984,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 'Splash' (1984), Tom Hanks falls in love with what?",
+   "options": [
+    "An alien",
+    "A ghost",
+    "A robot",
+    "A mermaid"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Daryl Hannah played the mermaid, who takes the name Madison from a New York street sign.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Splash_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-034",
+   "year": 1977,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "In 'Smokey and the Bandit' (1977), what cargo did the Bandit's team rush from Texas to Georgia?",
+   "options": [
+    "Cigarettes",
+    "Moonshine",
+    "Peaches",
+    "Coors beer"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Burt Reynolds drove a black Pontiac Trans Am to distract the police from the truck.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Smokey_and_the_Bandit",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-035",
+   "year": 1975,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "What did the film crew nickname the mechanical shark in 'Jaws' (1975)?",
+   "options": [
+    "Big Al",
+    "Bruce",
+    "Chomper",
+    "Moby"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was named after Steven Spielberg's lawyer.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jaws_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-036",
+   "year": 1982,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which future 'A-Team' star played the boxer Clubber Lang in 'Rocky III' (1982)?",
+   "options": [
+    "Mr. T",
+    "Hulk Hogan",
+    "Carl Weathers",
+    "Dolph Lundgren"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Wrestler Hulk Hogan was in the film too, as 'Thunderlips.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rocky_III",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-037",
+   "year": 1977,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which British actor played Obi-Wan Kenobi in 'Star Wars' (1977)?",
+   "options": [
+    "Alec Guinness",
+    "Peter Cushing",
+    "Christopher Lee",
+    "Laurence Olivier"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He was nominated for an Oscar for the role.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Alec_Guinness",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-038",
+   "year": 1982,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which candy did Elliott use to lead the alien into his house in 'E.T.' (1982)?",
+   "options": [
+    "Reese's Pieces",
+    "Jelly beans",
+    "Gumdrops",
+    "Licorice"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The makers of M&M's had turned down the chance to have their candy in the film.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Reese%27s_Pieces",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-039",
+   "year": 1984,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "What giant figure stomped through New York near the end of 'Ghostbusters' (1984)?",
+   "options": [
+    "A huge snowman",
+    "A giant gorilla",
+    "The Stay Puft Marshmallow Man",
+    "A giant robot"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Ray tried to think of something harmless from his childhood, and the villain took that shape.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ghostbusters",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-040",
+   "year": 1982,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Ben Kingsley played the title role in which film, the big Oscar winner for 1982?",
+   "options": [
+    "Missing",
+    "The Verdict",
+    "Gandhi",
+    "Reds"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It won eight Oscars, including Best Picture, Best Director and Best Actor.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gandhi_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-041",
+   "year": 1984,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which 1984 Best Picture winner told the story of the composer Mozart?",
+   "options": [
+    "The Magic Flute",
+    "Amadeus",
+    "Immortal Beloved",
+    "A Passage to India"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "F. Murray Abraham won Best Actor for playing Mozart's jealous rival, Salieri.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Amadeus_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-042",
+   "year": 1980,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which movie star won the Best Director Oscar for his very first film, 'Ordinary People' (1980)?",
+   "options": [
+    "Robert Redford",
+    "Warren Beatty",
+    "Clint Eastwood",
+    "Paul Newman"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The film also won the Oscar for Best Picture.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ordinary_People",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-043",
+   "year": 1981,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 'On Golden Pond' (1981), Henry Fonda acted with his real-life daughter. Who was she?",
+   "options": [
+    "Katharine Ross",
+    "Bridget Fonda",
+    "Sally Field",
+    "Jane Fonda"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Henry Fonda and Katharine Hepburn both won Oscars for the film.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/On_Golden_Pond_(1981_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-044",
+   "year": 1980,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Sissy Spacek won an Oscar playing which country singer in 'Coal Miner's Daughter' (1980)?",
+   "options": [
+    "Dolly Parton",
+    "Patsy Cline",
+    "Tammy Wynette",
+    "Loretta Lynn"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Spacek did her own singing in the film.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Coal_Miner%27s_Daughter_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-045",
+   "year": 1979,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Bo Derek's beaded braids started a craze after which 1979 movie?",
+   "options": [
+    "Tarzan",
+    "Foul Play",
+    "10",
+    "Arthur"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Dudley Moore co-starred, and Blake Edwards directed it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/10_(1979_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-046",
+   "year": 1980,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Robin Williams played which cartoon sailor in a 1980 movie musical?",
+   "options": [
+    "Sinbad",
+    "Popeye",
+    "Captain Hook",
+    "Bluto"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Shelley Duvall played Olive Oyl.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Popeye_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-047",
+   "year": 1983,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 'National Lampoon's Vacation' (1983), the Griswolds drove across the country to which theme park?",
+   "options": [
+    "Wonderland",
+    "Walley World",
+    "Kiddieland",
+    "Fun World"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Chevy Chase played the dad, Clark Griswold.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/National_Lampoon%27s_Vacation",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-048",
+   "year": 1977,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which James Bond villain, first seen in 1977, had teeth made of steel?",
+   "options": [
+    "Oddjob",
+    "Jaws",
+    "Blofeld",
+    "Scaramanga"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Richard Kiel played him in 'The Spy Who Loved Me' and 'Moonraker.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jaws_(James_Bond)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-049",
+   "year": 1979,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 'Norma Rae' (1979), what word did Sally Field write on a sign and hold up high?",
+   "options": [
+    "STRIKE",
+    "UNION",
+    "FREEDOM",
+    "EQUAL"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Field won the Oscar for Best Actress for the role.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Norma_Rae",
+   "origin": "new"
+  },
+  {
+   "id": "us75-mov-050",
+   "year": 1976,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Who played Rocky's shy girlfriend Adrian in 'Rocky' (1976)?",
+   "options": [
+    "Diane Keaton",
+    "Talia Shire",
+    "Sally Field",
+    "Karen Black"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "She also played Connie Corleone in 'The Godfather' films.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Talia_Shire",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-001",
+   "year": 1976,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "How old was Nadia Comăneci when she scored the first perfect 10 in Olympic gymnastics, in 1976?",
+   "options": [
+    "14",
+    "16",
+    "18",
+    "20"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The scoreboard could not show 10.00, so it flashed 1.00 instead.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-002",
+   "year": 1977,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Reggie Jackson hit three home runs in Game 6 of the 1977 World Series. What nickname did he earn?",
+   "options": [
+    "Mr. October",
+    "Mr. Clutch",
+    "The Say Hey Kid",
+    "Mr. Cub"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Each one came on the first pitch, off three different Dodgers pitchers.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Reggie_Jackson",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-003",
+   "year": 1980,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "What was the U.S. hockey team's stunning 1980 Olympic win over the Soviet Union called?",
+   "options": [
+    "The Golden Goal",
+    "The Lake Placid Upset",
+    "The Miracle on Ice",
+    "The Cold War Classic"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Al Michaels called the final seconds: 'Do you believe in miracles? Yes!'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Miracle_on_Ice",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-004",
+   "year": 1981,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Wayne Gretzky won the NHL's MVP award in 1981. What was his nickname?",
+   "options": [
+    "The Great One",
+    "The Rocket",
+    "The Golden Jet",
+    "Mr. Hockey"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "In the 1981–82 season he scored a record 92 goals.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Wayne_Gretzky",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-005",
+   "year": 1975,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Who hit the famous home run that won Game 6 of the 1975 World Series for Boston?",
+   "options": [
+    "Johnny Bench",
+    "Carl Yastrzemski",
+    "Pete Rose",
+    "Carlton Fisk"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He waved his arms to will the ball fair. It hit the foul pole in the 12th inning.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1975_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-006",
+   "year": 1976,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Who was the star catcher of Cincinnati's 'Big Red Machine,' which swept the 1976 World Series?",
+   "options": [
+    "Ted Simmons",
+    "Johnny Bench",
+    "Thurman Munson",
+    "Carlton Fisk"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He was named the Most Valuable Player of that World Series.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1976_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-007",
+   "year": 1977,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "What made Seattle Slew's 1977 Triple Crown unique?",
+   "options": [
+    "His jockey was a woman",
+    "He was the oldest winner",
+    "He won every race by 10 lengths",
+    "He was still unbeaten"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He had been bought as a yearling for only $17,500.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Seattle_Slew",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-008",
+   "year": 1978,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Affirmed won the 1978 Triple Crown by beating which rival horse in all three races?",
+   "options": [
+    "Seattle Slew",
+    "Spectacular Bid",
+    "Secretariat",
+    "Alydar"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Alydar finished second in all three races.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Affirmed",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-009",
+   "year": 1979,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Who was the Pittsburgh Steelers' quarterback when they won Super Bowl XIII in January 1979?",
+   "options": [
+    "Joe Namath",
+    "Terry Bradshaw",
+    "Roger Staubach",
+    "Ken Stabler"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He threw four touchdown passes against Dallas and was named the game's MVP.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Super_Bowl_XIII",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-010",
+   "year": 1979,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Magic Johnson and Larry Bird met in the 1979 college title game. Which team did Magic lead to victory?",
+   "options": [
+    "Indiana State",
+    "UCLA",
+    "North Carolina",
+    "Michigan State"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "They beat Larry Bird's Indiana State, 75–64.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1979_NCAA_Division_I_basketball_championship_game",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-011",
+   "year": 1982,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Which team, coached by Bill Walsh, won Super Bowl XVI in January 1982?",
+   "options": [
+    "Pittsburgh Steelers",
+    "San Francisco 49ers",
+    "Dallas Cowboys",
+    "Miami Dolphins"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Joe Montana led them past the Cincinnati Bengals, 26–21.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Super_Bowl_XVI",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-012",
+   "year": 1984,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Carl Lewis won four gold medals at the 1984 Los Angeles Olympics, matching which legend's 1936 feat?",
+   "options": [
+    "Mark Spitz",
+    "Jim Thorpe",
+    "Bob Beamon",
+    "Jesse Owens"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Both men won the 100 meters, 200 meters, long jump and sprint relay.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Carl_Lewis",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-013",
+   "year": 1975,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Arthur Ashe won Wimbledon in 1975 by upsetting which heavily favored champion?",
+   "options": [
+    "Björn Borg",
+    "Jimmy Connors",
+    "Stan Smith",
+    "Ilie Năstase"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "He was the first Black man to win the Wimbledon singles title.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Arthur_Ashe",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-014",
+   "year": 1978,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which 1976 Olympic champion beat Muhammad Ali for the heavyweight title in February 1978?",
+   "options": [
+    "Larry Holmes",
+    "Leon Spinks",
+    "Ken Norton",
+    "Michael Spinks"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was only his eighth pro fight. Ali won the rematch that September.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Leon_Spinks",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-015",
+   "year": 1978,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Chris Evert and Martina Navratilova had tennis's great rivalry. How many Grand Slam finals did they play against each other?",
+   "options": [
+    "6",
+    "10",
+    "14",
+    "22"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "They played each other 80 times in all.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Evert%E2%80%93Navratilova_rivalry",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-016",
+   "year": 1978,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Who managed the Yankees to the 1978 World Series title after Billy Martin left in midseason?",
+   "options": [
+    "Yogi Berra",
+    "Ralph Houk",
+    "Bob Lemon",
+    "Dick Howser"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "In July the Yankees had been 14 games behind the Red Sox.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1978_New_York_Yankees_season",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-017",
+   "year": 1979,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "The 1979 Pittsburgh Pirates used 'We Are Family' as their theme. Who was their veteran star, known as 'Pops'?",
+   "options": [
+    "Roberto Clemente",
+    "Dave Parker",
+    "Willie Stargell",
+    "Al Oliver"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "At 39, he was named MVP of that World Series.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1979_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-018",
+   "year": 1980,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which British runner won the 1,500 meters at the 1980 Moscow Olympics?",
+   "options": [
+    "Saïd Aouita",
+    "Steve Ovett",
+    "Sebastian Coe",
+    "John Walker"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "He took silver in the 800 meters, which his rival Steve Ovett won. Coe won the 1,500 again in 1984.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sebastian_Coe",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-019",
+   "year": 1983,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Australia II won the 1983 America's Cup, ending how many years of American wins?",
+   "options": [
+    "52 years",
+    "75 years",
+    "100 years",
+    "132 years"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "The Australian boat had a secret 'winged keel.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1983_America%27s_Cup",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-020",
+   "year": 1983,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which horse won the 1983 Kentucky Derby?",
+   "options": [
+    "Secretariat",
+    "Sunny's Halo",
+    "Slew o' Gold",
+    "Desert Wine"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He was a Canadian-bred colt.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sunny%27s_Halo",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-021",
+   "year": 1984,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In 1984, Martina Navratilova set a pro tennis record by winning how many matches in a row?",
+   "options": [
+    "54",
+    "74",
+    "86",
+    "112"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "She also won six Grand Slam singles titles in a row in 1983 and 1984.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Martina_Navratilova",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-spt-022",
+   "year": 1976,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which American figure skater won gold in 1976 and started a craze for her short 'wedge' haircut?",
+   "options": [
+    "Peggy Fleming",
+    "Dorothy Hamill",
+    "Janet Lynn",
+    "Tai Babilonia"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "She won at the 1976 Winter Olympics in Innsbruck, Austria.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dorothy_Hamill",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-023",
+   "year": 1984,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which 16-year-old American won the women's all-around gymnastics gold at the 1984 Olympics?",
+   "options": [
+    "Nadia Comăneci",
+    "Kathy Johnson",
+    "Julianne McNamara",
+    "Mary Lou Retton"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "She was the first American woman to win it, and she later appeared on the Wheaties box.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mary_Lou_Retton",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-024",
+   "year": 1984,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1984, Kareem Abdul-Jabbar became the NBA's top career scorer. What was his signature shot?",
+   "options": [
+    "The skyhook",
+    "The finger roll",
+    "The fadeaway",
+    "The slam dunk"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "In April 1984 he passed Wilt Chamberlain's career points record.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kareem_Abdul-Jabbar",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-025",
+   "year": 1978,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which NFL team became known as 'America's Team' in the late 1970s?",
+   "options": [
+    "Miami Dolphins",
+    "Pittsburgh Steelers",
+    "Green Bay Packers",
+    "Dallas Cowboys"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "The name came from the team's 1978 highlight film.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dallas_Cowboys",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-026",
+   "year": 1975,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Pittsburgh Steelers fans wave what yellow item, first handed out in 1975?",
+   "options": [
+    "The Steel Scarf",
+    "The Terrible Towel",
+    "The Golden Flag",
+    "The Yellow Hankie"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Steelers radio announcer Myron Cope came up with the idea.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Terrible_Towel",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-027",
+   "year": 1980,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Swedish star won five Wimbledon titles in a row, from 1976 to 1980?",
+   "options": [
+    "Stefan Edberg",
+    "Mats Wilander",
+    "Björn Borg",
+    "Ilie Năstase"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "His streak ended in the 1981 final against John McEnroe.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bj%C3%B6rn_Borg",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-028",
+   "year": 1981,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which hot-tempered tennis star shouted 'You cannot be serious!' at Wimbledon in 1981?",
+   "options": [
+    "John McEnroe",
+    "Jimmy Connors",
+    "Ilie Năstase",
+    "Björn Borg"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He yelled it at an umpire over a line call, and he went on to win the tournament.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/John_McEnroe",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-029",
+   "year": 1984,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Larry Bird led which team to NBA titles in 1981 and 1984?",
+   "options": [
+    "Boston Celtics",
+    "Los Angeles Lakers",
+    "Philadelphia 76ers",
+    "Indiana Pacers"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He was named the NBA's MVP three years in a row, starting in 1984.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Larry_Bird",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-030",
+   "year": 1984,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Who swept both men's diving events, springboard and platform, at the 1984 Los Angeles Games?",
+   "options": [
+    "Bart Conner",
+    "Mark Spitz",
+    "Matt Biondi",
+    "Greg Louganis"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He won both events again at the 1988 Olympics in Seoul.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Greg_Louganis",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-031",
+   "year": 1981,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Dodgers rookie pitcher from Mexico set off 'Fernandomania' in 1981?",
+   "options": [
+    "Luis Tiant",
+    "Orel Hershiser",
+    "Fernando Valenzuela",
+    "Dennis Martínez"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "He won both the Rookie of the Year and the Cy Young Award that season.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Fernando_Valenzuela",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-032",
+   "year": 1984,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1984, which Chicago Bears runner, nicknamed 'Sweetness,' became the NFL's all-time leading rusher?",
+   "options": [
+    "Earl Campbell",
+    "Tony Dorsett",
+    "Walter Payton",
+    "Eric Dickerson"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "He broke the record held by Jim Brown.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Walter_Payton",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-033",
+   "year": 1981,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1981, Nolan Ryan set a record by throwing his fifth career what?",
+   "options": [
+    "No-hitter",
+    "Perfect game",
+    "Grand slam",
+    "Triple play"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He finished his career with seven of them, still the record.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Nolan_Ryan",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-034",
+   "year": 1982,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Alabama coach in a houndstooth hat retired in 1982 with the most wins in college football history?",
+   "options": [
+    "Bear Bryant",
+    "Woody Hayes",
+    "Joe Paterno",
+    "Bobby Bowden"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He won six national championships at Alabama and finished with 323 wins.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bear_Bryant",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-035",
+   "year": 1982,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "As a freshman, Michael Jordan hit the winning shot in the 1982 college title game for which school?",
+   "options": [
+    "Kentucky",
+    "Duke",
+    "Georgetown",
+    "North Carolina"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "They beat Georgetown, 63–62.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1982_NCAA_Division_I_men%27s_basketball_championship_game",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-036",
+   "year": 1981,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1981, which driver, called 'The King,' won his record seventh Daytona 500?",
+   "options": [
+    "Richard Petty",
+    "Cale Yarborough",
+    "Bobby Allison",
+    "Darrell Waltrip"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He won 200 NASCAR races in all, still the record.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Richard_Petty",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-037",
+   "year": 1980,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "The 1980 Winter Olympics were held in which small New York town?",
+   "options": [
+    "Saratoga Springs",
+    "Lake Placid",
+    "Cooperstown",
+    "Ithaca"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It had also hosted the Winter Olympics in 1932.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lake_Placid,_New_York",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-038",
+   "year": 1983,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "In the 1983 'Pine Tar Game,' whose home run was taken away and later given back?",
+   "options": [
+    "Mike Schmidt",
+    "Reggie Jackson",
+    "George Brett",
+    "Eddie Murray"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "The umpires said he had too much pine tar on his bat. The league later overturned the call.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pine_Tar_Incident",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-039",
+   "year": 1980,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "How many gold medals did speed skater Eric Heiden win at the 1980 Winter Olympics?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He won all five men's speed skating races, from the shortest to the longest.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Eric_Heiden",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-040",
+   "year": 1978,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In 1978, Pete Rose set a modern National League record with a hitting streak of how many games?",
+   "options": [
+    "31",
+    "44",
+    "56",
+    "61"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Only Joe DiMaggio's 56-game streak is longer.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pete_Rose",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-041",
+   "year": 1982,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In January 1982, which 49ers receiver made 'The Catch' from Joe Montana to beat Dallas?",
+   "options": [
+    "Freddie Solomon",
+    "Jerry Rice",
+    "Dwight Clark",
+    "Roger Craig"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It sent San Francisco to its first Super Bowl.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Catch_(American_football)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-042",
+   "year": 1980,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "As a rookie in the deciding game of the 1980 NBA Finals, Magic Johnson started at which position?",
+   "options": [
+    "Center",
+    "Point guard",
+    "Shooting guard",
+    "Power forward"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He filled in for the hurt Kareem Abdul-Jabbar, scored 42 points and was named Finals MVP.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1980_NBA_Finals",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-043",
+   "year": 1983,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which NHL team won four Stanley Cups in a row, from 1980 to 1983?",
+   "options": [
+    "Montreal Canadiens",
+    "New York Islanders",
+    "Edmonton Oilers",
+    "Boston Bruins"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "They won 19 playoff series in a row, a record in North American pro sports.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/New_York_Islanders",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-044",
+   "year": 1978,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which 18-year-old jockey rode Affirmed to the 1978 Triple Crown?",
+   "options": [
+    "Steve Cauthen",
+    "Willie Shoemaker",
+    "Laffit Pincay Jr.",
+    "Angel Cordero Jr."
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He had been named Sports Illustrated's Sportsman of the Year at 17.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Steve_Cauthen",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-045",
+   "year": 1984,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Who won the first women's Olympic marathon, in 1984?",
+   "options": [
+    "Mary Decker",
+    "Grete Waitz",
+    "Joan Benoit",
+    "Rosa Mota"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Grete Waitz of Norway finished second.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Joan_Benoit",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-046",
+   "year": 1978,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In 1978, a company named what after Yankee slugger Reggie Jackson?",
+   "options": [
+    "A bubble gum",
+    "A breakfast cereal",
+    "A soft drink",
+    "A candy bar"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "When he homered at the 1978 home opener, fans threw the free candy bars onto the field.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Reggie_Jackson",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-047",
+   "year": 1984,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In 1984, Dan Marino set an NFL record with how many touchdown passes in one season?",
+   "options": [
+    "36",
+    "40",
+    "48",
+    "55"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "He also became the first quarterback to pass for 5,000 yards in a season.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dan_Marino",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-048",
+   "year": 1984,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which Boston College quarterback threw a famous 'Hail Mary' pass to beat Miami in 1984?",
+   "options": [
+    "Doug Flutie",
+    "Bernie Kosar",
+    "John Elway",
+    "Jim Kelly"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He won the Heisman Trophy that season.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Doug_Flutie",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-049",
+   "year": 1983,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which NC State coach ran around the court looking for someone to hug after winning the 1983 college title?",
+   "options": [
+    "Dean Smith",
+    "Jim Valvano",
+    "John Thompson",
+    "Bobby Knight"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "His team won on a last-second dunk by Lorenzo Charles.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1983_NCAA_Division_I_men%27s_basketball_championship_game",
+   "origin": "new"
+  },
+  {
+   "id": "us75-spt-050",
+   "year": 1977,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Who beat Jack Nicklaus in their 1977 British Open 'Duel in the Sun' at Turnberry?",
+   "options": [
+    "Johnny Miller",
+    "Lee Trevino",
+    "Tom Watson",
+    "Hale Irwin"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Americans filled the top eight places on the final leaderboard.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1977_Open_Championship",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-001",
+   "year": 1975,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In July 1975, American and Soviet spacecraft linked up in orbit. What did the two crews famously do?",
+   "options": [
+    "Sang both national anthems",
+    "Swapped spacecraft",
+    "Played a game of chess",
+    "Shook hands through the hatch"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Astronaut Tom Stafford and cosmonaut Alexei Leonov made the first handshake in space between the two countries.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Apollo%E2%80%93Soyuz",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-002",
+   "year": 1976,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "America turned 200 years old in 1976. What was the word for that celebration?",
+   "options": [
+    "Centennial",
+    "Tricentennial",
+    "Bicentennial",
+    "Jubilee"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Special Bicentennial quarters, half dollars and dollar coins showed the dates 1776–1976.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/United_States_Bicentennial",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-003",
+   "year": 1976,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Jimmy Carter won the presidency in 1976. What was his family's business back home in Georgia?",
+   "options": [
+    "Peanut farming",
+    "Cotton growing",
+    "Peach orchards",
+    "A lumber mill"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Before running for president, he had been governor of Georgia.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-004",
+   "year": 1978,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which U.S. president brought the leaders of Egypt and Israel together for the 1978 Camp David Accords?",
+   "options": [
+    "Ronald Reagan",
+    "Gerald Ford",
+    "Jimmy Carter",
+    "Richard Nixon"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Egypt's Anwar Sadat and Israel's Menachem Begin shared the 1978 Nobel Peace Prize.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Camp_David_Accords",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-005",
+   "year": 1978,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Louise Brown, born in England in July 1978, was the world's first what?",
+   "options": [
+    "Baby born at sea",
+    "Cloned baby",
+    "'Test-tube' baby",
+    "Septuplet"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Patrick Steptoe and Robert Edwards spent years developing the method that made her birth possible.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Louise_Brown",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-006",
+   "year": 1975,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Bill Gates and Paul Allen founded Microsoft in 1975. What was their first product?",
+   "options": [
+    "BASIC for the Altair 8800",
+    "MS-DOS",
+    "Windows",
+    "A word processor"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The Altair was a small computer sold as a kit for hobbyists.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Altair_BASIC",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-007",
+   "year": 1976,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "On July 4, 1976, what filled New York Harbor for the event called 'Operation Sail'?",
+   "options": [
+    "Tall sailing ships",
+    "Navy submarines",
+    "Racing speedboats",
+    "Floating stages"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Tall ships came from many nations for the nation's 200th birthday.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Operation_Sail",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-008",
+   "year": 1977,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "In November 1977, Egypt's Anwar Sadat made a historic visit to which country?",
+   "options": [
+    "The Soviet Union",
+    "The United States",
+    "Israel",
+    "China"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "He was the first Arab leader to visit Israel, and he spoke to its parliament, the Knesset.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Anwar_Sadat",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-009",
+   "year": 1981,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "In August 1981, IBM brought out its first mass-market personal computer. What was it called?",
+   "options": [
+    "IBM 5100",
+    "IBM PC",
+    "IBM 8086",
+    "IBM XT"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It ran an operating system from a young company called Microsoft.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/IBM_Personal_Computer",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-010",
+   "year": 1982,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "In April 1982, Queen Elizabeth II signed a law letting which country change its own constitution without Britain?",
+   "options": [
+    "Australia",
+    "Canada",
+    "New Zealand",
+    "Jamaica"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Prime Minister Pierre Trudeau led the effort.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Constitution_Act,_1982",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-011",
+   "year": 1984,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Ronald Reagan won re-election in 1984 in a landslide. How many states did he carry?",
+   "options": [
+    "40",
+    "44",
+    "49",
+    "50"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Walter Mondale won only his home state of Minnesota and Washington, D.C.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1984_United_States_presidential_election",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-012",
+   "year": 1976,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "What did Ronald Wayne, Apple's little-known third founder, sell his 10% share for in 1976?",
+   "options": [
+    "$1 million",
+    "$800",
+    "$8,000",
+    "$80,000"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He sold it less than two weeks after Apple was founded.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ronald_Wayne",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-013",
+   "year": 1980,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "When Zimbabwe became independent in 1980, what had the country been called?",
+   "options": [
+    "Nyasaland",
+    "Tanganyika",
+    "Bechuanaland",
+    "Rhodesia"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Its capital, Salisbury, was renamed Harare in 1982.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Harare",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-hdl-014",
+   "year": 1976,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which red planet did NASA's Viking 1 lander reach in July 1976?",
+   "options": [
+    "Saturn",
+    "Venus",
+    "Mercury",
+    "Mars"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "It landed on July 20, 1976, seven years to the day after the first Moon landing.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Viking_1",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-015",
+   "year": 1981,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "What was the name of the first space shuttle to fly into orbit, in April 1981?",
+   "options": [
+    "Discovery",
+    "Challenger",
+    "Columbia",
+    "Enterprise"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It blasted off like a rocket and, two days later, landed like an airplane in California.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/STS-1",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-016",
+   "year": 1983,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In June 1983, Sally Ride made history aboard the space shuttle Challenger. What did she become?",
+   "options": [
+    "First woman to orbit the Moon",
+    "First woman to command a shuttle",
+    "First American woman in space",
+    "First woman to land a shuttle"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "She was a physicist, and she was 32 years old when she flew.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sally_Ride",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-017",
+   "year": 1981,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1981, who became the first woman on the U.S. Supreme Court?",
+   "options": [
+    "Elizabeth Dole",
+    "Ruth Bader Ginsburg",
+    "Shirley Hufstedler",
+    "Sandra Day O'Connor"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "President Reagan chose her. She was a judge from Arizona.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-018",
+   "year": 1979,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which British prime minister, who took office in 1979, was nicknamed 'the Iron Lady'?",
+   "options": [
+    "Golda Meir",
+    "Indira Gandhi",
+    "Margaret Thatcher",
+    "Shirley Williams"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "She was the first woman to hold the job, and she served until 1990.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-019",
+   "year": 1978,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1978, John Paul II became the first pope in centuries from outside Italy. Which country was he from?",
+   "options": [
+    "Germany",
+    "Poland",
+    "Ireland",
+    "Spain"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Before he became pope, he was Cardinal Karol Wojtyła of Kraków.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pope_John_Paul_II",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-020",
+   "year": 1982,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which royal baby was born to Prince Charles and Princess Diana in June 1982?",
+   "options": [
+    "Prince William",
+    "Prince Harry",
+    "Prince Andrew",
+    "Prince Edward"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "His younger brother, Prince Harry, was born two years later, in 1984.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/William,_Prince_of_Wales",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-021",
+   "year": 1983,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1983, President Reagan signed a law creating a national holiday honoring whom?",
+   "options": [
+    "Martin Luther King Jr.",
+    "Abraham Lincoln",
+    "Susan B. Anthony",
+    "Frederick Douglass"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The new holiday was first observed in January 1986.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr._Day",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-022",
+   "year": 1982,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In October 1982, Walt Disney World opened which futuristic park?",
+   "options": [
+    "Tomorrowland",
+    "EPCOT Center",
+    "Disney-MGM Studios",
+    "Animal Kingdom"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Its giant silver ball, Spaceship Earth, has a ride inside.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Epcot",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-023",
+   "year": 1979,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which nun, famous for caring for the poor in Calcutta, won the 1979 Nobel Peace Prize?",
+   "options": [
+    "Mother Seton",
+    "Mother Angelica",
+    "Mother Cabrini",
+    "Mother Teresa"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "She was born in Skopje, in what is now North Macedonia.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mother_Teresa",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-024",
+   "year": 1984,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In a 1984 debate, Walter Mondale borrowed which fast-food ad line to tease rival Gary Hart?",
+   "options": [
+    "Two all-beef patties",
+    "Have it your way",
+    "You deserve a break today",
+    "Where's the beef?"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "The line came from a Wendy's ad starring Clara Peller.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Where%27s_the_beef%3F",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-025",
+   "year": 1984,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1984, who became the first woman on a major party's presidential ticket?",
+   "options": [
+    "Elizabeth Dole",
+    "Shirley Chisholm",
+    "Geraldine Ferraro",
+    "Pat Schroeder"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "The New York congresswoman was Walter Mondale's running mate.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Geraldine_Ferraro",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-026",
+   "year": 1977,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Under 1977 treaties signed by President Carter, the U.S. agreed to hand which waterway over by 1999?",
+   "options": [
+    "The Kiel Canal",
+    "The Suez Canal",
+    "The Erie Canal",
+    "The Panama Canal"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Panama's leader, Omar Torrijos, signed the treaties with Carter.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Torrijos%E2%80%93Carter_Treaties",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-027",
+   "year": 1979,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1979, the U.S. Mint released a small dollar coin honoring which women's rights leader?",
+   "options": [
+    "Sacagawea",
+    "Susan B. Anthony",
+    "Eleanor Roosevelt",
+    "Amelia Earhart"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "People often mixed it up with the quarter because the two coins were so close in size.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Susan_B._Anthony_dollar",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-028",
+   "year": 1981,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Who served as Ronald Reagan's vice president, starting in 1981?",
+   "options": [
+    "Bob Dole",
+    "Walter Mondale",
+    "Dan Quayle",
+    "George H. W. Bush"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He had earlier been director of the CIA, and he was elected president himself in 1988.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-029",
+   "year": 1977,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "What did NASA put aboard the two Voyager probes in 1977, in case aliens ever found them?",
+   "options": [
+    "A golden record",
+    "A U.S. flag",
+    "A photo of the president",
+    "A copy of the Constitution"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Astronomer Carl Sagan led the team that chose its sounds and pictures.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Voyager_Golden_Record",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-030",
+   "year": 1984,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "In 1984, Britain agreed to hand which territory back to China in 1997?",
+   "options": [
+    "Hong Kong",
+    "Macau",
+    "Singapore",
+    "Taiwan"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The deal was called the Sino-British Joint Declaration.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sino-British_Joint_Declaration",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-031",
+   "year": 1984,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "In 1984, the government broke up which phone giant, nicknamed 'Ma Bell'?",
+   "options": [
+    "Sprint",
+    "GTE",
+    "MCI",
+    "AT&T"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Its local phone service was split into seven regional 'Baby Bells.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Breakup_of_the_Bell_System",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-032",
+   "year": 1979,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Which carmaker, led by Lee Iacocca, got federal loan guarantees in 1979 to stay in business?",
+   "options": [
+    "Ford",
+    "Chrysler",
+    "American Motors",
+    "Studebaker"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Iacocca had earlier helped create the Ford Mustang.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lee_Iacocca",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-033",
+   "year": 1980,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1980, Ronald Reagan became the oldest person yet elected to a first term as president. How old was he?",
+   "options": [
+    "65",
+    "67",
+    "69",
+    "72"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "He had won 44 states in the 1980 election.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1980_United_States_presidential_election",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-034",
+   "year": 1982,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "The 1982 World's Fair in Knoxville had a tower topped by a golden globe. What is it called?",
+   "options": [
+    "The Sunsphere",
+    "The Unisphere",
+    "The Space Needle",
+    "The Golden Orb"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Its gold-colored glass globe is 75 feet across.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sunsphere",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-035",
+   "year": 1977,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "The Trans-Alaska Pipeline began carrying oil in 1977. Which port town is at its southern end?",
+   "options": [
+    "Nome",
+    "Anchorage",
+    "Juneau",
+    "Valdez"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "It runs about 800 miles from Prudhoe Bay on the Arctic coast.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Trans-Alaska_Pipeline_System",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-036",
+   "year": 1980,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which Polish shipyard electrician led the Solidarity movement, starting in 1980?",
+   "options": [
+    "Wojciech Jaruzelski",
+    "Václav Havel",
+    "Lech Wałęsa",
+    "Karol Wojtyła"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He won the Nobel Peace Prize in 1983.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-037",
+   "year": 1984,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which South African church leader won the Nobel Peace Prize in 1984?",
+   "options": [
+    "Nelson Mandela",
+    "Desmond Tutu",
+    "F. W. de Klerk",
+    "Albert Luthuli"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "He later became Archbishop of Cape Town.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Desmond_Tutu",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-038",
+   "year": 1979,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1979, the 'Gossamer Albatross' flew across the English Channel powered by what?",
+   "options": [
+    "Batteries",
+    "Solar power",
+    "A small gas engine",
+    "Pedal power"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Cyclist Bryan Allen pedaled it for nearly three hours.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/MacCready_Gossamer_Albatross",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-039",
+   "year": 1978,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1978, Double Eagle II made the first crossing of the Atlantic Ocean in what?",
+   "options": [
+    "A balloon",
+    "A blimp",
+    "A glider",
+    "A rowboat"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Its three-man crew landed near Paris after about 137 hours in the air.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Double_Eagle_II",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-040",
+   "year": 1983,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1983, who became the first Black woman crowned Miss America?",
+   "options": [
+    "Halle Berry",
+    "Vanessa Williams",
+    "Suzette Charles",
+    "Debbye Turner"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "She went on to become a hit singer and actress.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Vanessa_Williams",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-041",
+   "year": 1983,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Who became the first African American in space, in 1983?",
+   "options": [
+    "Mae Jemison",
+    "Charles Bolden",
+    "Fred Gregory",
+    "Guion Bluford"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He had been an Air Force fighter pilot before joining NASA.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Guion_Bluford",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-042",
+   "year": 1980,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In their 1980 debate, which famous line did Ronald Reagan use to answer Jimmy Carter?",
+   "options": [
+    "Read my lips",
+    "There you go again",
+    "It's the economy, stupid",
+    "Speak softly"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "He also asked voters, 'Are you better off than you were four years ago?'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1980_United_States_presidential_debates",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-043",
+   "year": 1977,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "After his 1977 inauguration, how did Jimmy Carter surprise the crowd?",
+   "options": [
+    "He rode a horse to the White House",
+    "He walked to the White House",
+    "He gave no speech",
+    "He drove a pickup truck"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He was the first president to walk from the Capitol to the White House in the inaugural parade.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Inauguration_of_Jimmy_Carter",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-044",
+   "year": 1978,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1978, Reinhold Messner and Peter Habeler were the first to climb Mount Everest without what?",
+   "options": [
+    "A tent",
+    "A guide",
+    "Ropes",
+    "Bottled oxygen"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Messner climbed it again in 1980, this time alone.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Reinhold_Messner",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-045",
+   "year": 1975,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1975 and 1976, the 'American Freedom Train' toured the country carrying what?",
+   "options": [
+    "Historic American treasures",
+    "New cars for sale",
+    "Free food",
+    "Army tanks"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Restored steam locomotives pulled it on a route through all 48 mainland states.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/American_Freedom_Train",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-046",
+   "year": 1983,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1983, Motorola began selling the first handheld cell phone. What was it nicknamed?",
+   "options": [
+    "The Banana",
+    "The Shoe",
+    "The Brick",
+    "The Walkie"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "The DynaTAC 8000X cost $3,995.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Motorola_DynaTAC",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-047",
+   "year": 1977,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which Massachusetts congressman served as Speaker of the House from 1977 to 1987?",
+   "options": [
+    "Tip O'Neill",
+    "Sam Rayburn",
+    "Jim Wright",
+    "Tom Foley"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He famously said, 'All politics is local.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tip_O%27Neill",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-048",
+   "year": 1977,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1977, President Carter's brother Billy lent his name to what?",
+   "options": [
+    "A peanut butter",
+    "A beer",
+    "A barbecue sauce",
+    "A pickup truck"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Billy Beer went on sale in 1977, made by the Falls City Brewing Company.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Billy_Beer",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-049",
+   "year": 1984,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1984, Kathryn Sullivan became the first American woman to do what?",
+   "options": [
+    "Walk in space",
+    "Command a shuttle",
+    "Fly around the Moon",
+    "Live on a space station"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "She later led NOAA, the agency that runs the National Weather Service.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kathryn_D._Sullivan",
+   "origin": "new"
+  },
+  {
+   "id": "us75-hdl-050",
+   "year": 1975,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1975, Ella Grasso became the first woman elected governor who was not the wife or widow of a governor. Which state?",
+   "options": [
+    "Texas",
+    "Connecticut",
+    "Washington",
+    "Wyoming"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "She served as governor from 1975 to 1980.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ella_Grasso",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-001",
+   "year": 1975,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "The mood ring was a big fad in 1975. What was it supposed to do?",
+   "options": [
+    "Change color with your mood",
+    "Predict the weather",
+    "Flash to the beat of music",
+    "Glow in the dark"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The stone held liquid crystals that really changed color with the warmth of your finger.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mood_ring",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-002",
+   "year": 1976,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In the CB radio craze of the 1970s, what did '10-4' mean?",
+   "options": [
+    "Message received",
+    "I'm signing off",
+    "Police up ahead",
+    "I need help"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The 'ten codes' were first worked out for police radio around 1937 to 1940.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ten-code",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-003",
+   "year": 1980,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which colorful puzzle cube, invented by a Hungarian professor, became a worldwide craze in 1980?",
+   "options": [
+    "Lite-Brite",
+    "Etch A Sketch",
+    "Spirograph",
+    "Rubik's Cube"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Ernő Rubik, a teacher of architecture, made the first one in 1974.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rubik%27s_Cube",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-004",
+   "year": 1979,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "What did Sony's 1979 Walkman let people do for the first time?",
+   "options": [
+    "Record TV shows",
+    "Play compact discs",
+    "Play tapes privately on the go",
+    "Make phone calls"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Sony co-founder Masaru Ibuka wanted a small player to enjoy music while traveling on business.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Walkman",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-005",
+   "year": 1980,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which 1980 arcade game starred a yellow character gobbling dots while ghosts chased him?",
+   "options": [
+    "Space Invaders",
+    "Donkey Kong",
+    "Pac-Man",
+    "Frogger"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "The novelty song 'Pac-Man Fever' reached the Top 10 in 1982.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pac-Man",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-006",
+   "year": 1983,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "What came with every Cabbage Patch Kid, the hot toy of Christmas 1983?",
+   "options": [
+    "A talking chip",
+    "A packet of cabbage seeds",
+    "A plastic crib",
+    "Adoption papers"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "They were inspired by the 'Little People' soft-sculpture dolls sold by Xavier Roberts.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cabbage_Patch_Kids",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-007",
+   "year": 1984,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Apple's famous '1984' Super Bowl ad introduced which computer?",
+   "options": [
+    "The Apple II",
+    "The Commodore 64",
+    "The IBM PC",
+    "The Macintosh"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Ridley Scott directed the ad, and it aired nationally only once.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1984_(advertisement)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-008",
+   "year": 1976,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which two friends started Apple Computer in 1976?",
+   "options": [
+    "Bill Gates and Paul Allen",
+    "Steve Jobs and Bill Gates",
+    "Steve Jobs and Steve Wozniak",
+    "Steve Wozniak and Gordon Moore"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "They built the first computers in the Jobs family garage in Los Altos, California.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Steve_Jobs",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-009",
+   "year": 1979,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which 1979 Gloria Gaynor hit became a disco anthem of strength?",
+   "options": [
+    "Hot Stuff",
+    "Le Freak",
+    "I Will Survive",
+    "Ring My Bell"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It first came out as the B-side of another record before DJs made it a hit.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/I_Will_Survive",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-010",
+   "year": 1984,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which falling-blocks puzzle game was created by a Soviet programmer in 1984?",
+   "options": [
+    "Breakout",
+    "Tetris",
+    "Snake",
+    "Columns"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Alexey Pajitnov made it while working at the Soviet Academy of Sciences in Moscow.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tetris",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-011",
+   "year": 1977,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "The Atari 2600 game system came out in 1977. About what did it cost?",
+   "options": [
+    "$49",
+    "$99",
+    "$199",
+    "$499"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It came with a two-player tank game called 'Combat.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Atari_2600",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-012",
+   "year": 1976,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which punk band from Queens, New York, released the 1976 song 'Blitzkrieg Bop'?",
+   "options": [
+    "Talking Heads",
+    "Blondie",
+    "The Ramones",
+    "The New York Dolls"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "They were regulars at CBGB, the New York club where punk rock took off.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ramones",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-013",
+   "year": 1977,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "For Christmas 1977, what did Kenner sell 'Star Wars' fans instead of action figures?",
+   "options": [
+    "A poster",
+    "An empty box with a mail-in card",
+    "A comic book",
+    "A lunch box"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "It was called the 'Early Bird' package, and the first figures were mailed out in 1978.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kenner_Star_Wars_action_figures",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-014",
+   "year": 1977,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which famous New York disco, opened in 1977, was known for the velvet rope at its door?",
+   "options": [
+    "Studio 54",
+    "The Limelight",
+    "CBGB",
+    "The Palladium"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Steve Rubell and Ian Schrager opened it in an old theater.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Studio_54",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-015",
+   "year": 1982,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which home computer, launched in 1982 for $595, became the best-selling single computer model ever?",
+   "options": [
+    "Commodore 64",
+    "TRS-80",
+    "Apple IIe",
+    "Atari 800"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It had 64 KB of memory and a famous sound chip called SID.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Commodore_64",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-016",
+   "year": 1980,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which sweet-smelling doll, from a greeting-card company, had friends like Huckleberry Pie?",
+   "options": [
+    "Raggedy Ann",
+    "Holly Hobbie",
+    "Rainbow Brite",
+    "Strawberry Shortcake"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Each doll's hair was scented to match her fruit or dessert theme.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Strawberry_Shortcake",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-017",
+   "year": 1982,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "In 'Valley Girl' slang, what did 'Gag me with a spoon!' mean?",
+   "options": [
+    "Let's go shopping!",
+    "I'm starving!",
+    "I'm so tired!",
+    "That's disgusting!"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Frank Zappa's 1982 song 'Valley Girl,' with his 14-year-old daughter Moon talking in 'Valleyspeak,' made the slang famous.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Valley_girl",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-018",
+   "year": 1976,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "The Apple I, Apple's first product, sold in 1976 for what odd price?",
+   "options": [
+    "$66.66",
+    "$666.66",
+    "$1,000",
+    "$2,500"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Steve Wozniak said he just liked repeating digits.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Apple_I",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-019",
+   "year": 1981,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Milton Bradley's 1981 game 'Dark Tower' had a spinning electronic tower. What kind of game was it?",
+   "options": [
+    "A fantasy adventure game",
+    "A real estate game",
+    "A word game",
+    "A racing game"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Orson Welles appeared in its TV commercial.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dark_Tower_(game)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-020",
+   "year": 1982,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which home game system, released in 1982, came packed with a home version of 'Donkey Kong'?",
+   "options": [
+    "Atari 5200",
+    "ColecoVision",
+    "Intellivision",
+    "Vectrex"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Its maker, Coleco, also made Cabbage Patch Kids.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/ColecoVision",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-021",
+   "year": 1980,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Who wrote 'Princess Daisy,' the glamorous 1980 best seller?",
+   "options": [
+    "Shirley Conran",
+    "Jackie Collins",
+    "Danielle Steel",
+    "Judith Krantz"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Her earlier best seller was 'Scruples.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Judith_Krantz",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-022",
+   "year": 1982,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Atari's 1982 video game based on which movie flopped so badly that unsold copies were buried in New Mexico?",
+   "options": [
+    "Raiders of the Lost Ark",
+    "E.T.",
+    "Jaws",
+    "Superman"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Its programmer had only about five weeks to make it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial_(video_game)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us75-life-023",
+   "year": 1977,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "The famous 'I Love New York' logo of 1977 used a red what in place of the word 'love'?",
+   "options": [
+    "A rose",
+    "An apple",
+    "A star",
+    "A heart"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Designer Milton Glaser did the work for free.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/I_Love_New_York",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-024",
+   "year": 1980,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which sticky little paper notes did 3M start selling across the country in 1980?",
+   "options": [
+    "Post-it Notes",
+    "Liquid Paper",
+    "Scotch Tape",
+    "Index cards"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "3M worker Art Fry first used the sticky paper to hold bookmarks in his church hymn book.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Post-it_Note",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-025",
+   "year": 1984,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which question-and-answer board game, invented by two Canadians, became a huge craze in 1984?",
+   "options": [
+    "Clue",
+    "Scrabble",
+    "Trivial Pursuit",
+    "Monopoly"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Players collect pie-shaped wedges by answering questions in six subjects.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Trivial_Pursuit",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-026",
+   "year": 1980,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In a 1980 jeans ad, which teen model said nothing came between her and her Calvins?",
+   "options": [
+    "Phoebe Cates",
+    "Christie Brinkley",
+    "Cheryl Tiegs",
+    "Brooke Shields"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "That same year, she became the youngest model ever on the cover of Vogue.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Brooke_Shields",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-027",
+   "year": 1978,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which Mead school binder, launched in 1978, closed with a Velcro flap?",
+   "options": [
+    "The Trapper Keeper",
+    "The Pee-Chee",
+    "The Duo-Tang",
+    "The Five Star"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Many had a theme on the cover, such as a cartoon, TV show or video game.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Trapper_Keeper",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-028",
+   "year": 1978,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which 1978 Texas Instruments toy talked kids through spelling words?",
+   "options": [
+    "Simon",
+    "Speak & Spell",
+    "Teddy Ruxpin",
+    "Merlin"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "In 'E.T.,' the alien used one to help build his device to 'phone home.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Speak_%26_Spell_(toy)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-029",
+   "year": 1979,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which McDonald's meal for kids, packed in a box with a toy, went nationwide in 1979?",
+   "options": [
+    "The Ronald Pack",
+    "The Kiddie Box",
+    "The Fun Meal",
+    "The Happy Meal"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Each one came with a small toy or book.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Happy_Meal",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-030",
+   "year": 1976,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which candy, introduced in the U.S. in 1976, crackled and popped in your mouth?",
+   "options": [
+    "Nerds",
+    "Pop Rocks",
+    "Sweet Tarts",
+    "Lemonheads"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "The pop comes from tiny bubbles of carbon dioxide trapped inside the candy.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pop_Rocks",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-031",
+   "year": 1978,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which lasagna-loving comic strip cat first appeared in 1978?",
+   "options": [
+    "Heathcliff",
+    "Garfield",
+    "Sylvester",
+    "Bill the Cat"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Jim Davis created him. His owner is Jon Arbuckle, and his dog pal is Odie.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Garfield",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-032",
+   "year": 1984,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which 1984 Hasbro toys were 'robots in disguise' that turned into cars and trucks?",
+   "options": [
+    "Voltron",
+    "GoBots",
+    "Transformers",
+    "M.A.S.K."
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "The toy line was created by Hasbro with the Japanese toy company Takara.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Transformers",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-033",
+   "year": 1977,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which home video tape format won its 'format war' against Sony's Betamax?",
+   "options": [
+    "LaserDisc",
+    "VHS",
+    "8mm",
+    "CED"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "JVC developed VHS, and its longer recording time helped it win.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Videotape_format_war",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-034",
+   "year": 1983,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which bite-size McDonald's chicken food went on sale nationwide in 1983?",
+   "options": [
+    "McRib",
+    "McChicken",
+    "Chicken Selects",
+    "Chicken McNuggets"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "McDonald's chef René Arend developed them.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Chicken_McNuggets",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-035",
+   "year": 1982,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which colorful national newspaper, nicknamed 'McPaper' by critics, was launched in 1982?",
+   "options": [
+    "The National Enquirer",
+    "USA Today",
+    "The Wall Street Journal",
+    "Newsday"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Al Neuharth of the Gannett company started it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/USA_Today",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-036",
+   "year": 1981,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In the 1981 arcade game 'Donkey Kong,' what was the hero's job, before he became Mario the plumber?",
+   "options": [
+    "A baker",
+    "A firefighter",
+    "A carpenter",
+    "A mail carrier"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "He was first called Jumpman.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mario",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-037",
+   "year": 1982,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which Billy Joel album was the first ever sold on compact disc, in 1982?",
+   "options": [
+    "Glass Houses",
+    "The Stranger",
+    "52nd Street",
+    "An Innocent Man"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It went on sale in Japan on October 1, 1982, along with 49 other CDs.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/52nd_Street_(album)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-038",
+   "year": 1980,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which jacket brand ran ads saying, 'When you put it on, something happens'?",
+   "options": [
+    "Izod",
+    "London Fog",
+    "Members Only",
+    "Ocean Pacific"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Its racer jackets had a strap across the collar.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Members_Only_(fashion_brand)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-039",
+   "year": 1978,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which Ronco gadget let you broadcast your voice through a nearby FM radio?",
+   "options": [
+    "The Pocket Fisherman",
+    "Mr. Microphone",
+    "The Veg-O-Matic",
+    "The Smokeless Ashtray"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Ronco's founder, Ron Popeil, was famous for his TV ads.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ronco",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-040",
+   "year": 1977,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which clay figure, sold nationally from 1977, sprouts green 'fur' when you water it?",
+   "options": [
+    "The Grass Head",
+    "The Pet Rock",
+    "The Sea-Monkey",
+    "The Chia Pet"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Its TV ads featured a catchy 'Ch-ch-ch-chia!' jingle.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Chia_Pet",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-041",
+   "year": 1981,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which dance-workout class, created by Judi Sheppard Missett, put out a gold-selling record album in 1981?",
+   "options": [
+    "Sweatin' to the Oldies",
+    "Tae Bo",
+    "Jazzercise",
+    "Zumba"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "She first taught it in Evanston, Illinois, in 1969.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jazzercise",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-042",
+   "year": 1977,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Jim Fixx's 1977 best seller helped start America's craze for what?",
+   "options": [
+    "Jogging",
+    "Aerobics",
+    "Dieting",
+    "Bicycling"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "His book was called 'The Complete Book of Running.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jim_Fixx",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-043",
+   "year": 1980,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which tongue-in-cheek 1980 best seller poked fun at pink-and-green clothes and boat shoes?",
+   "options": [
+    "The Official Preppy Handbook",
+    "Dress for Success",
+    "Real Men Don't Eat Quiche",
+    "The Joy of Cooking"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Lisa Birnbach was its editor.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Official_Preppy_Handbook",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-044",
+   "year": 1983,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Swatch, the colorful plastic watch brand launched in 1983, came from which country?",
+   "options": [
+    "Japan",
+    "Switzerland",
+    "Germany",
+    "Italy"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "The name is short for 'second watch.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Swatch",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-045",
+   "year": 1980,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which one-panel cartoon, famous for its cows and nerdy scientists, began in 1980?",
+   "options": [
+    "Ziggy",
+    "The Far Side",
+    "Family Circus",
+    "Marmaduke"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Gary Larson drew it until he retired it in 1995.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Far_Side",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-046",
+   "year": 1982,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which soda, launched in 1982, was the first new brand to carry the Coca-Cola name?",
+   "options": [
+    "Diet Coke",
+    "Tab",
+    "New Coke",
+    "Coke Zero"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Within a few years it was the top diet soft drink in America.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Diet_Coke",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-047",
+   "year": 1981,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which Hasbro toy line, first made in 1981, featured colorful ponies with symbols on their sides?",
+   "options": [
+    "My Little Pony",
+    "Care Bears",
+    "Rainbow Brite",
+    "Popples"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Designer Bonnie Zacherle helped create the first ponies.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/My_Little_Pony",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-048",
+   "year": 1979,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which 1979 children's book series let readers choose what happens next?",
+   "options": [
+    "Encyclopedia Brown",
+    "Goosebumps",
+    "The Hardy Boys",
+    "Choose Your Own Adventure"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Bantam Books published it, and it went on to sell more than 250 million copies.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-049",
+   "year": 1978,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which 1978 Milton Bradley game flashed colored buttons in patterns for you to copy?",
+   "options": [
+    "Simon",
+    "Merlin",
+    "Lite-Brite",
+    "Mastermind"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It was launched with a party at Studio 54 in New York.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Simon_(game)",
+   "origin": "new"
+  },
+  {
+   "id": "us75-life-050",
+   "year": 1980,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which comic strip, begun in 1980, featured a penguin named Opus?",
+   "options": [
+    "Bloom County",
+    "The Far Side",
+    "Doonesbury",
+    "Peanuts"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Berkeley Breathed won a Pulitzer Prize for it in 1987.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bloom_County",
+   "origin": "new"
+  }
+ ]
+}

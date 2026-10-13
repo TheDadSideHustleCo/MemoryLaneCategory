@@ -1,0 +1,5711 @@
+{
+ "edition": "us",
+ "decade": "1930s",
+ "years": [
+  1945,
+  1954
+ ],
+ "count": 300,
+ "questions": [
+  {
+   "id": "us45-mus-001",
+   "year": 1950,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Who sang 'Mona Lisa' in 1950?",
+   "options": [
+    "Bing Crosby",
+    "Perry Como",
+    "Nat King Cole",
+    "Frank Sinatra"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It won the Academy Award for Best Original Song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mona_Lisa_(Nat_King_Cole_song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-002",
+   "year": 1950,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Patti Page's huge 1950 hit was a waltz named after which state?",
+   "options": [
+    "Texas",
+    "Kentucky",
+    "Tennessee",
+    "Missouri"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "'Tennessee Waltz' became one of the best-selling records of its time, and Tennessee later made it an official state song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tennessee_Waltz",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-003",
+   "year": 1953,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In the early 1950s, a new sound mixed country with rhythm and blues. What was it called?",
+   "options": [
+    "Rock and Roll",
+    "Jazz",
+    "Folk",
+    "Swing"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Rock and roll grew out of blues, country and gospel. By 1955, Chuck Berry and Little Richard were bringing the new sound to the whole country.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rock_and_roll",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-004",
+   "year": 1949,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Vaughn Monroe's 'Riders in the Sky' was a huge 1949 hit. What kind of song was it?",
+   "options": [
+    "Country western",
+    "Big band swing",
+    "Jazz standard",
+    "Traditional pop"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Its ghostly cowboys have been recorded by many artists since, from Bing Crosby to Johnny Cash.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/(Ghost)_Riders_in_the_Sky:_A_Cowboy_Legend",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-005",
+   "year": 1945,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which crooner had a No. 1 hit with 'Till the End of Time' in 1945?",
+   "options": [
+    "Frank Sinatra",
+    "Perry Como",
+    "Bing Crosby",
+    "Mel Tormé"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Its melody was borrowed from a famous piano piece by Chopin, his 'Polonaise in A-flat major.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Till_the_End_of_Time_(1945_song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-006",
+   "year": 1945,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which singer had her first big hit with 'Sentimental Journey' in 1945?",
+   "options": [
+    "Peggy Lee",
+    "Doris Day",
+    "Dinah Shore",
+    "Ella Fitzgerald"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "She recorded it with Les Brown and his band. It became a homecoming song for soldiers returning from the war.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sentimental_Journey_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-007",
+   "year": 1945,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which sister group recorded the 1945 hit 'Rum and Coca-Cola'?",
+   "options": [
+    "The McGuire Sisters",
+    "The Boswell Sisters",
+    "The Andrews Sisters",
+    "The Fontane Sisters"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It topped the charts for weeks, even though some radio networks refused to play it because it named a brand.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rum_and_Coca-Cola",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-008",
+   "year": 1946,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Perry Como had a No. 1 hit in 1946 with which romantic ballad?",
+   "options": [
+    "Blue Skies",
+    "Prisoner of Love",
+    "Stardust",
+    "Nature Boy"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The song was first made popular in 1931 by Russ Columbo, a crooner who helped write it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Prisoner_of_Love_(1931_song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-009",
+   "year": 1948,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Columbia Records introduced a new kind of record in 1948 that could hold a whole album. What was it?",
+   "options": [
+    "The long-playing LP",
+    "The cassette tape",
+    "The 8-track tape",
+    "The wax cylinder"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It spun at 33 1/3 turns a minute. An old 78 held only about three to five minutes a side.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/LP_record",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-010",
+   "year": 1947,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Francis Craig's 'Near You' was the big hit of 1947. How many weeks did it spend at No. 1?",
+   "options": [
+    "4 weeks",
+    "8 weeks",
+    "12 weeks",
+    "17 weeks"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It spent 17 weeks in a row at No. 1 on the disc jockeys' chart, a record that stood for over 60 years. It later became Milton Berle's TV theme song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Near_You",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-011",
+   "year": 1947,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "The Harmonicats had a surprise 1947 hit with which old tune played on harmonicas?",
+   "options": [
+    "Red River Valley",
+    "Oh! Susanna",
+    "Peg o' My Heart",
+    "Home on the Range"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "The song was already more than 30 years old. It was written in 1913 for a Broadway show.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Peg_o%27_My_Heart_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-012",
+   "year": 1947,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which entertainer had a 1947 comeback hit with 'Anniversary Song' from a movie about his own life?",
+   "options": [
+    "Al Jolson",
+    "Bob Hope",
+    "Bing Crosby",
+    "Eddie Cantor"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The movie was 'The Jolson Story.' Larry Parks played Jolson on screen, but Jolson sang the songs himself.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Jolson_Story",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-013",
+   "year": 1947,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which singer of the 1940s was nicknamed 'The Voice'?",
+   "options": [
+    "Dean Martin",
+    "Frank Sinatra",
+    "Perry Como",
+    "Bing Crosby"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Teenage bobby-soxers screamed and swooned at his shows at the Paramount in New York.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Frank_Sinatra",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-014",
+   "year": 1948,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Dinah Shore's 'Buttons and Bows' topped the charts in 1948. Which Bob Hope film was it from?",
+   "options": [
+    "Easter Parade",
+    "The Paleface",
+    "Road to Rio",
+    "Words and Music"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Bob Hope sang it in the movie. It won the Academy Award for Best Original Song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Buttons_and_Bows",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-015",
+   "year": 1948,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Nat King Cole was a star singer by 1948. Which instrument was he also famous for playing?",
+   "options": [
+    "Trumpet",
+    "Saxophone",
+    "Trombone",
+    "Piano"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He started out as a jazz pianist leading the King Cole Trio. His singing soon made him a pop star.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Nat_King_Cole",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-016",
+   "year": 1949,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Perry Como's 1949 hit 'Some Enchanted Evening' came from which Broadway musical?",
+   "options": [
+    "Carousel",
+    "Annie Get Your Gun",
+    "Kiss Me, Kate",
+    "South Pacific"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "'South Pacific' won the Pulitzer Prize for Drama, a rare honor for a musical.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-017",
+   "year": 1950,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which folk group had a giant hit in 1950 with 'Goodnight, Irene'?",
+   "options": [
+    "The Mills Brothers",
+    "The Weavers",
+    "The Ink Spots",
+    "The Andrews Sisters"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The song came from the blues singer Lead Belly. Pete Seeger was one of the Weavers.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Goodnight,_Irene",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-018",
+   "year": 1951,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which Les Paul and Mary Ford record spent nine weeks at No. 1 in 1951?",
+   "options": [
+    "Sentimental Journey",
+    "Moonlight Serenade",
+    "How High the Moon",
+    "Stardust"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Les Paul stacked many guitar and voice parts on tape, a recording trick he helped pioneer.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/How_High_the_Moon",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-019",
+   "year": 1951,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Who recorded the 1951 hit 'Too Young'?",
+   "options": [
+    "Tony Bennett",
+    "Frank Sinatra",
+    "Nat King Cole",
+    "Dean Martin"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Billboard named it the top song of 1951.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Too_Young_(1951_song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-020",
+   "year": 1953,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Pop star Eddie Fisher got his own TV show in 1953. Which drink company sponsored it?",
+   "options": [
+    "Pepsi-Cola",
+    "Coca-Cola",
+    "Dr Pepper",
+    "Canada Dry"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The show was called 'Coke Time with Eddie Fisher.' It ran on NBC until 1957.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Coke_Time_with_Eddie_Fisher",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-021",
+   "year": 1952,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Vera Lynn, the 'Forces' Sweetheart' of the war years, had a US No. 1 in 1952 with which song?",
+   "options": [
+    "We'll Meet Again",
+    "Auf Wiederseh'n Sweetheart",
+    "White Cliffs of Dover",
+    "Lili Marlene"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "It was the first record by a singer from outside the US to reach No. 1 on the American charts.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Auf_Wiederseh%27n_Sweetheart",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-022",
+   "year": 1953,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In Patti Page's 1953 hit, where was the doggie she wanted to buy?",
+   "options": [
+    "In the window",
+    "In the yard",
+    "In the park",
+    "At the pound"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "The record has a dog barking along with Patti. The barks were done by two people, billed on the label as 'Joe and Mac.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/(How_Much_Is)_That_Doggie_in_the_Window%3F",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-023",
+   "year": 1953,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Who sang the 1953 country hit 'Your Cheatin' Heart'?",
+   "options": [
+    "Hank Williams",
+    "Johnny Cash",
+    "Ernest Tubb",
+    "Lefty Frizzell"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It topped the country chart in 1953 and has been recorded by hundreds of singers since, from Patsy Cline to Ray Charles.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Your_Cheatin%27_Heart",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-024",
+   "year": 1954,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "A young truck driver recorded 'That's All Right' at Sun Studio in Memphis in 1954. Who was he?",
+   "options": [
+    "Jerry Lee Lewis",
+    "Carl Perkins",
+    "Buddy Holly",
+    "Elvis Presley"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He was just 19. A Memphis disc jockey played the record over and over on the night it first aired.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/That%27s_All_Right",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-025",
+   "year": 1954,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which bandleader first recorded 'Rock Around the Clock' in 1954?",
+   "options": [
+    "Buddy Holly",
+    "Chuck Berry",
+    "Bill Haley",
+    "Elvis Presley"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It became a smash in 1955, after it played over the opening of the movie 'Blackboard Jungle.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rock_Around_the_Clock",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mus-026",
+   "year": 1952,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Hank Williams had a 1952 hit about a Cajun party on the bayou. What was it called?",
+   "options": [
+    "Cold, Cold Heart",
+    "Your Cheatin' Heart",
+    "Hey, Good Lookin'",
+    "Jambalaya (On the Bayou)"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "The song name-checks crawfish pie and filé gumbo. Jo Stafford and, much later, the Carpenters both had hits with it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jambalaya_(On_the_Bayou)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-027",
+   "year": 1951,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Rosemary Clooney's 1951 hit invited everyone to 'come on-a' where?",
+   "options": [
+    "The beach",
+    "My house",
+    "The dance",
+    "My farm"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "'Come On-a My House' was co-written by Ross Bagdasarian, who later created Alvin and the Chipmunks.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Come_On-a_My_House",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-028",
+   "year": 1949,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Singing cowboy Gene Autry's 1949 Christmas hit was about which reindeer?",
+   "options": [
+    "Rudolph",
+    "Dasher",
+    "Prancer",
+    "Blitzen"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Rudolph was created in 1939 for a Montgomery Ward booklet. The song's writer, Johnny Marks, was the creator's brother-in-law.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rudolph_the_Red-Nosed_Reindeer_(song)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-029",
+   "year": 1953,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which crooner sang the 1953 hit 'That's Amore'?",
+   "options": [
+    "Bing Crosby",
+    "Perry Como",
+    "Tony Bennett",
+    "Dean Martin"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He sang it in 'The Caddy,' a comedy with his partner Jerry Lewis. It was nominated for an Academy Award.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/That%27s_Amore",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-030",
+   "year": 1951,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which singer, who later left his heart in San Francisco, had his first No. 1 hit in 1951?",
+   "options": [
+    "Eddie Fisher",
+    "Tony Bennett",
+    "Perry Como",
+    "Vic Damone"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "His first No. 1 was 'Because of You.' He followed it the same year with 'Cold, Cold Heart.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Because_of_You_(1940_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-031",
+   "year": 1948,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In the 1948 Christmas novelty song, what did the singer want for Christmas?",
+   "options": [
+    "My two front teeth",
+    "A puppy",
+    "A pair of skates",
+    "A red wagon"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Spike Jones and His City Slickers had the hit. George Rock sang it in a little-boy voice.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/All_I_Want_for_Christmas_Is_My_Two_Front_Teeth",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-032",
+   "year": 1954,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In the Chordettes' 1954 hit, what did they ask Mr. Sandman to bring them?",
+   "options": [
+    "A song",
+    "A dream",
+    "A star",
+    "A letter"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Vaughn Monroe recorded it first, earlier in 1954, but the Chordettes' barbershop-style harmony made theirs the big hit.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mr._Sandman",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-033",
+   "year": 1947,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which trumpet player and singer was nicknamed 'Satchmo'?",
+   "options": [
+    "Count Basie",
+    "Duke Ellington",
+    "Dizzy Gillespie",
+    "Louis Armstrong"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "In 1947 he started a small band called the All Stars, which he led for the rest of his career.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Louis_Armstrong",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-034",
+   "year": 1946,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In 'The Christmas Song,' first recorded by Nat King Cole in 1946, what is roasting on an open fire?",
+   "options": [
+    "Chestnuts",
+    "Marshmallows",
+    "Popcorn",
+    "Peanuts"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Mel Tormé and Bob Wells wrote it on a hot summer day in 1945, trying to 'stay cool by thinking cool.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Christmas_Song",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-035",
+   "year": 1950,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Finish the title of Eileen Barton's 1950 hit: 'If I Knew You Were Comin' I'd've…'",
+   "options": [
+    "Called My Mom",
+    "Cleaned the House",
+    "Bought a Hat",
+    "Baked a Cake"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "The bouncy song made Eileen Barton a star. She had been performing on radio since she was a small child.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/If_I_Knew_You_Were_Comin%27_I%27d%27ve_Baked_a_Cake",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-036",
+   "year": 1946,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which Broadway musical of 1946 introduced 'There's No Business Like Show Business'?",
+   "options": [
+    "Oklahoma!",
+    "Annie Get Your Gun",
+    "Guys and Dolls",
+    "Kiss Me, Kate"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Ethel Merman starred as sharpshooter Annie Oakley. Irving Berlin wrote the songs.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Annie_Get_Your_Gun_(musical)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-037",
+   "year": 1951,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which 1951 Broadway musical gave us the song 'Getting to Know You'?",
+   "options": [
+    "The King and I",
+    "South Pacific",
+    "Carousel",
+    "My Fair Lady"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Yul Brynner played the King on Broadway, and won an Academy Award when he played him again in the 1956 film.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_King_and_I",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-038",
+   "year": 1952,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Who sang 'You Belong to Me,' the No. 1 hit about seeing the pyramids along the Nile, in 1952?",
+   "options": [
+    "Kay Starr",
+    "Patti Page",
+    "Doris Day",
+    "Jo Stafford"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Her record also topped the British chart. She was the first woman ever to reach No. 1 there.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/You_Belong_to_Me_(1952_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-039",
+   "year": 1952,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Kay Starr's 1952 No. 1 hit hoped which 'wheel' would turn her way?",
+   "options": [
+    "The Wagon Wheel",
+    "The Big Wheel",
+    "The Ferris Wheel",
+    "The Wheel of Fortune"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "'Wheel of Fortune' stayed at No. 1 for ten weeks and was Kay Starr's biggest hit.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_(Kay_Starr_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-040",
+   "year": 1947,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "A comedy routine became a 1947 hit song. Who was asked to 'open the door'?",
+   "options": [
+    "Charlie",
+    "Richard",
+    "Johnny",
+    "Frankie"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "'Open the Door, Richard' came from a vaudeville comedy act. Count Basie's version went to No. 1.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Open_the_Door,_Richard",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-041",
+   "year": 1950,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which 1950 Broadway musical featured gamblers and the song 'Luck Be a Lady'?",
+   "options": [
+    "Guys and Dolls",
+    "Pal Joey",
+    "Kismet",
+    "The Pajama Game"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It was based on Damon Runyon's stories of Broadway characters, and won the Tony Award for Best Musical.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Guys_and_Dolls",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-042",
+   "year": 1951,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which emotional singer was nicknamed 'the Prince of Wails' after his 1951 hit 'Cry'?",
+   "options": [
+    "Eddie Fisher",
+    "Frankie Laine",
+    "Johnnie Ray",
+    "Guy Mitchell"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "He often wept on stage. 'Cry' spent 11 weeks at No. 1.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Johnnie_Ray",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-043",
+   "year": 1954,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which singer had a No. 1 hit in early 1954 with the tender song 'Oh! My Pa-Pa'?",
+   "options": [
+    "Mario Lanza",
+    "Perry Como",
+    "Frankie Laine",
+    "Eddie Fisher"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It began as a German song by a Swiss composer, sung by a young woman remembering her father, a famous clown.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/O_mein_Papa",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-044",
+   "year": 1945,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which singer, nicknamed 'The Velvet Fog,' co-wrote 'The Christmas Song' in 1945?",
+   "options": [
+    "Mel Tormé",
+    "Perry Como",
+    "Vic Damone",
+    "Dick Haymes"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He was only 19 at the time. Nat King Cole's recording made the song a holiday classic.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mel_Torm%C3%A9",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-045",
+   "year": 1953,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which 1953 Broadway musical gave us 'Stranger in Paradise'?",
+   "options": [
+    "Kismet",
+    "Brigadoon",
+    "Wonderful Town",
+    "Call Me Madam"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Its music was borrowed from the Russian composer Alexander Borodin, written about 80 years earlier.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kismet_(musical)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-046",
+   "year": 1949,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Frankie Laine's 1949 hit 'Mule Train' was famous for what sound?",
+   "options": [
+    "Church bells",
+    "Train whistles",
+    "Cracking whips",
+    "Car horns"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Several singers had hits with 'Mule Train' at the same time, including Bing Crosby, but Frankie Laine's sold best.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mule_Train",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-047",
+   "year": 1954,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which doo-wop group sang 'Earth Angel' in 1954?",
+   "options": [
+    "The Coasters",
+    "The Platters",
+    "The Drifters",
+    "The Penguins"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It was recorded in a garage in Los Angeles and became one of the first rhythm and blues records to cross over to the pop charts.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Earth_Angel",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-048",
+   "year": 1952,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "The Mills Brothers' 1952 hit was about which glowing insect?",
+   "options": [
+    "The firefly",
+    "The bumblebee",
+    "The glow-worm",
+    "The moth"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "'The Glow-Worm' began as a German song from 1902. Johnny Mercer wrote new words for the Mills Brothers.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Glow-Worm",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-049",
+   "year": 1948,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which singer had a 1948 No. 1 hit with 'Mañana (Is Soon Enough for Me)'?",
+   "options": [
+    "Jo Stafford",
+    "Dinah Shore",
+    "Peggy Lee",
+    "Kay Starr"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "She wrote it with her husband, guitarist Dave Barbour. It stayed at No. 1 for nine weeks.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ma%C3%B1ana_(Is_Soon_Enough_for_Me)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mus-050",
+   "year": 1954,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Rosemary Clooney's 1954 No. 1 'Hey There' came from which Broadway musical?",
+   "options": [
+    "Peter Pan",
+    "Damn Yankees",
+    "The Pajama Game",
+    "The Music Man"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "In the show, a man records his thoughts on a dictating machine, then plays the tape back and sings a duet with himself.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hey_There",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-001",
+   "year": 1951,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which hit 1951 comedy starred Lucille Ball?",
+   "options": [
+    "I Love Lucy",
+    "Gunsmoke",
+    "Dragnet",
+    "The Honeymooners"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Lucy and Desi filmed it in front of a live audience with three cameras, a method sitcoms still use today.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/I_Love_Lucy",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-002",
+   "year": 1947,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which children's show of 1947 starred a freckle-faced cowboy puppet?",
+   "options": [
+    "Howdy Doody",
+    "Captain Kangaroo",
+    "Mister Ed",
+    "Lassie"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Buffalo Bob Smith was the host, and the kids in the studio audience sat in the 'Peanut Gallery.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Howdy_Doody",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-003",
+   "year": 1945,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "What was the main source of home entertainment for most American families in 1945?",
+   "options": [
+    "Radio",
+    "Movie projectors",
+    "Phonograph records",
+    "Telephone"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Families gathered around the radio every evening for comedies, music and news, just as they later gathered around the TV.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Golden_Age_of_Radio",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-004",
+   "year": 1948,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which comedian was nicknamed 'Mr. Television' in the late 1940s?",
+   "options": [
+    "Red Skelton",
+    "Jackie Gleason",
+    "Sid Caesar",
+    "Milton Berle"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "His Tuesday night show, the 'Texaco Star Theater,' was so popular that people bought TV sets just to watch him.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Milton_Berle",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-005",
+   "year": 1946,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which early TV network competed with NBC and CBS but shut down in 1956?",
+   "options": [
+    "ABC",
+    "Fox",
+    "Mutual",
+    "DuMont"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "DuMont was one of the first TV networks, but it could not keep up with its bigger rivals.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/DuMont_Television_Network",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-006",
+   "year": 1946,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "NBC's 'Hour Glass' of 1946 was one of TV's first big entertainment shows. What kind of show was it?",
+   "options": [
+    "Western",
+    "Variety show",
+    "News program",
+    "Soap opera"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "It mixed singers, comedians and dancers, a recipe that early TV used again and again.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hour_Glass_(TV_series)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-007",
+   "year": 1947,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "The 1947 World Series was the first one shown on TV. Which two New York teams played?",
+   "options": [
+    "Giants and Dodgers",
+    "Yankees and Giants",
+    "Yankees and Dodgers",
+    "Mets and Yankees"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Only a few cities could see it, including New York, Philadelphia and Washington. The Yankees won in seven games.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1947_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-008",
+   "year": 1947,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "Which NBC news program began in 1947 and is still on the air today?",
+   "options": [
+    "Face the Nation",
+    "60 Minutes",
+    "Meet the Press",
+    "This Week"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It is the longest-running program in American television history.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Meet_the_Press",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-009",
+   "year": 1948,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "Ed Sullivan's famous Sunday night variety show began in 1948 under what name?",
+   "options": [
+    "The Big Show",
+    "Ed Sullivan Presents",
+    "Toast of the Town",
+    "Sunday Night Revue"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It was renamed 'The Ed Sullivan Show' in 1955 and ran for 23 years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-010",
+   "year": 1949,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which masked Western hero rode onto ABC television in 1949?",
+   "options": [
+    "Hopalong Cassidy",
+    "Roy Rogers",
+    "The Cisco Kid",
+    "The Lone Ranger"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Clayton Moore played the masked man. A secret silver mine paid his way and supplied his famous silver bullets.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Lone_Ranger_(TV_series)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-011",
+   "year": 1949,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which family sitcom, a radio hit since 1929, came to TV in 1949 with Gertrude Berg as Molly?",
+   "options": [
+    "The Aldrich Family",
+    "Life with Luigi",
+    "Mama",
+    "The Goldbergs"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Gertrude Berg created, wrote and starred in the show. She won the first Emmy ever given for best actress.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gertrude_Berg",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-012",
+   "year": 1950,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "Sid Caesar and Imogene Coca starred in which live comedy show that began in 1950?",
+   "options": [
+    "The Jack Benny Program",
+    "The Colgate Comedy Hour",
+    "Your Show of Shows",
+    "The Burns and Allen Show"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Its writers included Mel Brooks, Carl Reiner and Neil Simon, who all became famous in their own right.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Your_Show_of_Shows",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-013",
+   "year": 1950,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "Jack Benny brought his radio show to TV in 1950. What age did he always claim to be?",
+   "options": [
+    "29",
+    "39",
+    "49",
+    "59"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Benny played a vain penny-pincher who stayed 39 for decades and played the violin badly on purpose.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jack_Benny",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-014",
+   "year": 1951,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "In September 1951, President Truman's speech became the first live TV broadcast seen in what way?",
+   "options": [
+    "Coast to coast",
+    "In color",
+    "Overseas",
+    "By satellite"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He opened a peace conference in San Francisco, and viewers from coast to coast watched it live.",
+   "talk": null,
+   "source": "https://www.historyofinformation.com/detail.php?id=4207",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-015",
+   "year": 1951,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "What was the name of the stone-faced detective on TV's 'Dragnet,' which began in 1951?",
+   "options": [
+    "Mike Hammer",
+    "Joe Friday",
+    "Sam Spade",
+    "Perry Mason"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Jack Webb created the show and starred as Sergeant Friday, badge number 714.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Joe_Friday",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-016",
+   "year": 1952,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "'Bandstand' began on Philadelphia TV in 1952. Who was its first host?",
+   "options": [
+    "Bob Horn",
+    "Ed McMahon",
+    "Dick Clark",
+    "Alan Freed"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Dick Clark took over in 1956 and made it the national hit 'American Bandstand.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/American_Bandstand",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-017",
+   "year": 1952,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "The 'Today' show premiered on NBC in January 1952. Who was its first host?",
+   "options": [
+    "Hugh Downs",
+    "Dave Garroway",
+    "Arthur Godfrey",
+    "Ed Sullivan"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "A chimpanzee named J. Fred Muggs became one of the show's most popular regulars.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Today_(American_TV_program)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-018",
+   "year": 1952,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which 1950s comedy featured bus driver Ralph Kramden and his wife Alice?",
+   "options": [
+    "I Love Lucy",
+    "The Honeymooners",
+    "Father Knows Best",
+    "Dragnet"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It began as sketches on Jackie Gleason's variety show. Art Carney played Ralph's pal Ed Norton, a sewer worker.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Honeymooners",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-019",
+   "year": 1953,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "Whose baby son was on the cover of the very first TV Guide in April 1953?",
+   "options": [
+    "Gracie Allen's",
+    "Lucille Ball's",
+    "Donna Reed's",
+    "Harriet Nelson's"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The cover showed little Desi Arnaz Jr. under the headline 'Lucy's $50,000,000 Baby.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/TV_Guide",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-020",
+   "year": 1953,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Danny Thomas starred as a nightclub entertainer in which family sitcom that began in 1953?",
+   "options": [
+    "Father Knows Best",
+    "The Real McCoys",
+    "Make Room for Daddy",
+    "Our Miss Brooks"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It was later renamed 'The Danny Thomas Show.' An episode in 1960 introduced Andy Griffith as Sheriff Andy Taylor.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Danny_Thomas_Show",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-021",
+   "year": 1954,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "Which comedian and songwriter launched NBC's late-night 'Tonight Show' in September 1954?",
+   "options": [
+    "Jack Paar",
+    "Johnny Carson",
+    "Steve Allen",
+    "Ed McMahon"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Steve Allen mixed comedy, music and chats with the audience. He also wrote thousands of songs.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Steve_Allen",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-022",
+   "year": 1954,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "What was the name of the weekly TV show Walt Disney launched on ABC in 1954?",
+   "options": [
+    "Fantasy Theater",
+    "The Mickey Mouse Club",
+    "Disney Playhouse",
+    "Disneyland"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "It shared its name with the theme park Walt was building. ABC helped pay for the park, which opened in July 1955.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Walt_Disney%27s_Wonderful_World_of_Color",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-023",
+   "year": 1950,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On TV's 'Burns and Allen,' which began in 1950, who played George Burns's scatterbrained wife?",
+   "options": [
+    "Gracie Allen",
+    "Lucille Ball",
+    "Eve Arden",
+    "Joan Davis"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "George and Gracie were married in real life, and had played the same comedy team on radio for years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_George_Burns_and_Gracie_Allen_Show",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-tv-024",
+   "year": 1952,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "In a famous 1952 'I Love Lucy' episode, Lucy and Ethel work in a factory wrapping what?",
+   "options": [
+    "Christmas presents",
+    "Bars of soap",
+    "Cigars",
+    "Chocolates"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "The conveyor belt sped up, so they stuffed the candies in their mouths, hats and blouses. The episode is called 'Job Switching.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Job_Switching",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-025",
+   "year": 1951,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On 'I Love Lucy,' which began in 1951, what was the name of Lucy's bandleader husband?",
+   "options": [
+    "Ricky Ricardo",
+    "Fred Mertz",
+    "Ralph Kramden",
+    "George Burns"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Desi Arnaz played Ricky, who led the band at New York's Tropicana nightclub.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ricky_Ricardo",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-026",
+   "year": 1951,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On 'The Roy Rogers Show,' which began in 1951, what was the name of Roy's golden horse?",
+   "options": [
+    "Silver",
+    "Trigger",
+    "Champion",
+    "Topper"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Trigger was billed as 'the Smartest Horse in the Movies.' Roy's wife, Dale Evans, rode a horse named Buttermilk.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Trigger_(horse)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-027",
+   "year": 1950,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On Groucho Marx's quiz show 'You Bet Your Life,' what dropped down if a guest said the secret word?",
+   "options": [
+    "Balloons",
+    "Confetti",
+    "A toy duck",
+    "A curtain"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The duck looked like Groucho, with glasses and a mustache, and brought a $100 bonus. The show came to TV in 1950.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/You_Bet_Your_Life",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-028",
+   "year": 1954,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which brave and loyal collie got her own TV show in 1954?",
+   "options": [
+    "Benji",
+    "Rin Tin Tin",
+    "Old Yeller",
+    "Lassie"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Lassie was a girl, but she was always played by male collies, starting with a dog named Pal and then his offspring.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pal_(dog)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-029",
+   "year": 1952,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which real-life family played themselves on 'The Adventures of Ozzie and Harriet,' on TV from 1952?",
+   "options": [
+    "The Stones",
+    "The Andersons",
+    "The Cleavers",
+    "The Nelsons"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Their younger son, Ricky Nelson, sang on the show and became a teen rock and roll idol.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Adventures_of_Ozzie_and_Harriet",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-030",
+   "year": 1952,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "George Reeves played which hero in a TV series that began in 1952?",
+   "options": [
+    "Batman",
+    "The Green Hornet",
+    "Captain Marvel",
+    "Superman"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He was 'faster than a speeding bullet.' Later seasons were filmed in color, even though few families had color sets.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Adventures_of_Superman_(TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-031",
+   "year": 1950,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On the panel show 'What's My Line?', which began in 1950, what did the panel try to guess?",
+   "options": [
+    "A guest's job",
+    "A guest's age",
+    "A hidden prize",
+    "A mystery song"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Blindfolded panelists also tried to name a famous mystery guest. The show ran on CBS until 1967.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/What%27s_My_Line%3F",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-032",
+   "year": 1952,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which TV comedian's catchphrase was 'And away we go!'?",
+   "options": [
+    "Jackie Gleason",
+    "Milton Berle",
+    "Red Skelton",
+    "Sid Caesar"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He was nicknamed 'The Great One.' His variety show moved to CBS in 1952.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jackie_Gleason",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-033",
+   "year": 1949,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On TV's 'The Lone Ranger' (1949), what was the name of the Ranger's loyal companion?",
+   "options": [
+    "Pancho",
+    "Tonto",
+    "Festus",
+    "Chester"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Jay Silverheels played Tonto. He was a Mohawk actor from Canada.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jay_Silverheels",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-034",
+   "year": 1954,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'The Adventures of Rin Tin Tin' began in 1954. What kind of dog was Rin Tin Tin?",
+   "options": [
+    "Collie",
+    "Boxer",
+    "Beagle",
+    "German Shepherd"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "The first Rin Tin Tin was a puppy found in France in 1918, near the end of World War I. He grew up to star in silent films.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rin_Tin_Tin",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-035",
+   "year": 1952,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which comedy team was famous for the 'Who's on First?' routine, seen on their own TV show from 1952?",
+   "options": [
+    "Martin and Lewis",
+    "Laurel and Hardy",
+    "Burns and Allen",
+    "Abbott and Costello"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Bud Abbott and Lou Costello had performed the baseball routine since the 1930s. It is in the Baseball Hall of Fame.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Who%27s_on_First%3F",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-036",
+   "year": 1952,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "In a famous 1952 'I Love Lucy' episode, Lucy gets tipsy filming a commercial for which tonic?",
+   "options": [
+    "Vita-Pep",
+    "Geritol",
+    "Vitameatavegamin",
+    "Lucy's Elixir"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "With every spoonful she took, the tonic's alcohol made her more wobbly. The episode is called 'Lucy Does a TV Commercial.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lucy_Does_a_TV_Commercial",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-037",
+   "year": 1949,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "On TV's 'Kukla, Fran and Ollie,' what kind of creature was Ollie?",
+   "options": [
+    "A bear",
+    "A dragon",
+    "A rabbit",
+    "A dog"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Puppeteer Burr Tillstrom worked every puppet himself, while Fran Allison chatted with them unscripted.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kukla,_Fran_and_Ollie",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-038",
+   "year": 1949,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "TV cowboy Hopalong Cassidy, a hit with children from 1949, always dressed in what color?",
+   "options": [
+    "White",
+    "Black",
+    "Brown",
+    "Red"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "William Boyd played Hoppy on his white horse, Topper. Children bought millions of Hopalong lunch boxes, cap guns and outfits.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hopalong_Cassidy",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-039",
+   "year": 1951,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which TV comedian, on the air from 1951, created the hobo clown Freddie the Freeloader?",
+   "options": [
+    "Jackie Gleason",
+    "Red Skelton",
+    "Milton Berle",
+    "Ernie Kovacs"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He ended every show with 'Good night, and may God bless.' He was also a talented painter of clowns.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Red_Skelton",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-040",
+   "year": 1950,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which big-nosed comedian ended his 1950s TV shows with 'Good night, Mrs. Calabash, wherever you are'?",
+   "options": [
+    "Bob Hope",
+    "Jimmy Durante",
+    "Ed Wynn",
+    "Phil Silvers"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "He was nicknamed 'the Schnozzola.' He never explained who Mrs. Calabash was.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jimmy_Durante",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-041",
+   "year": 1954,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which actor played the dad, Jim Anderson, on 'Father Knows Best,' which came to TV in 1954?",
+   "options": [
+    "Hugh Beaumont",
+    "Ozzie Nelson",
+    "Robert Young",
+    "Fred MacMurray"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He had played the same role on the radio version since 1949. Later he starred as TV's 'Marcus Welby, M.D.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Father_Knows_Best",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-042",
+   "year": 1954,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On New Year's Day 1954, which parade became the first program broadcast in color across the country?",
+   "options": [
+    "Orange Bowl Parade",
+    "Macy's Parade",
+    "Mummers Parade",
+    "The Rose Parade"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "NBC sent the Pasadena parade to stations nationwide, though very few people owned a color set to see it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rose_Parade",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-043",
+   "year": 1952,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which bishop's TV talks, 'Life Is Worth Living,' rivaled Milton Berle in the ratings starting in 1952?",
+   "options": [
+    "Norman Vincent Peale",
+    "Billy Graham",
+    "Fulton J. Sheen",
+    "Francis Spellman"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "He spoke with a chalkboard and no script, and won an Emmy in 1953.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Fulton_J._Sheen",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-044",
+   "year": 1950,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Marlin Perkins hosted which 1950s animal show from Chicago's Lincoln Park Zoo?",
+   "options": [
+    "Zoo Parade",
+    "Wild Kingdom",
+    "Animal Crackers",
+    "Jungle Jim"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He later hosted 'Mutual of Omaha's Wild Kingdom,' which began in 1963.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Marlin_Perkins",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-045",
+   "year": 1953,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On the children's show 'Romper Room,' which began in 1953, well-behaved children were called what?",
+   "options": [
+    "Busy Bees",
+    "Good Eggs",
+    "Do-Bees",
+    "Gold Stars"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Badly behaved ones were 'Don't Bees.' At the end, the teacher looked through her Magic Mirror and named children at home.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Romper_Room",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-046",
+   "year": 1952,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On 'Our Miss Brooks,' which came to TV in 1952, what was Connie Brooks's job?",
+   "options": [
+    "English teacher",
+    "Nurse",
+    "Secretary",
+    "Librarian"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Eve Arden played the wisecracking teacher at Madison High School, on radio first and then on TV.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Our_Miss_Brooks",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-047",
+   "year": 1948,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On 'Howdy Doody,' Clarabell the Clown never spoke. How did Clarabell 'talk'?",
+   "options": [
+    "With a bell",
+    "With a whistle",
+    "With a horn",
+    "With a drum"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Clarabell also squirted a seltzer bottle. Bob Keeshan, the first Clarabell, later became TV's Captain Kangaroo.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Clarabell_the_Clown",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-048",
+   "year": 1954,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which future president began hosting TV's 'General Electric Theater' in 1954?",
+   "options": [
+    "Dwight Eisenhower",
+    "Ronald Reagan",
+    "John F. Kennedy",
+    "Richard Nixon"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "He introduced the weekly dramas for eight years and toured GE factories giving speeches.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/General_Electric_Theater",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-049",
+   "year": 1952,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which singer closed her 1950s TV shows by blowing a big kiss after singing 'See the USA in Your Chevrolet'?",
+   "options": [
+    "Dinah Shore",
+    "Patti Page",
+    "Rosemary Clooney",
+    "Jo Stafford"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Chevrolet sponsored her show, and the jingle became one of the best-known in TV history.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dinah_Shore",
+   "origin": "new"
+  },
+  {
+   "id": "us45-tv-050",
+   "year": 1950,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On TV's 'The Cisco Kid,' which began in 1950, what was the name of Cisco's jolly sidekick?",
+   "options": [
+    "Gabby",
+    "Tonto",
+    "Pancho",
+    "Festus"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It was one of the first TV series filmed in color, years before most families could watch in color.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Cisco_Kid_(TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-001",
+   "year": 1946,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Who played George Bailey in 1946's 'It's a Wonderful Life'?",
+   "options": [
+    "Cary Grant",
+    "Henry Fonda",
+    "James Stewart",
+    "Clark Gable"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Jimmy Stewart called it his favorite film. It did poorly at first, then became a Christmas classic once TV stations began showing it every year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/It%27s_a_Wonderful_Life",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-002",
+   "year": 1947,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1947 movie features a kind old man named Kris Kringle who says he is the real Santa Claus?",
+   "options": [
+    "It's a Wonderful Life",
+    "Miracle on 34th Street",
+    "White Christmas",
+    "Holiday Affair"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Edmund Gwenn won an Academy Award for playing Kris. The studio released the film in May, worried a Christmas movie would not sell.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Miracle_on_34th_Street",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-003",
+   "year": 1950,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1950 Disney movie featured a glass slipper and a fairy godmother?",
+   "options": [
+    "Cinderella",
+    "Sleeping Beauty",
+    "Snow White",
+    "Alice in Wonderland"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "The Fairy Godmother's song 'Bibbidi-Bobbidi-Boo' became one of Disney's best-known tunes.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cinderella_(1950_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-004",
+   "year": 1951,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1951 film had Humphrey Bogart and Katharine Hepburn on a rickety boat down an African river?",
+   "options": [
+    "Casablanca",
+    "Beat the Devil",
+    "Key Largo",
+    "The African Queen"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It won Bogart his only Academy Award. Much of it was filmed on location in Africa, a hard trip for the cast and crew.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_African_Queen_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-005",
+   "year": 1952,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Gene Kelly danced through a rainstorm in which 1952 musical?",
+   "options": [
+    "Brigadoon",
+    "An American in Paris",
+    "Singin' in the Rain",
+    "Royal Wedding"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "The film pokes fun at Hollywood's switch from silent movies to talkies in the late 1920s.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Singin%27_in_the_Rain",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-006",
+   "year": 1952,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Gary Cooper played a marshal facing a gang of outlaws alone in which 1952 Western?",
+   "options": [
+    "Shane",
+    "High Noon",
+    "The Naked Spur",
+    "Bend of the River"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Cooper won the Academy Award for Best Actor. The story unfolds in almost real time, with clocks ticking toward noon.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/High_Noon",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-007",
+   "year": 1954,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In Alfred Hitchcock's 1954 'Rear Window,' who played the photographer spying on his neighbors?",
+   "options": [
+    "Cary Grant",
+    "James Stewart",
+    "Gregory Peck",
+    "William Holden"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "His character is stuck in a wheelchair with a broken leg, so the whole film is seen from his apartment. Grace Kelly played his girlfriend.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rear_Window",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-008",
+   "year": 1954,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1954 Bing Crosby and Danny Kaye musical was the year's biggest box-office hit?",
+   "options": [
+    "The Country Girl",
+    "White Christmas",
+    "Little Boy Lost",
+    "Riding High"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It was the first film made in VistaVision, a sharp new widescreen process. Rosemary Clooney and Vera-Ellen co-starred.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/White_Christmas_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-009",
+   "year": 1948,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Laurence Olivier directed and starred in which Shakespeare film that won Best Picture for 1948?",
+   "options": [
+    "Hamlet",
+    "King Lear",
+    "Othello",
+    "Macbeth"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It was the first British film to win the Academy Award for Best Picture. Olivier also won Best Actor.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hamlet_(1948_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-010",
+   "year": 1950,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1950 film ends with the famous line 'All right, Mr. DeMille, I'm ready for my close-up'?",
+   "options": [
+    "All About Eve",
+    "Born Yesterday",
+    "The Asphalt Jungle",
+    "Sunset Boulevard"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Gloria Swanson played a faded silent-movie star, and she really had been one of the biggest silent stars.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sunset_Boulevard_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-011",
+   "year": 1950,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1950 film set a record with 14 Academy Award nominations?",
+   "options": [
+    "Born Yesterday",
+    "All About Eve",
+    "Sunset Boulevard",
+    "King Solomon's Mines"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Bette Davis starred, and it won Best Picture. Its record stood for decades and was tied by 'Titanic' and 'La La Land.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/All_About_Eve",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-012",
+   "year": 1951,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1951 Gene Kelly musical, set in France, won the Academy Award for Best Picture?",
+   "options": [
+    "Show Boat",
+    "An American in Paris",
+    "Singin' in the Rain",
+    "Royal Wedding"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "It ends with a dazzling ballet that runs about 17 minutes, set to music by George Gershwin.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/An_American_in_Paris_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-013",
+   "year": 1951,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Marlon Brando played Stanley Kowalski in which 1951 drama based on a Tennessee Williams play?",
+   "options": [
+    "A Streetcar Named Desire",
+    "Viva Zapata!",
+    "Julius Caesar",
+    "The Men"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Vivien Leigh, Kim Hunter and Karl Malden all won Academy Awards for it. Brando was nominated but did not win.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/A_Streetcar_Named_Desire_(1951_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-014",
+   "year": 1953,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1953 Western ends with young Joey calling after a gunfighter, 'Come back!'?",
+   "options": [
+    "High Noon",
+    "Hondo",
+    "Bend of the River",
+    "Shane"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Alan Ladd played the quiet stranger who helps a farm family. It was filmed in Wyoming, with the Grand Tetons behind.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Shane_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-015",
+   "year": 1953,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1953 film, set in Rome, made Audrey Hepburn a star and won her the Oscar for Best Actress?",
+   "options": [
+    "Roman Holiday",
+    "War and Peace",
+    "Funny Face",
+    "Sabrina"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "She played a princess who slips away to explore Rome with a reporter, played by Gregory Peck.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Roman_Holiday",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-016",
+   "year": 1953,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Burt Lancaster and Deborah Kerr's famous kiss in the surf is from which 1953 Best Picture winner?",
+   "options": [
+    "Battle Cry",
+    "Stalag 17",
+    "From Here to Eternity",
+    "The Caine Mutiny"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It won eight Academy Awards, including one for Frank Sinatra, which revived his career.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/From_Here_to_Eternity",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-017",
+   "year": 1954,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1954 Marlon Brando film has the line 'I coulda been a contender'?",
+   "options": [
+    "On the Waterfront",
+    "Julius Caesar",
+    "Viva Zapata!",
+    "The Wild One"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Brando won Best Actor, and the film won eight Academy Awards in all, including Best Picture.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/On_the_Waterfront",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-018",
+   "year": 1945,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Gregory Peck and Ingrid Bergman starred in which 1945 Alfred Hitchcock thriller?",
+   "options": [
+    "Notorious",
+    "Rebecca",
+    "Rope",
+    "Spellbound"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "The famous artist Salvador Dalí designed its strange dream scenes.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Spellbound_(1945_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-019",
+   "year": 1946,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which 1946 Best Picture winner told of three servicemen coming home after the war?",
+   "options": [
+    "It's a Wonderful Life",
+    "Notorious",
+    "The Razor's Edge",
+    "The Best Years of Our Lives"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Harold Russell, a real veteran who had never acted, won two Oscars for the same role.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Best_Years_of_Our_Lives",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-020",
+   "year": 1947,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Humphrey Bogart and Lauren Bacall starred together in which 1947 thriller?",
+   "options": [
+    "Key Largo",
+    "The Big Sleep",
+    "Dark Passage",
+    "To Have and Have Not"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "They met making To Have and Have Not, married in 1945, and made four films together.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lauren_Bacall",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-021",
+   "year": 1948,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Jane Wyman won Best Actress for playing a young deaf woman in which 1948 film?",
+   "options": [
+    "Johnny Belinda",
+    "The Lost Weekend",
+    "Stage Fright",
+    "The Yearling"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "She studied sign language for the part and does not speak a word on screen.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Johnny_Belinda_(1948_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-022",
+   "year": 1948,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which 1948 British film about a young ballerina became a big hit in America?",
+   "options": [
+    "An American in Paris",
+    "The Red Shoes",
+    "The Tales of Hoffmann",
+    "Invitation to the Dance"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Director Martin Scorsese has called it one of the greatest films ever made.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Red_Shoes_(1948_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-023",
+   "year": 1949,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Olivia de Havilland won Best Actress for 1949's 'The Heiress.' Who directed it?",
+   "options": [
+    "John Huston",
+    "Billy Wilder",
+    "William Wyler",
+    "Alfred Hitchcock"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It was her second Oscar. Aaron Copland also won an Academy Award for the film's music.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Heiress",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-024",
+   "year": 1949,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which 1949 film about a power-hungry Southern politician won the Best Picture Oscar?",
+   "options": [
+    "Twelve O'Clock High",
+    "The Heiress",
+    "All the King's Men",
+    "Battleground"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It was based on a Pulitzer Prize-winning novel, and Broderick Crawford won Best Actor as Willie Stark.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/All_the_King%27s_Men_(1949_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-025",
+   "year": 1952,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Cecil B. DeMille's circus movie won Best Picture for 1952. What was it called?",
+   "options": [
+    "Quo Vadis",
+    "Ivanhoe",
+    "The Quiet Man",
+    "The Greatest Show on Earth"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "'Singin' in the Rain' came out the same year and was not even nominated for Best Picture.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Greatest_Show_on_Earth_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-mov-026",
+   "year": 1951,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In Disney's 1951 'Alice in Wonderland,' who throws the mad tea party?",
+   "options": [
+    "The Caterpillar",
+    "The Cheshire Cat",
+    "The Queen of Hearts",
+    "The Mad Hatter"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He and the March Hare sing 'The Unbirthday Song,' celebrating every day that isn't your birthday.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1951_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-027",
+   "year": 1953,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In Disney's 1953 'Peter Pan,' what is the name of Peter's little fairy friend?",
+   "options": [
+    "Twinkle Star",
+    "Tinker Bell",
+    "Silvermist",
+    "Fairy Mary"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "She never speaks a word. Her voice is the sound of tinkling bells.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Peter_Pan_(1953_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-028",
+   "year": 1953,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 1953's 'Gentlemen Prefer Blondes,' Marilyn Monroe sang that what are a girl's best friend?",
+   "options": [
+    "Diamonds",
+    "Pearls",
+    "Dogs",
+    "Furs"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Jane Russell co-starred. Marilyn's pink gown in that number became one of the most famous costumes in film.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gentlemen_Prefer_Blondes_(1953_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-029",
+   "year": 1952,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 1952's 'The Quiet Man,' John Wayne goes back to which country, where he was born?",
+   "options": [
+    "Scotland",
+    "England",
+    "Ireland",
+    "Wales"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Maureen O'Hara co-starred, and John Ford won the Academy Award for Best Director for it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Quiet_Man",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-030",
+   "year": 1948,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Who danced with Judy Garland in the 1948 musical 'Easter Parade'?",
+   "options": [
+    "Gene Kelly",
+    "Fred Astaire",
+    "Donald O'Connor",
+    "Dan Dailey"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Gene Kelly was supposed to star, but he broke his ankle. Fred Astaire came out of retirement to take his place.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Easter_Parade_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-031",
+   "year": 1949,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 1949's 'On the Town,' Gene Kelly and Frank Sinatra play sailors on leave in which city?",
+   "options": [
+    "New York",
+    "San Francisco",
+    "Chicago",
+    "Boston"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It was one of the first Hollywood musicals to film scenes on real city streets instead of a studio lot.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/On_the_Town_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-032",
+   "year": 1950,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 1950's 'Harvey,' James Stewart's invisible best friend is a giant what?",
+   "options": [
+    "Rabbit",
+    "Bear",
+    "Mouse",
+    "Dog"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Harvey is a 'pooka,' a spirit from Irish folklore, and stands over six feet tall. The story began as a Broadway play.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Harvey_(1950_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-033",
+   "year": 1950,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Spencer Tracy played the worried dad in 1950's 'Father of the Bride.' Who played the bride?",
+   "options": [
+    "Jane Powell",
+    "Debbie Reynolds",
+    "Elizabeth Taylor",
+    "Grace Kelly"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "She was only 18. Just 12 days before the premiere, she married hotel heir Nicky Hilton in real life.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Father_of_the_Bride_(1950_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-034",
+   "year": 1954,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "What was Captain Nemo's submarine called in Disney's 1954 '20,000 Leagues Under the Sea'?",
+   "options": [
+    "The Sea Dragon",
+    "The Neptune",
+    "The Nautilus",
+    "The Mariner"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Kirk Douglas starred, and James Mason played Nemo. The film's giant squid fight helped it win an Oscar for special effects.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/20,000_Leagues_Under_the_Sea_(1954_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-035",
+   "year": 1945,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 1945's 'Anchors Aweigh,' Gene Kelly dances with which famous cartoon mouse?",
+   "options": [
+    "Mickey Mouse",
+    "Mighty Mouse",
+    "Jerry",
+    "Speedy Gonzales"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Jerry, of Tom and Jerry, was drawn in frame by frame to match Kelly's steps. Frank Sinatra co-starred.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Anchors_Aweigh_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-036",
+   "year": 1948,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 1948's 'The Treasure of the Sierra Madre,' what are Humphrey Bogart and his partners digging for?",
+   "options": [
+    "Silver",
+    "Diamonds",
+    "Oil",
+    "Gold"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "John Huston directed his own father, Walter Huston, and both won Academy Awards for the film.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Treasure_of_the_Sierra_Madre_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-037",
+   "year": 1953,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Doris Day played which Wild West heroine in a 1953 musical?",
+   "options": [
+    "Annie Oakley",
+    "Pearl Hart",
+    "Belle Starr",
+    "Calamity Jane"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Her song from the film, 'Secret Love,' won the Academy Award for Best Original Song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Calamity_Jane_(1953_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-038",
+   "year": 1947,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "In 1947's 'The Bishop's Wife,' what does Cary Grant play?",
+   "options": [
+    "A butler",
+    "An angel",
+    "A detective",
+    "A bandleader"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "His angel, Dudley, comes to help a bishop, played by David Niven, and his wife, played by Loretta Young.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Bishop%27s_Wife",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-039",
+   "year": 1953,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which 1953 Bible epic was the first movie released in widescreen CinemaScope?",
+   "options": [
+    "Ben-Hur",
+    "Quo Vadis",
+    "The Robe",
+    "Samson and Delilah"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Richard Burton starred. Theaters installed wide, curved screens to show it, hoping to lure viewers away from TV.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Robe_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-040",
+   "year": 1953,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which 1953 Vincent Price thriller was a big hit in 3-D?",
+   "options": [
+    "The Fly",
+    "House of Wax",
+    "Them!",
+    "It Came from Outer Space"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Its director, André de Toth, was blind in one eye, so he could not see the 3-D effects himself.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/House_of_Wax_(1953_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-041",
+   "year": 1951,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 1951's 'The Day the Earth Stood Still,' what is the name of the giant silver robot?",
+   "options": [
+    "Gort",
+    "Robby",
+    "Klaatu",
+    "Tobor"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "The spaceman Klaatu gives the famous order to stop him: 'Klaatu barada nikto.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Day_the_Earth_Stood_Still",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-042",
+   "year": 1954,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 1954's 'Sabrina,' Audrey Hepburn plays the daughter of a rich family's what?",
+   "options": [
+    "Cook",
+    "Butler",
+    "Gardener",
+    "Chauffeur"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Humphrey Bogart and William Holden played the two brothers who fall for her.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sabrina_(1954_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-043",
+   "year": 1954,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "The 1954 musical 'Seven Brides for Seven Brothers' is set in the backwoods of which state?",
+   "options": [
+    "Kentucky",
+    "Montana",
+    "Oregon",
+    "Texas"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Its barn-raising dance, with the brothers leaping over beams and sawhorses, is one of the most famous dances on film.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Seven_Brides_for_Seven_Brothers",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-044",
+   "year": 1954,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 1954's 'The Caine Mutiny,' what does Captain Queeg nervously roll in his hand?",
+   "options": [
+    "Steel balls",
+    "Dice",
+    "Coins",
+    "Marbles"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Humphrey Bogart played Queeg. He also obsessed over a quart of missing strawberries.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Caine_Mutiny_(1954_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-045",
+   "year": 1949,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 1949's 'Adam's Rib,' Spencer Tracy and Katharine Hepburn play a married couple with what job?",
+   "options": [
+    "Doctors",
+    "Teachers",
+    "Reporters",
+    "Lawyers"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "They end up on opposite sides of the same court case. It was one of nine films they made together.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Adam%27s_Rib",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-046",
+   "year": 1946,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 1946's 'The Big Sleep,' Humphrey Bogart plays which famous private detective?",
+   "options": [
+    "Sam Spade",
+    "Philip Marlowe",
+    "Mike Hammer",
+    "Nick Charles"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The story came from a Raymond Chandler novel, and the plot is so twisty that even the writers were confused.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Big_Sleep_(1946_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-047",
+   "year": 1946,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 1946's 'The Yearling,' what pet does young Jody raise on his family's Florida farm?",
+   "options": [
+    "A pony",
+    "A raccoon",
+    "A fox",
+    "A fawn"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Claude Jarman Jr., who played Jody, was given a special Academy Award as the year's outstanding child actor.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Yearling_(1946_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-048",
+   "year": 1954,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which 1954 film gave Judy Garland the torch song 'The Man That Got Away'?",
+   "options": [
+    "A Star Is Born",
+    "Easter Parade",
+    "Summer Stock",
+    "The Clock"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "James Mason co-starred. It was her first movie in four years, and both stars were nominated for Academy Awards.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/A_Star_Is_Born_(1954_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-049",
+   "year": 1954,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In the 1954 musical 'Brigadoon,' the magical Scottish village appears for one day every how many years?",
+   "options": [
+    "10",
+    "50",
+    "100",
+    "1,000"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Gene Kelly and Cyd Charisse starred. Scotland's weather and costs ruled out filming there, so the highlands were built on MGM sound stages.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Brigadoon_(1954_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-mov-050",
+   "year": 1952,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Danny Kaye played which famous Danish storyteller in a 1952 musical?",
+   "options": [
+    "Hans Christian Andersen",
+    "The Brothers Grimm",
+    "Charles Perrault",
+    "Aesop"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "The film's songs include 'Thumbelina,' 'The Inch Worm' and 'Wonderful Copenhagen.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hans_Christian_Andersen_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-001",
+   "year": 1947,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Jackie Robinson broke baseball's color line in 1947. Which team did he play for?",
+   "options": [
+    "New York Yankees",
+    "Boston Red Sox",
+    "Brooklyn Dodgers",
+    "Chicago Cubs"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Today every Major League player wears his number, 42, on Jackie Robinson Day each April.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jackie_Robinson",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-002",
+   "year": 1945,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which boxer, nicknamed 'The Brown Bomber,' was heavyweight champion for most of the 1940s?",
+   "options": [
+    "Rocky Marciano",
+    "Sugar Ray Robinson",
+    "Jack Dempsey",
+    "Joe Louis"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He held the title from 1937 until he retired in 1949, the longest reign of any heavyweight champion.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Joe_Louis",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-003",
+   "year": 1947,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "After winning Olympic gold in track, which sport did Babe Didrikson Zaharias rule in the late 1940s?",
+   "options": [
+    "Golf",
+    "Swimming",
+    "Tennis",
+    "Bowling"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "She won ten major golf championships and helped found the LPGA, the women's pro golf tour, in 1950.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Babe_Didrikson_Zaharias",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-004",
+   "year": 1954,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1954, Roger Bannister became the first person to run a mile in under how many minutes?",
+   "options": [
+    "Three",
+    "Four",
+    "Five",
+    "Six"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He ran it in 3 minutes 59.4 seconds on May 6, 1954, in Oxford, England. He was a medical student at the time.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Roger_Bannister",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-005",
+   "year": 1951,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Willie Mays made his big-league debut in 1951. Which team did he play for?",
+   "options": [
+    "Brooklyn Dodgers",
+    "New York Yankees",
+    "St. Louis Cardinals",
+    "New York Giants"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He started with just one hit in his first 26 at-bats. His manager stuck with him, and he was named Rookie of the Year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Willie_Mays",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-006",
+   "year": 1946,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Which St. Louis Cardinals slugger won the National League MVP award in 1946?",
+   "options": [
+    "Ted Williams",
+    "Stan Musial",
+    "Joe DiMaggio",
+    "Jackie Robinson"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He won the MVP award three times, in 1943, 1946 and 1948, and played his whole career for St. Louis.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Stan_Musial",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-007",
+   "year": 1947,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Jackie Robinson won which award in his first big-league season, 1947?",
+   "options": [
+    "Most Valuable Player",
+    "Batting title",
+    "Gold Glove",
+    "Rookie of the Year"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It was the first year the award was given. In 1987 it was renamed the Jackie Robinson Award.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Major_League_Baseball_Rookie_of_the_Year_Award",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-008",
+   "year": 1948,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "The 1948 Summer Olympics in London were the first since 1936. Which country won the most gold medals?",
+   "options": [
+    "Great Britain",
+    "Sweden",
+    "United States",
+    "France"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "They were called the 'Austerity Games,' because Britain was still rationing food. Athletes stayed in schools and army camps.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1948_Summer_Olympics",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-009",
+   "year": 1949,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Who managed the New York Yankees to the 1949 World Series title in his first year with the team?",
+   "options": [
+    "Joe McCarthy",
+    "Bucky Harris",
+    "Casey Stengel",
+    "Billy Martin"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "'The Ol' Perfessor' was known for his twisted way of talking, called 'Stengelese.' His Yankees won five titles in a row.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Casey_Stengel",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-010",
+   "year": 1950,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "In 1950, Florence Chadwick swam which famous body of water faster than any woman before her?",
+   "options": [
+    "Strait of Gibraltar",
+    "Chesapeake Bay",
+    "Lake Michigan",
+    "English Channel"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "She swam from France to England in 13 hours and 20 minutes, beating Gertrude Ederle's record from 1926.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Florence_Chadwick",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-011",
+   "year": 1951,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Bobby Thomson's 1951 'Shot Heard Round the World' won the pennant for the Giants. Which team did it beat?",
+   "options": [
+    "Brooklyn Dodgers",
+    "Philadelphia Phillies",
+    "Boston Braves",
+    "New York Yankees"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Giants radio announcer Russ Hodges shouted 'The Giants win the pennant!' over and over.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Shot_Heard_%27Round_the_World_(baseball)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-012",
+   "year": 1952,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Rocky Marciano won the heavyweight title in 1952. What was his record when he retired?",
+   "options": [
+    "38 wins, 3 draws",
+    "45 wins, 1 loss",
+    "49 wins, 0 losses",
+    "60 wins, 2 losses"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He is the only heavyweight champion to retire without ever losing a professional fight.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rocky_Marciano",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-013",
+   "year": 1953,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Golfer Ben Hogan won three major titles in 1953. What had he survived four years earlier?",
+   "options": [
+    "A car crash",
+    "A shipwreck",
+    "A plane crash",
+    "A house fire"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "In 1949 his car hit a Greyhound bus head-on. Doctors feared he might not walk again, but he came back to win six more majors.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ben_Hogan",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-014",
+   "year": 1954,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Willie Mays made an amazing over-the-shoulder grab in the 1954 World Series. What is it simply called?",
+   "options": [
+    "The Robbery",
+    "The Grab",
+    "The Snag",
+    "The Catch"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He ran down Vic Wertz's long drive at the Polo Grounds. The Giants went on to sweep Cleveland in four games.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Catch_(baseball)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-015",
+   "year": 1946,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "The St. Louis Cardinals won a thrilling 7-game World Series in 1946. Who did they beat?",
+   "options": [
+    "New York Yankees",
+    "Boston Red Sox",
+    "Detroit Tigers",
+    "Chicago Cubs"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Enos Slaughter's famous 'Mad Dash' home from first base in Game 7 won it for St. Louis.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1946_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-016",
+   "year": 1952,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "The Yankees beat the Dodgers in the 1952 World Series. How many titles in a row was that for New York?",
+   "options": [
+    "Second",
+    "Third",
+    "Fourth",
+    "Fifth"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "The Yankees won five World Series in a row, from 1949 to 1953, under manager Casey Stengel.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1952_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-017",
+   "year": 1954,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which country won soccer's 1954 World Cup?",
+   "options": [
+    "West Germany",
+    "Italy",
+    "Hungary",
+    "Brazil"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "West Germany upset heavily favored Hungary 3 to 2 in what became known as the 'Miracle of Bern.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_final",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-018",
+   "year": 1945,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which team beat the Chicago Cubs in the 1945 World Series?",
+   "options": [
+    "Detroit Tigers",
+    "Boston Red Sox",
+    "St. Louis Cardinals",
+    "New York Yankees"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The Cubs would not play in another World Series for 71 years, until they won it all in 2016.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1945_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-019",
+   "year": 1946,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "The Cleveland Rams won the NFL title in 1945, then moved in 1946. Where did they go?",
+   "options": [
+    "Los Angeles",
+    "San Francisco",
+    "Baltimore",
+    "St. Louis"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "They became the first major-league sports team based on the West Coast.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cleveland_Rams",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-020",
+   "year": 1948,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Citation won horse racing's Triple Crown in 1948. Who was his famous jockey?",
+   "options": [
+    "Johnny Longden",
+    "Bill Hartack",
+    "Eddie Arcaro",
+    "Willie Shoemaker"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He also won the Triple Crown on Whirlaway in 1941. He is still the only jockey to win it twice.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Eddie_Arcaro",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-021",
+   "year": 1948,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Cleveland won the 1948 World Series with which shortstop as its player-manager?",
+   "options": [
+    "Bob Feller",
+    "Lou Boudreau",
+    "Larry Doby",
+    "Satchel Paige"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He batted .355 that year and was named the American League's Most Valuable Player.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lou_Boudreau",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-022",
+   "year": 1949,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Joe Louis retired as heavyweight champion in 1949. How many times had he defended the title?",
+   "options": [
+    "7 times",
+    "14 times",
+    "25 times",
+    "31 times"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "His 25 successful title defenses are still the most by any heavyweight champion.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Joe_Louis",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-023",
+   "year": 1950,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "The young 1950 Philadelphia Phillies won the National League pennant. What was their nickname?",
+   "options": [
+    "The Whiz Kids",
+    "The Gashouse Gang",
+    "The Fighting Phils",
+    "The Boys of Summer"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Young stars like pitcher Robin Roberts and outfielder Richie Ashburn led the way. The Yankees swept them in the World Series.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1950_Philadelphia_Phillies_season",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-024",
+   "year": 1950,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In a famous 1950 World Cup upset, the United States soccer team beat which country 1 to 0?",
+   "options": [
+    "Brazil",
+    "England",
+    "Italy",
+    "Germany"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The Americans were mostly part-timers. Some English newspapers were said to think the score was a misprint.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/United_States_v_England_(1950_FIFA_World_Cup)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-025",
+   "year": 1952,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which American won the Olympic decathlon in both 1948 and 1952?",
+   "options": [
+    "Bob Mathias",
+    "Rafer Johnson",
+    "Jesse Owens",
+    "Jim Thorpe"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He was only 17 when he won in 1948, and later served in Congress.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bob_Mathias",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-spt-026",
+   "year": 1951,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Yankee star, who retired after the 1951 season, was nicknamed 'The Yankee Clipper'?",
+   "options": [
+    "Lou Gehrig",
+    "Mickey Mantle",
+    "Babe Ruth",
+    "Joe DiMaggio"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "His 56-game hitting streak from 1941 is still a record. In 1954 he married Marilyn Monroe.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Joe_DiMaggio",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-027",
+   "year": 1951,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Yankee catcher, famous for sayings like 'It ain't over till it's over,' was the 1951 AL MVP?",
+   "options": [
+    "Johnny Bench",
+    "Roy Campanella",
+    "Yogi Berra",
+    "Phil Rizzuto"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "He won the MVP award three times and played on ten World Series champions.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Yogi_Berra",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-028",
+   "year": 1948,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Yankee legend, 'The Bambino,' was honored in 1948 when the team retired his number 3?",
+   "options": [
+    "Joe DiMaggio",
+    "Lou Gehrig",
+    "Babe Ruth",
+    "Ty Cobb"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He hit 714 home runs in his career, a record that stood until 1974.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Babe_Ruth",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-029",
+   "year": 1946,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Boston Red Sox slugger, the 1946 AL MVP, was nicknamed 'The Splendid Splinter'?",
+   "options": [
+    "Bobby Doerr",
+    "Stan Musial",
+    "Ted Williams",
+    "Joe Cronin"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "In 1941 he batted .406. No major leaguer has hit .400 for a season since.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ted_Williams",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-030",
+   "year": 1950,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "George Mikan, the first great 'big man,' led the Minneapolis Lakers to titles in which sport?",
+   "options": [
+    "Hockey",
+    "Baseball",
+    "Football",
+    "Basketball"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He stood 6 feet 10 and wore thick glasses on the court. The league widened the lane under the basket partly because of him.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/George_Mikan",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-031",
+   "year": 1949,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "The Toronto Maple Leafs won hockey's top prize in 1947, 1948 and 1949. What is it called?",
+   "options": [
+    "The Stanley Cup",
+    "The Davis Cup",
+    "The Ryder Cup",
+    "The Lombardi Trophy"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "They were the first team to win the Stanley Cup three years in a row.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1949_Stanley_Cup_Finals",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-032",
+   "year": 1951,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Detroit Red Wings star of the early 1950s was nicknamed 'Mr. Hockey'?",
+   "options": [
+    "Bobby Hull",
+    "Gordie Howe",
+    "Rocket Richard",
+    "Terry Sawchuk"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He played professional hockey in five different decades, retiring for good at age 52.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gordie_Howe",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-033",
+   "year": 1954,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which weekly sports magazine published its very first issue in August 1954?",
+   "options": [
+    "Sports Illustrated",
+    "Sporting News",
+    "Sport Life",
+    "Field and Stream"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It came from the publishers of Time and Life magazines and ran as a weekly for more than 60 years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sports_Illustrated",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-034",
+   "year": 1951,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Sugar Ray Robinson, often called the best fighter of all time, was a champion in which sport?",
+   "options": [
+    "Wrestling",
+    "Track",
+    "Tennis",
+    "Boxing"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He won the middleweight title five times, the first in 1951. Muhammad Ali called him his idol.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sugar_Ray_Robinson",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-035",
+   "year": 1953,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "What did Brooklyn Dodgers fans fondly call their team in the early 1950s?",
+   "options": [
+    "Dem Bums",
+    "The Bombers",
+    "The Gashouse Gang",
+    "The Bronx Zoo"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "After each World Series loss to the Yankees, fans cried 'Wait 'til next year!' Next year finally came in 1955.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Brooklyn_Dodgers",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-036",
+   "year": 1954,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which future home run king made his big-league debut with the Milwaukee Braves in 1954?",
+   "options": [
+    "Frank Robinson",
+    "Willie Mays",
+    "Ernie Banks",
+    "Hank Aaron"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Twenty years later, in 1974, he broke Babe Ruth's career record of 714 home runs.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hank_Aaron",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-037",
+   "year": 1949,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Gorgeous George, with his golden curls and perfumed valet, was a TV star of which sport?",
+   "options": [
+    "Boxing",
+    "Pro wrestling",
+    "Roller derby",
+    "Bowling"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He strutted to the ring to 'Pomp and Circumstance.' Young Muhammad Ali later copied his showmanship.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gorgeous_George",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-038",
+   "year": 1946,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Cardinals star Stan Musial got which nickname from Brooklyn fans in 1946?",
+   "options": [
+    "Stan the Man",
+    "Steady Stan",
+    "Slammin' Stan",
+    "Stan the Hammer"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Brooklyn fans groaned 'Here comes that man again' whenever he came up to bat at Ebbets Field.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Stan_Musial",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-039",
+   "year": 1952,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which whistled tune became the Harlem Globetrotters' theme song in 1952?",
+   "options": [
+    "Take Me Out to the Ball Game",
+    "In the Mood",
+    "Yankee Doodle",
+    "Sweet Georgia Brown"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "The team plays it during its famous 'Magic Circle' warm-up, with tricky passes and ball spinning.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Harlem_Globetrotters",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-040",
+   "year": 1946,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which famous Memorial Day car race returned in 1946 after being stopped for the war?",
+   "options": [
+    "The Kentucky Derby",
+    "The Daytona 500",
+    "The Indianapolis 500",
+    "The Boston Marathon"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The Speedway sat empty and run-down during the war. Indiana businessman Tony Hulman bought it in 1945 and saved it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Indianapolis_Motor_Speedway",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-041",
+   "year": 1945,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Maurice 'Rocket' Richard starred for which hockey team?",
+   "options": [
+    "New York Rangers",
+    "Boston Bruins",
+    "Montreal Canadiens",
+    "Chicago Black Hawks"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "In the 1944–45 season he became the first player to score 50 goals in 50 games.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Maurice_Richard",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-042",
+   "year": 1947,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In which Pennsylvania town was the first Little League World Series played, in 1947?",
+   "options": [
+    "Scranton",
+    "Williamsport",
+    "Altoona",
+    "Hershey"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was played on a small field on West Fourth Street. The series is still held every August in the Williamsport area.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Little_League_World_Series",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-043",
+   "year": 1953,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which teenage tennis star, nicknamed 'Little Mo,' won all four major titles in 1953?",
+   "options": [
+    "Maureen Connolly",
+    "Althea Gibson",
+    "Doris Hart",
+    "Louise Brough"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "She was the first woman to win the Grand Slam, and she did it at just 18 years old.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Maureen_Connolly",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-044",
+   "year": 1951,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Who became the oldest heavyweight boxing champion up to that time when he won the title in 1951 at age 37?",
+   "options": [
+    "Ezzard Charles",
+    "Jersey Joe Walcott",
+    "Archie Moore",
+    "Joe Louis"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He had lost four earlier title fights before finally winning the crown by knockout.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jersey_Joe_Walcott",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-045",
+   "year": 1952,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "At the 1952 Olympics, which Czech runner won the 5,000 meters, 10,000 meters and the marathon?",
+   "options": [
+    "Gaston Reiff",
+    "Paavo Nurmi",
+    "Alain Mimoun",
+    "Emil Zátopek"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "It was the first marathon he had ever run. His nickname was 'the Czech Locomotive.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Emil_Z%C3%A1topek",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-046",
+   "year": 1954,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which team moved from St. Louis in 1954 to become the Baltimore Orioles?",
+   "options": [
+    "The St. Louis Cardinals",
+    "The St. Louis Browns",
+    "The St. Louis Blues",
+    "The St. Louis Hawks"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "The Browns had won just one American League pennant in over 50 years in St. Louis.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/St._Louis_Browns",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-047",
+   "year": 1953,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In 1953, the Boston Braves moved to which city, the first big-league team move in 50 years?",
+   "options": [
+    "Baltimore",
+    "Kansas City",
+    "Atlanta",
+    "Milwaukee"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Fans packed the new stadium, and the Braves set a National League attendance record in their very first season.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Milwaukee_Braves",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-048",
+   "year": 1945,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In 1945, golfer Byron Nelson set a record by winning how many tournaments in a row?",
+   "options": [
+    "5",
+    "8",
+    "11",
+    "15"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He won 18 tournaments that year in all. Both records still stand.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Byron_Nelson",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-049",
+   "year": 1947,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which team won the first season of the league that became the NBA, in 1947?",
+   "options": [
+    "Boston Celtics",
+    "Philadelphia Warriors",
+    "New York Knicks",
+    "Minneapolis Lakers"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Their star, 'Jumping Joe' Fulks, led the league in scoring with his new jump shot.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1947_BAA_Finals",
+   "origin": "new"
+  },
+  {
+   "id": "us45-spt-050",
+   "year": 1948,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Pitcher Satchel Paige became the oldest rookie in big-league history in 1948. Which team signed him?",
+   "options": [
+    "Brooklyn Dodgers",
+    "Cleveland Indians",
+    "St. Louis Browns",
+    "Chicago White Sox"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He was 42 and had starred for years in the Negro leagues. Cleveland won the World Series that fall.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Satchel_Paige",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-001",
+   "year": 1948,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "What 1948 American program helped rebuild Europe after the war?",
+   "options": [
+    "NATO",
+    "The New Deal",
+    "The Marshall Plan",
+    "The Truman Doctrine"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It sent billions of dollars to help rebuild homes, factories and farms across Europe.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Marshall_Plan",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-002",
+   "year": 1952,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which war hero was elected President of the United States in 1952?",
+   "options": [
+    "Dwight D. Eisenhower",
+    "Douglas MacArthur",
+    "George Patton",
+    "Omar Bradley"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "'I Like Ike' became one of the best-remembered campaign slogans ever.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1952_United_States_presidential_election",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-003",
+   "year": 1953,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Who was crowned Queen in a famous 1953 ceremony at Westminster Abbey?",
+   "options": [
+    "Queen Victoria",
+    "Queen Mary",
+    "Queen Elizabeth II",
+    "Queen Anne"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Millions watched on television, and many families bought their first TV set just to see it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Coronation_of_Elizabeth_II",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-004",
+   "year": 1946,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "After World War II, the U.S. and the Soviet Union became rivals in what was called the ___ War.",
+   "options": [
+    "Quiet",
+    "Cold",
+    "Warm",
+    "Silent"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It was called 'cold' because the two superpowers never fought each other directly.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cold_War",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-005",
+   "year": 1945,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which world organization was founded in 1945 to help keep the peace?",
+   "options": [
+    "NATO",
+    "The United Nations",
+    "The League of Nations",
+    "The Red Cross"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It started with 51 member countries. Today it has 193.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/United_Nations",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-006",
+   "year": 1945,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which country surrendered in May 1945, ending World War II in Europe?",
+   "options": [
+    "Germany",
+    "Italy",
+    "Japan",
+    "Russia"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "May 8 became V-E Day, Victory in Europe Day, with joyful crowds in New York, London and Paris.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Victory_in_Europe_Day",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-007",
+   "year": 1946,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "What was the huge rise in births called that began in 1946, after soldiers came home?",
+   "options": [
+    "The Baby Boom",
+    "The Great Migration",
+    "The Family Wave",
+    "The Cradle Rush"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Children born from 1946 to 1964 became known as the Baby Boomers, the biggest generation America had ever seen.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Baby_boomers",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-008",
+   "year": 1947,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1947, a pilot reported strange objects flying near Mount Rainier. What did newspapers call them?",
+   "options": [
+    "Weather balloons",
+    "Space stations",
+    "Flying saucers",
+    "Shooting stars"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Pilot Kenneth Arnold said they moved like a saucer skipping across water, and reporters coined the term 'flying saucer.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-009",
+   "year": 1948,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "The Chicago Tribune's famous 1948 headline wrongly said which candidate had won the election?",
+   "options": [
+    "Strom Thurmond",
+    "Harry Truman",
+    "Thomas Dewey",
+    "Henry Wallace"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "The headline read 'Dewey Defeats Truman.' A grinning Truman held up the paper for photographers after his surprise win.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dewey_Defeats_Truman",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-010",
+   "year": 1953,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1953, two climbers reached the top of Mount Everest for the first time. Who was one of them?",
+   "options": [
+    "Edmund Hillary",
+    "Charles Lindbergh",
+    "Richard Byrd",
+    "Roald Amundsen"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Hillary and Tenzing Norgay reached the top on May 29, 1953. The news reached London on the morning of the Queen's coronation.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1953_British_Mount_Everest_expedition",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-011",
+   "year": 1954,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Whose polio vaccine was tested on schoolchildren across America in 1954?",
+   "options": [
+    "Albert Sabin",
+    "Alexander Fleming",
+    "Jonas Salk",
+    "Louis Pasteur"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "About 1.8 million children took part and were called 'Polio Pioneers.' In 1955 the vaccine was declared safe and effective.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jonas_Salk",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-012",
+   "year": 1950,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "The first 'Peanuts' comic strip ran in October 1950. Which character appeared in it?",
+   "options": [
+    "Snoopy",
+    "Schroeder",
+    "Lucy",
+    "Charlie Brown"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Charles Schulz wanted to call it 'Li'l Folks.' The newspaper syndicate renamed it 'Peanuts,' a name he never liked.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Peanuts",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-013",
+   "year": 1946,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "In a 1946 speech in Missouri, Winston Churchill said what had come down across Europe?",
+   "options": [
+    "A red menace",
+    "An iron curtain",
+    "A cold front",
+    "A great wall"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He gave the speech at a small college in Fulton, Missouri, with President Truman sitting on the stage.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Iron_Curtain",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-014",
+   "year": 1947,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Test pilot Chuck Yeager broke what barrier on October 14, 1947?",
+   "options": [
+    "The altitude record",
+    "The speed of light",
+    "The space barrier",
+    "The sound barrier"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He flew the Bell X-1 rocket plane, which he named 'Glamorous Glennis' after his wife.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bell_X-1",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-015",
+   "year": 1948,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "When the Soviets blocked roads to West Berlin in 1948, how did the Allies get food and fuel to the city?",
+   "options": [
+    "By train",
+    "Through a tunnel",
+    "By submarine",
+    "By an airlift"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Planes landed around the clock for over a year. Pilot Gail Halvorsen dropped candy to children on tiny parachutes.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Berlin_Blockade",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-016",
+   "year": 1949,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "NATO was founded in April 1949. What does NATO stand for?",
+   "options": [
+    "North Atlantic Treaty Organization",
+    "North Atlantic Trade Office",
+    "National Allied Treaty Order",
+    "Nations Allied to Oppose"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It began with 12 countries, including the United States and Canada. An attack on one member counts as an attack on all.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/NATO",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-017",
+   "year": 1949,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Which author's 1949 novel '1984' gave the world the all-seeing 'Big Brother'?",
+   "options": [
+    "H.G. Wells",
+    "Aldous Huxley",
+    "Ray Bradbury",
+    "George Orwell"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "The book also gave us words like 'doublethink' and 'thought police.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Nineteen_Eighty-Four",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-018",
+   "year": 1953,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "In 1953, James Watson and Francis Crick described the 'double helix' shape of what?",
+   "options": [
+    "A snowflake",
+    "DNA",
+    "Vitamin C",
+    "The atom"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Their paper was only about one page long. X-ray pictures made by Rosalind Franklin were key to the discovery.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Molecular_Structure_of_Nucleic_Acids:_A_Structure_for_Deoxyribose_Nucleic_Acid",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-019",
+   "year": 1954,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Which 1954 Supreme Court ruling said public schools could no longer be separated by race?",
+   "options": [
+    "Plessy v. Ferguson",
+    "Brown v. Board of Education",
+    "Roe v. Wade",
+    "Miranda v. Arizona"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "All nine justices agreed. The case was named for Oliver Brown, a father in Topeka, Kansas.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Brown_v._Board_of_Education",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-020",
+   "year": 1947,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1947, President Truman pledged aid to Greece and Turkey. What was this policy called?",
+   "options": [
+    "The Marshall Plan",
+    "The Eisenhower Doctrine",
+    "The Monroe Doctrine",
+    "The Truman Doctrine"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He announced it in a speech to Congress in March 1947, promising to support free nations.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Truman_Doctrine",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-021",
+   "year": 1951,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which amendment to the Constitution, ratified in 1951, limits presidents to two terms?",
+   "options": [
+    "19th Amendment",
+    "20th Amendment",
+    "21st Amendment",
+    "22nd Amendment"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It came after Franklin Roosevelt was elected four times, more than any other president.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Twenty-second_Amendment_to_the_United_States_Constitution",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-022",
+   "year": 1952,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Princess Elizabeth became Queen in 1952 while on a trip to Kenya. How old was she?",
+   "options": [
+    "18",
+    "21",
+    "25",
+    "32"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "She went on to reign for 70 years, the longest of any British monarch.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Elizabeth_II",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-hdl-023",
+   "year": 1952,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In Richard Nixon's famous 1952 'Checkers' speech on TV, who or what was Checkers?",
+   "options": [
+    "His car",
+    "His horse",
+    "His dog",
+    "His boat"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Checkers was a black and white cocker spaniel. Nixon's young daughter Tricia named him.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Checkers_speech",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-024",
+   "year": 1953,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which First Lady, who moved into the White House in 1953, was famous for her love of the color pink?",
+   "options": [
+    "Mamie Eisenhower",
+    "Bess Truman",
+    "Eleanor Roosevelt",
+    "Jacqueline Kennedy"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "She had White House rooms redecorated in her favorite colors, pink and green, and was known for her short bangs.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mamie_Eisenhower",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-025",
+   "year": 1954,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which two words were added to the Pledge of Allegiance in 1954?",
+   "options": [
+    "'United States'",
+    "'With liberty'",
+    "'For all'",
+    "'Under God'"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "President Eisenhower signed the change into law on Flag Day, June 14, 1954.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pledge_of_Allegiance",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-026",
+   "year": 1945,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "A sailor kissing a nurse in Times Square became the famous photo of which 1945 celebration?",
+   "options": [
+    "V-J Day",
+    "New Year's Eve",
+    "Independence Day",
+    "Armistice Day"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Alfred Eisenstaedt took the picture for Life magazine as crowds celebrated the end of the war.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/V-J_Day_in_Times_Square",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-027",
+   "year": 1945,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which president kept a sign on his desk that read 'The buck stops here'?",
+   "options": [
+    "Herbert Hoover",
+    "Franklin Roosevelt",
+    "Dwight Eisenhower",
+    "Harry Truman"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It meant he would not pass the blame to anyone else. A friend had the sign made at a federal reformatory in Oklahoma.",
+   "talk": null,
+   "source": "https://www.trumanlibrary.gov/education/trivia/buck-stops-here-sign",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-028",
+   "year": 1949,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which folk artist was famous by 1949 for cheerful farm paintings she began making in her late 70s?",
+   "options": [
+    "Georgia O'Keeffe",
+    "Grandma Moses",
+    "Mary Cassatt",
+    "Norman Rockwell"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Anna Mary Robertson Moses kept painting until she was over 100. President Truman gave her an award in 1949.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Grandma_Moses",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-029",
+   "year": 1946,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Dr. Benjamin Spock's huge 1946 bestseller gave parents advice about what?",
+   "options": [
+    "Saving money",
+    "Cooking",
+    "Baby and child care",
+    "Gardening"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It opened with the reassuring words 'Trust yourself. You know more than you think you do.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Common_Sense_Book_of_Baby_and_Child_Care",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-030",
+   "year": 1945,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which doodle of a big-nosed man peeking over a wall was drawn everywhere by GIs in the 1940s?",
+   "options": [
+    "Smokey",
+    "Popeye",
+    "Dagwood",
+    "Kilroy"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It came with the words 'Kilroy was here.' Soldiers drew it on walls all over the world.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kilroy_was_here",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-031",
+   "year": 1954,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "President Eisenhower loved which sport so much that he had a practice green put in at the White House?",
+   "options": [
+    "Bowling",
+    "Tennis",
+    "Golf",
+    "Croquet"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Golf was his favorite way to relax. He practiced his putting just outside the Oval Office.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/White_House_putting_green",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-032",
+   "year": 1946,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "ENIAC, unveiled at the University of Pennsylvania in 1946, was one of the first what?",
+   "options": [
+    "Color TV sets",
+    "Jet engines",
+    "Electronic computers",
+    "Robots"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It filled a large room, weighed about 30 tons and used around 18,000 vacuum tubes.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/ENIAC",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-033",
+   "year": 1953,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "In 1953, Eisenhower renamed the presidential retreat in Maryland after his grandson. What is it called?",
+   "options": [
+    "Camp Dwight",
+    "Camp Ike",
+    "Shangri-La",
+    "Camp David"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Franklin Roosevelt had called it 'Shangri-La.' The grandson, David Eisenhower, later married Richard Nixon's daughter Julie.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Camp_David",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-034",
+   "year": 1945,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Harry Truman became president in April 1945. Which state was he from?",
+   "options": [
+    "Illinois",
+    "Kansas",
+    "Ohio",
+    "Missouri"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He grew up in Independence, Missouri, and once ran a men's clothing store in Kansas City.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Harry_S._Truman",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-035",
+   "year": 1946,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which wealthy American gave the land in New York City for the United Nations headquarters in 1946?",
+   "options": [
+    "Henry Ford",
+    "John D. Rockefeller Jr.",
+    "Andrew Mellon",
+    "J. P. Morgan Jr."
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "He paid $8.5 million for the land along the East River. Before that, the site was mostly slaughterhouses.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Headquarters_of_the_United_Nations",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-036",
+   "year": 1946,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "The Philippines gained independence from the United States in 1946 on which date?",
+   "options": [
+    "January 1",
+    "July 4",
+    "November 11",
+    "December 25"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "In 1962 the Philippines moved its Independence Day to June 12, the date of its earlier declaration from Spain.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Treaty_of_Manila_(1946)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-037",
+   "year": 1952,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "On election night 1952, CBS used a new machine called UNIVAC to predict the winner. What was UNIVAC?",
+   "options": [
+    "A radar",
+    "A voting machine",
+    "A telephone",
+    "A computer"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It predicted an Eisenhower landslide from early returns. The experts did not trust it at first, but it was right.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/UNIVAC_I",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-038",
+   "year": 1951,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1951, people in Englewood, New Jersey, became the first to do what without an operator?",
+   "options": [
+    "Watch color TV",
+    "Dial long distance",
+    "Send a telegram",
+    "Use a pay phone"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "The town's mayor made the first call, to the mayor of Alameda, California.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Direct_distance_dialing",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-039",
+   "year": 1953,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which former governor of California became Chief Justice of the United States in 1953?",
+   "options": [
+    "Felix Frankfurter",
+    "Warren Burger",
+    "Hugo Black",
+    "Earl Warren"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He led the Supreme Court for 16 years. He had also been the Republican candidate for vice president in 1948.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Earl_Warren",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-040",
+   "year": 1949,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Whose 1949 presidential inauguration was the first one shown on television?",
+   "options": [
+    "Dwight Eisenhower's",
+    "Franklin Roosevelt's",
+    "Harry Truman's",
+    "Herbert Hoover's"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It was also the first inauguration to be broadcast with sound and pictures to millions across the country.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Second_inauguration_of_Harry_S._Truman",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-041",
+   "year": 1949,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "From 1949 to 1952 the Trumans lived across the street at Blair House. Why?",
+   "options": [
+    "The White House burned",
+    "The White House was rebuilt",
+    "It was bigger",
+    "The roof leaked"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "The old building was so weak that a leg of Margaret Truman's piano had broken through the floor.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/White_House_Reconstruction",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-042",
+   "year": 1949,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "When West Germany was formed in 1949, which small city on the Rhine became its capital?",
+   "options": [
+    "Bonn",
+    "Berlin",
+    "Munich",
+    "Frankfurt"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It stayed the capital until Germany reunited in 1990. Bonn is also where Beethoven was born.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bonn",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-043",
+   "year": 1949,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Harry Truman called his program for housing, jobs and health the 'Fair' what?",
+   "options": [
+    "Plan",
+    "Deal",
+    "Society",
+    "Frontier"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He laid out the Fair Deal in his January 1949 State of the Union address.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Fair_Deal",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-044",
+   "year": 1952,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1952, which American ocean liner crossed the Atlantic faster than any passenger ship before?",
+   "options": [
+    "SS United States",
+    "SS America",
+    "Queen Mary",
+    "SS Normandie"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It made the trip in about three and a half days and won the Blue Riband, the honor for the fastest Atlantic crossing.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/SS_United_States",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-045",
+   "year": 1950,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "The 1950 census counted about how many people in the United States?",
+   "options": [
+    "100 million",
+    "150 million",
+    "200 million",
+    "250 million"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The exact count was 151,325,798, up 14.5 percent from 1940. New York was the most populous state.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1950_United_States_census",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-046",
+   "year": 1948,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which United Nations agency, founded in 1948, marks its birthday every April 7?",
+   "options": [
+    "World Health Organization",
+    "UNICEF",
+    "World Bank",
+    "Red Cross"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "The day is celebrated each year as World Health Day.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/World_Health_Organization",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-047",
+   "year": 1952,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1952, which US island territory approved its own constitution and became a commonwealth?",
+   "options": [
+    "Puerto Rico",
+    "Hawaii",
+    "Guam",
+    "Cuba"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Its constitution took effect on July 25, 1952. Luis Muñoz Marín was its first elected governor.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Constitution_of_Puerto_Rico",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-048",
+   "year": 1950,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1950, President Truman wrote an angry letter to a music critic who had panned whose singing?",
+   "options": [
+    "His daughter's",
+    "His wife's",
+    "Bing Crosby's",
+    "A senator's"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Margaret Truman was a concert singer. The critic, Paul Hume, wrote for the Washington Post.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Margaret_Truman",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-049",
+   "year": 1949,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1949, New York jeweler Harry Winston bought which famous blue diamond?",
+   "options": [
+    "The Koh-i-Noor",
+    "The Hope Diamond",
+    "The Star of India",
+    "The Cullinan"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He later gave it to the Smithsonian, sending it by ordinary registered mail in a plain package.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hope_Diamond",
+   "origin": "new"
+  },
+  {
+   "id": "us45-hdl-050",
+   "year": 1949,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1949, which island joined Canada as its tenth province?",
+   "options": [
+    "Vancouver Island",
+    "Prince Edward Island",
+    "Newfoundland",
+    "Cape Breton"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It had been a separate British dominion. Its people voted in 1948 to join Canada.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dominion_of_Newfoundland",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-001",
+   "year": 1952,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Starting in 1952, what did Lucy in 'Peanuts' keep pulling away just as Charlie Brown tried to kick it?",
+   "options": [
+    "A kickball",
+    "A soccer ball",
+    "A beach ball",
+    "A football"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Charles Schulz drew the gag nearly every fall for decades, and Charlie Brown never once got to kick the ball.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lucy_van_Pelt",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-002",
+   "year": 1945,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In 1940s slang, if someone called you a 'dreamboat,' what did they mean?",
+   "options": [
+    "You were a daydreamer",
+    "You were rich",
+    "You were a good dancer",
+    "You were very attractive"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Teenagers used it for their favorite crooners and movie stars, and for the cutest boy or girl in school.",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/dreamboat",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-003",
+   "year": 1948,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In the slang of the day, if something was 'the cat's meow,' what was it?",
+   "options": [
+    "Really annoying",
+    "Very strange",
+    "Simply wonderful",
+    "Too noisy"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It could also mean a fancy, sought-after thing, like a shiny new car everybody wanted.",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/cat%27s_meow",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-004",
+   "year": 1952,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In 1950s slang, what was a 'square'?",
+   "options": [
+    "A dull, old-fashioned person",
+    "A city block",
+    "An honest person",
+    "A big meal"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "The opposite of a square was someone 'hip' or 'cool' who kept up with the latest fads.",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/square",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-005",
+   "year": 1954,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In 1950s teen slang, what did 'wheels' mean?",
+   "options": [
+    "A car",
+    "Roller skates",
+    "Sneakers",
+    "A bicycle"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Having your own wheels meant freedom: drive-ins, sock hops and cruising Main Street on a Saturday night.",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/wheels",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-006",
+   "year": 1946,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "About how much did a new 1946 Chevrolet cost?",
+   "options": [
+    "About $500",
+    "About $1,100",
+    "About $3,500",
+    "About $5,000"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The list price was $1,076. Car factories had built tanks and planes during the war, so buyers lined up for the first new cars in years.",
+   "talk": null,
+   "source": "https://www.csmonitor.com/1981/0409/040933.html",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-007",
+   "year": 1950,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "What was the typical value of an American home in 1950?",
+   "options": [
+    "About $3,000",
+    "About $7,400",
+    "About $15,000",
+    "About $25,000"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The census found the middle value was $7,354. By the year 2000 it had climbed to $119,600.",
+   "talk": null,
+   "source": "https://www2.census.gov/programs-surveys/decennial/tables/time-series/coh-values/values-unadj.txt",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-008",
+   "year": 1950,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "About how much did a gallon of regular gas cost in 1950, taxes included?",
+   "options": [
+    "About 9 cents",
+    "About 27 cents",
+    "About 59 cents",
+    "About 99 cents"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The national average was 26.8 cents a gallon. A full tank cost about four dollars.",
+   "talk": null,
+   "source": "https://www.eia.gov/totalenergy/data/browser/csv.php?tbl=T09.04",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-009",
+   "year": 1947,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "How much did it cost to mail a letter with a first-class stamp in 1947?",
+   "options": [
+    "1 cent",
+    "3 cents",
+    "10 cents",
+    "25 cents"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The 3-cent rate lasted from 1932 all the way to 1958.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/History_of_United_States_postage_rates",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-010",
+   "year": 1945,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which 1940s exclamation was a cheeky way of saying someone looked very attractive?",
+   "options": [
+    "'23 skidoo!'",
+    "'Applesauce!'",
+    "'Hubba hubba!'",
+    "'Golly gee!'"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It was a strong, playful compliment, and you can still hear it today, usually said with a wink.",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/hubba_hubba",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-011",
+   "year": 1953,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "In 1950s slang, who would you call 'Daddy-O'?",
+   "options": [
+    "Your own father",
+    "Your boss",
+    "Any cool guy",
+    "A policeman"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It was a friendly, hip way to address any man, not just your dad.",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/daddy-o",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-012",
+   "year": 1949,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "In 1940s jazz slang, a 'hep cat' was someone who was what?",
+   "options": [
+    "A fast driver",
+    "A big spender",
+    "Cool and in the know",
+    "Always late"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Hep cats were fans of swing and bebop jazz. 'Hep' later turned into 'hip,' and our game's Hepcats team is named after them.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hipster_(1940s_subculture)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-013",
+   "year": 1946,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Nylon stockings were hard to find during the war. What was the nylon needed for instead?",
+   "options": [
+    "Parachutes",
+    "Car tires",
+    "Tin cans",
+    "Shoe leather"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "When they came back in stores, huge lines formed. In Pittsburgh in 1946, about 40,000 people lined up for 13,000 pairs.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Nylon_riots",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-014",
+   "year": 1947,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Builder William Levitt started his famous low-cost suburb, Levittown, in 1947 in which state?",
+   "options": [
+    "New York",
+    "California",
+    "Ohio",
+    "Texas"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Crews built the houses assembly-line style, moving from lot to lot and doing one job at each house.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Levittown,_New_York",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-015",
+   "year": 1946,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In 1940s slang, if everything was 'copacetic,' how were things?",
+   "options": [
+    "Dangerous",
+    "Very expensive",
+    "Just fine",
+    "Old-fashioned"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Tap dancer Bill 'Bojangles' Robinson helped make the word popular.",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/copacetic",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-016",
+   "year": 1949,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Only two of which small German cars were sold in the United States in 1949, their first year here?",
+   "options": [
+    "BMW Isetta",
+    "Mercedes-Benz",
+    "Porsche 356",
+    "Volkswagen Beetle"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Few people wanted the odd little car at first. Twenty years later it was the best-selling imported car in America.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Volkswagen_Beetle",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-017",
+   "year": 1950,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "The FBI started its 'Ten Most Wanted' list in 1950. Who was running the FBI?",
+   "options": [
+    "William Sullivan",
+    "J. Edgar Hoover",
+    "Robert Kennedy",
+    "Clyde Tolson"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "J. Edgar Hoover led the FBI for 48 years, under eight presidents.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/FBI_Ten_Most_Wanted_Fugitives",
+   "origin": "trivia"
+  },
+  {
+   "id": "us45-life-018",
+   "year": 1953,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "What new convenience meal did Swanson introduce in 1953?",
+   "options": [
+    "Instant pudding",
+    "Pop-Tarts",
+    "The TV dinner",
+    "Tang"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The first one was turkey with cornbread dressing, peas and sweet potatoes in an aluminum tray.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/TV_dinner",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-019",
+   "year": 1952,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "When Mr. Potato Head first came out in 1952, what did children stick his eyes and nose into?",
+   "options": [
+    "A clay head",
+    "A rubber ball",
+    "A paper bag",
+    "A real potato"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He was the first toy ever advertised on television. A plastic potato body came along in 1964.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mr._Potato_Head",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-020",
+   "year": 1945,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which spring toy that 'walks' down stairs first went on sale in 1945?",
+   "options": [
+    "The yo-yo",
+    "The Slinky",
+    "The Hula Hoop",
+    "The pogo stick"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Engineer Richard James invented it. At its first demonstration, at Gimbels in Philadelphia, 400 sold in about 90 minutes.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Slinky",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-021",
+   "year": 1950,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which stretchy, bouncy toy went on sale in 1950, packed inside a plastic egg?",
+   "options": [
+    "Play-Doh",
+    "Silly Putty",
+    "Jell-O",
+    "Flubber"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It was discovered by accident when wartime scientists were trying to make fake rubber.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Silly_Putty",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-022",
+   "year": 1952,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which crossword-style board game took off so fast in 1952 that its maker couldn't keep up with orders?",
+   "options": [
+    "Scrabble",
+    "Monopoly",
+    "Clue",
+    "Parcheesi"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Its inventor, an out-of-work architect named Alfred Butts, first called it 'Criss-Crosswords.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Scrabble",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-023",
+   "year": 1949,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which children's board game, first sold in 1949, has a path through a land of sweets?",
+   "options": [
+    "Chutes and Ladders",
+    "Candy Land",
+    "Sorry!",
+    "Cootie"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Teacher Eleanor Abbott designed it while recovering from polio, to entertain children in the hospital.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Candy_Land",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-024",
+   "year": 1954,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which candy's 1954 slogan was 'melts in your mouth, not in your hand'?",
+   "options": [
+    "Milk Duds",
+    "Hershey's Kisses",
+    "M&M's",
+    "Junior Mints"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "The hard candy shell kept the chocolate from melting. M&M's were first made for soldiers because they traveled well.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/M%26M%27s",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-025",
+   "year": 1946,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which plastic food containers, later famous for home sales parties, were introduced in 1946?",
+   "options": [
+    "Rubbermaid",
+    "Pyrex",
+    "Corning Ware",
+    "Tupperware"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Earl Tupper invented the 'burping' seal. Saleswoman Brownie Wise made the home parties a sensation.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tupperware_Brands",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-026",
+   "year": 1948,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In 1948, what new kind of camera went on sale that made its own prints in about a minute?",
+   "options": [
+    "The Instamatic",
+    "The Kodak Brownie",
+    "The Polaroid",
+    "The Leica"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Edwin Land's Model 95 Land Camera is widely considered the first instant camera sold to the public.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Instant_camera",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-027",
+   "year": 1946,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which laundry detergent from Procter & Gamble first went on sale in 1946?",
+   "options": [
+    "Tide",
+    "Cheer",
+    "Rinso",
+    "Fab"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Procter & Gamble had sold a gentler synthetic soap, Dreft, since 1933, mostly for washing baby clothes.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tide_(brand)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-028",
+   "year": 1950,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "At 1950s drive-ins, what were the servers called who brought food out to your car?",
+   "options": [
+    "Soda jerks",
+    "Carhops",
+    "Bellhops",
+    "Busboys"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Many carhops zipped from car to car on roller skates, balancing trays that hooked onto the car window.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Carhop",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-029",
+   "year": 1950,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Stores like Woolworth's, full of cheap odds and ends, were nicknamed what?",
+   "options": [
+    "Penny arcades",
+    "Corner markets",
+    "Five-and-dimes",
+    "Trading posts"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "They were also called dime stores. F. W. Woolworth's was the most famous chain of them all.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Variety_store",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-030",
+   "year": 1945,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "What were teenage girls of the 1940s called, after the ankle socks they wore?",
+   "options": [
+    "Sock hoppers",
+    "Bobby-soxers",
+    "Saddle girls",
+    "Hosiery gals"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "They were famous for screaming and swooning over young Frank Sinatra.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bobby_soxer",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-031",
+   "year": 1952,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which dog was a favorite decoration on the felt circle skirts that girls wore in the early 1950s?",
+   "options": [
+    "A poodle",
+    "A collie",
+    "A dachshund",
+    "A beagle"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Juli Lynne Charlot made the first one in 1947 for a Christmas party, because she couldn't sew and felt needed no seams.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Poodle_skirt",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-032",
+   "year": 1952,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which cartoon tiger was introduced in 1952 to sell Sugar Frosted Flakes?",
+   "options": [
+    "Tommy Tiger",
+    "Tiger Tom",
+    "Sugar Bear",
+    "Tony the Tiger"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "His famous line is 'They're gr-r-reat!' For decades he was voiced by Thurl Ravenscroft.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tony_the_Tiger",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-033",
+   "year": 1945,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which new writing tool sold out at Gimbels in New York in 1945, at $12.50 each?",
+   "options": [
+    "The mechanical pencil",
+    "The fountain pen",
+    "The felt-tip marker",
+    "The ballpoint pen"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "That was a lot of money then. Shoppers crowded the store on the first day to see a pen that wrote without an inkwell.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ballpoint_pen",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-034",
+   "year": 1950,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which charge card, launched in 1950, could first be used only at restaurants in New York?",
+   "options": [
+    "Visa",
+    "American Express",
+    "Diners Club",
+    "MasterCard"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Founder Frank McNamara got the idea after he went to dinner and forgot his wallet.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Diners_Club_International",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-035",
+   "year": 1952,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "The first Holiday Inn opened in Memphis in 1952. What was it named after?",
+   "options": [
+    "A Bing Crosby movie",
+    "A Christmas carol",
+    "A song by Elvis",
+    "The owner's wife"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Founder Kemmons Wilson was fed up with cramped, pricey motels on a family road trip, so he built his own.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Holiday_Inn",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-036",
+   "year": 1948,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In 1948, the McDonald brothers reopened their California burger stand with a fast new system. What did they call it?",
+   "options": [
+    "The Big Mac Method",
+    "The Golden Arches Plan",
+    "Quick Burger",
+    "The Speedee Service System"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "They cut the menu down to nine items and made burgers assembly-line style.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/McDonald%27s",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-037",
+   "year": 1949,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "The first Pillsbury Bake-Off was held in 1949 at which famous New York hotel?",
+   "options": [
+    "The Algonquin",
+    "The Plaza",
+    "The Ritz-Carlton",
+    "The Waldorf-Astoria"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Contestants baked their recipes in the hotel's grand ballroom. Eleanor Roosevelt was a guest at the very first one.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pillsbury_Bake-Off",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-038",
+   "year": 1953,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which frozen seafood dinner favorite did Birds Eye bring to American stores in 1953?",
+   "options": [
+    "Lobster rolls",
+    "Shrimp cocktail",
+    "Crab cakes",
+    "Fish sticks"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "They were sold as an easy, mess-free way to serve fish, perfect for Friday dinners.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Fish_finger",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-039",
+   "year": 1953,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "The first Chevrolet Corvette of 1953 had a body made of what?",
+   "options": [
+    "Steel",
+    "Aluminum",
+    "Wood",
+    "Fiberglass"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Only 300 were made that first year, every one of them white with a red interior.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Chevrolet_Corvette_(C1)",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-040",
+   "year": 1949,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Because of its flat, boxy sides, the 1949 Ford got which nickname?",
+   "options": [
+    "The Shoebox",
+    "The Bathtub",
+    "The Toaster",
+    "The Brick"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It was Ford's first all-new car after the war. Its fenders blended into the body instead of sticking out.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1949_Ford",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-041",
+   "year": 1954,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Northland Center, one of the first big shopping malls, opened in 1954 near which city?",
+   "options": [
+    "Cleveland",
+    "Chicago",
+    "Detroit",
+    "Minneapolis"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Architect Victor Gruen designed it. He went on to design the first fully enclosed mall in 1956.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Northland_Center",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-042",
+   "year": 1947,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which French designer's 1947 'New Look' brought back long, full skirts and tiny waists?",
+   "options": [
+    "Coco Chanel",
+    "Christian Dior",
+    "Elsa Schiaparelli",
+    "Hubert de Givenchy"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Harper's Bazaar editor Carmel Snow gave the style its name at Dior's very first show, in February 1947.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Christian_Dior",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-043",
+   "year": 1951,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In 1951, which carmaker became the first to offer power steering on a passenger car?",
+   "options": [
+    "Ford",
+    "Chrysler",
+    "Cadillac",
+    "Studebaker"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It came on the 1951 Chrysler Imperial and was called 'Hydraguide.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Power_steering",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-044",
+   "year": 1945,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In 1945, engineer Percy Spencer noticed a candy bar melting in his pocket near radar equipment. What did that lead to?",
+   "options": [
+    "The electric blanket",
+    "The microwave oven",
+    "The toaster oven",
+    "The heat lamp"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "The first microwave ovens were nearly six feet tall and were sold to restaurants. They were called 'Radaranges.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Microwave_oven",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-045",
+   "year": 1952,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In 1952, which Kentucky colonel sold his very first restaurant franchise for fried chicken?",
+   "options": [
+    "Colonel Sanders",
+    "Colonel Parker",
+    "Colonel Mustard",
+    "Colonel Bogey"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "The first franchise went to Pete Harman in South Salt Lake, Utah, a long way from Kentucky.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/KFC",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-046",
+   "year": 1950,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which doughnut chain opened its first shop in Quincy, Massachusetts, in 1950?",
+   "options": [
+    "Dunkin' Donuts",
+    "Krispy Kreme",
+    "Winchell's",
+    "Tim Hortons"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Founder William Rosenberg had first called his shop 'Open Kettle' before choosing the new name.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dunkin%27_Donuts",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-047",
+   "year": 1953,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which spreadable cheese sauce in a jar did Kraft bring out in 1953?",
+   "options": [
+    "Cheese Nips",
+    "Velveeta",
+    "Easy Cheese",
+    "Cheez Whiz"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "It was created by a team led by food scientist Edwin Traisman.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cheez_Whiz",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-048",
+   "year": 1953,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Ice cream chain Baskin-Robbins became famous for how many flavors, one for each day of the month?",
+   "options": [
+    "21",
+    "28",
+    "31",
+    "52"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Burt Baskin and Irv Robbins were brothers-in-law who joined their ice cream shops together in 1953.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Baskin-Robbins",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-049",
+   "year": 1946,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which brand of frozen orange juice concentrate, launched in 1946, was promoted by Bing Crosby?",
+   "options": [
+    "Minute Maid",
+    "Tropicana",
+    "Sunkist",
+    "Snow Crop"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Bing Crosby was an early investor, and he plugged the juice on his radio show.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Minute_Maid",
+   "origin": "new"
+  },
+  {
+   "id": "us45-life-050",
+   "year": 1948,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In-N-Out Burger opened in 1948 near Los Angeles with what new feature?",
+   "options": [
+    "A drive-thru speaker box",
+    "Carhops on skates",
+    "A jukebox in every booth",
+    "Free refills"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Customers ordered through a two-way speaker without leaving their cars, one of the first drive-thrus of its kind.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/In-N-Out_Burger",
+   "origin": "new"
+  }
+ ]
+}

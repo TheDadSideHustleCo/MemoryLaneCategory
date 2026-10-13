@@ -1,0 +1,5711 @@
+{
+ "edition": "us",
+ "decade": "1950s",
+ "years": [
+  1965,
+  1974
+ ],
+ "count": 300,
+ "questions": [
+  {
+   "id": "us65-mus-001",
+   "year": 1965,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "The Rolling Stones' first US No. 1, in 1965, begins 'I can't get no…' What is it called?",
+   "options": [
+    "Wild Horses",
+    "Jumpin' Jack Flash",
+    "Paint It Black",
+    "(I Can't Get No) Satisfaction"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Keith Richards said the famous guitar riff came to him in his sleep, and he taped it on a cassette recorder by his bed.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/(I_Can%27t_Get_No)_Satisfaction",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-002",
+   "year": 1968,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which Motown star had a No. 1 hit in 1968 with 'I Heard It Through the Grapevine'?",
+   "options": [
+    "Otis Redding",
+    "Smokey Robinson",
+    "Stevie Wonder",
+    "Marvin Gaye"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Gladys Knight and the Pips had a hit with the song first, in 1967. His version stayed at No. 1 for seven weeks.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/I_Heard_It_Through_the_Grapevine",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-003",
+   "year": 1969,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Where did the Beatles give their last public performance, in January 1969?",
+   "options": [
+    "In a park",
+    "In a stadium",
+    "On a TV stage",
+    "On a rooftop"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "They played on the roof of their Apple Corps building in London until the police asked them to stop.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-004",
+   "year": 1971,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In John Lennon's 1971 song 'Imagine,' he asks us to imagine a world without what?",
+   "options": [
+    "War, religion and countries",
+    "Cars and pollution",
+    "Hunger and poverty",
+    "Television"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Lennon said the lyrics were inspired partly by Yoko Ono's book of poems, 'Grapefruit.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-005",
+   "year": 1972,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Don McLean's 'American Pie' topped the charts in 1972. About how long is the full song?",
+   "options": [
+    "About 3 minutes",
+    "About 5 minutes",
+    "Over 8 minutes",
+    "Over 12 minutes"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "The full song runs 8 minutes and 42 seconds, so the first single split it into Part 1 and Part 2.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/American_Pie_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-006",
+   "year": 1974,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "ABBA won the Eurovision Song Contest in 1974. Which country were they from?",
+   "options": [
+    "Sweden",
+    "Norway",
+    "Denmark",
+    "Finland"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Their name comes from the first letters of the four members' first names: Agnetha, Björn, Benny and Anni-Frid.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/ABBA",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-007",
+   "year": 1970,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which Beatle announced in April 1970 that he had left the band?",
+   "options": [
+    "John Lennon",
+    "Ringo Starr",
+    "George Harrison",
+    "Paul McCartney"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He did it in a question-and-answer sheet sent out with his first solo album, 'McCartney.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Break-up_of_the_Beatles",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-008",
+   "year": 1965,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which band reached No. 1 in 1965 with a jangly folk-rock version of Bob Dylan's 'Mr. Tambourine Man'?",
+   "options": [
+    "The Mamas & the Papas",
+    "The Turtles",
+    "The Lovin' Spoonful",
+    "The Byrds"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Roger McGuinn's 12-string Rickenbacker guitar gave the record its famous ringing sound.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mr._Tambourine_Man",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-009",
+   "year": 1966,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which Beach Boy was the creative genius behind their 1966 album 'Pet Sounds'?",
+   "options": [
+    "Brian Wilson",
+    "Carl Wilson",
+    "Dennis Wilson",
+    "Mike Love"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He was inspired by the Beatles' 'Rubber Soul,' and 'Pet Sounds' in turn inspired the Beatles.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pet_Sounds",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-010",
+   "year": 1967,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which 1967 Beatles album was the first rock album to win the Grammy for Album of the Year?",
+   "options": [
+    "Sgt. Pepper's",
+    "Abbey Road",
+    "Revolver",
+    "Rubber Soul"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It was also one of the first pop albums to print all the song lyrics on the cover.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-011",
+   "year": 1967,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Which guitarist set his guitar on fire on stage at the 1967 Monterey Pop Festival?",
+   "options": [
+    "Eric Clapton",
+    "Jimi Hendrix",
+    "Pete Townshend",
+    "Jimmy Page"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Monterey also introduced many Americans to Janis Joplin and Otis Redding.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Monterey_International_Pop_Festival",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-012",
+   "year": 1968,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "The Beatles' 1968 single 'Hey Jude' was famously long. About how long did it run?",
+   "options": [
+    "2 and a half minutes",
+    "4 minutes",
+    "7 minutes",
+    "10 minutes"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Paul McCartney wrote it to comfort John Lennon's young son, Julian.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hey_Jude",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-013",
+   "year": 1969,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "About how many people came to the Woodstock music festival in August 1969?",
+   "options": [
+    "Nearly half a million",
+    "100,000",
+    "50,000",
+    "2 million"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Estimates run from 460,000 to 500,000. It was held on Max Yasgur's dairy farm in Bethel, New York.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Woodstock",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-014",
+   "year": 1970,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Simon and Garfunkel released 'Bridge Over Troubled Water' in 1970. Which of them wrote it?",
+   "options": [
+    "Art Garfunkel",
+    "Paul Simon",
+    "Both together",
+    "A hired songwriter"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Art Garfunkel sang the lead. The album won the Grammy for Album of the Year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bridge_over_Troubled_Water_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-015",
+   "year": 1972,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Roberta Flack's 1972 hit 'The First Time Ever I Saw Your Face' became famous after it was used in whose film?",
+   "options": [
+    "Woody Allen's",
+    "Clint Eastwood's",
+    "Robert Redford's",
+    "Mel Brooks's"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was in 'Play Misty for Me,' the first film Eastwood directed. The record won the Grammy for Record of the Year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_First_Time_Ever_I_Saw_Your_Face",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-016",
+   "year": 1974,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "With which song did ABBA win the 1974 Eurovision Song Contest?",
+   "options": [
+    "Fernando",
+    "Dancing Queen",
+    "Mamma Mia",
+    "Waterloo"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "The contest was held in Brighton, England.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Waterloo_(ABBA_song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-017",
+   "year": 1974,
+   "category": "music",
+   "difficulty": "medium",
+   "question": "Barbra Streisand sang 'The Way We Were' from the film of the same name. Who co-starred with her?",
+   "options": [
+    "Warren Beatty",
+    "Ryan O'Neal",
+    "Robert Redford",
+    "Paul Newman"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "The song won the Academy Award for Best Original Song and was the top single of 1974.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Way_We_Were_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-018",
+   "year": 1966,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "In which ballpark did the Beatles play their last paid concert, in August 1966?",
+   "options": [
+    "Wrigley Field",
+    "Shea Stadium",
+    "Dodger Stadium",
+    "Candlestick Park"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "They stopped touring because the screaming was so loud they couldn't hear themselves play.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Beatles%27_1966_US_tour",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-019",
+   "year": 1967,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Aretha Franklin's 1967 smash 'Respect' was first written and recorded by which singer?",
+   "options": [
+    "Ray Charles",
+    "Sam Cooke",
+    "Otis Redding",
+    "James Brown"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Aretha added the spelled-out 'R-E-S-P-E-C-T' and the 'sock it to me' backing lines.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Respect_(song)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-020",
+   "year": 1969,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Who sang 'Raindrops Keep Fallin' on My Head' from the 1969 film 'Butch Cassidy and the Sundance Kid'?",
+   "options": [
+    "Glen Campbell",
+    "Bobby Vinton",
+    "B.J. Thomas",
+    "Andy Williams"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Burt Bacharach and Hal David wrote it, and it won the Academy Award for Best Original Song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Raindrops_Keep_Fallin%27_on_My_Head",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-021",
+   "year": 1970,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which producer was brought in to finish the Beatles' final album, 'Let It Be'?",
+   "options": [
+    "George Martin",
+    "Phil Spector",
+    "Brian Wilson",
+    "Quincy Jones"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Paul McCartney was unhappy with the strings and choir Spector added to 'The Long and Winding Road.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Let_It_Be_(album)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-022",
+   "year": 1971,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Carole King's 1971 album 'Tapestry' stayed on the Billboard album chart for about how long?",
+   "options": [
+    "6 weeks",
+    "6 years",
+    "15 years",
+    "52 weeks"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "It includes 'It's Too Late,' 'I Feel the Earth Move' and 'You've Got a Friend.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tapestry_(Carole_King_album)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-023",
+   "year": 1973,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "What shines through a glass prism on the cover of Pink Floyd's 1973 album 'The Dark Side of the Moon'?",
+   "options": [
+    "A beam of light",
+    "A full moon",
+    "A rocket",
+    "A pyramid"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "The beam splits into a rainbow. The album stayed on the Billboard chart for hundreds of weeks.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-024",
+   "year": 1973,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Roberta Flack's 1973 hit 'Killing Me Softly with His Song' was inspired by a concert by which singer?",
+   "options": [
+    "James Taylor",
+    "Jackson Browne",
+    "Don McLean",
+    "Jim Croce"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Singer Lori Lieberman was so moved by his performance that she wrote down her feelings, which became the song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Killing_Me_Softly_with_His_Song",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-025",
+   "year": 1973,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Elton John's 'Crocodile Rock' came from which 1973 album?",
+   "options": [
+    "Don't Shoot Me",
+    "Honky Château",
+    "Goodbye Yellow Brick Road",
+    "Madman Across the Water"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It was his first US No. 1 single. 'Goodbye Yellow Brick Road' came out later the same year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Crocodile_Rock",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mus-026",
+   "year": 1965,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In which 1965 Beatles movie is the band chased by a cult that wants a ring stuck on Ringo's finger?",
+   "options": [
+    "Yellow Submarine",
+    "Let It Be",
+    "Help!",
+    "Magical Mystery Tour"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It was filmed in color, in places from the Austrian Alps to the Bahamas.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Help!_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-027",
+   "year": 1965,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which husband-and-wife duo sang 'I Got You Babe' in 1965?",
+   "options": [
+    "Sonny & Cher",
+    "Ike & Tina",
+    "Captain & Tennille",
+    "Steve & Eydie"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It was No. 1 in both America and Britain. They later had their own TV variety show.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/I_Got_You_Babe",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-028",
+   "year": 1966,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In Nancy Sinatra's 1966 hit, what were her boots made for?",
+   "options": [
+    "Dancing",
+    "Stomping",
+    "Running",
+    "Walking"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Lee Hazlewood wrote it and told her to sing it 'like a 16-year-old girl going with a 40-year-old man.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/These_Boots_Are_Made_for_Walkin%27",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-029",
+   "year": 1966,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which band, created for a TV show, sang 'Last Train to Clarksville' in 1966?",
+   "options": [
+    "The Cowsills",
+    "The Partridge Family",
+    "The Archies",
+    "The Monkees"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Davy Jones, Micky Dolenz, Michael Nesmith and Peter Tork were picked from hundreds of hopefuls.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Monkees",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-030",
+   "year": 1969,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which cartoon band had a giant hit in 1969 with 'Sugar, Sugar'?",
+   "options": [
+    "The Banana Splits",
+    "The Chipmunks",
+    "The Archies",
+    "Josie and the Pussycats"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Studio singer Ron Dante sang lead for Archie, Betty, Veronica, Jughead and Reggie.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sugar,_Sugar",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-031",
+   "year": 1970,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which family group, led by young Michael, sang 'ABC' in 1970?",
+   "options": [
+    "The Partridge Family",
+    "The Osmonds",
+    "The Jackson 5",
+    "The Cowsills"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It was their second No. 1 hit in a row, following 'I Want You Back.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/ABC_(The_Jackson_5_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-032",
+   "year": 1970,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which brother-and-sister duo had a 1970 hit with '(They Long to Be) Close to You'?",
+   "options": [
+    "Sonny & Cher",
+    "Donny and Marie",
+    "The Carpenters",
+    "The Everly Brothers"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Karen Carpenter sang and played drums, and her brother Richard arranged the music.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/(They_Long_to_Be)_Close_to_You",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-033",
+   "year": 1971,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "In Three Dog Night's 1971 hit 'Joy to the World,' Jeremiah was a what?",
+   "options": [
+    "Bullfrog",
+    "Cowboy",
+    "Preacher",
+    "Lion"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Hoyt Axton wrote the song. It was the top single of 1971.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Joy_to_the_World_(Three_Dog_Night_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-034",
+   "year": 1972,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which singer's 'I Am Woman' became an anthem of the women's movement in 1972?",
+   "options": [
+    "Olivia Newton-John",
+    "Carly Simon",
+    "Helen Reddy",
+    "Linda Ronstadt"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "She was from Australia. At the Grammys she thanked God 'because She makes everything possible.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/I_Am_Woman",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-035",
+   "year": 1965,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "'My Girl,' with 'sunshine on a cloudy day,' was a 1965 hit for which Motown group?",
+   "options": [
+    "The Spinners",
+    "The Four Tops",
+    "The Miracles",
+    "The Temptations"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Smokey Robinson co-wrote it, and David Ruffin sang lead.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/My_Girl_(The_Temptations_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-036",
+   "year": 1966,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Which crooner had a No. 1 hit in 1966 with 'Strangers in the Night'?",
+   "options": [
+    "Frank Sinatra",
+    "Dean Martin",
+    "Tony Bennett",
+    "Andy Williams"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He ad-libs 'doo-be-doo-be-doo' at the end, which later inspired the name of the cartoon dog Scooby-Doo.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Strangers_in_the_Night",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-037",
+   "year": 1965,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "Where did Petula Clark say to go in her 1965 No. 1 hit?",
+   "options": [
+    "To the country",
+    "Uptown",
+    "To the city",
+    "Downtown"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "She was a British singer, and it was her first big hit in America.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Downtown_(Petula_Clark_song)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-038",
+   "year": 1971,
+   "category": "music",
+   "difficulty": "easy",
+   "question": "John Denver's 1971 hit 'Take Me Home, Country Roads' sings about which state?",
+   "options": [
+    "Colorado",
+    "West Virginia",
+    "Kentucky",
+    "Tennessee"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It is now one of West Virginia's official state songs.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Take_Me_Home,_Country_Roads",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-039",
+   "year": 1967,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which band knocked the Beatles from No. 1 in 1967 with 'Happy Together'?",
+   "options": [
+    "The Turtles",
+    "The Monkees",
+    "The Association",
+    "The Grass Roots"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It was the Turtles' only No. 1 hit.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Happy_Together_(song)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-040",
+   "year": 1969,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "The Fifth Dimension's 1969 hit 'Aquarius/Let the Sunshine In' came from which rock musical?",
+   "options": [
+    "Grease",
+    "Godspell",
+    "Hair",
+    "Jesus Christ Superstar"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It spent six weeks at No. 1 and won the Grammy for Record of the Year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Aquarius/Let_the_Sunshine_In",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-041",
+   "year": 1973,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Who sang about 'Bad, Bad Leroy Brown' in 1973?",
+   "options": [
+    "Harry Chapin",
+    "Jim Croce",
+    "Gordon Lightfoot",
+    "Kris Kristofferson"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Leroy was 'the baddest man in the whole damn town,' at least until he met Big Jim Walker.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bad,_Bad_Leroy_Brown",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-042",
+   "year": 1974,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which singer had a 1974 No. 1 with the disco-era novelty 'Kung Fu Fighting'?",
+   "options": [
+    "Carl Douglas",
+    "Barry White",
+    "Johnny Nash",
+    "Billy Preston"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It was recorded in about ten minutes at the end of a studio session.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kung_Fu_Fighting",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-043",
+   "year": 1967,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which Scottish singer had the top US single of 1967 with 'To Sir with Love'?",
+   "options": [
+    "Dusty Springfield",
+    "Lulu",
+    "Petula Clark",
+    "Cilla Black"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It was the theme of the 1967 film 'To Sir, with Love,' and Lulu also acted in the movie.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/To_Sir_with_Love_(song)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-044",
+   "year": 1968,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which singer told off the gossiping neighbors in her 1968 hit 'Harper Valley PTA'?",
+   "options": [
+    "Loretta Lynn",
+    "Jeannie C. Riley",
+    "Tammy Wynette",
+    "Dolly Parton"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Tom T. Hall wrote the song, and it topped both the pop and country charts.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Harper_Valley_PTA",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-045",
+   "year": 1971,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which raspy-voiced British singer had a No. 1 hit with 'Maggie May' in 1971?",
+   "options": [
+    "Joe Cocker",
+    "Elton John",
+    "Mick Jagger",
+    "Rod Stewart"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It was first released as the B-side of another song, until DJs started playing it instead.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Maggie_May",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-046",
+   "year": 1972,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Who wrote and sang 'Lean on Me,' a No. 1 hit in 1972?",
+   "options": [
+    "Al Green",
+    "Bill Withers",
+    "Curtis Mayfield",
+    "Lou Rawls"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Before music took off, he worked making airplane parts at Douglas Aircraft.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bill_Withers",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-047",
+   "year": 1969,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which band, led by John Fogerty, sang 'Proud Mary' in 1969?",
+   "options": [
+    "The Band",
+    "Creedence Clearwater Revival",
+    "The Doobie Brothers",
+    "Buffalo Springfield"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Even though they sounded Southern, they came from El Cerrito, California.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-048",
+   "year": 1968,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which band roared 'Born to Be Wild' in 1968?",
+   "options": [
+    "Blue Cheer",
+    "The Doors",
+    "Iron Butterfly",
+    "Steppenwolf"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Its line about 'heavy metal thunder' is often credited with naming a whole style of rock music.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Born_to_Be_Wild",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-049",
+   "year": 1966,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which group sang 'California Dreamin'' in 1966?",
+   "options": [
+    "The Byrds",
+    "The Beach Boys",
+    "The Mamas & the Papas",
+    "The Association"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "John and Michelle Phillips wrote it on a cold winter day in New York.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/California_Dreamin%27",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mus-050",
+   "year": 1969,
+   "category": "music",
+   "difficulty": "hard",
+   "question": "Which duo's only big hit, 'In the Year 2525,' was No. 1 the week men walked on the moon in 1969?",
+   "options": [
+    "Brewer and Shipley",
+    "Zager and Evans",
+    "Seals and Crofts",
+    "Jan and Dean"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "They are often called the ultimate one-hit wonder, because they never had another single on the chart.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/In_the_Year_2525",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-001",
+   "year": 1966,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'Star Trek' began on NBC in 1966. Who played Captain James T. Kirk?",
+   "options": [
+    "William Shatner",
+    "DeForest Kelley",
+    "James Doohan",
+    "Leonard Nimoy"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Fans' letter-writing campaigns helped keep the show on the air for a third season.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-002",
+   "year": 1966,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "What was the name of the starship on 1966's 'Star Trek'?",
+   "options": [
+    "The Discovery",
+    "The Challenger",
+    "The Voyager",
+    "The Enterprise"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Its five-year mission was 'to boldly go where no man has gone before.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/USS_Enterprise_(NCC-1701)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-003",
+   "year": 1966,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Who played Batman on the TV series that began in 1966?",
+   "options": [
+    "George Reeves",
+    "Burt Ward",
+    "Adam West",
+    "Lyle Waggoner"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It aired twice a week. Each Wednesday cliffhanger ended with 'Same Bat-time, same Bat-channel!'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Batman_(TV_series)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-004",
+   "year": 1967,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'The Carol Burnett Show,' which began in 1967, was what kind of show?",
+   "options": [
+    "Western",
+    "Soap opera",
+    "Variety and sketch comedy",
+    "Game show"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "At the end of each show she tugged her ear, a secret hello to the grandmother who raised her.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Carol_Burnett_Show",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-005",
+   "year": 1969,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'Sesame Street' began in 1969. Which tall yellow character became one of its best-loved stars?",
+   "options": [
+    "Elmo",
+    "Big Bird",
+    "Oscar the Grouch",
+    "Kermit the Frog"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Caroll Spinney played him from inside the costume for nearly 50 years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Big_Bird",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-006",
+   "year": 1973,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which 'Schoolhouse Rock!' song, first shown in 1973, asked 'What's your function?'",
+   "options": [
+    "Three Is a Magic Number",
+    "I'm Just a Bill",
+    "Conjunction Junction",
+    "Interplanet Janet"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The short cartoons ran between Saturday morning shows on ABC and taught grammar, math and history.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Schoolhouse_Rock!",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-007",
+   "year": 1974,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "'Happy Days' began in 1974. Which leather-jacketed character became its breakout star?",
+   "options": [
+    "Richie Cunningham",
+    "The Fonz",
+    "Ralph Malph",
+    "Potsie Weber"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Henry Winkler played him. One of his leather jackets is now in the Smithsonian.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Fonzie",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-008",
+   "year": 1968,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "What did Fred Rogers change into at the start of every 'Mister Rogers' Neighborhood'?",
+   "options": [
+    "A bow tie",
+    "A bathrobe",
+    "A cardigan sweater and sneakers",
+    "A cowboy hat"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "His mother knitted many of his sweaters.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mister_Rogers%27_Neighborhood",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-009",
+   "year": 1965,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "On 'I Dream of Jeannie,' which began in 1965, what did Jeannie call her astronaut?",
+   "options": [
+    "Master",
+    "Captain",
+    "Sir",
+    "Major"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Barbara Eden played Jeannie, and Larry Hagman played astronaut Tony Nelson. Sidney Sheldon created the show.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/I_Dream_of_Jeannie",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-010",
+   "year": 1968,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "What kind of program was '60 Minutes' when it began on CBS in 1968?",
+   "options": [
+    "A news magazine",
+    "A celebrity talk show",
+    "A drama series",
+    "A game show"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Its ticking stopwatch became one of the most famous sounds on television.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/60_Minutes",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-011",
+   "year": 1969,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "About how many people around the world watched the first moon landing on TV in 1969?",
+   "options": [
+    "6 million",
+    "6 billion",
+    "60 million",
+    "600 million"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Neil Armstrong stepped onto the Moon on July 20, 1969, live on black-and-white TV.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Apollo_11",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-012",
+   "year": 1970,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "On 'The Mary Tyler Moore Show,' which began in 1970, Mary Richards worked at a TV station in which city?",
+   "options": [
+    "Chicago",
+    "Denver",
+    "Milwaukee",
+    "Minneapolis"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "She was a single career woman, a fresh idea for a TV star at the time. Her station was WJM.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Mary_Tyler_Moore_Show",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-013",
+   "year": 1970,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "'Monday Night Football' launched on ABC in 1970. Which outspoken announcer made it must-see TV?",
+   "options": [
+    "Pat Summerall",
+    "Frank Gifford",
+    "Howard Cosell",
+    "Al Michaels"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He liked to 'tell it like it is,' and viewers either loved him or loved to complain about him.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Howard_Cosell",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-014",
+   "year": 1972,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "'M*A*S*H' began in 1972. About how many viewers watched its final episode in 1983?",
+   "options": [
+    "16 million",
+    "46 million",
+    "106 million",
+    "206 million"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It was the most-watched TV episode in American history for decades.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Goodbye,_Farewell_and_Amen",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-015",
+   "year": 1974,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "'Little House on the Prairie,' which came to TV in 1974, was based on books by which author?",
+   "options": [
+    "Laura Ingalls Wilder",
+    "Louisa May Alcott",
+    "Willa Cather",
+    "Pearl S. Buck"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Michael Landon starred as Pa Ingalls and also directed many episodes.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Little_House_on_the_Prairie_(1974_TV_series)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-016",
+   "year": 1965,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "'Get Smart,' a 1965 spoof of spy shows, was created by Buck Henry and which comedy legend?",
+   "options": [
+    "Carl Reiner",
+    "Mel Brooks",
+    "Norman Lear",
+    "Garry Marshall"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Don Adams played bumbling Agent 86, Maxwell Smart, who loved to say 'Would you believe…?'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Get_Smart",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-017",
+   "year": 1965,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Who wrote the jazz music for 1965's 'A Charlie Brown Christmas'?",
+   "options": [
+    "Duke Ellington",
+    "Dave Brubeck",
+    "Henry Mancini",
+    "Vince Guaraldi"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "CBS executives disliked the slow pace and missing laugh track, but it won an Emmy and has aired every year since.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/A_Charlie_Brown_Christmas",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-018",
+   "year": 1971,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On 'All in the Family,' which began in 1971, what was Archie Bunker's job?",
+   "options": [
+    "Dock foreman",
+    "Insurance salesman",
+    "Factory worker",
+    "Truck driver"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He worked on a loading dock and lived in Queens, New York. Carroll O'Connor played him.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Archie_Bunker",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-019",
+   "year": 1971,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which future movie star was in the cast of PBS's 'The Electric Company,' starting in 1971?",
+   "options": [
+    "Bill Cosby",
+    "Richard Pryor",
+    "Dick Van Dyke",
+    "Morgan Freeman"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He played Easy Reader, a cool character who loved to read.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Electric_Company_(1971_TV_series)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-020",
+   "year": 1971,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Who was the first host of PBS's 'Masterpiece Theatre' when it began in 1971?",
+   "options": [
+    "David Frost",
+    "Alistair Cooke",
+    "Walter Cronkite",
+    "Peter Ustinov"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He introduced the shows from a leather armchair for 22 years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Masterpiece_(TV_series)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-021",
+   "year": 1972,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Bob Newhart played a Chicago psychologist on his 1972 sitcom. What was the character's name?",
+   "options": [
+    "Bob McKay",
+    "Bob Collins",
+    "Bob Hartley",
+    "Bob Tanner"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Suzanne Pleshette played his wife, Emily.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Bob_Newhart_Show",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-022",
+   "year": 1973,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which folksy North Carolina senator led the Watergate hearings shown live on TV in 1973?",
+   "options": [
+    "Barry Goldwater",
+    "Sam Ervin",
+    "Howard Baker",
+    "Edward Kennedy"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He liked to call himself 'just a country lawyer.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sam_Ervin",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-tv-023",
+   "year": 1965,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On 'Green Acres,' which began in 1965, what kind of animal was Arnold Ziffel?",
+   "options": [
+    "A goat",
+    "A pig",
+    "A dog",
+    "A cow"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Arnold watched TV, went to school and was treated like a son by the Ziffels.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Arnold_Ziffel",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-024",
+   "year": 1967,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which young actress took to the skies as 'The Flying Nun' in 1967?",
+   "options": [
+    "Marlo Thomas",
+    "Goldie Hawn",
+    "Sally Field",
+    "Patty Duke"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Her character, Sister Bertrille, was so light that a strong wind lifted her starched hat like wings.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Flying_Nun",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-025",
+   "year": 1968,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which fast-paced comedy show, starting in 1968, made 'Sock it to me!' a national catchphrase?",
+   "options": [
+    "The Ed Sullivan Show",
+    "The Carol Burnett Show",
+    "Hee Haw",
+    "Rowan & Martin's Laugh-In"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Even presidential candidate Richard Nixon popped on the show to say the line.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rowan_%26_Martin%27s_Laugh-In",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-026",
+   "year": 1969,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "How many children were in 'The Brady Bunch,' which began in 1969?",
+   "options": [
+    "4",
+    "6",
+    "8",
+    "10"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Mike had three boys, Carol had three girls, and Alice the housekeeper kept everyone fed.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Brady_Bunch",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-027",
+   "year": 1969,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "What breed of dog was Scooby-Doo, whose cartoon began in 1969?",
+   "options": [
+    "A Great Dane",
+    "A Saint Bernard",
+    "A Bloodhound",
+    "A Collie"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He solved mysteries with Shaggy and the Mystery Inc. gang, usually for a Scooby Snack.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Scooby-Doo_(character)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-028",
+   "year": 1970,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which TV family band, starting in 1970, traveled to its shows in a colorfully painted school bus?",
+   "options": [
+    "The Brady Bunch",
+    "The Partridge Family",
+    "The Cowsills",
+    "The Osmonds"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Shirley Jones played the mom, and David Cassidy became a teen idol playing her son Keith.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Partridge_Family",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-029",
+   "year": 1972,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which TV family ended each episode by calling 'Good night, John-Boy'?",
+   "options": [
+    "The Waltons",
+    "The Ingalls",
+    "The Cartwrights",
+    "The Bradys"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The show, which began in 1972, was set in the Blue Ridge Mountains of Virginia during the Depression.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Waltons",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-030",
+   "year": 1965,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On 'Lost in Space,' which began in 1965, the Robot often warned 'Danger, Will…' what?",
+   "options": [
+    "Roberts",
+    "Rogers",
+    "Riley",
+    "Robinson"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "The sneaky Dr. Smith was always getting the Robinson family into trouble.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lost_in_Space",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-031",
+   "year": 1967,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Gentle Ben, the 1967 TV star who lived with a boy in the Florida Everglades, was a huge, friendly what?",
+   "options": [
+    "A lion",
+    "A bear",
+    "A horse",
+    "A dog"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The show was set in the Florida Everglades. Ben was played by a black bear named Bruno.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gentle_Ben_(TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-032",
+   "year": 1969,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On 'Sesame Street,' where does Oscar the Grouch live?",
+   "options": [
+    "In a tree",
+    "In a trash can",
+    "Under a bridge",
+    "In a mailbox"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He loves anything grouchy, and he was originally orange before turning green in 1970.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Oscar_the_Grouch",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-033",
+   "year": 1968,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "Which TV legend returned in 1968 with 'Here's Lucy,' co-starring her real-life children?",
+   "options": [
+    "Carol Burnett",
+    "Lucille Ball",
+    "Mary Tyler Moore",
+    "Doris Day"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Lucie Arnaz and Desi Arnaz Jr. played her children on the show.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Here%27s_Lucy",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-034",
+   "year": 1970,
+   "category": "television",
+   "difficulty": "easy",
+   "question": "On 'The Odd Couple,' which began in 1970, which roommate was the neat and fussy one?",
+   "options": [
+    "Speed",
+    "Oscar",
+    "Murray",
+    "Felix"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Tony Randall played tidy Felix, and Jack Klugman played sloppy sportswriter Oscar.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Odd_Couple_(1970_TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-035",
+   "year": 1974,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "After a crash, astronaut Steve Austin was rebuilt with what, on 'The Six Million Dollar Man'?",
+   "options": [
+    "Bionic parts",
+    "A robot brain",
+    "A rocket pack",
+    "Super strength pills"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Lee Majors starred. Steve Austin's slow-motion running became famous.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Six_Million_Dollar_Man",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-036",
+   "year": 1969,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "Which two country stars hosted 'Hee Haw' when it began in 1969?",
+   "options": [
+    "Buck Owens and Roy Clark",
+    "Johnny Cash and June Carter",
+    "Porter Wagoner and Dolly Parton",
+    "Glen Campbell and Roger Miller"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It was set in a make-believe country town called Kornfield Kounty.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hee_Haw",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-037",
+   "year": 1966,
+   "category": "television",
+   "difficulty": "medium",
+   "question": "On the 'Batman' TV series, which villain was played by Burgess Meredith?",
+   "options": [
+    "The Joker",
+    "The Penguin",
+    "The Riddler",
+    "Mr. Freeze"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "His character waddled, carried an umbrella and let out a squawking 'Waugh! Waugh!'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Burgess_Meredith",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-038",
+   "year": 1966,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which daytime soap of 1966 became a hit thanks to a vampire named Barnabas Collins?",
+   "options": [
+    "The Edge of Night",
+    "General Hospital",
+    "Dark Shadows",
+    "Days of Our Lives"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Jonathan Frid played Barnabas. Kids ran home from school to watch it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dark_Shadows",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-039",
+   "year": 1966,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Who was the original host of 'The Newlywed Game,' which began in 1966?",
+   "options": [
+    "Chuck Barris",
+    "Monty Hall",
+    "Bob Eubanks",
+    "Gene Rayburn"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Newly married couples tried to guess how their spouse would answer questions about them.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Newlywed_Game",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-040",
+   "year": 1970,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which comedian's 1970s variety show featured his sassy character Geraldine?",
+   "options": [
+    "Redd Foxx",
+    "Flip Wilson",
+    "Bill Cosby",
+    "Richard Pryor"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Geraldine's lines 'The devil made me do it!' and 'What you see is what you get!' became catchphrases.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Flip_Wilson_Show",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-041",
+   "year": 1974,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Valerie Harper's 1974 spinoff from 'The Mary Tyler Moore Show' was called what?",
+   "options": [
+    "Rhoda",
+    "Phyllis",
+    "Maude",
+    "Alice"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Her character moved back home to New York City, and her wedding episode drew a huge audience.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rhoda",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-042",
+   "year": 1966,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which actress starred as a hopeful young actress in New York on 1966's 'That Girl'?",
+   "options": [
+    "Goldie Hawn",
+    "Sally Field",
+    "Patty Duke",
+    "Marlo Thomas"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Her father was Danny Thomas, the star of 'Make Room for Daddy.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/That_Girl",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-043",
+   "year": 1967,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which brother comedy team hosted a daring CBS variety hour starting in 1967?",
+   "options": [
+    "The Smothers Brothers",
+    "The Marx Brothers",
+    "The Ritz Brothers",
+    "The Everly Brothers"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Tom often complained that 'Mom always liked you best!' to his brother Dick.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Smothers_Brothers_Comedy_Hour",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-044",
+   "year": 1968,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Who starred as a widowed nurse in 'Julia,' one of the first TV series led by a Black woman, in 1968?",
+   "options": [
+    "Lena Horne",
+    "Diana Ross",
+    "Pearl Bailey",
+    "Diahann Carroll"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "She won a Golden Globe for the role.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Julia_(1968_TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-045",
+   "year": 1972,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Who played the wandering Shaolin monk Kwai Chang Caine on 'Kung Fu,' starting in 1972?",
+   "options": [
+    "Keith Carradine",
+    "Bruce Lee",
+    "Chuck Norris",
+    "David Carradine"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "His wise old teacher called him 'Grasshopper.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kung_Fu_(1972_TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-046",
+   "year": 1966,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "On 'Family Affair,' which began in 1966, what was the name of the proper English butler?",
+   "options": [
+    "Mr. Carson",
+    "Mr. Belvedere",
+    "Mr. French",
+    "Mr. Hudson"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Sebastian Cabot played him. Little Buffy carried a doll named Mrs. Beasley.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Family_Affair_(1966_TV_series)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-047",
+   "year": 1972,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which 1972 TV drama followed Los Angeles County paramedics Johnny and Roy?",
+   "options": [
+    "Rescue 8",
+    "Adam-12",
+    "Medical Center",
+    "Emergency!"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It helped make paramedic programs popular across the country.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Emergency!",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-048",
+   "year": 1968,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "In the Neighborhood of Make-Believe on 'Mister Rogers,' which shy puppet lived in a clock?",
+   "options": [
+    "Daniel Striped Tiger",
+    "King Friday",
+    "Henrietta Pussycat",
+    "X the Owl"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Fred Rogers voiced him himself.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Daniel_Striped_Tiger",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-049",
+   "year": 1965,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which movie star played the ranch-owning mother on the TV Western 'The Big Valley,' starting in 1965?",
+   "options": [
+    "Joan Crawford",
+    "Bette Davis",
+    "Barbara Stanwyck",
+    "Maureen O'Hara"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "She won an Emmy as Victoria Barkley.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Big_Valley",
+   "origin": "new"
+  },
+  {
+   "id": "us65-tv-050",
+   "year": 1969,
+   "category": "television",
+   "difficulty": "hard",
+   "question": "Which cheerful TV chef was known as 'The Galloping Gourmet,' starting in 1969?",
+   "options": [
+    "James Beard",
+    "Julia Child",
+    "Graham Kerr",
+    "Jeff Smith"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "He often sipped wine while cooking and ended by inviting an audience member to share the meal.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Graham_Kerr",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-001",
+   "year": 1965,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1965 musical about a singing family in the Austrian Alps won Best Picture?",
+   "options": [
+    "Mary Poppins",
+    "Funny Girl",
+    "The Sound of Music",
+    "Oliver!"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It passed 'Gone with the Wind' to become the highest-grossing film of its time.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-002",
+   "year": 1967,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Dustin Hoffman played a confused young college graduate in which 1967 film?",
+   "options": [
+    "Bonnie and Clyde",
+    "The Graduate",
+    "In the Heat of the Night",
+    "Cool Hand Luke"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Simon and Garfunkel's songs, including 'Mrs. Robinson,' filled the soundtrack.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Graduate",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-003",
+   "year": 1968,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 1968's '2001: A Space Odyssey,' what was the name of the ship's talking computer?",
+   "options": [
+    "HAL 9000",
+    "Deep Thought",
+    "R2-D2",
+    "Robby"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Stanley Kubrick directed. HAL ran the ship on its way to Jupiter with astronauts Dave Bowman and Frank Poole.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-004",
+   "year": 1969,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Paul Newman and Robert Redford played lovable outlaws in which 1969 Western?",
+   "options": [
+    "True Grit",
+    "The Wild Bunch",
+    "Paint Your Wagon",
+    "Butch Cassidy and the Sundance Kid"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Burt Bacharach and Hal David wrote its hit song, 'Raindrops Keep Fallin' on My Head.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-005",
+   "year": 1974,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Who directed 'Blazing Saddles,' the 1974 comedy that spoofed Westerns?",
+   "options": [
+    "Woody Allen",
+    "Gene Wilder",
+    "Mel Brooks",
+    "Carl Reiner"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Cleavon Little starred as the new sheriff, with Gene Wilder as the Waco Kid.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Blazing_Saddles",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-006",
+   "year": 1971,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Who played the candy maker in 1971's 'Willy Wonka & the Chocolate Factory'?",
+   "options": [
+    "Gene Hackman",
+    "Gene Wilder",
+    "Jack Nicholson",
+    "Dick Van Dyke"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He agreed to play Wonka only if he could make his first entrance with a limp, then a somersault.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Willy_Wonka_%26_the_Chocolate_Factory",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-007",
+   "year": 1967,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "In 1967's 'In the Heat of the Night,' what does Sidney Poitier's detective say they call him?",
+   "options": [
+    "Detective Tibbs",
+    "Mister Tibbs",
+    "Sir",
+    "Officer Tibbs"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It won Best Picture, and Rod Steiger won Best Actor as the small-town police chief.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/In_the_Heat_of_the_Night_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-008",
+   "year": 1968,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "At the end of 1968's 'Planet of the Apes,' which landmark does Charlton Heston find buried in the sand?",
+   "options": [
+    "The Lincoln Memorial",
+    "The Statue of Liberty",
+    "The Golden Gate Bridge",
+    "The Washington Monument"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "The surprise ending revealed that the strange planet had been Earth all along.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-009",
+   "year": 1970,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Who starred in 1970's 'Love Story,' famous for the line 'Love means never having to say you're sorry'?",
+   "options": [
+    "O'Neal and MacGraw",
+    "Redford and Streisand",
+    "Beatty and Christie",
+    "Hoffman and Ross"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It was the biggest box-office hit of 1970.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Love_Story_(1970_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-010",
+   "year": 1973,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which two stars played con men in 1973's Best Picture, 'The Sting'?",
+   "options": [
+    "Gene Hackman and Dustin Hoffman",
+    "Warren Beatty and Jack Nicholson",
+    "Al Pacino and Robert De Niro",
+    "Robert Redford and Paul Newman"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Its soundtrack brought back Scott Joplin's ragtime tune 'The Entertainer.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Sting",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-011",
+   "year": 1974,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1974 film became the first sequel ever to win Best Picture?",
+   "options": [
+    "French Connection II",
+    "The Godfather Part II",
+    "Airport 1975",
+    "Return of the Pink Panther"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Robert De Niro won an Oscar for playing young Vito Corleone, the role Marlon Brando played in the first film.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Godfather_Part_II",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-012",
+   "year": 1965,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Who wrote the famous 'Lara's Theme' for David Lean's 1965 epic 'Doctor Zhivago'?",
+   "options": [
+    "Ennio Morricone",
+    "Maurice Jarre",
+    "John Barry",
+    "Bernard Herrmann"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Omar Sharif played Zhivago, and Julie Christie played Lara, the woman he loves.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Doctor_Zhivago_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-013",
+   "year": 1966,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Elizabeth Taylor won her second Oscar for which 1966 film co-starring Richard Burton?",
+   "options": [
+    "Who's Afraid of Virginia Woolf?",
+    "Reflections in a Golden Eye",
+    "The Sandpiper",
+    "The Taming of the Shrew"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It was based on a stage play by Edward Albee and was Mike Nichols's first film as director.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Who%27s_Afraid_of_Virginia_Woolf%3F_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-014",
+   "year": 1966,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Ennio Morricone's famous howling theme comes from which 1966 Clint Eastwood Western?",
+   "options": [
+    "Once Upon a Time in the West",
+    "For a Few Dollars More",
+    "Hang 'Em High",
+    "The Good, the Bad and the Ugly"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "The main theme imitates the howl of a coyote.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-015",
+   "year": 1966,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Who played Sir Thomas More in 1966's Best Picture, 'A Man for All Seasons'?",
+   "options": [
+    "Paul Scofield",
+    "Richard Burton",
+    "Peter O'Toole",
+    "Laurence Olivier"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He had played the same role on stage and won the Academy Award for Best Actor.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/A_Man_for_All_Seasons_(1966_film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-016",
+   "year": 1968,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which song opens 'Oliver!', the 1968 Best Picture, with hungry orphans dreaming of dinner?",
+   "options": [
+    "Consider Yourself",
+    "Where Is Love?",
+    "Food, Glorious Food",
+    "As Long as He Needs Me"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Carol Reed directed it. The story came from Charles Dickens's novel 'Oliver Twist.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Oliver!_(film)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-017",
+   "year": 1974,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Mel Brooks released 'Young Frankenstein' in 1974. Which other comedy of his came out that same year?",
+   "options": [
+    "Blazing Saddles",
+    "High Anxiety",
+    "The Producers",
+    "Silent Movie"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Gene Wilder starred in both films.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Young_Frankenstein",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-mov-018",
+   "year": 1967,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In Disney's 1967 'The Jungle Book,' what kind of animal is the fun-loving Baloo?",
+   "options": [
+    "A tiger",
+    "A panther",
+    "A monkey",
+    "A bear"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He sings 'The Bare Necessities' with the boy Mowgli. It was the last film Walt Disney worked on.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Jungle_Book_(1967_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-019",
+   "year": 1968,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "What could the magical car do in 1968's 'Chitty Chitty Bang Bang'?",
+   "options": [
+    "Shrink",
+    "Talk",
+    "Turn invisible",
+    "Fly"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Dick Van Dyke starred. The story was written by Ian Fleming, who also created James Bond.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Chitty_Chitty_Bang_Bang",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-020",
+   "year": 1968,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "What kind of car was Herbie in Disney's 'The Love Bug'?",
+   "options": [
+    "A Ford Model T",
+    "A Mini Cooper",
+    "A Volkswagen Beetle",
+    "A Corvette"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Herbie wore the racing number 53 and had a mind of his own.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Love_Bug",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-021",
+   "year": 1970,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In Disney's 1970 'The Aristocats,' the family of cats lives in which city?",
+   "options": [
+    "Paris",
+    "London",
+    "Rome",
+    "New York"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Alley cat Thomas O'Malley helps Duchess and her kittens get home.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Aristocats",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-022",
+   "year": 1971,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Which 1971 movie musical has Tevye singing 'If I Were a Rich Man'?",
+   "options": [
+    "Oliver!",
+    "Fiddler on the Roof",
+    "Funny Girl",
+    "Cabaret"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Tevye is a poor milkman with five daughters in a small village in Russia.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Fiddler_on_the_Roof_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-023",
+   "year": 1966,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 1966's 'Born Free,' a couple in Kenya raises which lioness?",
+   "options": [
+    "Sheba",
+    "Nala",
+    "Elsa",
+    "Duchess"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It was based on Joy Adamson's true story. Its title song won the Academy Award.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Born_Free",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-024",
+   "year": 1969,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "John Wayne won his only Best Actor Oscar for which 1969 Western?",
+   "options": [
+    "Rio Bravo",
+    "The Searchers",
+    "True Grit",
+    "Stagecoach"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He played Rooster Cogburn, a one-eyed U.S. marshal.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/True_Grit_(1969_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-025",
+   "year": 1971,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Angela Lansbury played an apprentice witch in which 1971 Disney film?",
+   "options": [
+    "Pete's Dragon",
+    "Mary Poppins",
+    "The Love Bug",
+    "Bedknobs and Broomsticks"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "A magic bedknob made the bed fly. Part of the film mixes live action with cartoons.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bedknobs_and_Broomsticks",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-026",
+   "year": 1973,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In Disney's 1973 cartoon 'Robin Hood,' what kind of animal is Robin Hood?",
+   "options": [
+    "A bear",
+    "A wolf",
+    "A rabbit",
+    "A fox"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "His friend Little John is a bear, and Prince John is a lion who sucks his thumb.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Robin_Hood_(1973_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-027",
+   "year": 1971,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "In 1971's 'Willy Wonka & the Chocolate Factory,' what were the little orange-faced workers called?",
+   "options": [
+    "Munchkins",
+    "Oompa-Loompas",
+    "Smurfs",
+    "Ewoks"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "They sang a warning song every time a naughty child got into trouble.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Oompa_Loompa",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-028",
+   "year": 1974,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "What kind of animal was the hero of the 1974 movie 'Benji'?",
+   "options": [
+    "A dog",
+    "A cat",
+    "A horse",
+    "A raccoon"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He was played by a shelter dog named Higgins, who had also starred on 'Petticoat Junction.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Benji",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-029",
+   "year": 1965,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "How many von Trapp children does Maria look after in 'The Sound of Music'?",
+   "options": [
+    "Five",
+    "Six",
+    "Seven",
+    "Eight"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "She teaches them to sing with 'Do-Re-Mi,' starting with the very first notes.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Sound_of_Music_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-030",
+   "year": 1973,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "What kind of creature is Charlotte, who saves Wilbur the pig, in the 1973 cartoon 'Charlotte's Web'?",
+   "options": [
+    "A bird",
+    "A spider",
+    "A mouse",
+    "A sheep"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "She spins words like 'Some Pig' into her web to save her friend.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Charlotte%27s_Web_(1973_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-031",
+   "year": 1973,
+   "category": "movies",
+   "difficulty": "easy",
+   "question": "Who played James Bond for the first time in 1973's 'Live and Let Die'?",
+   "options": [
+    "Roger Moore",
+    "Sean Connery",
+    "George Lazenby",
+    "Timothy Dalton"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Paul McCartney and Wings recorded the theme song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Live_and_Let_Die_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-032",
+   "year": 1967,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "In 1967's 'Doctor Dolittle,' what was the shy animal with a head at each end called?",
+   "options": [
+    "The Pushmi-Pullyu",
+    "The Snorkelbat",
+    "The Twoheadawoo",
+    "The Back-and-Forth"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Rex Harrison played the doctor, and the song 'Talk to the Animals' won the Academy Award.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Doctor_Dolittle_(1967_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-033",
+   "year": 1968,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Barbra Streisand won an Oscar in her very first film, playing Fanny Brice. What was the film?",
+   "options": [
+    "Funny Lady",
+    "Hello, Dolly!",
+    "Funny Girl",
+    "Yentl"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "She tied with Katharine Hepburn, so two Best Actress Oscars were given out that year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Funny_Girl_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-034",
+   "year": 1967,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Which 1967 film was the last of Spencer Tracy and Katharine Hepburn's movies together?",
+   "options": [
+    "Pat and Mike",
+    "Adam's Rib",
+    "Guess Who's Coming to Dinner",
+    "Desk Set"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Sidney Poitier co-starred. Tracy died just weeks after filming ended.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Guess_Who%27s_Coming_to_Dinner",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-035",
+   "year": 1972,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Liza Minnelli won Best Actress for which 1972 musical set in a Berlin nightclub?",
+   "options": [
+    "Sweet Charity",
+    "Chicago",
+    "Cabaret",
+    "New York, New York"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "She played singer Sally Bowles. Her mother was Judy Garland.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cabaret_(1972_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-036",
+   "year": 1974,
+   "category": "movies",
+   "difficulty": "medium",
+   "question": "Robert Redford played the title role in which 1974 film of an F. Scott Fitzgerald novel?",
+   "options": [
+    "The Way We Were",
+    "Tender Is the Night",
+    "The Natural",
+    "The Great Gatsby"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Mia Farrow played Daisy Buchanan, the woman Gatsby loved.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(1974_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-037",
+   "year": 1965,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Lee Marvin won Best Actor for playing twin gunfighters in which 1965 comedy Western?",
+   "options": [
+    "Shenandoah",
+    "Paint Your Wagon",
+    "The Rounders",
+    "Cat Ballou"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Jane Fonda played Cat. In one famous scene, his drunken horse leans against a wall.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cat_Ballou",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-038",
+   "year": 1966,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which 1966 comedy imagined a Soviet submarine running aground off a New England island?",
+   "options": [
+    "Dr. Strangelove",
+    "The Russians Are Coming",
+    "The Mouse That Roared",
+    "Operation Petticoat"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Alan Arkin played a nervous Russian sailor trying to find a boat to get home.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Russians_Are_Coming,_the_Russians_Are_Coming",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-039",
+   "year": 1973,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Who became the youngest person to win a competitive Oscar, for 1973's 'Paper Moon'?",
+   "options": [
+    "Linda Blair",
+    "Jodie Foster",
+    "Tatum O'Neal",
+    "Kristy McNichol"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "She was ten years old and co-starred with her real father, Ryan O'Neal.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Paper_Moon_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-040",
+   "year": 1966,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 1966's 'Fantastic Voyage,' a shrunken crew travels where in a tiny submarine?",
+   "options": [
+    "Under the polar ice",
+    "Through a man's body",
+    "Into a volcano",
+    "To the ocean floor"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Raquel Welch was part of the crew, and the film won Oscars for its special effects.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Fantastic_Voyage",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-041",
+   "year": 1968,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 1968's 'Yours, Mine and Ours,' Lucille Ball and Henry Fonda marry and bring together how many children?",
+   "options": [
+    "8",
+    "12",
+    "18",
+    "24"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It was based on a real Navy officer and a widowed nurse who merged their big families.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Yours,_Mine_and_Ours_(1968_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-042",
+   "year": 1971,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Who wrote and sang the Oscar-winning theme from the 1971 film 'Shaft'?",
+   "options": [
+    "Isaac Hayes",
+    "Curtis Mayfield",
+    "Marvin Gaye",
+    "Barry White"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He was the first Black songwriter to win the Academy Award for Best Original Song.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Theme_from_Shaft",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-043",
+   "year": 1972,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which actress earned a Best Actress nomination as the strong mother in 1972's 'Sounder'?",
+   "options": [
+    "Cicely Tyson",
+    "Diana Ross",
+    "Diahann Carroll",
+    "Ruby Dee"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The film told the story of a sharecropping family in Louisiana during the Great Depression.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sounder_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-044",
+   "year": 1967,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Who played King Arthur in the 1967 movie musical 'Camelot'?",
+   "options": [
+    "Peter O'Toole",
+    "Richard Burton",
+    "Richard Harris",
+    "Rex Harrison"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Richard Burton had played Arthur in the Broadway version.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Camelot_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-045",
+   "year": 1968,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Who directed the 1968 film of 'Romeo and Juliet' with teenage actors in the lead roles?",
+   "options": [
+    "Franco Zeffirelli",
+    "Federico Fellini",
+    "Laurence Olivier",
+    "Kenneth Branagh"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Its love theme, 'A Time for Us,' became a popular hit.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Romeo_and_Juliet_(1968_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-046",
+   "year": 1965,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Which 1965 comedy follows a 1910 air race from London to Paris?",
+   "options": [
+    "The Great Waldo Pepper",
+    "The Great Race",
+    "Chitty Chitty Bang Bang",
+    "Those Magnificent Men"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Real copies of early airplanes were built so they could actually fly in the film.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Those_Magnificent_Men_in_their_Flying_Machines",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-047",
+   "year": 1969,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Shirley MacLaine played a big-hearted dance hall hostess in which 1969 musical?",
+   "options": [
+    "Cabaret",
+    "Sweet Charity",
+    "Gypsy",
+    "Mame"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Bob Fosse directed it, his first film. It included the song 'Big Spender.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sweet_Charity_(film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-048",
+   "year": 1972,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Barbra Streisand and Ryan O'Neal starred in which 1972 comedy about mixed-up plaid overnight bags?",
+   "options": [
+    "Paper Moon",
+    "The Owl and the Pussycat",
+    "For Pete's Sake",
+    "What's Up, Doc?"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Peter Bogdanovich directed it as a tribute to the comedies of the 1930s.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/What%27s_Up,_Doc%3F_(1972_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-049",
+   "year": 1969,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "Peter O'Toole played a shy schoolteacher in which 1969 musical?",
+   "options": [
+    "Goodbye, Mr. Chips",
+    "To Sir, with Love",
+    "The Prime of Miss Jean Brodie",
+    "Dead Poets Society"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Petula Clark co-starred as the woman who wins his heart.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Goodbye,_Mr._Chips_(1969_film)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-mov-050",
+   "year": 1974,
+   "category": "movies",
+   "difficulty": "hard",
+   "question": "In 1974's 'Harry and Tonto,' Art Carney travels across America with what companion named Tonto?",
+   "options": [
+    "His cat",
+    "His dog",
+    "His parrot",
+    "His horse"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Art Carney, Ed Norton on 'The Honeymooners,' won the Academy Award for Best Actor.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Harry_and_Tonto",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-001",
+   "year": 1967,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which team won the very first Super Bowl, in January 1967?",
+   "options": [
+    "Kansas City Chiefs",
+    "Green Bay Packers",
+    "Dallas Cowboys",
+    "Baltimore Colts"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "They beat the Kansas City Chiefs 35 to 10 at the Los Angeles Memorial Coliseum.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Super_Bowl_I",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-002",
+   "year": 1969,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "What did Jets quarterback Joe Namath famously do before Super Bowl III in January 1969?",
+   "options": [
+    "Shaved his head",
+    "Announced his retirement",
+    "Skipped practice",
+    "Guaranteed a win"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "The Jets were big underdogs, but they beat the Baltimore Colts 16 to 7.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Super_Bowl_III",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-003",
+   "year": 1973,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which horse won the Triple Crown in 1973, the first in 25 years?",
+   "options": [
+    "Secretariat",
+    "Seattle Slew",
+    "Affirmed",
+    "Northern Dancer"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He was nicknamed 'Big Red.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Secretariat_(horse)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-004",
+   "year": 1972,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Mark Spitz set a record at the 1972 Olympics by winning how many gold medals?",
+   "options": [
+    "3",
+    "5",
+    "7",
+    "9"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "He set a world record in every one of those seven events.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mark_Spitz",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-005",
+   "year": 1973,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Who beat Bobby Riggs in the 1973 'Battle of the Sexes' tennis match?",
+   "options": [
+    "Chris Evert",
+    "Virginia Wade",
+    "Margaret Court",
+    "Billie Jean King"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "She won in straight sets at the Houston Astrodome, in front of a huge TV audience.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Battle_of_the_Sexes_(tennis)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-006",
+   "year": 1974,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "What was Muhammad Ali's 1974 title fight against George Foreman in Zaire called?",
+   "options": [
+    "The Rumble in the Jungle",
+    "The Thrilla in Manila",
+    "The Fight of the Century",
+    "The Super Fight"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Ali leaned on the ropes and let Foreman tire himself out, a trick he called 'rope-a-dope.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/The_Rumble_in_the_Jungle",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-007",
+   "year": 1974,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Hank Aaron broke Babe Ruth's career home run record in 1974. Which team was he playing for?",
+   "options": [
+    "New York Yankees",
+    "Houston Astros",
+    "Atlanta Braves",
+    "Milwaukee Brewers"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "He hit number 715 off Al Downing of the Dodgers on April 8, 1974.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hank_Aaron",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-008",
+   "year": 1965,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Sandy Koufax struck out a record 382 batters in 1965. Which award did he win that year?",
+   "options": [
+    "World Series MVP",
+    "Cy Young Award",
+    "NL MVP",
+    "Gold Glove"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He would not pitch the first game of that year's World Series because it fell on Yom Kippur.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sandy_Koufax",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-009",
+   "year": 1967,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "The Packers won the 1967 NFL title in the famous 'Ice Bowl.' About how cold was it at kickoff?",
+   "options": [
+    "5 degrees",
+    "13 below zero",
+    "15 degrees",
+    "32 degrees"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Bart Starr's quarterback sneak in the final seconds beat the Dallas Cowboys at Lambeau Field.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1967_NFL_Championship_Game",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-010",
+   "year": 1968,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Bob Gibson posted a famous 1.12 earned run average in 1968. Which team did he pitch for?",
+   "options": [
+    "St. Louis Cardinals",
+    "Los Angeles Dodgers",
+    "Pittsburgh Pirates",
+    "New York Mets"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Pitchers were so strong that year that baseball lowered the pitcher's mound for 1969.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bob_Gibson",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-011",
+   "year": 1970,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Which injured Knicks captain limped onto the court to inspire New York in Game 7 of the 1970 NBA Finals?",
+   "options": [
+    "Dave DeBusschere",
+    "Walt Frazier",
+    "Willis Reed",
+    "Bill Bradley"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He scored the team's first two baskets, and the Knicks won their first championship.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Willis_Reed",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-012",
+   "year": 1973,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Secretariat won the 1973 Belmont Stakes by how many lengths?",
+   "options": [
+    "5 lengths",
+    "10 lengths",
+    "20 lengths",
+    "31 lengths"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "His time of 2 minutes 24 seconds is still the Belmont Stakes record.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Secretariat_(horse)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-013",
+   "year": 1971,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Who beat Muhammad Ali in their 1971 'Fight of the Century'?",
+   "options": [
+    "George Foreman",
+    "Joe Frazier",
+    "Ken Norton",
+    "Sonny Liston"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It was Ali's first loss as a professional. Frank Sinatra took photos at ringside for Life magazine.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Fight_of_the_Century",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-014",
+   "year": 1972,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Who coached the 1972 Miami Dolphins, the only NFL team to finish a whole season unbeaten?",
+   "options": [
+    "Tom Landry",
+    "Chuck Noll",
+    "Don Shula",
+    "Hank Stram"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "They went 17-0, finishing with a win over Washington in Super Bowl VII.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1972_Miami_Dolphins_season",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-015",
+   "year": 1965,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "The Buffalo Bills won their second straight AFL title in 1965. Which team did they beat?",
+   "options": [
+    "San Diego Chargers",
+    "Oakland Raiders",
+    "Kansas City Chiefs",
+    "New York Jets"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "They beat the same team in the 1964 title game, too.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1965_American_Football_League_Championship_Game",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-016",
+   "year": 1966,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which Orioles relief pitcher struck out 11 Dodgers in Game 1 of the 1966 World Series?",
+   "options": [
+    "Jim Palmer",
+    "Dave McNally",
+    "Moe Drabowsky",
+    "Mike Cuellar"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Baltimore swept the Dodgers in four games.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1966_World_Series",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-017",
+   "year": 1966,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "England won the 1966 World Cup. Who scored three goals in the final?",
+   "options": [
+    "Bobby Charlton",
+    "Roger Hunt",
+    "Geoff Hurst",
+    "Martin Peters"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "England beat West Germany 4 to 2 at Wembley Stadium in London.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_final",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-018",
+   "year": 1966,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In the 1966 college basketball final, Texas Western started five Black players and beat which famous team?",
+   "options": [
+    "UCLA",
+    "Kentucky",
+    "Duke",
+    "Kansas"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Coach Don Haskins's Miners beat Adolph Rupp's Kentucky Wildcats. The game is now seen as a turning point for the sport.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1966_NCAA_University_Division_basketball_championship_game",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-019",
+   "year": 1967,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which pitcher led the Boston Red Sox in their 1967 'Impossible Dream' season?",
+   "options": [
+    "Jim Lonborg",
+    "Gary Peters",
+    "Jim Kaat",
+    "Mel Stottlemyre"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He won 22 games and the Cy Young Award.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jim_Lonborg",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-020",
+   "year": 1970,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which Orioles third baseman's fielding in the 1970 World Series earned him the nickname 'the Human Vacuum Cleaner'?",
+   "options": [
+    "Boog Powell",
+    "Frank Robinson",
+    "Brooks Robinson",
+    "Mark Belanger"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He won 16 Gold Gloves in a row and was named MVP of that World Series.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Brooks_Robinson",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-021",
+   "year": 1971,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which Pirates star was named MVP of the 1971 World Series?",
+   "options": [
+    "Willie Stargell",
+    "Dave Cash",
+    "Al Oliver",
+    "Roberto Clemente"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He collected his 3,000th hit in his last regular-season game, in September 1972.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Roberto_Clemente",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-022",
+   "year": 1972,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which showman owner of the Oakland A's paid his players to grow mustaches in 1972?",
+   "options": [
+    "George Steinbrenner",
+    "Bill Veeck",
+    "Walter O'Malley",
+    "Charlie Finley"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "His team mascot was a mule named Charlie O, and the A's won three World Series in a row.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Charles_O._Finley",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-023",
+   "year": 1974,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which Miami Dolphins fullback was named MVP of Super Bowl VIII in January 1974?",
+   "options": [
+    "Jim Kiick",
+    "Larry Csonka",
+    "Mercury Morris",
+    "Bob Griese"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He ran for 145 yards and two touchdowns against the Minnesota Vikings.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Super_Bowl_VIII",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-spt-024",
+   "year": 1965,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "What made Houston's Astrodome, opened in 1965, so new and different?",
+   "options": [
+    "It had a roof over the whole field",
+    "It floated on water",
+    "It had no seats",
+    "It was underground"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It was called 'the Eighth Wonder of the World.' Real grass would not grow inside, which led to AstroTurf.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Astrodome",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-025",
+   "year": 1968,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Peggy Fleming won America's only gold medal at the 1968 Winter Olympics. In which sport?",
+   "options": [
+    "Figure skating",
+    "Skiing",
+    "Speed skating",
+    "Luge"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "She skated in a chartreuse dress that her mother had sewn for her.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Peggy_Fleming",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-026",
+   "year": 1969,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1969, which once-hopeless team shocked baseball by winning the World Series?",
+   "options": [
+    "Washington Senators",
+    "Chicago Cubs",
+    "New York Mets",
+    "San Diego Padres"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "They became known as the 'Miracle Mets' after beating the Baltimore Orioles.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1969_New_York_Mets_season",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-027",
+   "year": 1972,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1972, American Bobby Fischer became world champion of which game?",
+   "options": [
+    "Chess",
+    "Checkers",
+    "Bridge",
+    "Backgammon"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He beat Boris Spassky of the Soviet Union in Reykjavík, Iceland.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/World_Chess_Championship_1972",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-028",
+   "year": 1972,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which tiny Soviet gymnast charmed TV viewers around the world at the 1972 Olympics?",
+   "options": [
+    "Mary Lou Retton",
+    "Nadia Comăneci",
+    "Ludmilla Tourischeva",
+    "Olga Korbut"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "She was 17 and won three gold medals. Her daring backflips made gymnastics hugely popular.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Olga_Korbut",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-029",
+   "year": 1968,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "What was the name of the backward high-jump style that won Olympic gold in 1968?",
+   "options": [
+    "The Back Bend",
+    "The Western Roll",
+    "The Scissors Kick",
+    "The Fosbury Flop"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Dick Fosbury went over the bar head first and on his back. Almost every high jumper uses it today.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dick_Fosbury",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-030",
+   "year": 1970,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Boston Bruins defenseman was photographed flying through the air after his Cup-winning goal in 1970?",
+   "options": [
+    "Bobby Hull",
+    "Phil Esposito",
+    "Bobby Orr",
+    "Gordie Howe"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The goal won the Stanley Cup in overtime. The famous photo is now a statue outside Boston's arena.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bobby_Orr",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-031",
+   "year": 1968,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which country hosted the 1968 Summer Olympics?",
+   "options": [
+    "Canada",
+    "Japan",
+    "Mexico",
+    "Italy"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "They were the first Olympics held in Latin America. Mexico City's high altitude helped many runners and jumpers set records.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1968_Summer_Olympics",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-032",
+   "year": 1968,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Who won the first U.S. Open tennis tournament of the open era, in 1968?",
+   "options": [
+    "Rod Laver",
+    "Arthur Ashe",
+    "Jimmy Connors",
+    "Stan Smith"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He was still an amateur and an Army lieutenant at the time, so he couldn't accept the prize money.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Arthur_Ashe",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-033",
+   "year": 1969,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Whose silhouette is said to be the model for the NBA's logo, designed in 1969?",
+   "options": [
+    "Bill Russell",
+    "Wilt Chamberlain",
+    "Jerry West",
+    "Oscar Robertson"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "He played for the Los Angeles Lakers and was nicknamed 'Mr. Clutch.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jerry_West",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-034",
+   "year": 1971,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1971, astronaut Alan Shepard became the first person to play which sport on the Moon?",
+   "options": [
+    "Baseball",
+    "Golf",
+    "Tennis",
+    "Bowling"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He hit two golf balls with a club head attached to a tool handle, and joked that one went 'miles and miles.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Alan_Shepard",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-035",
+   "year": 1973,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "In 1973, the American League added a player who bats instead of the pitcher. What is he called?",
+   "options": [
+    "The designated hitter",
+    "The pinch runner",
+    "The utility man",
+    "The relief batter"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Ron Blomberg of the Yankees was the first designated hitter to come to bat.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Designated_hitter",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-036",
+   "year": 1972,
+   "category": "sports",
+   "difficulty": "easy",
+   "question": "Which Steelers running back made the 'Immaculate Reception' in a 1972 playoff game?",
+   "options": [
+    "Rocky Bleier",
+    "Franco Harris",
+    "Terry Bradshaw",
+    "Lynn Swann"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He scooped up a deflected pass just before it hit the ground and ran it in for the winning touchdown.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Immaculate_Reception",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-037",
+   "year": 1967,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Which Red Sox slugger, nicknamed 'Yaz,' won baseball's Triple Crown in 1967?",
+   "options": [
+    "Ted Williams",
+    "Carl Yastrzemski",
+    "Tony Conigliaro",
+    "Rico Petrocelli"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Fans called him 'Yaz.' No American League player won the Triple Crown again until 2012.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Carl_Yastrzemski",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-038",
+   "year": 1971,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Which center, then known as Lew Alcindor, led the Milwaukee Bucks to the 1971 NBA title?",
+   "options": [
+    "Wilt Chamberlain",
+    "Kareem Abdul-Jabbar",
+    "Willis Reed",
+    "Bill Walton"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "He took the name Kareem Abdul-Jabbar later in 1971 and became famous for his 'skyhook' shot.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kareem_Abdul-Jabbar",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-039",
+   "year": 1974,
+   "category": "sports",
+   "difficulty": "medium",
+   "question": "Which engaged couple both won the Wimbledon singles titles in 1974?",
+   "options": [
+    "Evert and Connors",
+    "King and Laver",
+    "Court and Ashe",
+    "Goolagong and Borg"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Chris Evert and Jimmy Connors were called tennis's 'Lovebird Double.' They never married.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1974_Wimbledon_Championships",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-040",
+   "year": 1966,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In 1966, Bill Russell became the first Black head coach in the NBA. Which team did he coach?",
+   "options": [
+    "Chicago Bulls",
+    "Los Angeles Lakers",
+    "New York Knicks",
+    "Boston Celtics"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He was still playing at the same time, and led the Celtics to two more titles as player-coach.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bill_Russell",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-041",
+   "year": 1968,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In 1968, Denny McLain of the Detroit Tigers won how many games, the most in decades?",
+   "options": [
+    "21",
+    "26",
+    "31",
+    "36"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "No major league pitcher has won 30 games in a season since.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Denny_McLain",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-042",
+   "year": 1969,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which Australian tennis star won all four major titles in 1969, the second time he did it?",
+   "options": [
+    "John Newcombe",
+    "Ken Rosewall",
+    "Roy Emerson",
+    "Rod Laver"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He first won the Grand Slam as an amateur in 1962, and again as a pro in 1969.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Rod_Laver",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-043",
+   "year": 1965,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Sandy Koufax threw a perfect game in 1965. Which team did he do it against?",
+   "options": [
+    "Houston Astros",
+    "New York Mets",
+    "Chicago Cubs",
+    "San Francisco Giants"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It was the fourth no-hitter of his career, then a major league record.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sandy_Koufax%27s_perfect_game",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-044",
+   "year": 1966,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which teenage runner from Kansas set the world record in the mile in 1966?",
+   "options": [
+    "Jim Ryun",
+    "Steve Prefontaine",
+    "Frank Shorter",
+    "Marty Liquori"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "He had become the first high school runner to break four minutes in the mile, in 1964.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Jim_Ryun",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-045",
+   "year": 1968,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "At the 1968 Olympics, Bob Beamon set a stunning world record in which event?",
+   "options": [
+    "The high jump",
+    "The long jump",
+    "The triple jump",
+    "The pole vault"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He jumped about 29 feet 2 inches, almost two feet past the old record. It stood for 23 years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bob_Beamon",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-046",
+   "year": 1970,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "In 1970, which player won his third World Cup with Brazil?",
+   "options": [
+    "Jairzinho",
+    "Pelé",
+    "Rivelino",
+    "Tostão"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "He is still the only player to win three World Cups.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1970_FIFA_World_Cup",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-047",
+   "year": 1971,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which golfer, nicknamed 'Super Mex,' won the US, Canadian and British Opens in 1971?",
+   "options": [
+    "Tom Watson",
+    "Chi-Chi Rodríguez",
+    "Gary Player",
+    "Lee Trevino"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He won all three within about a month, and was named Sports Illustrated's Sportsman of the Year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lee_Trevino",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-048",
+   "year": 1968,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which Detroit pitcher won three games to beat the Cardinals in the 1968 World Series?",
+   "options": [
+    "Joe Sparma",
+    "Denny McLain",
+    "Earl Wilson",
+    "Mickey Lolich"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He beat Bob Gibson in Game 7 and was named the Series MVP.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1968_World_Series",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-049",
+   "year": 1974,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Who became Major League Baseball's first Black manager when Cleveland hired him in 1974?",
+   "options": [
+    "Ernie Banks",
+    "Hank Aaron",
+    "Willie Mays",
+    "Frank Robinson"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He was also a player then, and he hit a home run in his first game as player-manager in 1975.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Frank_Robinson",
+   "origin": "new"
+  },
+  {
+   "id": "us65-spt-050",
+   "year": 1972,
+   "category": "sports",
+   "difficulty": "hard",
+   "question": "Which American won the marathon at the 1972 Olympics, helping start the running boom?",
+   "options": [
+    "Frank Shorter",
+    "Bill Rodgers",
+    "Jim Ryun",
+    "Steve Prefontaine"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "He was born in Munich, Germany, the very city where he won his gold medal.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Frank_Shorter",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-001",
+   "year": 1969,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Finish Neil Armstrong's first words on the Moon: 'That's one small step for man, one giant leap for…'",
+   "options": [
+    "Mankind",
+    "The world",
+    "America",
+    "All of us"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "He later said he meant to say 'one small step for a man,' and that the 'a' was lost.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Apollo_11",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-002",
+   "year": 1971,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1971, the 26th Amendment lowered the voting age to what?",
+   "options": [
+    "16",
+    "18",
+    "19",
+    "20"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "It was ratified faster than any other amendment, in a little over three months.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Twenty-sixth_Amendment_to_the_United_States_Constitution",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-003",
+   "year": 1972,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "The 1972 break-in that led to President Nixon's downfall happened at which Washington building complex?",
+   "options": [
+    "The Pentagon",
+    "The Watergate",
+    "The Capitol",
+    "The Kennedy Center"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "The burglars were caught on June 17, 1972, after a security guard noticed tape on a door lock.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Watergate_scandal",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-004",
+   "year": 1966,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Who was the first president of the National Organization for Women, founded in 1966?",
+   "options": [
+    "Betty Friedan",
+    "Bella Abzug",
+    "Shirley Chisholm",
+    "Gloria Steinem"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "She was the author of 'The Feminine Mystique.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/National_Organization_for_Women",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-005",
+   "year": 1967,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "The 1967 'Summer of Love' centered on which San Francisco neighborhood?",
+   "options": [
+    "North Beach",
+    "The Mission",
+    "Haight-Ashbury",
+    "Chinatown"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "About 100,000 young people poured in, many wearing flowers in their hair, as the song said.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Summer_of_Love",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-006",
+   "year": 1970,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "About how many Americans took part in the first Earth Day, on April 22, 1970?",
+   "options": [
+    "1 million",
+    "5 million",
+    "20 million",
+    "100 million"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It helped lead to the creation of the Environmental Protection Agency later that year.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Earth_Day",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-007",
+   "year": 1972,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Congress passed the ERA in 1972. What does ERA stand for?",
+   "options": [
+    "Equal Roles Agreement",
+    "Economic Recovery Act",
+    "Education Reform Act",
+    "Equal Rights Amendment"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It said equal rights could not be denied 'on account of sex,' but not enough states approved it in time.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Equal_Rights_Amendment",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-008",
+   "year": 1973,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Which group of oil-producing nations cut off oil shipments to the US in 1973?",
+   "options": [
+    "OPEC",
+    "NATO",
+    "The UN",
+    "The EEC"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Gas lines stretched around the block, and many stations ran out of fuel.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1973_oil_crisis",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-009",
+   "year": 1973,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Who replaced Spiro Agnew as vice president when Agnew resigned in 1973?",
+   "options": [
+    "Ronald Reagan",
+    "Gerald Ford",
+    "Barry Goldwater",
+    "Nelson Rockefeller"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "He was the first vice president chosen under the 25th Amendment, rather than elected.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gerald_Ford",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-010",
+   "year": 1974,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Richard Nixon left office in August 1974. How did his presidency end?",
+   "options": [
+    "He lost a recall",
+    "He was voted out",
+    "He resigned",
+    "His term ran out"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "He is the only US president ever to resign. Gerald Ford said, 'Our long national nightmare is over.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Resignation_of_Richard_Nixon",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-011",
+   "year": 1965,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Ed White became the first American to walk in space in June 1965. About how long was he outside?",
+   "options": [
+    "1 hour",
+    "2 hours",
+    "5 minutes",
+    "23 minutes"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "He steered with a hand-held gas gun and did not want to come back in.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gemini_4",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-012",
+   "year": 1967,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "The 25th Amendment, ratified in 1967, deals with what?",
+   "options": [
+    "Term limits",
+    "The voting age",
+    "Who takes over as president",
+    "Campaign money"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It set rules for replacing a vice president, and for when a president is unable to serve.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-013",
+   "year": 1972,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Who secretly arranged President Nixon's historic 1972 trip to China?",
+   "options": [
+    "Spiro Agnew",
+    "William Rogers",
+    "George H. W. Bush",
+    "Henry Kissinger"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He slipped into China while reporters thought he was resting in Pakistan.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1972_visit_by_Richard_Nixon_to_China",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-014",
+   "year": 1969,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which Ohio river caught fire in 1969, helping lead to the Clean Water Act?",
+   "options": [
+    "The Scioto",
+    "The Ohio",
+    "The Maumee",
+    "The Cuyahoga"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "It flows through Cleveland and had caught fire many times before. Time magazine's story made it famous.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cuyahoga_River",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-hdl-015",
+   "year": 1969,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "What was the name of the Apollo 11 lunar module that landed on the Moon in 1969?",
+   "options": [
+    "The Raven",
+    "The Falcon",
+    "The Hawk",
+    "The Eagle"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Neil Armstrong radioed, 'Houston, Tranquility Base here. The Eagle has landed.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Apollo_Lunar_Module_Eagle",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-016",
+   "year": 1969,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Who walked on the Moon with Neil Armstrong in 1969?",
+   "options": [
+    "John Glenn",
+    "Michael Collins",
+    "Buzz Aldrin",
+    "Alan Shepard"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Michael Collins circled overhead in the command module, Columbia.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Buzz_Aldrin",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-017",
+   "year": 1969,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "How many astronauts flew on the Apollo 11 Moon mission?",
+   "options": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Neil Armstrong, Buzz Aldrin and Michael Collins all came home safely on July 24, 1969.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Apollo_11",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-018",
+   "year": 1965,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which health insurance program for older Americans did President Johnson sign into law in 1965?",
+   "options": [
+    "Medicaid",
+    "Social Security",
+    "Medicare",
+    "Blue Cross"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "He signed it in Independence, Missouri, and gave the very first Medicare card to former President Harry Truman.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Medicare_(United_States)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-019",
+   "year": 1974,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "To save fuel, what national highway speed limit was set in 1974?",
+   "options": [
+    "45 mph",
+    "55 mph",
+    "65 mph",
+    "75 mph"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It stayed the national limit until 1995.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/National_Maximum_Speed_Law",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-020",
+   "year": 1965,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which city's giant stainless steel Gateway Arch was finished in 1965?",
+   "options": [
+    "Denver",
+    "Kansas City",
+    "Chicago",
+    "St. Louis"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "At 630 feet, it is the tallest arch in the world. Visitors ride tiny tram cars to the top.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gateway_Arch",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-021",
+   "year": 1966,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which Hollywood actor was elected governor of California in 1966?",
+   "options": [
+    "Gregory Peck",
+    "John Wayne",
+    "Clint Eastwood",
+    "Ronald Reagan"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "He served two terms and was later elected president, in 1980.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1966_California_gubernatorial_election",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-022",
+   "year": 1968,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which three-digit emergency phone number was first used in the US in 1968?",
+   "options": [
+    "411",
+    "611",
+    "911",
+    "999"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "The first 9-1-1 call was made in Haleyville, Alabama.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/9-1-1",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-023",
+   "year": 1970,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which giant 'jumbo jet' began carrying passengers in January 1970?",
+   "options": [
+    "The Boeing 747",
+    "The Concorde",
+    "The DC-10",
+    "The Boeing 727"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "Pan Am flew the first one from New York to London. It had a little upstairs lounge.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Boeing_747",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-024",
+   "year": 1973,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which Chicago skyscraper, finished in 1973, became the world's tallest building?",
+   "options": [
+    "The John Hancock Center",
+    "The Sears Tower",
+    "The Empire State Building",
+    "The Prudential Building"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It held the title for about 25 years. Today it is called Willis Tower.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Willis_Tower",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-025",
+   "year": 1971,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which national passenger railroad began running trains in 1971?",
+   "options": [
+    "Amtrak",
+    "Conrail",
+    "Union Pacific",
+    "Greyhound"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It took over most of the country's long-distance passenger trains from private railroads.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Amtrak",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-026",
+   "year": 1972,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Two giant pandas arrived at the National Zoo in 1972 as a gift from which country?",
+   "options": [
+    "China",
+    "Japan",
+    "India",
+    "Russia"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Ling-Ling and Hsing-Hsing were a gift after President Nixon's visit to China.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ling-Ling_and_Hsing-Hsing",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-027",
+   "year": 1973,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which famous building with a roof like giant white sails opened in Australia in 1973?",
+   "options": [
+    "Brisbane City Hall",
+    "The Sydney Harbour Bridge",
+    "Parliament House",
+    "The Sydney Opera House"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Queen Elizabeth II opened it. A Danish architect, Jørn Utzon, designed it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-028",
+   "year": 1969,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1969, Queen Elizabeth's son Charles was formally crowned Prince of where?",
+   "options": [
+    "Wales",
+    "Scotland",
+    "Ireland",
+    "Cornwall"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "The ceremony was held at Caernarfon Castle and was watched by millions on TV.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Investiture_of_Charles,_Prince_of_Wales",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-029",
+   "year": 1971,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "In 1971, Apollo 15 astronauts became the first to drive what on the Moon?",
+   "options": [
+    "A lunar rover",
+    "A tractor",
+    "A motorcycle",
+    "A golf cart"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "It was nicknamed the 'moon buggy' and folded up to fit in the lander.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lunar_Roving_Vehicle",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-030",
+   "year": 1973,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Skylab, launched in 1973, was America's first what?",
+   "options": [
+    "Space station",
+    "Moon base",
+    "Space shuttle",
+    "Weather satellite"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Three crews lived and worked aboard it, the last staying for 84 days.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Skylab",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-031",
+   "year": 1967,
+   "category": "world_events",
+   "difficulty": "easy",
+   "question": "Which Canadian city hosted the 1967 World's Fair, called Expo 67?",
+   "options": [
+    "Toronto",
+    "Montreal",
+    "Vancouver",
+    "Ottawa"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It celebrated Canada's 100th birthday, and over 50 million visits were counted.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Expo_67",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-032",
+   "year": 1968,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "At Christmas 1968, Apollo 8 astronauts took a famous photo of Earth rising over what?",
+   "options": [
+    "The Moon",
+    "Mars",
+    "The Sun",
+    "A space station"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "The picture, called 'Earthrise,' was taken by astronaut Bill Anders.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Earthrise",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-033",
+   "year": 1970,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "In April 1970, the crew of which Apollo mission made it safely home after an explosion on board?",
+   "options": [
+    "Apollo 11",
+    "Apollo 12",
+    "Apollo 13",
+    "Apollo 14"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "They used the lunar module as a lifeboat. 'Houston, we've had a problem' became a famous line.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Apollo_13",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-034",
+   "year": 1967,
+   "category": "world_events",
+   "difficulty": "medium",
+   "question": "Who became the first Black justice of the US Supreme Court, in 1967?",
+   "options": [
+    "Edward Brooke",
+    "Clarence Thomas",
+    "Ralph Bunche",
+    "Thurgood Marshall"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "As a lawyer, he had won the Brown v. Board of Education case in 1954.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Thurgood_Marshall",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-035",
+   "year": 1974,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Who became vice president after Gerald Ford took over as president in 1974?",
+   "options": [
+    "Walter Mondale",
+    "Bob Dole",
+    "George H. W. Bush",
+    "Nelson Rockefeller"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He had been governor of New York for 15 years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Nelson_Rockefeller",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-036",
+   "year": 1967,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1967, Dr. Christiaan Barnard performed the world's first human heart transplant in which country?",
+   "options": [
+    "United States",
+    "England",
+    "South Africa",
+    "Sweden"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "The operation took place at Groote Schuur Hospital in Cape Town.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Christiaan_Barnard",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-037",
+   "year": 1969,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which supersonic passenger jet, built by Britain and France, made its first flight in 1969?",
+   "options": [
+    "The Comet",
+    "The Concorde",
+    "The Caravelle",
+    "The Trident"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It could fly from London to New York in about three and a half hours.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Concorde",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-038",
+   "year": 1972,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which mission, in December 1972, was the last time astronauts walked on the Moon?",
+   "options": [
+    "Apollo 13",
+    "Apollo 15",
+    "Apollo 17",
+    "Apollo 20"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Gene Cernan was the last person to step off the Moon.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Apollo_17",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-039",
+   "year": 1965,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1965, Paul VI became the first pope ever to visit which country?",
+   "options": [
+    "Mexico",
+    "Brazil",
+    "Canada",
+    "The United States"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He spoke at the United Nations in New York and said a Mass at Yankee Stadium.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1965_visit_by_Pope_Paul_VI_to_the_United_States",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-040",
+   "year": 1966,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Who became India's first woman prime minister in 1966?",
+   "options": [
+    "Benazir Bhutto",
+    "Sonia Gandhi",
+    "Indira Gandhi",
+    "Sirimavo Bandaranaike"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "She was the daughter of Jawaharlal Nehru, India's first prime minister.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Indira_Gandhi",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-041",
+   "year": 1969,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Golda Meir became prime minister of which country in 1969?",
+   "options": [
+    "Sweden",
+    "Israel",
+    "Norway",
+    "Iceland"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "She had grown up in Milwaukee, Wisconsin, and worked there as a schoolteacher.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Golda_Meir",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-042",
+   "year": 1969,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which British ocean liner, named after a queen, made its first voyage to New York in 1969?",
+   "options": [
+    "Queen Victoria",
+    "Queen Mary",
+    "Queen Elizabeth 2",
+    "Queen Anne"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Passengers called her the 'QE2.' She sailed for nearly 40 years.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Queen_Elizabeth_2",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-043",
+   "year": 1972,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1972, which congresswoman became the first Black woman to seek a major party's nomination for president?",
+   "options": [
+    "Coretta Scott King",
+    "Barbara Jordan",
+    "Shirley Chisholm",
+    "Fannie Lou Hamer"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Her slogan was 'Unbought and Unbossed.' In 1968 she had become the first Black woman elected to Congress.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Shirley_Chisholm",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-044",
+   "year": 1973,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1973, Pioneer 10 became the first spacecraft to fly past which planet?",
+   "options": [
+    "Saturn",
+    "Mars",
+    "Venus",
+    "Jupiter"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It carries a small metal plaque with drawings of a man and a woman, in case anyone ever finds it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pioneer_10",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-045",
+   "year": 1974,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1974, Ella Grasso of Connecticut became the first woman to be elected governor without following whom?",
+   "options": [
+    "Her husband",
+    "Her father",
+    "Her brother",
+    "Her son"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Earlier women governors had followed their husbands into office.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ella_Grasso",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-046",
+   "year": 1965,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In November 1965, a huge power failure left about 30 million people in the dark in which part of the country?",
+   "options": [
+    "The South",
+    "The Northeast",
+    "The Midwest",
+    "The West Coast"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "In New York City, the lights went out at rush hour, but the night stayed surprisingly calm.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Northeast_blackout_of_1965",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-047",
+   "year": 1974,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Who was on the cover of the very first issue of People magazine, in March 1974?",
+   "options": [
+    "Mia Farrow",
+    "Farrah Fawcett",
+    "Cher",
+    "Liza Minnelli"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "She was starring in 'The Great Gatsby' at the time.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/People_(magazine)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-048",
+   "year": 1965,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "Which preschool program for children from low-income families began in 1965?",
+   "options": [
+    "Sesame Street",
+    "Head Start",
+    "Little League",
+    "Scouting"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "It began as an eight-week summer program and soon became year-round.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Head_Start_(program)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-049",
+   "year": 1971,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In 1971, an American team visited China to play which game, in what was called a sign of friendship?",
+   "options": [
+    "Basketball",
+    "Table tennis",
+    "Chess",
+    "Volleyball"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It became known as 'ping-pong diplomacy,' and opened the way for President Nixon's 1972 trip.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ping-pong_diplomacy",
+   "origin": "new"
+  },
+  {
+   "id": "us65-hdl-050",
+   "year": 1968,
+   "category": "world_events",
+   "difficulty": "hard",
+   "question": "In October 1968, which Apollo mission sent the first live TV broadcast from an American spacecraft?",
+   "options": [
+    "Apollo 1",
+    "Apollo 7",
+    "Apollo 8",
+    "Apollo 10"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "The crew held up cards for viewers, joking, \"Keep those cards and letters coming in, folks!\"",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Apollo_7",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-001",
+   "year": 1965,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which daring fashion swept 1965, raising hemlines high above the knee?",
+   "options": [
+    "The miniskirt",
+    "Hot pants",
+    "Bell bottoms",
+    "Palazzo pants"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It was a symbol of 'Swinging London,' where fashion designers turned it into a craze.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Miniskirt",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-002",
+   "year": 1965,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In 'A Charlie Brown Christmas' (1965), what kind of Christmas tree does Charlie Brown pick?",
+   "options": [
+    "A tall, perfect pine",
+    "A plastic tree",
+    "A pink metal tree",
+    "A tiny, droopy little tree"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "The other kids laugh at it, but Linus helps him see what Christmas is really about.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/A_Charlie_Brown_Christmas",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-003",
+   "year": 1966,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "On TV's 1966 'Batman,' what was Batman's famous car called?",
+   "options": [
+    "The Dark Rider",
+    "The Bat-Cruiser",
+    "The Batmobile",
+    "The Night Wing"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It was built from a 1955 Lincoln Futura concept car, rebuilt by customizer George Barris.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Batmobile",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-004",
+   "year": 1966,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "A 1960s hippie who called your new record 'groovy' thought it was what?",
+   "options": [
+    "Slippery",
+    "Very fast",
+    "Old-fashioned",
+    "Great"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It came from jazz musicians who were 'in the groove' when they played just right.",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/groovy",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-005",
+   "year": 1970,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "When friends shouted 'Right on!' in the early 1970s, what were they saying?",
+   "options": [
+    "Hurry up!",
+    "Turn right!",
+    "You're wrong!",
+    "I agree!"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "It was a way of cheering someone on, a bit like a verbal high five.",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/right_on",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-006",
+   "year": 1969,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "The first cash machine in the US opened in 1969 at a bank in New York. What does ATM stand for?",
+   "options": [
+    "All-Time Money",
+    "Automatic Transfer Money",
+    "Automated Teller Machine",
+    "Account Teller Machine"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "It was at a Chemical Bank branch in Rockville Centre, on Long Island.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Automated_teller_machine",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-007",
+   "year": 1971,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Walt Disney World opened in October 1971 near which Florida city?",
+   "options": [
+    "Miami",
+    "Orlando",
+    "Tampa",
+    "Jacksonville"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Its first park was the Magic Kingdom, built on land many times larger than California's Disneyland.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Walt_Disney_World",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-008",
+   "year": 1972,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "The 1970s leisure suit was usually made from which wrinkle-free fabric?",
+   "options": [
+    "Cotton",
+    "Polyester",
+    "Wool",
+    "Denim"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "They often came in colors like powder blue, brown and pale green, with wide collars.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Leisure_suit",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-009",
+   "year": 1972,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Atari's 1972 arcade game 'Pong' was a simple video version of which sport?",
+   "options": [
+    "Football",
+    "Basketball",
+    "Table tennis",
+    "Bowling"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "It was one of the first video games to become a big hit.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pong",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-010",
+   "year": 1973,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In Tony Orlando and Dawn's 1973 hit, what was tied 'round the old oak tree?",
+   "options": [
+    "A red balloon",
+    "A yellow ribbon",
+    "A white flag",
+    "A love letter"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It was the year's top song in America. The ribbon was a sign that someone was welcome home.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Tie_a_Yellow_Ribbon_Round_the_Ole_Oak_Tree",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-011",
+   "year": 1974,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "In 1974, daredevil Evel Knievel tried to jump across which canyon on a rocket cycle?",
+   "options": [
+    "The Grand Canyon",
+    "Glen Canyon",
+    "Bryce Canyon",
+    "Snake River Canyon"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "His parachute opened too early, and he floated down safely into the canyon.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Evel_Knievel",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-012",
+   "year": 1965,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which British designer is often credited with making the miniskirt a fashion hit?",
+   "options": [
+    "Twiggy",
+    "Coco Chanel",
+    "Yves Saint Laurent",
+    "Mary Quant"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Her shop, Bazaar, was on the King's Road in London.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mary_Quant",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-013",
+   "year": 1965,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "In mid-1960s slang, what did it mean to be 'with it'?",
+   "options": [
+    "To be up to date and hip",
+    "To be present",
+    "To agree",
+    "To be rich"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Its opposite was being 'square.'",
+   "talk": null,
+   "source": "https://en.wiktionary.org/wiki/with_it",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-014",
+   "year": 1971,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "The 1970s saying 'Keep on truckin'' came from the cartoons of which artist?",
+   "options": [
+    "Robert Crumb",
+    "Charles Schulz",
+    "Al Capp",
+    "Garry Trudeau"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "His strutting cartoon men showed up on T-shirts, posters and belt buckles everywhere.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Keep_On_Truckin%27_(comics)",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-015",
+   "year": 1970,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Bell-bottom pants were all the rage in the early 1970s. Where did the style come from?",
+   "options": [
+    "Hollywood costumes",
+    "London mod shops",
+    "Navy sailors' uniforms",
+    "Cowboy chaps"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Sailors could roll the wide legs up easily when they scrubbed the decks.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Bell-bottoms",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-016",
+   "year": 1973,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "During the 1973–74 gas shortage, many states let you buy gas only on certain days, based on what?",
+   "options": [
+    "Your birthday",
+    "Your license plate number",
+    "Your last name",
+    "Your street address"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Plates ending in an odd number could fill up on odd-numbered days, and even numbers on even days.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/1973_oil_crisis",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-017",
+   "year": 1968,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which stackable potato chips, invented by Procter & Gamble in 1968, come in a tall round can?",
+   "options": [
+    "Fritos",
+    "Bugles",
+    "Funyuns",
+    "Pringles"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "Each chip is shaped like a saddle, so they stack neatly in the can without breaking.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Pringles",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-018",
+   "year": 1968,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "The Big Mac went on sale across the country in 1968. Who invented it?",
+   "options": [
+    "A franchise owner in Pennsylvania",
+    "Ray Kroc himself",
+    "The McDonald brothers",
+    "A New York chef"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Jim Delligatti created it at his restaurant near Pittsburgh in 1967.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Big_Mac",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-019",
+   "year": 1968,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "The peace sign seen at 1960s rallies was first designed in 1958 for a British campaign against what?",
+   "options": [
+    "Nuclear weapons",
+    "Smoking",
+    "Pollution",
+    "Taxes"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "Designer Gerald Holtom combined the flag-signal letters N and D, for 'nuclear disarmament.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Peace_symbols",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-020",
+   "year": 1969,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which guitarist was the last act to play at Woodstock, on the Monday morning in 1969?",
+   "options": [
+    "Jimi Hendrix",
+    "Carlos Santana",
+    "Pete Townshend",
+    "Jerry Garcia"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Rain delays pushed him to 8:30 a.m. By then the crowd had shrunk from about 450,000 to about 30,000.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Woodstock",
+   "origin": "trivia"
+  },
+  {
+   "id": "us65-life-021",
+   "year": 1966,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which 1966 party game had players twisting to put their hands and feet on colored dots?",
+   "options": [
+    "Hopscotch",
+    "Twister",
+    "Simon Says",
+    "Limbo"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Sales took off after Johnny Carson played it with Eva Gabor on 'The Tonight Show.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Twister_(game)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-022",
+   "year": 1968,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which tiny die-cast toy cars did Mattel launch in 1968?",
+   "options": [
+    "Hot Wheels",
+    "Matchbox",
+    "Tonka",
+    "Tootsietoys"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "They had low-friction wheels that made them much faster on their orange plastic tracks.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hot_Wheels",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-023",
+   "year": 1969,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which soft foam ball, sold from 1969, was advertised as safe to throw indoors?",
+   "options": [
+    "The Nerf ball",
+    "The Super Ball",
+    "The Koosh ball",
+    "The Wiffle ball"
+   ],
+   "answer": 0,
+   "gentleDistractor": 3,
+   "fact": "Ads said you could throw it in the house without breaking lamps or hurting babies.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Nerf",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-024",
+   "year": 1971,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which simple yellow design with a big grin became a huge fad around 1971?",
+   "options": [
+    "The smiley face",
+    "The peace sign",
+    "The happy flower",
+    "The rainbow"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "It turned up on buttons, T-shirts and coffee mugs, often with the words 'Have a nice day.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Smiley",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-025",
+   "year": 1965,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which sports drink was invented in 1965 for the University of Florida's football team?",
+   "options": [
+    "Powerade",
+    "Gatorade",
+    "Tang",
+    "Kool-Aid"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "It was named after the team, the Florida Gators.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Gatorade",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-026",
+   "year": 1971,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which egg-shaped toys of the 1970s 'wobble, but they don't fall down'?",
+   "options": [
+    "Fisher-Price Little People",
+    "Weebles",
+    "Kewpies",
+    "Tinkertoys"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Hasbro's Playskool brand made them, and the weight in the bottom always set them upright again.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Weebles",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-027",
+   "year": 1971,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "What kind of bed, filled with water, became a big fad in the early 1970s?",
+   "options": [
+    "A canopy bed",
+    "A waterbed",
+    "A trundle bed",
+    "A Murphy bed"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "A design student in San Francisco created the modern version in 1968.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Waterbed",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-028",
+   "year": 1965,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which groovy lamp, sold in America from 1965, had blobs of wax rising and falling?",
+   "options": [
+    "The black light",
+    "The bubble lamp",
+    "The disco ball",
+    "The lava lamp"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "Its British inventor, Edward Craven Walker, first called it the 'Astro Lamp.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lava_lamp",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-029",
+   "year": 1965,
+   "category": "americana",
+   "difficulty": "easy",
+   "question": "Which shiny white boots were the rage with miniskirts in the mid-1960s?",
+   "options": [
+    "Galoshes",
+    "Cowboy boots",
+    "Go-go boots",
+    "Moon boots"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "French designer André Courrèges helped make them famous in 1964.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Go-go_boot",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-030",
+   "year": 1969,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which hamburger chain did Dave Thomas start in 1969, naming it after his daughter?",
+   "options": [
+    "Wendy's",
+    "Arby's",
+    "Hardee's",
+    "Carl's Jr."
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "The first one opened in Columbus, Ohio, and served square hamburger patties.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Wendy%27s",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-031",
+   "year": 1971,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which slow-cooker brand became a kitchen hit after it came out in 1971?",
+   "options": [
+    "Presto",
+    "Instant Pot",
+    "Dutch Oven",
+    "Crock-Pot"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It began as a bean cooker called the Naxon Beanery before Rival bought it and renamed it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Slow_cooker",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-032",
+   "year": 1971,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which boxed mix, launched in 1971, turned a pound of ground beef into a whole meal?",
+   "options": [
+    "Rice-A-Roni",
+    "Stove Top",
+    "Hamburger Helper",
+    "Shake 'n Bake"
+   ],
+   "answer": 2,
+   "gentleDistractor": 0,
+   "fact": "Its mascot is a friendly white glove with a face, called the Helping Hand.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Hamburger_Helper",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-033",
+   "year": 1969,
+   "category": "americana",
+   "difficulty": "medium",
+   "question": "Which low-riding plastic tricycle, sold from 1969, let kids race around with a giant front wheel?",
+   "options": [
+    "The Hot Cycle",
+    "The Green Machine",
+    "The Sting-Ray",
+    "The Big Wheel"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "It was made by the Louis Marx toy company, and kids loved how loud it rumbled on the sidewalk.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Big_Wheel_(tricycle)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-034",
+   "year": 1971,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which coffee company opened its very first store at Seattle's Pike Place Market in 1971?",
+   "options": [
+    "Starbucks",
+    "Peet's",
+    "Folgers",
+    "Dunkin'"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It was named after the first mate in the novel 'Moby-Dick.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Starbucks",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-035",
+   "year": 1974,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which fantasy role-playing game, played with dice and imagination, was first published in 1974?",
+   "options": [
+    "Stratego",
+    "Clue",
+    "Risk",
+    "Dungeons & Dragons"
+   ],
+   "answer": 3,
+   "gentleDistractor": 2,
+   "fact": "Gary Gygax and Dave Arneson created it in Lake Geneva, Wisconsin.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-036",
+   "year": 1972,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which 1972 machine was the first video game system you could hook up to a home TV?",
+   "options": [
+    "The Intellivision",
+    "The Atari 2600",
+    "The Magnavox Odyssey",
+    "The ColecoVision"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It came with plastic overlays to stick on the TV screen to make game boards.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Magnavox_Odyssey",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-037",
+   "year": 1973,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In 1973, Martin Cooper of Motorola made the first public call on what?",
+   "options": [
+    "A cordless phone",
+    "A car phone",
+    "A picture phone",
+    "A handheld cell phone"
+   ],
+   "answer": 3,
+   "gentleDistractor": 0,
+   "fact": "He made the call on a New York City street, and the phone weighed about 2.5 pounds.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Martin_Cooper_(inventor)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-038",
+   "year": 1974,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "In 1974, the first item ever scanned by a barcode at a supermarket was a pack of what?",
+   "options": [
+    "Campbell's soup",
+    "Wrigley's gum",
+    "Kellogg's cereal",
+    "Tide detergent"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "It happened at a Marsh supermarket in Troy, Ohio. That pack of gum is now in the Smithsonian.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Universal_Product_Code",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-039",
+   "year": 1966,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which Chevrolet sports car was launched in 1966 to compete with Ford's Mustang?",
+   "options": [
+    "The Chevelle",
+    "The Corvair",
+    "The Camaro",
+    "The Monza"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "Asked what a Camaro was, Chevrolet joked that it was 'a small, vicious animal that eats Mustangs.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Chevrolet_Camaro_(first_generation)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-040",
+   "year": 1966,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which bank charge card, started in 1966, was later renamed MasterCard?",
+   "options": [
+    "Carte Blanche",
+    "Diners Club",
+    "Master Charge",
+    "Charge-It"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "A group of California banks created it to compete with BankAmericard.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Mastercard",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-041",
+   "year": 1972,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which women's magazine, co-founded by Gloria Steinem, put out its first regular issue in 1972?",
+   "options": [
+    "Cosmopolitan",
+    "Ms.",
+    "Glamour",
+    "Redbook"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Its name used the new title 'Ms.,' which didn't depend on whether a woman was married.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Ms._(magazine)",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-042",
+   "year": 1966,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which whipped topping in a plastic tub did Birds Eye introduce in 1966?",
+   "options": [
+    "Reddi-wip",
+    "Cool Whip",
+    "Dream Whip",
+    "Fluffy Top"
+   ],
+   "answer": 1,
+   "gentleDistractor": 0,
+   "fact": "Within two years it was the best-selling item in Birds Eye's frozen food line.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Cool_Whip",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-043",
+   "year": 1965,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which coating mix, launched in 1965, had families shaking chicken in a bag?",
+   "options": [
+    "Shake 'n Bake",
+    "Stove Top",
+    "Bisquick",
+    "Panko"
+   ],
+   "answer": 0,
+   "gentleDistractor": 1,
+   "fact": "The TV ads featured a child saying, 'And I helped!'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Shake_%27n_Bake",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-044",
+   "year": 1965,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which super-bouncy rubber ball did Wham-O release in 1965?",
+   "options": [
+    "The Super Ball",
+    "The Hacky Sack",
+    "The Nerf ball",
+    "The Moon Ball"
+   ],
+   "answer": 0,
+   "gentleDistractor": 2,
+   "fact": "It could bounce almost as high as the spot it was dropped from. The Super Bowl name was partly inspired by it.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Super_Ball",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-045",
+   "year": 1967,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which 1967 toy let children make glowing pictures by pushing colored pegs into a light box?",
+   "options": [
+    "Colorforms",
+    "Spirograph",
+    "Lite-Brite",
+    "Etch A Sketch"
+   ],
+   "answer": 2,
+   "gentleDistractor": 3,
+   "fact": "Its jingle sang about 'making things with light.'",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Lite-Brite",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-046",
+   "year": 1966,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which tortilla chip brand, first sold at Disneyland, went on sale nationwide in 1966?",
+   "options": [
+    "Bugles",
+    "Fritos",
+    "Tostitos",
+    "Doritos"
+   ],
+   "answer": 3,
+   "gentleDistractor": 1,
+   "fact": "The chips were first made at a Mexican restaurant called Casa de Fritos inside the park.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Doritos",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-047",
+   "year": 1971,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which Texas airline, famous for low fares and cheerful flight attendants, began flying in 1971?",
+   "options": [
+    "Continental",
+    "Braniff",
+    "Southwest Airlines",
+    "Texas International"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It started with just three planes flying between Dallas, Houston and San Antonio.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Southwest_Airlines",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-048",
+   "year": 1966,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which tape format, offered in Ford cars starting in 1966, played music in an endless loop?",
+   "options": [
+    "The reel-to-reel",
+    "The cassette",
+    "The 8-track",
+    "The microcassette"
+   ],
+   "answer": 2,
+   "gentleDistractor": 1,
+   "fact": "It was developed by Bill Lear, who also built the Learjet.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/8-track_cartridge",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-049",
+   "year": 1973,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which company began overnight package delivery by air in 1973, with 14 small jets?",
+   "options": [
+    "UPS",
+    "Federal Express",
+    "DHL",
+    "Airborne Express"
+   ],
+   "answer": 1,
+   "gentleDistractor": 2,
+   "fact": "Founder Fred Smith based the company in Memphis, Tennessee.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/FedEx_Express",
+   "origin": "new"
+  },
+  {
+   "id": "us65-life-050",
+   "year": 1966,
+   "category": "americana",
+   "difficulty": "hard",
+   "question": "Which holiday, running from December 26 to January 1, was first celebrated in 1966?",
+   "options": [
+    "Boxing Day",
+    "Kwanzaa",
+    "Hogmanay",
+    "Epiphany"
+   ],
+   "answer": 1,
+   "gentleDistractor": 3,
+   "fact": "Maulana Karenga created it to celebrate African American culture and family.",
+   "talk": null,
+   "source": "https://en.wikipedia.org/wiki/Kwanzaa",
+   "origin": "new"
+  }
+ ]
+}
