@@ -65,7 +65,7 @@ a{color:var(--gold-hi)}
 
 /* ---------- title ---------- */
 .title-wrap{min-height:100%;display:grid;place-items:center;align-content:center;gap:18px}
-.marquee{position:relative;width:min(880px,100%);padding:clamp(44px,7vw,84px) clamp(28px,6vw,72px);border-radius:30px;text-align:center;
+.marquee{position:relative;box-sizing:border-box;width:min(880px,100%);padding:clamp(44px,7vw,84px) clamp(28px,6vw,72px);border-radius:30px;text-align:center;
   background:radial-gradient(120% 80% at 50% 0%,var(--tile-hi),var(--tile) 45%,var(--tile-deep));
   box-shadow:0 0 0 6px var(--gold-deep),0 0 0 12px var(--bezel),0 30px 90px #000c}
 .bulbs{position:absolute;inset:0;pointer-events:none}
@@ -97,7 +97,7 @@ a{color:var(--gold-hi)}
 .team-in input{flex:1;min-width:0;background:transparent;border:0;border-bottom:2px solid var(--ghost-line);color:var(--text);font:700 21px var(--f-body);padding:14px 2px}
 
 /* ---------- board ---------- */
-.board-screen.on{display:grid;grid-template-rows:auto minmax(0,1fr) auto;gap:clamp(12px,2vh,20px);overflow:hidden}
+.board-screen.on{display:grid;grid-template-columns:minmax(0,1fr);grid-template-rows:auto minmax(0,1fr) auto;gap:clamp(12px,2vh,20px);overflow:hidden}
 .bar{display:flex;align-items:center;justify-content:space-between;gap:12px}
 .mini{display:flex;align-items:baseline;gap:10px;margin:0;min-width:0}
 .mini .script{font-size:clamp(24px,3vw,34px)}
@@ -127,9 +127,15 @@ a{color:var(--gold-hi)}
 .clue-top{display:flex;gap:18px;align-items:baseline;justify-content:center;flex-wrap:wrap;text-align:center;
   position:sticky;top:calc(-1 * clamp(16px,3vh,32px));z-index:2;align-self:stretch;margin-inline:-16px;padding:clamp(10px,1.6vh,16px) 16px;
   background:linear-gradient(var(--stage) 75%,#070b2e00)}
-.clue.revealed .ans{min-height:clamp(52px,6.5vh,64px);padding-block:8px;font-size:clamp(18px,2.1vw,25px)}
+.clue.revealed .ans{min-height:clamp(52px,6.5vh,64px);padding-block:8px;font-size:clamp(19px,2.1vw,25px)}
 .clue.revealed .ans .k{width:clamp(32px,3.4vw,42px);height:clamp(32px,3.4vw,42px)}
-.clue.revealed .q{margin:.4em 0 .5em}
+.clue.revealed .q{margin:.4em 0 .5em;font-size:clamp(25px,min(3vw,4.6vh),40px)}
+.clue.revealed .card{padding:clamp(18px,min(2.6vw,3.6vh),32px)}
+.clue.revealed .reveal > div{padding:12px 16px}
+/* with 3-4 teams, the points buttons stay on one row on tablets */
+.clue.revealed .award{width:100%}
+.clue.revealed .award .row{gap:10px}
+.clue.revealed .aw,.clue.revealed .award .btn-ghost{min-height:60px;padding:12px 18px;font-size:clamp(17px,1.7vw,20px)}
 .clue.revealed .reveal{margin-top:16px}
 .clue.revealed .card-meta{display:none}
 .clue.revealed .q{margin-top:0}
@@ -173,7 +179,9 @@ a{color:var(--gold-hi)}
 .award b{color:var(--gold);font-family:var(--f-display);font-weight:400}
 .aw{min-height:62px;padding:14px 26px;border:0;border-radius:999px;background:var(--c);color:var(--ink);font:700 clamp(18px,2vw,22px)/1 var(--f-body);box-shadow:0 4px 0 #0006}
 .aw:active{transform:translateY(3px);box-shadow:none}
+.award .btn-ghost{min-height:62px}
 .clue-foot{display:flex;gap:12px;flex-wrap:wrap;justify-content:center}
+#clueQ:focus,#award:focus{outline:none}
 
 /* ---------- zoom ghost + lucky star ---------- */
 .ghost{position:fixed;z-index:25;display:grid;place-items:center;border-radius:9px;color:var(--gold);font:400 clamp(20px,4.1vw,60px)/1 var(--f-display);text-shadow:0 3px 0 var(--gold-shadow);
@@ -213,7 +221,8 @@ body.toasting .mini{visibility:hidden}
 @media (max-width:640px){.toast{top:auto;bottom:calc(16px + env(safe-area-inset-bottom,0px));left:50%;transform:translateX(-50%);max-width:calc(100% - 32px)}}
 .toast-bar{position:absolute;left:22px;right:22px;bottom:5px;height:4px;border-radius:2px;background:var(--gold-deep);transform-origin:left;opacity:.8}
 .toast span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
-.toast button{flex:none;min-height:48px;padding:10px 22px;border:0;border-radius:999px;background:var(--ink);color:var(--card);font:700 18px var(--f-body)}
+.toast .ti{width:22px;height:22px;flex:none;color:var(--c)}
+.toast button{flex:none;min-height:52px;padding:10px 22px;border:0;border-radius:999px;background:var(--ink);color:var(--card);font:700 18px var(--f-body)}
 .ask{position:fixed;inset:0;z-index:35;display:grid;place-items:center;padding:16px;background:#03061ad9}
 .ask-card{width:min(560px,100%);box-sizing:border-box;padding:32px 28px;border-radius:22px;text-align:center;background:linear-gradient(180deg,var(--pod),var(--pod-deep));box-shadow:0 0 0 3px var(--gold-deep),0 30px 80px #000c}
 .ask-card h2{margin:0 0 8px;font:400 clamp(28px,4vw,40px)/1.1 var(--f-display);color:var(--gold)}
@@ -496,14 +505,14 @@ textarea.txt-in{min-height:84px;resize:vertical}
       <button class="read" id="readBtn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z" fill="currentColor"/><path d="M16.5 8.5a5 5 0 0 1 0 7M19 6a8.5 8.5 0 0 1 0 12"/></svg>Read aloud</button>
     </div>
     <img id="famPhoto" class="fam-photo-big" alt="" hidden>
-    <h2 class="q" id="clueQ"></h2>
+    <h2 class="q" id="clueQ" tabindex="-1"></h2>
     <div class="answers" id="answers"></div>
     <div class="reveal" id="reveal" hidden>
       <div class="fact" id="factBox"><span class="label">Did you know?</span><p id="fact"></p></div>
       <div class="talk"><span class="label">Let's talk</span><p id="talk"></p></div>
     </div>
   </article>
-  <div class="award" id="award" hidden>
+  <div class="award" id="award" hidden tabindex="-1">
     <p id="awardMsg"></p>
     <div class="row" id="awardRow"></div>
   </div>
@@ -520,7 +529,7 @@ textarea.txt-in{min-height:84px;resize:vertical}
   <p>This question is worth double points</p>
 </div>
 
-<div class="toast" id="toast" hidden role="status"><span id="toastMsg"></span><button id="undoBtn">Undo</button><i class="toast-bar" id="toastBar" aria-hidden="true"></i></div>
+<div class="toast" id="toast" hidden role="status"><span id="toastIc" aria-hidden="true"></span><span id="toastMsg"></span><button id="undoBtn">Undo</button><i class="toast-bar" id="toastBar" aria-hidden="true"></i></div>
 <div class="note" id="note" hidden role="status"></div>
 
 <div class="ask" id="endAsk" hidden role="dialog" aria-modal="true" aria-labelledby="endQ">
@@ -545,7 +554,7 @@ textarea.txt-in{min-height:84px;resize:vertical}
 
 <script>
 'use strict';
-const APP_VERSION='0.2.0';   // internal; shown only in Settings > About
+const APP_VERSION='0.3.0';   // internal; shown only in Settings > About
 const EDITION='us';          // 'us' now; a Canadian edition later reads data/ca/ (BUILD-SPEC 16)
 
 /* ---------- constants ---------- */
@@ -558,6 +567,7 @@ const COLORS=['var(--t1)','var(--t2)','var(--t3)','var(--t4)'];
 const DEFAULT_NAMES=['Bluebirds','Sweethearts','Jitterbugs','Hepcats'];
 const SFX_IDS=[['open','Tile opens'],['correct','Right answer'],['wrong','Not quite'],['lucky','Lucky Star'],['points','Points awarded'],['finale','Final scores']];
 const HOST_KEYS=['h_intro','h_turn0','h_turn1','h_turn2','h_turn3','h_family','h_final'];
+const VOICE_DECADES=[];      // decades whose recorded Heart question clips are on the server (filled in by the voice milestone); others use the device voice
 const FAM_PTS=500;
 const FAM_TALK=['Tell us the story behind that!','Who else remembers that? What do you remember most?','What happened next?'];
 
@@ -659,21 +669,26 @@ loadSettings();
 const state={
   era:'1940s',teams:['Bluebirds','Sweethearts'],choices:4,rows:4,secondChance:false,hostOn:true,
   board:[],colDec:[],used:{},lucky:'',turn:0,adjust:[],
-  famOn:true,famPts:[],famDone:false,famIdx:0,
+  famOn:true,famPts:[],famDone:false,famIdx:0,phase:'board',   // phase: 'board', then 'family' once the Family Round has started
   family:{name:'',qs:[{q:'',a:'',photo:''},{q:'',a:'',photo:''},{q:'',a:'',photo:''},{q:'',a:'',photo:''},{q:'',a:'',photo:''}]}
 };
 Object.defineProperty(state,'sound',{get:()=>settings.sound});
 Object.defineProperty(state,'volume',{get:()=>settings.volume});
 Object.defineProperty(state,'readMode',{get:()=>settings.readMode});
-let current=null, locked=false, stealUsed=false, readyAt=0, starting=false;
+let current=null, locked=false, stealUsed=false, offering=false, readyAt=0, starting=false, endTimer=null;
 const famQs=()=>state.family.qs.filter(x=>x.q.trim()&&x.a.trim());
 const familyReady=()=>state.famOn&&famQs().length>=3&&!state.famDone;
 const valueOf=(c,r)=>VALUES[r]*(`${c}-${r}`===state.lucky?2:1);
-function scores(){
-  const s=state.teams.map(()=>0);
+function earned(){   // points from board tiles and the Family Round, before adjustments
+  const s=state.teams.map((_,i)=>state.famPts[i]||0);
   for(const k in state.used){const t=state.used[k];if(t>=0&&t<s.length){const[c,r]=k.split('-').map(Number);s[t]+=valueOf(c,r);}}
-  return s.map((v,i)=>Math.max(0,v+(state.adjust[i]||0)+(state.famPts[i]||0)));
+  return s;
 }
+function scores(){return earned().map((v,i)=>Math.max(0,v+(state.adjust[i]||0)))}
+// Keep each adjustment from hiding a "debt" below 0 (for example after an Undo), so later points always count in full
+function settleAdjust(){const e=earned();state.adjust=state.teams.map((_,i)=>Math.max(state.adjust[i]||0,-e[i]))}
+const tilesLeft=()=>state.rows*6-Object.keys(state.used).length;
+const pickLucky=rows=>`${Math.floor(Math.random()*6)}-${1+Math.floor(Math.random()*(rows-1))}`;   // Lucky Star: one tile, never in the 100 row
 
 /* ---------- question data: decade loading ---------- */
 const DATA_CACHE={};  // decade -> {list, byId}
@@ -743,7 +758,8 @@ function buildBoard(rows,era){
 /* ---------- navigation ---------- */
 function go(name){
   document.querySelectorAll('.screen').forEach(s=>s.classList.toggle('on',s.id==='s-'+name));
-  if(name!=='board'){hideToast();$('endAsk').hidden=true;$('note').hidden=true}
+  stopVoice();clearTimeout(hostTimer);   // reading and any queued host line stop when the screen changes
+  if(name!=='board'){hideToast();clearTimeout(endTimer);$('endAsk').hidden=true;$('note').hidden=true}
   if(name==='title'){refreshContinue();placeBulbs()}
   if(name==='board'){renderBoard();renderPods(false)}
   if(name==='setup')syncSetup();
@@ -751,7 +767,6 @@ function go(name){
   if(name==='famintro'){const n=famQs().length;$('famTitleName').textContent=state.family.name?`The ${state.family.name}`:'Our';$('famSub').textContent=`${n} questions about the people we love. Each one is worth ${FAM_PTS} points.`;setTimeout(()=>placeBulbs('famMarquee','bulbs2'),30)}
   if(name==='finale'){renderFinal();fanfare();confetti(null,180);hostSay('h_final','What a game! Here are the final scores.',3300)}
   if(name==='settings')renderSettings();
-  if(name!=='board'&&name!=='famintro'&&name!=='finale')stopVoice();
   const sc=document.getElementById('s-'+name);if(sc)sc.scrollTop=0;
 }
 document.addEventListener('click',e=>{const b=e.target.closest('[data-go]');if(b){$('clue').hidden=true;go(b.dataset.go)}});
@@ -837,12 +852,12 @@ async function newGame(cfg){
     await Promise.all(decs.map(d=>loadDecade(d)));
     const b=buildBoard(cfg.rows,cfg.era);
     Object.assign(state,{era:cfg.era,teams:cfg.teams,rows:cfg.rows,choices:cfg.choices,secondChance:cfg.steal,hostOn:cfg.hostOn,famOn:cfg.famOn,
-      board:b.board,colDec:b.colDec,used:{},adjust:cfg.teams.map(()=>0),famPts:cfg.teams.map(()=>0),famDone:false,famIdx:0,turn:0,
-      lucky:`${Math.floor(Math.random()*6)}-${1+Math.floor(Math.random()*(cfg.rows-1))}`});   // Lucky Star: one tile, never in the 100 row
+      board:b.board,colDec:b.colDec,used:{},adjust:cfg.teams.map(()=>0),famPts:cfg.teams.map(()=>0),famDone:false,famIdx:0,phase:'board',turn:0,
+      lucky:pickLucky(cfg.rows)});
     lastScores=null;lastAward=null;adjOpen=-1;
     save();hideBusy();go('board');
     if(b.reused)showNote("We've started reusing some questions for this decade.");
-    hostSay('h_intro',"Welcome to Memory Lane Category Challenge! Today's categories are Music, Television, The Movies, Sports, Headlines, and Everyday Life. Let's play!",600);
+    hostSay('h_intro',"Welcome to Memory Lane Category Challenge! Today's categories are… Music. Television. The Movies. Sports. Headlines. And Everyday Life. Let's play!",600);
   }catch(e){
     hideBusy();
     notice("We couldn't load the questions","Please check your internet connection and try again.");
@@ -855,7 +870,7 @@ $('againBtn').addEventListener('click',()=>newGame(configFromGame()));
 function save(){
   try{localStorage.setItem(SAVE_KEY,JSON.stringify({v:1,edition:EDITION,era:state.era,colDec:state.colDec,ids:state.board.map(col=>col.map(q=>q.id)),
     teams:state.teams,used:state.used,rows:state.rows,lucky:state.lucky,turn:state.turn,adjust:state.adjust,choices:state.choices,
-    secondChance:state.secondChance,hostOn:state.hostOn,famOn:state.famOn,famPts:state.famPts,famDone:state.famDone,famIdx:state.famIdx}))}catch(e){}
+    secondChance:state.secondChance,hostOn:state.hostOn,famOn:state.famOn,famPts:state.famPts,famDone:state.famDone,famIdx:state.famIdx,phase:state.phase}))}catch(e){}
 }
 function clearSave(){try{localStorage.removeItem(SAVE_KEY)}catch(e){}}
 function loadSave(){
@@ -873,9 +888,12 @@ $('continueBtn').addEventListener('click',async()=>{
     await Promise.all([...new Set(g.colDec)].map(d=>loadDecade(d)));
     const board=g.ids.map((col,c)=>col.map(id=>{const q=DATA_CACHE[g.colDec[c]].byId[id];if(!q)throw new Error('missing '+id);return q}));
     Object.assign(state,{era:g.era,colDec:g.colDec,board,teams:g.teams,used:g.used||{},rows:g.rows,lucky:g.lucky,turn:g.turn||0,adjust:g.adjust||g.teams.map(()=>0),
-      choices:g.choices,secondChance:!!g.secondChance,hostOn:g.hostOn!==false,famOn:g.famOn!==false,famPts:g.famPts||g.teams.map(()=>0),famDone:!!g.famDone,famIdx:g.famIdx||0});
+      choices:g.choices,secondChance:!!g.secondChance,hostOn:g.hostOn!==false,famOn:g.famOn!==false,famPts:g.famPts||g.teams.map(()=>0),famDone:!!g.famDone,famIdx:g.famIdx||0,
+      phase:g.phase==='family'?'family':'board'});
     lastScores=null;lastAward=null;adjOpen=-1;hideBusy();
-    go(Object.keys(state.used).length>=state.rows*6?(familyReady()?'famintro':'finale'):'board');
+    // a finished board (or a Family Round already under way) goes on to the Family Round if it is ready, otherwise straight to Final Scores
+    if(state.phase==='family'||tilesLeft()<=0)go(familyReady()?'famintro':'finale');
+    else go('board');
   }catch(e){
     hideBusy();clearSave();refreshContinue();
     notice("We couldn't open that game","The saved game couldn't be loaded, so it has been cleared. You can start a new one.");
@@ -953,7 +971,7 @@ function nextTalk(cat){   // rotate through the category's prompts without repea
 function showClue(){
   const {c,r}=current,q=state.board[c][r],val=valueOf(c,r);
   current.q=q;
-  opening=false;awarding=false;locked=false;stealUsed=false;readyAt=performance.now()+600; // ignore taps for 0.6 s so a double tap on the tile can't pick an answer
+  opening=false;awarding=false;locked=false;stealUsed=false;offering=false;readyAt=performance.now()+600; // ignore taps for 0.6 s so a double tap on the tile can't pick an answer
   $('clueCat').textContent=CAT_NAMES[c];$('clueVal').textContent=val.toLocaleString('en-US');
   $('luckyTag').hidden=`${c}-${r}`!==state.lucky;
   $('clueYear').textContent=q.year;$('clueQ').textContent=q.question;
@@ -972,16 +990,16 @@ function showClue(){
   });
   const cl=$('clue');cl.classList.remove('closing','revealed');cl.hidden=false;cl.scrollTop=0;
   const card=cl.querySelector('.card');card.style.animation='none';card.offsetHeight;card.style.animation='';
-  box.querySelector('.ans').focus({preventScroll:true});
+  $('clueQ').focus({preventScroll:true});   // focus moves into the card, but not onto an answer, so Enter can't pick one by accident
   $('readBtn').hidden=state.readMode==='off';
-  if(state.readMode==='auto')setTimeout(()=>{if(!$('clue').hidden)speakQuestion()},500);
+  if(state.readMode==='auto')voiceLater(()=>{if(!$('clue').hidden)speakQuestion()},500);
 }
 /* Answer logic:
    right answer  -> teams: host picks which team scores | one team: points added automatically
    wrong answer  -> no points; fact + "Let's talk" still shown, then one "Back to the board" button
    second chance (setting, 2+ teams) -> after the first wrong answer another team may try once before the answer is shown */
 function finalize(chosen){
-  locked=true;const q=current.q;
+  locked=true;offering=false;const q=current.q;
   document.querySelectorAll('.ans').forEach(b=>{
     const oi=+b.dataset.i;b.disabled=true;
     if(oi===q.answer){b.classList.add('right');const t=document.createElement('span');t.className='tag';t.textContent=chosen===q.answer?'Correct!':'The answer';b.appendChild(t)}
@@ -989,7 +1007,7 @@ function finalize(chosen){
   });
 }
 function choose(i){
-  if(locked||performance.now()<readyAt)return;
+  if(locked||offering||performance.now()<readyAt)return;
   const q=current.q;
   if(i===q.answer){
     finalize(i);play('correct');
@@ -1003,25 +1021,36 @@ function choose(i){
   }
   finalize(i);afterAnswer(false);
 }
-function showAnswer(){if(!locked)finalize(-1);afterAnswer(false)}
+function showAnswer(){if(locked)return;finalize(-1);afterAnswer(false)}
 function setAward(msgParts,buttons){
   const p=$('awardMsg');p.textContent='';
   msgParts.forEach(([txt,bold])=>{const s=document.createElement(bold?'b':'span');s.textContent=txt;p.appendChild(s)});
   const row=$('awardRow');row.innerHTML='';buttons.forEach(b=>row.appendChild(b));
   $('award').classList.toggle('single',buttons.length===1);
-  $('award').hidden=false;
+  $('award').hidden=false;$('award').focus({preventScroll:true});   // Tab goes straight to the points buttons; Enter presses the gold one
   setTimeout(()=>$('award').scrollIntoView({behavior:reduced?'auto':'smooth',block:'end'}),reduced?0:450);
 }
 function mkBtn(cls,label,fn,color){const b=document.createElement('button');b.className=cls;b.textContent=label;if(color)b.style.setProperty('--c',color);b.addEventListener('click',fn);return b}
+// While the offer is showing, the other answers wait (disabled) until the host taps "Let another team try"
 function offerSecondChance(){
-  $('backBtn').hidden=true;
+  offering=true;
+  $('backBtn').hidden=true;$('showAns').hidden=true;$('easierBtn').hidden=true;
+  document.querySelectorAll('.ans').forEach(b=>{b.disabled=true});
   setAward([['Not quite! Would another team like to try?']],[
-    mkBtn('btn-gold','Let another team try',()=>{$('award').hidden=true;document.querySelector('.ans:not(:disabled)')?.focus()}),
+    mkBtn('btn-gold','Let another team try',letAnotherTry),
     mkBtn('btn-ghost','Show the answer',showAnswer)
   ]);
 }
+function letAnotherTry(){
+  if(!offering||locked)return;offering=false;
+  $('award').hidden=true;$('showAns').hidden=false;
+  document.querySelectorAll('.ans:not(.tried)').forEach(b=>{b.disabled=false});
+  $('easierBtn').hidden=!canMakeEasier();
+  readyAt=performance.now()+400;   // the tap that pressed the button can't also pick an answer
+  $('clueQ').focus({preventScroll:true});
+}
 function afterAnswer(correct){
-  $('easierBtn').hidden=true;
+  $('easierBtn').hidden=true;offering=false;
   $('clue').classList.add('revealed');
   $('reveal').hidden=false;$('showAns').hidden=true;$('backBtn').hidden=true;
   if(state.readMode==='auto')speakReveal();
@@ -1037,15 +1066,18 @@ function afterAnswer(correct){
     setAward([['No points this round. On to the next one!']],[mkBtn('btn-gold','Back to the board',()=>award(-1))]);
   }
 }
-/* Make it easier: keep the right answer plus one other, for this question only (same points) */
+/* Make it easier: keep the right answer plus one other (the clearest wrong one when it's still there), for this question only, same points.
+   An answer a team already tried is never removed; it stays dimmed. */
+const untriedWrong=()=>[...document.querySelectorAll('.ans')].filter(b=>+b.dataset.i!==current.q.answer&&!b.classList.contains('tried'));
+const canMakeEasier=()=>document.querySelectorAll('.ans').length>=3&&untriedWrong().length>=2;
 $('easierBtn').addEventListener('click',()=>{
-  if(locked)return;const q=current.q;
-  const btns=[...document.querySelectorAll('.ans')];
-  const keepWrong=btns.find(b=>+b.dataset.i!==q.answer&&!b.classList.contains('tried')&&!b.disabled);
-  btns.forEach(b=>{if(+b.dataset.i!==q.answer&&b!==keepWrong&&!b.classList.contains('tried'))b.remove()});
+  if(locked||offering||!current||!current.q)return;const q=current.q;
+  const wrong=untriedWrong();
+  const keep=wrong.find(b=>+b.dataset.i===q.gentleDistractor)||wrong[0];
+  wrong.forEach(b=>{if(b!==keep)b.remove()});
   [...document.querySelectorAll('.ans')].forEach((b,n)=>{b.querySelector('.k').textContent='ABCD'[n]});
-  $('easierBtn').hidden=true;readyAt=performance.now()+400;
-  document.querySelector('.ans:not(:disabled)')?.focus();
+  $('easierBtn').hidden=true;readyAt=performance.now()+400;   // the tap that pressed the button can't also pick an answer
+  $('clueQ').focus({preventScroll:true});
 });
 $('showAns').addEventListener('click',()=>current&&current.family!==undefined?famReveal():showAnswer());
 $('backBtn').addEventListener('click',closeClue);
@@ -1069,21 +1101,27 @@ function award(t){
   if(state.teams.length>1)state.turn=(state.turn+1)%state.teams.length;
   save();
   if(t>=0)play('points');
-  if(Object.keys(state.used).length<state.rows*6)hostTurn(1500);
+  if(tilesLeft()>0)hostTurn(1500);
   closeClue();renderBoard();renderPods(true);
   const val=valueOf(current.c,current.r).toLocaleString('en-US');
   $('toastMsg').textContent=t>=0?`${state.teams[t]} +${val}`:'No points this round';
+  const ic=$('toastIc');ic.innerHTML=t>=0?icon(t):'';ic.hidden=t<0;ic.style.setProperty('--c',t>=0?COLORS[t]:'');
   showToast();
-  if(Object.keys(state.used).length>=state.rows*6)setTimeout(()=>{hideToast();familyReady()?enterFamily():go('finale')},2500);
+  clearTimeout(endTimer);
+  if(tilesLeft()<=0)endTimer=setTimeout(()=>{hideToast();familyReady()?enterFamily():go('finale')},2500);   // the board is finished
 }
+/* Undo: reverses the last points decision only (tile unused again, points removed, turn restored) */
 $('undoBtn').addEventListener('click',()=>{
-  if(!lastAward)return;delete state.used[lastAward.key];state.turn=lastAward.turn;unmarkPlayed(lastAward.dec,lastAward.id);lastAward=null;save();
+  if(!lastAward)return;
+  clearTimeout(endTimer);clearTimeout(hostTimer);stopVoice();   // cancels the trip to Final Scores and the next turn call
+  delete state.used[lastAward.key];state.turn=lastAward.turn;unmarkPlayed(lastAward.dec,lastAward.id);lastAward=null;
+  settleAdjust();save();
   hideToast();renderBoard();renderPods(true);
 });
 $('endBtn').addEventListener('click',()=>{$('endFam').hidden=!familyReady();$('endAsk').hidden=false;($('endFam').hidden?$('endYes'):$('endFam')).focus()});
 $('endFam').addEventListener('click',()=>{$('endAsk').hidden=true;hideToast();enterFamily()});
 $('endNo').addEventListener('click',()=>{$('endAsk').hidden=true});
-$('endYes').addEventListener('click',()=>{$('endAsk').hidden=true;hideToast();go('finale')});
+$('endYes').addEventListener('click',()=>{$('endAsk').hidden=true;hideToast();state.famDone=true;go('finale')});
 function closeClue(){
   stopVoice();
   const cl=$('clue');cl.classList.add('closing');setTimeout(()=>{cl.hidden=true;cl.classList.remove('closing')},reduced?0:250);
@@ -1097,20 +1135,49 @@ addEventListener('keydown',e=>{
   if($('clue').hidden||!$('dlg').hidden||!$('endAsk').hidden||e.target.matches('input,textarea'))return;
   if(e.key==='Escape'){if(!$('backBtn').hidden)closeClue();return}
   if(/^[1-4]$/.test(e.key)){const b=document.querySelectorAll('.ans')[+e.key-1];if(b&&!b.disabled){e.preventDefault();b.click()}return}
-  if(e.key===' '&&!$('showAns').hidden){e.preventDefault();$('showAns').click();return}
+  if(e.key===' '){
+    if(!$('showAns').hidden){e.preventDefault();$('showAns').click()}
+    else if(offering){e.preventDefault();showAnswer()}
+    return;
+  }
   if(e.key==='Enter'&&!$('award').hidden){const g=$('awardRow').querySelector('.btn-gold');if(g){e.preventDefault();g.click()}}
 });
 
-/* ---------- read aloud (device voice for now; recorded Heart clips plug in here in the voice milestone) ---------- */
+/* ---------- read aloud: recorded Heart clips (BUILD-SPEC 9.2) where they exist, otherwise the device voice ---------- */
+// <id>_q = question, <id>_o4 = "Is it… A? B? C? Or D?", <id>_o2 = the two Gentle choices, <id>_r = "The answer is… X! {fact}"
+const clipUrl=(dec,id,part)=>`voice/${EDITION}/${dec}/${id}_${part}.m4a`;
+const QCLIP=new Map();   // url -> Promise<AudioBuffer|null>, loaded once
+function getClip(url){
+  if(!QCLIP.has(url))QCLIP.set(url,fetch(url).then(r=>r.ok?r.arrayBuffer():null).then(b=>b&&ac?decode(b):null).catch(()=>null));
+  return QCLIP.get(url);
+}
+// Plays the parts in order with a short pause between them. If a clip is missing (or not ready within 2 s), the rest is read by the device voice.
+async function speakParts(parts){
+  stopVoice();const my=voiceSeq,a=ctx();
+  for(let i=0;i<parts.length;i++){
+    const p=parts[i];let buf=null;
+    if(p.url&&a)buf=await Promise.race([getClip(p.url),new Promise(r=>setTimeout(()=>r(null),2000))]);
+    if(my!==voiceSeq)return;   // stopped (card closed, screen changed, or something newer started)
+    if(!buf){speakDevice(parts.slice(i).map(x=>x.text).join(' '));return}
+    await new Promise(res=>{const s=a.createBufferSource();s.buffer=buf;s.connect(master);s.onended=res;voiceSrc=s;s.start()});
+    if(my!==voiceSeq)return;
+    if(i<parts.length-1)await new Promise(r=>setTimeout(r,350));
+  }
+}
+function choicesLine(opts){return 'Is it… '+(opts.length>2?opts.slice(0,-1).map(o=>o+'?').join(' ')+' Or '+opts.at(-1)+'?':opts[0]+'? Or '+opts[1]+'?')}
 function speakQuestion(){
-  if(current.family!==undefined){stopVoice();speakDevice(famQs()[current.family].q);return}
-  const opts=[...document.querySelectorAll('.ans .txt')].map(t=>t.textContent);
-  const list=opts.length>2?opts.slice(0,-1).map(o=>o+'?').join(' ')+' Or '+opts.at(-1)+'?':opts[0]+'? Or '+opts[1]+'?';
-  stopVoice();speakDevice(`${current.q.question} Is it… ${list}`);
+  if(!current)return;
+  if(current.family!==undefined){stopVoice();speakDevice(famQs()[current.family].q);return}   // family questions are the family's own words: device voice
+  const q=current.q,shown=[...document.querySelectorAll('.ans')].map(b=>+b.dataset.i);
+  const text=choicesLine(shown.map(i=>q.options[i]));
+  const dec=state.colDec[current.c],rec=VOICE_DECADES.includes(dec);
+  const g=Number.isInteger(q.gentleDistractor)?[q.answer,q.gentleDistractor].sort((x,y)=>x-y).join():'';
+  const optPart=shown.length===q.options.length?'o4':shown.join()===g?'o2':null;   // a recorded choices clip only when it matches what's on screen
+  speakParts([{url:rec&&clipUrl(dec,q.id,'q'),text:q.question},{url:rec&&optPart&&clipUrl(dec,q.id,optPart),text}]);
 }
 function speakReveal(){
-  const q=current.q;stopVoice();
-  setTimeout(()=>speakDevice(`The answer is ${q.options[q.answer]}. ${q.fact}`),1200);
+  const q=current.q,dec=state.colDec[current.c];stopVoice();
+  voiceLater(()=>speakParts([{url:VOICE_DECADES.includes(dec)&&clipUrl(dec,q.id,'r'),text:`The answer is ${q.options[q.answer]}. ${q.fact}`}]),1200);
 }
 $('readBtn').addEventListener('click',speakQuestion);
 
@@ -1129,15 +1196,17 @@ function showFamilyQ(i){
   go('famintro');cl.hidden=false;cl.scrollTop=0;
   const card=cl.querySelector('.card');card.style.animation='none';card.offsetHeight;card.style.animation='';
   play('open');
-  if(state.readMode==='auto')setTimeout(()=>{if(!cl.hidden)speakDevice(item.q)},500);
+  $('clueQ').focus({preventScroll:true});
+  if(state.readMode==='auto')voiceLater(()=>{if(!cl.hidden)speakDevice(item.q)},500);
 }
 function famReveal(){
+  if(locked)return;
   const item=famQs()[current.family];locked=true;
   $('clue').classList.add('revealed');
   $('answers').innerHTML='<div class="fam-answer"><span class="k">&#9733;</span><span class="txt"></span></div>';
   $('answers').querySelector('.txt').textContent=item.a;
   $('reveal').hidden=false;$('showAns').hidden=true;
-  if(state.readMode==='auto')setTimeout(()=>speakDevice('The answer is '+item.a),300);
+  if(state.readMode==='auto')voiceLater(()=>speakDevice('The answer is '+item.a),300);
   const v=FAM_PTS;
   if(state.teams.length>1){
     setAward([['Who got it? '],[v,1],[' points']],[...state.teams.map((n,i)=>withIcon(mkBtn('aw',`${n} +${v}`,()=>famAward(i),COLORS[i]),i)),mkBtn('btn-ghost','No points this time',()=>famAward(-1))]);
@@ -1154,7 +1223,7 @@ function famAward(t){
     if(state.famIdx<famQs().length)showFamilyQ(state.famIdx);else finishFamily()},reduced?0:350);
 }
 function finishFamily(){state.famDone=true;save();$('clue').hidden=true;go('finale')}
-function enterFamily(){go('famintro');hostSay('h_family',"It's time for the Family Round!",500)}
+function enterFamily(){state.phase='family';save();go('famintro');hostSay('h_family',"It's time for the Family Round!",500)}
 
 /* ---------- Family questions editor (ships empty; everything stays on this device) ---------- */
 function famTitle(){const n=state.family.name.trim();return n?`The ${n} Family Round`:'Our Family Round'}
@@ -1190,7 +1259,8 @@ function renderFinal(){
   const s=scores(),top=Math.max(...s),order=state.teams.map((n,i)=>({n,i,s:s[i]})).sort((a,b)=>b.s-a.s);
   const ol=$('final');ol.innerHTML='';clearSave();
   const tied=order.filter(t=>t.s===top).length>1&&top>0;
-  if(state.teams.length===1){const n=Object.values(state.used).filter(t=>t===0).length;$('finalNote').textContent=`You remembered ${n} ${n===1?'thing':'things'} today!`}
+  // one team: count the board tiles they got, plus any Family Round answers
+  if(state.teams.length===1){const n=Object.values(state.used).filter(t=>t===0).length+Math.round((state.famPts[0]||0)/FAM_PTS);$('finalNote').textContent=`You remembered ${n} ${n===1?'thing':'things'} today!`}
   else $('finalNote').textContent=top===0?'Thanks for playing, everyone!':tied?"It's a tie at the top. What a match!":`Congratulations, ${order[0].n}!`;
   order.forEach(t=>{const li=document.createElement('li');li.style.setProperty('--c',COLORS[t.i]);
     if(t.s===top&&top>0)li.className='top';
@@ -1199,7 +1269,8 @@ function renderFinal(){
 }
 
 /* ---------- sound: six recorded CC0 effects (sfx/*.mp3), decoded once, played through one master volume ---------- */
-let ac=null,master=null;const BUF={},HBUF={};let voiceSrc=null,hostTimer=null;
+let ac=null,master=null;const BUF={},HBUF={};let voiceSrc=null,hostTimer=null,voiceTimer=null,voiceSeq=0;
+function voiceLater(fn,ms){clearTimeout(voiceTimer);voiceTimer=setTimeout(fn,ms)}   // delayed reading; cancelled by stopVoice()
 function decode(buf){return new Promise((res,rej)=>{const p=ac.decodeAudioData(buf,res,rej);if(p&&p.then)p.then(res,rej)})}
 async function loadClip(url,dst,key){
   try{const r=await fetch(url);if(!r.ok)return;dst[key]=await decode(await r.arrayBuffer())}catch(e){}   // if a clip can't load or decode, that sound is simply silent
@@ -1240,7 +1311,7 @@ function hostTurn(delay){
   if(n===DEFAULT_NAMES[i])hostSay('h_turn'+i,`${n}, it's your pick!`,delay);
   else if(state.hostOn){clearTimeout(hostTimer);hostTimer=setTimeout(()=>{if(!state.hostOn)return;stopVoice();speakDevice(`${n}, it's your pick!`)},delay)}
 }
-function stopVoice(){try{voiceSrc&&voiceSrc.stop()}catch(e){}voiceSrc=null;try{speechSynthesis.cancel()}catch(e){}}
+function stopVoice(){voiceSeq++;clearTimeout(voiceTimer);try{voiceSrc&&voiceSrc.stop()}catch(e){}voiceSrc=null;try{speechSynthesis.cancel()}catch(e){}}
 function bestDeviceVoice(){
   const vs=(window.speechSynthesis?.getVoices?.()||[]).filter(v=>/^en[-_]US/i.test(v.lang));
   return vs.find(v=>/premium|enhanced|natural|neural/i.test(v.name))||vs.find(v=>/siri|samantha|aria|jenny|google us/i.test(v.name))||vs[0]||null;
