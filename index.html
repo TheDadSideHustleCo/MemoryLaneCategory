@@ -468,13 +468,13 @@ textarea.txt-in{min-height:84px;resize:vertical}
       </div>
       <h3>Offline play</h3>
       <div class="field" id="offlineBox">
-        <p class="hint">The whole game, with Heart's voice, is kept on this device so you can play without the internet. If anything seems to be missing, download it again here.</p>
+        <p class="hint">The whole game, with its voice, is kept on this device so you can play without the internet. If anything seems to be missing, download it again here.</p>
         <div class="row" style="justify-content:flex-start"><button class="btn-ghost" id="dlBtn">Download everything again</button><button class="btn-ghost" id="dlAnyway" hidden>Download anyway</button></div>
         <div class="prog" id="dlProg" role="progressbar" aria-label="Download progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" hidden><i id="dlFill"></i></div>
         <p class="hint" id="dlStatus" role="status"></p>
       </div>
       <div class="field" id="singleNote" hidden>
-        <p class="hint">This single-file copy keeps every question and sound inside this one file, so it plays without the internet. It reads aloud with your device's own voice. For Heart's recorded voice, install the app from the link in your guide.</p>
+        <p class="hint">This single-file copy keeps every question and sound inside this one file, so it plays without the internet. It reads aloud with your device's own voice. For the game's recorded voice, install the app from the link in your guide.</p>
       </div>
       <h3>Played questions</h3>
       <div class="field">
@@ -571,7 +571,7 @@ textarea.txt-in{min-height:84px;resize:vertical}
     <h2 id="readyT" tabindex="-1">Getting your game ready&hellip;</h2>
     <div class="prog" id="readyProg" role="progressbar" aria-label="Getting your game ready" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i id="readyFill"></i></div>
     <p class="ready-pct" id="readyPct" aria-hidden="true">0%</p>
-    <p class="hint" id="readyMsg" role="status">The questions, Heart's voice and the sounds are being saved on this device, so you can play without the internet. It takes a few minutes on Wi-Fi. Please keep this screen open.</p>
+    <p class="hint" id="readyMsg" role="status">The questions, the game's voice and the sounds are being saved on this device, so you can play without the internet. It takes a few minutes on Wi-Fi. Please keep this screen open.</p>
     <div class="row"><button class="btn-gold" id="readyGo" hidden>Start playing</button><button class="btn-ghost" id="readyAnyway" hidden>Download anyway</button></div>
   </div>
 </div>
@@ -1489,7 +1489,7 @@ function offText(){
     case 'checking':case 'downloading':return `Getting your game ready… ${OFF.pct}%`;
     case 'paused':return `Paused at ${OFF.pct}%. It will carry on the next time the game is open and online.`;
     case 'wifi':return 'Waiting for Wi-Fi to finish getting your game ready.';
-    case 'full':return `This ${d} needs about ${OFF.needMB} MB free to keep the whole game for offline play. You can still play. Where Heart's recordings aren't saved, reading aloud uses this ${d}'s own voice.`;
+    case 'full':return `This ${d} needs about ${OFF.needMB} MB free to keep the whole game for offline play. You can still play. Until the game's voice is saved, reading aloud uses this ${d}'s own voice.`;
     case 'error':return "We couldn't finish getting the game ready. It will try again the next time the game is open, or you can use the button in Settings.";
     default:return offOn()||SINGLE?'':"Offline play isn't available in this browser.";
   }
@@ -1503,7 +1503,7 @@ function offRender(){
   $('ready').hidden=!showReady;$('app').inert=showReady;
   if(showReady){
     $('readyFill').style.width=OFF.pct+'%';$('readyProg').setAttribute('aria-valuenow',OFF.pct);$('readyPct').textContent=OFF.pct+'%';
-    $('readyMsg').textContent=st==='downloading'?(OFF.priorityDone?'Your first decade is ready. You can start playing now. The rest keeps getting ready in the background.':"The questions, Heart's voice and the sounds are being saved on this device, so you can play without the internet. It takes a few minutes on Wi-Fi. Please keep this screen open."):txt;
+    $('readyMsg').textContent=st==='downloading'?(OFF.priorityDone?'Your first decade is ready. You can start playing now. The rest keeps getting ready in the background.':"The questions, the game's voice and the sounds are being saved on this device, so you can play without the internet. It takes a few minutes on Wi-Fi. Please keep this screen open."):txt;
     $('readyGo').hidden=!(OFF.priorityDone||st==='paused'||st==='full'||st==='error'||st==='wifi'||st==='done');
     $('readyAnyway').hidden=st!=='wifi';
     if(!wasShown)$('readyT').focus({preventScroll:true});

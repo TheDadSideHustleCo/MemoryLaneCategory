@@ -12,7 +12,7 @@
  * APP_VERSION and BUILD are written by tools/build_offline.py (BUILD is a fingerprint of the shell files), so any change to the app changes this file.
  */
 const APP_VERSION = '0.5.0';
-const BUILD = 'efd2aff797';
+const BUILD = '4fc2986b07';
 const SHELL_CACHE = `mlcc-shell-${APP_VERSION}-${BUILD}`;
 const CONTENT_CACHE = 'mlcc-content-us';
 const MANIFEST_FILE = 'offline-manifest.json';
