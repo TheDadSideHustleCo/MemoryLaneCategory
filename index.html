@@ -278,6 +278,16 @@ textarea.txt-in{min-height:84px;resize:vertical}
 #volOut{color:var(--gold);margin-left:8px}
 .prog{height:14px;border-radius:7px;background:var(--pod-deep);box-shadow:inset 0 0 0 2px var(--ghost-line);overflow:hidden}
 .prog i{display:block;height:100%;width:0;background:linear-gradient(180deg,var(--gold-hi),var(--gold-deep));transition:width .3s}
+.dl-strip{margin:0;min-height:24px;font:700 16px/1.4 var(--f-body);color:var(--gold-hi);text-align:center}
+.upd{position:fixed;z-index:50;top:max(12px,env(safe-area-inset-top));left:max(16px,env(safe-area-inset-left));right:calc(max(14px,env(safe-area-inset-right)) + 70px);margin-inline:auto;width:max-content;max-width:calc(100% - 100px);box-sizing:border-box;min-height:56px;padding:12px 24px;border:0;border-radius:999px;background:linear-gradient(180deg,var(--gold-hi),var(--gold) 55%,var(--gold-deep));color:var(--ink);font:700 18px/1.25 var(--f-body);box-shadow:0 4px 0 var(--gold-shadow),0 10px 24px #0007}
+.ready{position:fixed;inset:0;z-index:58;display:grid;place-items:center;padding:16px;background:radial-gradient(ellipse 80% 60% at 50% -10%,var(--glow),transparent 70%),var(--stage);overflow:auto}
+.ready-card{width:min(620px,100%);box-sizing:border-box;display:grid;gap:18px;justify-items:center;padding:clamp(28px,5vw,48px) clamp(20px,4vw,40px);border-radius:26px;text-align:center;background:linear-gradient(180deg,var(--pod),var(--pod-deep));box-shadow:0 0 0 4px var(--gold-deep),0 0 0 10px var(--bezel),0 30px 80px #000c}
+.ready-card .script{font-size:clamp(36px,6vw,56px)}
+.ready-card h2{margin:0;font:400 clamp(28px,4.4vw,42px)/1.1 var(--f-display);color:var(--gold);text-wrap:balance}
+.ready-card h2:focus{outline:none}
+.ready-card .prog{width:100%}
+.ready-pct{margin:0;font:400 clamp(30px,5vw,44px)/1 var(--f-display);color:var(--text)}
+.ready-card .hint{text-align:center}
 .about{display:grid;gap:8px;padding:16px 18px;border-radius:14px;background:var(--pod)}
 .about p{margin:0;font-size:16px;line-height:1.5;color:var(--text-soft)}
 .about b{color:var(--text)}
@@ -310,6 +320,7 @@ textarea.txt-in{min-height:84px;resize:vertical}
       </div>
       <p class="maker">The Dad Side Hustle Co.</p>
       <p class="legal">&copy; The Dad Side Hustle Co. Licensed to the purchaser for personal use.</p>
+      <p class="dl-strip" id="dlStrip" role="status" hidden></p>
     </div>
   </section>
 
@@ -456,11 +467,14 @@ textarea.txt-in{min-height:84px;resize:vertical}
         </div>
       </div>
       <h3>Offline play</h3>
-      <div class="field">
-        <p class="hint">Download the questions for every decade onto this device, so you can play without the internet.</p>
-        <div class="row" style="justify-content:flex-start"><button class="btn-ghost" id="dlBtn">Download all decades for offline play</button></div>
+      <div class="field" id="offlineBox">
+        <p class="hint">The whole game, with Heart's voice, is kept on this device so you can play without the internet. If anything seems to be missing, download it again here.</p>
+        <div class="row" style="justify-content:flex-start"><button class="btn-ghost" id="dlBtn">Download everything again</button><button class="btn-ghost" id="dlAnyway" hidden>Download anyway</button></div>
         <div class="prog" id="dlProg" role="progressbar" aria-label="Download progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" hidden><i id="dlFill"></i></div>
         <p class="hint" id="dlStatus" role="status"></p>
+      </div>
+      <div class="field" id="singleNote" hidden>
+        <p class="hint">This single-file copy keeps every question and sound inside this one file, so it plays without the internet. It reads aloud with your device's own voice. For Heart's recorded voice, install the app from the link in your guide.</p>
       </div>
       <h3>Played questions</h3>
       <div class="field">
@@ -550,12 +564,29 @@ textarea.txt-in{min-height:84px;resize:vertical}
 
 <div class="busy" id="busy" hidden role="status" aria-live="polite"><span id="busyMsg">Getting your game ready&hellip;</span></div>
 
+<!-- first-open download: shown until the first decade is ready (BUILD-SPEC 4.2) -->
+<div class="ready" id="ready" hidden role="dialog" aria-modal="true" aria-labelledby="readyT">
+  <div class="ready-card">
+    <p class="script">Memory Lane</p>
+    <h2 id="readyT" tabindex="-1">Getting your game ready&hellip;</h2>
+    <div class="prog" id="readyProg" role="progressbar" aria-label="Getting your game ready" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i id="readyFill"></i></div>
+    <p class="ready-pct" id="readyPct" aria-hidden="true">0%</p>
+    <p class="hint" id="readyMsg" role="status">The questions, Heart's voice and the sounds are being saved on this device, so you can play without the internet. It takes a few minutes on Wi-Fi. Please keep this screen open.</p>
+    <div class="row"><button class="btn-gold" id="readyGo" hidden>Start playing</button><button class="btn-ghost" id="readyAnyway" hidden>Download anyway</button></div>
+  </div>
+</div>
+
+<button class="upd" id="updBar" hidden>A new version is ready. Tap to update.</button>
+
 <canvas id="fx" aria-hidden="true"></canvas>
 
 <script>
 'use strict';
-const APP_VERSION='0.3.0';   // internal; shown only in Settings > About
+const APP_VERSION='0.5.0';   // internal; shown only in Settings > About
 const EDITION='us';          // 'us' now; a Canadian edition later reads data/ca/ (BUILD-SPEC 16)
+// The single-file computer backup (tools/build_single.py) puts window.MLCC_SINGLE and window.EMBED (path -> data: URL) in front of this script.
+const SINGLE=!!window.MLCC_SINGLE;
+const asset=u=>(window.EMBED&&window.EMBED[u])||u;
 
 /* ---------- constants ---------- */
 const DECADES=['1930s','1940s','1950s','1960s'];
@@ -567,7 +598,7 @@ const COLORS=['var(--t1)','var(--t2)','var(--t3)','var(--t4)'];
 const DEFAULT_NAMES=['Bluebirds','Sweethearts','Jitterbugs','Hepcats'];
 const SFX_IDS=[['open','Tile opens'],['correct','Right answer'],['wrong','Not quite'],['lucky','Lucky Star'],['points','Points awarded'],['finale','Final scores']];
 const HOST_KEYS=['h_intro','h_turn0','h_turn1','h_turn2','h_turn3','h_family','h_final'];
-const VOICE_DECADES=[];      // decades whose recorded Heart question clips are on the server (filled in by the voice milestone); others use the device voice
+const VOICE_DECADES=SINGLE?[]:DECADES.slice();   // decades with recorded Heart clips; the single-file copy has none and always uses the device voice
 const FAM_PTS=500;
 const FAM_TALK=['Tell us the story behind that!','Who else remembers that? What do you remember most?','What happened next?'];
 
@@ -641,7 +672,7 @@ const settings={
   sfxOn:{open:true,correct:true,wrong:true,lucky:true,points:true,finale:true},
   readMode:'tap',
   setup:{era:'1940s',teams:2,names:['','','',''],rows:4,choices:4,steal:false,hostOn:true,famOn:true},
-  dlDone:false
+  dlVer:''   // content version of the last complete offline download
 };
 function loadSettings(){
   try{
@@ -650,7 +681,7 @@ function loadSettings(){
     if(typeof s.sound==='boolean')settings.sound=s.sound;
     if(s.sfxOn)for(const k in settings.sfxOn)if(typeof s.sfxOn[k]==='boolean')settings.sfxOn[k]=s.sfxOn[k];
     if(['off','tap','auto'].includes(s.readMode))settings.readMode=s.readMode;
-    if(typeof s.dlDone==='boolean')settings.dlDone=s.dlDone;
+    if(typeof s.dlVer==='string')settings.dlVer=s.dlVer.slice(0,40);
     const u=s.setup;
     if(u&&typeof u==='object'){
       if(['mixed',...DECADES].includes(u.era))settings.setup.era=u.era;
@@ -694,7 +725,7 @@ const pickLucky=rows=>`${Math.floor(Math.random()*6)}-${1+Math.floor(Math.random
 const DATA_CACHE={};  // decade -> {list, byId}
 async function loadDecade(dec,force){
   if(DATA_CACHE[dec]&&!force)return DATA_CACHE[dec];
-  const r=await fetch(`data/${EDITION}/decade-${dec}.json`,force?{cache:'reload'}:undefined);
+  const r=await fetch(asset(`data/${EDITION}/decade-${dec}.json`),force?{cache:'reload'}:undefined);
   if(!r.ok)throw new Error('HTTP '+r.status);
   const j=await r.json();
   const list=(j&&j.questions)||[];
@@ -759,6 +790,7 @@ function buildBoard(rows,era){
 function go(name){
   document.querySelectorAll('.screen').forEach(s=>s.classList.toggle('on',s.id==='s-'+name));
   stopVoice();clearTimeout(hostTimer);   // reading and any queued host line stop when the screen changes
+  offScreen(name);
   if(name!=='board'){hideToast();clearTimeout(endTimer);$('endAsk').hidden=true;$('note').hidden=true}
   if(name==='title'){refreshContinue();placeBulbs()}
   if(name==='board'){renderBoard();renderPods(false)}
@@ -1273,14 +1305,14 @@ let ac=null,master=null;const BUF={},HBUF={};let voiceSrc=null,hostTimer=null,vo
 function voiceLater(fn,ms){clearTimeout(voiceTimer);voiceTimer=setTimeout(fn,ms)}   // delayed reading; cancelled by stopVoice()
 function decode(buf){return new Promise((res,rej)=>{const p=ac.decodeAudioData(buf,res,rej);if(p&&p.then)p.then(res,rej)})}
 async function loadClip(url,dst,key){
-  try{const r=await fetch(url);if(!r.ok)return;dst[key]=await decode(await r.arrayBuffer())}catch(e){}   // if a clip can't load or decode, that sound is simply silent
+  try{const r=await fetch(asset(url));if(!r.ok)return;dst[key]=await decode(await r.arrayBuffer())}catch(e){}   // if a clip can't load or decode, that sound is simply silent
 }
 function ctx(){
   if(!ac){
     try{
       ac=new(window.AudioContext||window.webkitAudioContext)();master=ac.createGain();master.gain.value=settings.volume;master.connect(ac.destination);
       SFX_IDS.forEach(([id])=>loadClip(`sfx/${id}.mp3`,BUF,id));
-      HOST_KEYS.forEach(k=>loadClip(`voice/${EDITION}/host/${k}.mp3`,HBUF,k));
+      if(!SINGLE)HOST_KEYS.forEach(k=>loadClip(`voice/${EDITION}/host/${k}.m4a`,HBUF,k));
     }catch(e){ac=null}
   }
   if(ac&&ac.state==='suspended')ac.resume();return ac;
@@ -1299,7 +1331,7 @@ function hostSay(key,fallback,delay=0){
   const go=()=>{
     if(!state.hostOn)return;
     const a=ctx();
-    if(a&&!HBUF[key]&&tries++<8){hostTimer=setTimeout(go,250);return}   // still loading: wait up to 2 s
+    if(a&&!SINGLE&&!HBUF[key]&&tries++<8){hostTimer=setTimeout(go,250);return}   // still loading: wait up to 2 s
     stopVoice();
     if(a&&HBUF[key]){const s=a.createBufferSource();s.buffer=HBUF[key];s.connect(master);s.start();voiceSrc=s}
     else if(fallback)speakDevice(fallback);
@@ -1340,7 +1372,8 @@ function renderSettings(){
     box.appendChild(row);
   });
   $('aboutVer').textContent=APP_VERSION;
-  $('dlStatus').textContent=settings.dlDone?'Questions for all four decades have been downloaded to this device.':'';
+  $('offlineBox').hidden=SINGLE;$('singleNote').hidden=!SINGLE;
+  offRender();
   $('histStatus').textContent='';
 }
 $('vol').addEventListener('input',e=>{settings.volume=e.target.value/100;if(master)master.gain.value=settings.volume;$('volOut').textContent=e.target.value+'%';saveSettings()});
@@ -1350,18 +1383,176 @@ function setMaster(on,quiet){
 }
 $('soundBtn').addEventListener('click',()=>setMaster(!settings.sound));
 $('masterSw').addEventListener('click',()=>setMaster(!settings.sound));
-$('dlBtn').addEventListener('click',async()=>{
-  const btn=$('dlBtn'),prog=$('dlProg'),fill=$('dlFill'),st=$('dlStatus');
-  btn.disabled=true;prog.hidden=false;fill.style.width='0%';st.textContent='Downloading… 0%';
-  try{
-    for(let i=0;i<DECADES.length;i++){
-      await loadDecade(DECADES[i],true);
-      const pct=Math.round((i+1)/DECADES.length*100);fill.style.width=pct+'%';prog.setAttribute('aria-valuenow',pct);st.textContent=`Downloading… ${pct}%`;
+/* ---------- offline play (BUILD-SPEC 4.2): service worker, first-open download with resume, update notice ---------- */
+// sw.js keeps the app itself (page, fonts, sounds, icons). The code below keeps the questions and Heart's voice clips in the Cache API.
+// What to fetch is listed in offline-manifest.json (made by tools/build_offline.py). A small index stored in the same cache records which
+// version of each file is saved, so an interrupted download carries on where it stopped and a changed file is fetched again.
+const CONTENT_CACHE='mlcc-content-'+EDITION, INDEX_KEY='mlcc-index.json', MANIFEST_URL='offline-manifest.json';
+const OFF={state:'idle',pct:0,total:0,needMB:150,priorityDone:false,firstOpen:false,dismissed:false,running:false,wifiOK:false,screen:'title',waiting:null,reloading:false};
+const offOn=()=>!SINGLE&&!window.__MLCC_NO_OFFLINE&&location.protocol!=='file:'&&'serviceWorker' in navigator&&'caches' in window;
+const sleep=ms=>new Promise(r=>setTimeout(r,ms));
+const deviceName=()=>/iPad/.test(navigator.userAgent)||(navigator.platform==='MacIntel'&&navigator.maxTouchPoints>1)?'iPad':/iPhone/.test(navigator.userAgent)?'iPhone':'device';
+const priDec=()=>DECADES.includes(settings.setup.era)?settings.setup.era:'1940s';   // the decade that finishes first, so play can start while the rest downloads
+
+async function offManifest(){
+  const r=await fetch(MANIFEST_URL);
+  if(!r.ok)throw new Error('manifest '+r.status);
+  const m=await r.json();
+  if(!m||typeof m.v!=='string'||!Array.isArray(m.files)||!m.files.length)throw new Error('bad manifest');
+  return m;
+}
+async function offIndex(cache){try{const r=await cache.match(INDEX_KEY);return r?await r.json():{}}catch(e){return{}}}
+async function offSaveIndex(cache,idx){try{await cache.put(INDEX_KEY,new Response(JSON.stringify(idx),{headers:{'Content-Type':'application/json'}}))}catch(e){}}
+
+// One file: fetched fresh from the network (never from an older saved copy), checked against its expected size, then saved.
+async function offGet(cache,it,idx){
+  let err=null;
+  for(let a=0;a<3;a++){
+    try{
+      const r=await fetch(it.url,{cache:'reload'});
+      if(!r.ok)throw new Error('HTTP '+r.status);
+      const b=await r.blob();
+      if(b.size!==it.s)throw new Error('Wrong size for '+it.p);
+      const ct=r.headers.get('Content-Type');
+      await cache.put(it.url,new Response(b,ct?{headers:{'Content-Type':ct}}:undefined));
+      idx[it.p]=it.h;return;
+    }catch(e){
+      if(e&&(e.name==='QuotaExceededError'||e.code===22))throw Object.assign(new Error('quota'),{quota:true});
+      err=e;if(!navigator.onLine)break;
+      await sleep(400*(a+1));
     }
-    settings.dlDone=true;saveSettings();st.textContent='Questions for all four decades have been downloaded to this device.';
-  }catch(e){st.textContent="We couldn't finish. Please check your internet connection and try again."}
-  btn.disabled=false;
+  }
+  if(err instanceof TypeError||!navigator.onLine)err.network=true;
+  throw err;
+}
+
+async function offRun(force){
+  if(OFF.running||!offOn())return;
+  OFF.running=true;
+  try{
+    offSet('checking');
+    const man=await offManifest();
+    const cache=await caches.open(CONTENT_CACHE);
+    const idx=await offIndex(cache);
+    const have=new Set((await cache.keys()).map(r=>r.url));
+    const pri=priDec();
+    const rank=p=>{const d=(p.match(/^voice\/[^/]+\/(\d{4}s)\//)||[])[1];return p.startsWith('data/')?0:/\/host\//.test(p)?1:d===pri?2:3+DECADES.indexOf(d)};
+    const items=man.files.map(([p,s,h])=>({p,s,h,url:new URL(p,document.baseURI).href,r:rank(p)})).sort((a,b)=>a.r-b.r||(a.p<b.p?-1:1));
+    const total=items.reduce((n,it)=>n+it.s,0);
+    const todo=items.filter(it=>force||!(have.has(it.url)&&idx[it.p]===it.h));
+    const need=todo.reduce((n,it)=>n+it.s,0);
+    let done=total-need,priLeft=todo.filter(it=>it.r<=2).length;
+    OFF.total=total;OFF.needMB=Math.max(50,Math.ceil(total*1.35/50e6)*50);   // the real size plus room to spare (about 110 MB becomes "about 150 MB")
+    OFF.priorityDone=priLeft===0;OFF.firstOpen=!force&&priLeft>0&&!OFF.dismissed;
+    const setPct=()=>{OFF.pct=total?Math.min(100,Math.floor(done/total*100)):100;offRender()};
+    if(!todo.length){await offFinish(cache,man,items,idx);return}
+    const net=navigator.connection;
+    if(!force&&!OFF.wifiOK&&net&&(net.type==='cellular'||net.saveData)){setPct();offSet('wifi');return}
+    if(!force){   // not enough room on the device: say so before starting
+      const est=navigator.storage&&navigator.storage.estimate?await navigator.storage.estimate().catch(()=>null):null;
+      if(est&&est.quota&&est.quota-est.usage<need)throw Object.assign(new Error('quota'),{quota:true});
+    }
+    try{navigator.storage&&navigator.storage.persist&&navigator.storage.persist()}catch(e){}
+    offSet('downloading');setPct();
+    let next=0,fail=null,sinceSave=0;
+    const worker=async()=>{
+      while(!fail){
+        const it=todo[next++];if(!it)return;
+        try{await offGet(cache,it,idx)}catch(e){fail=fail||e;return}
+        done+=it.s;
+        if(it.r<=2&&--priLeft===0){OFF.priorityDone=true;await offSaveIndex(cache,idx)}
+        else if(++sinceSave>=100){sinceSave=0;await offSaveIndex(cache,idx)}
+        setPct();
+      }
+    };
+    await Promise.all(Array.from({length:8},worker));
+    await offSaveIndex(cache,idx);
+    if(fail)throw fail;
+    await offFinish(cache,man,items,idx);
+  }catch(e){
+    offSet(e&&e.quota?'full':e&&e.network?'paused':'error');
+  }finally{OFF.running=false;offRender()}
+}
+async function offFinish(cache,man,items,idx){
+  const keep=new Set(items.map(i=>i.url)),paths=new Set(items.map(i=>i.p));
+  for(const r of await cache.keys())if(!keep.has(r.url)&&!r.url.endsWith('/'+INDEX_KEY))await cache.delete(r);   // files that are no longer part of the game
+  for(const p of Object.keys(idx))if(!paths.has(p))delete idx[p];
+  await offSaveIndex(cache,idx);
+  settings.dlVer=man.v;saveSettings();OFF.pct=100;OFF.priorityDone=true;offSet('done');
+}
+function offSet(s){OFF.state=s;offRender()}
+
+function offText(){
+  const d=deviceName();
+  switch(OFF.state){
+    case 'done':return 'All set for offline play ✓';
+    case 'checking':case 'downloading':return `Getting your game ready… ${OFF.pct}%`;
+    case 'paused':return `Paused at ${OFF.pct}%. It will carry on the next time the game is open and online.`;
+    case 'wifi':return 'Waiting for Wi-Fi to finish getting your game ready.';
+    case 'full':return `This ${d} needs about ${OFF.needMB} MB free to keep the whole game for offline play. You can still play. Where Heart's recordings aren't saved, reading aloud uses this ${d}'s own voice.`;
+    case 'error':return "We couldn't finish getting the game ready. It will try again the next time the game is open, or you can use the button in Settings.";
+    default:return offOn()||SINGLE?'':"Offline play isn't available in this browser.";
+  }
+}
+let stripPct=-1;
+function offRender(){
+  const st=OFF.state,txt=offText(),active=st==='downloading'||st==='checking';
+  // first-open screen: stays until the person taps Start playing
+  const showReady=OFF.firstOpen&&!OFF.dismissed&&st!=='idle'&&st!=='checking';
+  const wasShown=!$('ready').hidden;
+  $('ready').hidden=!showReady;$('app').inert=showReady;
+  if(showReady){
+    $('readyFill').style.width=OFF.pct+'%';$('readyProg').setAttribute('aria-valuenow',OFF.pct);$('readyPct').textContent=OFF.pct+'%';
+    $('readyMsg').textContent=st==='downloading'?(OFF.priorityDone?'Your first decade is ready. You can start playing now. The rest keeps getting ready in the background.':"The questions, Heart's voice and the sounds are being saved on this device, so you can play without the internet. It takes a few minutes on Wi-Fi. Please keep this screen open."):txt;
+    $('readyGo').hidden=!(OFF.priorityDone||st==='paused'||st==='full'||st==='error'||st==='wifi'||st==='done');
+    $('readyAnyway').hidden=st!=='wifi';
+    if(!wasShown)$('readyT').focus({preventScroll:true});
+  }else if(wasShown&&OFF.dismissed){const g=document.querySelector('#s-title .btn-gold.big');if(g&&OFF.screen==='title')g.focus({preventScroll:true})}
+  // the line on the title screen (updated in 5% steps so a screen reader isn't chattering)
+  const strip=$('dlStrip'),show=!showReady&&(st==='downloading'||st==='paused'||st==='wifi'||st==='full'||st==='error');
+  strip.hidden=!show;
+  if(show){const p5=Math.floor(OFF.pct/5)*5;if(st!=='downloading'||p5!==stripPct){stripPct=p5;strip.textContent=st==='downloading'?`Getting your game ready… ${p5}%`:txt}}
+  // Settings
+  $('dlStatus').textContent=txt;
+  $('dlProg').hidden=!active;$('dlFill').style.width=OFF.pct+'%';$('dlProg').setAttribute('aria-valuenow',OFF.pct);
+  $('dlBtn').disabled=OFF.running||!offOn();
+  $('dlAnyway').hidden=st!=='wifi';
+}
+function offAnyway(){OFF.wifiOK=true;offRun(false)}
+$('dlAnyway').addEventListener('click',offAnyway);
+$('readyAnyway').addEventListener('click',offAnyway);
+$('readyGo').addEventListener('click',()=>{OFF.dismissed=true;offRender()});
+$('dlBtn').addEventListener('click',()=>{
+  const mb=OFF.total?Math.round(OFF.total/1e6):110;
+  askDialog('Download everything again?',`This saves the whole game on this device again (about ${mb} MB). Wi-Fi is best.`,[
+    ['Yes, download','btn-gold',()=>{OFF.wifiOK=true;offRun(true)}],
+    ['Not now','btn-ghost']
+  ]);
 });
+
+// New version: the update waits until the person taps. It is only offered away from the game, and the page never reloads by itself.
+const UPD_SCREENS=['title','setup','settings','family'];
+function offScreen(name){OFF.screen=name;updBarRender()}
+function updBarRender(){$('updBar').hidden=!(OFF.waiting&&UPD_SCREENS.includes(OFF.screen))}
+$('updBar').addEventListener('click',()=>{
+  const w=OFF.waiting;if(!w)return;
+  OFF.reloading=true;
+  try{w.postMessage({type:'SKIP_WAITING'})}catch(e){}
+  setTimeout(()=>location.reload(),4000);   // safety net if the switch-over event never arrives
+});
+function offStart(){
+  if(!offOn()){offRender();return}
+  navigator.serviceWorker.addEventListener('controllerchange',()=>{if(OFF.reloading)location.reload()});
+  navigator.serviceWorker.register('sw.js',{updateViaCache:'none'}).then(reg=>{
+    const ready=w=>{if(navigator.serviceWorker.controller){OFF.waiting=w;updBarRender()}};   // no controller yet means this is the very first install, not an update
+    if(reg.waiting)ready(reg.waiting);
+    reg.addEventListener('updatefound',()=>{const w=reg.installing;if(w)w.addEventListener('statechange',()=>{if(w.state==='installed')ready(w)})});
+    const check=()=>reg.update().catch(()=>{});
+    check();addEventListener('visibilitychange',()=>{if(!document.hidden)check()});
+  }).catch(()=>{});
+  addEventListener('online',()=>{if(OFF.state==='paused'||OFF.state==='error')offRun(false)});
+  offRun(false);
+}
 $('clearHist').addEventListener('click',()=>{
   askDialog('Clear played-question history?','New boards will start using every question again, including ones you have already played.',[
     ['Yes, clear it','btn-gold',()=>{clearAllPlayed();$('histStatus').textContent='Done. Every question is fresh again.'}],
@@ -1390,6 +1581,7 @@ addEventListener('pointerdown',()=>ctx(),{once:true});
 addEventListener('keydown',()=>ctx(),{once:true});
 setMaster(settings.sound,true);
 go('title');
+offStart();
 document.fonts?.ready?.then(()=>{if($('s-title').classList.contains('on'))placeBulbs()});
 </script>
 </body>
