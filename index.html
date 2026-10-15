@@ -91,6 +91,7 @@ a{color:var(--gold-hi)}
 .chip{min-height:60px;padding:12px 22px;border-radius:999px;border:2px solid var(--ghost-line);background:transparent;color:var(--text);font:700 clamp(17px,2vw,20px)/1 var(--f-body)}
 .chip[aria-checked="true"]{background:var(--gold);border-color:var(--gold);color:var(--ink)}
 .hint{margin:0;color:var(--text-soft);font-size:16px;line-height:1.45;max-width:60ch}
+.hint b{color:var(--gold-hi)}
 .teams{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:12px}
 .team-in{display:flex;align-items:center;gap:12px;background:var(--pod);border-radius:14px;padding:10px 14px;border-top:5px solid var(--c)}
 .team-in .sw{flex:none;width:26px;height:26px;border-radius:50%;background:var(--c)}
@@ -111,7 +112,7 @@ a{color:var(--gold-hi)}
   background:radial-gradient(120% 90% at 50% 0%,var(--tile-hi) 0%,var(--tile) 45%,var(--tile-deep) 100%);
   box-shadow:inset 0 2px 0 #ffffff26,inset 0 -3px 0 #00000059;
   font:400 clamp(20px,4.1vw,60px)/1 var(--f-display);text-shadow:0 3px 0 var(--gold-shadow),0 0 18px #f6c64a55;transition:transform .15s,filter .15s}
-.tile:not(.used):hover{transform:translateY(-2px);filter:brightness(1.14)}
+.tile:not(.used):hover{transform:scale(1.03);filter:brightness(1.14)}   /* grows in place: a lift moved the tile off a pointer resting on its edge, so it flickered */
 .tile.used{background:var(--tile-used);box-shadow:inset 0 0 0 1px #ffffff12;cursor:default}
 .podiums{display:flex;gap:clamp(8px,1.6vw,20px);justify-content:center}
 .pod{flex:1 1 0;min-width:0;max-width:300px;text-align:center;padding:8px 12px 10px;border-radius:14px 14px 6px 6px;border-top:6px solid var(--c);background:linear-gradient(180deg,var(--pod),var(--pod-deep));box-shadow:0 10px 24px #0008}
@@ -158,7 +159,7 @@ a{color:var(--gold-hi)}
 .q{font:700 clamp(24px,min(3.5vw,5.4vh),46px)/1.25 var(--f-body);margin:.5em 0 .6em;text-wrap:wrap}
 .answers{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(10px,1.5vw,16px)}
 .ans{display:flex;align-items:center;gap:14px;text-align:left;min-height:clamp(66px,9vh,94px);padding:12px 18px;border-radius:16px;border:3px solid var(--line);background:var(--text);color:var(--ink);font:700 clamp(19px,min(2.4vw,3.7vh),29px)/1.2 var(--f-body);transition:opacity .3s,border-color .15s,transform .15s}
-.ans:hover:not(:disabled){border-color:var(--tile);transform:translateY(-1px)}
+.ans:hover:not(:disabled){border-color:var(--tile);transform:scale(1.01)}
 .ans:disabled{cursor:default}
 .ans .k{flex:none;width:clamp(38px,4vw,50px);height:clamp(38px,4vw,50px);border-radius:50%;display:grid;place-items:center;background:var(--tile);color:var(--text);font:400 .8em/1 var(--f-display)}
 .ans .txt{flex:1;min-width:0}
@@ -174,13 +175,13 @@ a{color:var(--gold-hi)}
 .fact{background:var(--fact-bg)}
 .talk{background:var(--talk-bg)}
 .reveal .label{color:var(--muted)}
-.award{width:min(1000px,100%);text-align:center;display:grid;gap:14px;scroll-margin-bottom:80px}
+.award{position:relative;width:min(1000px,100%);text-align:center;display:grid;gap:14px;scroll-margin-bottom:80px}   /* relative, like .card, so it paints above the card's shadow instead of under it */
 .award p{margin:0;font-size:clamp(21px,2.5vw,27px);font-weight:700}
 .award b{color:var(--gold);font-family:var(--f-display);font-weight:400}
 .aw{min-height:62px;padding:14px 26px;border:0;border-radius:999px;background:var(--c);color:var(--ink);font:700 clamp(18px,2vw,22px)/1 var(--f-body);box-shadow:0 4px 0 #0006}
 .aw:active{transform:translateY(3px);box-shadow:none}
 .award .btn-ghost{min-height:62px}
-.clue-foot{display:flex;gap:12px;flex-wrap:wrap;justify-content:center}
+.clue-foot{position:relative;display:flex;gap:12px;flex-wrap:wrap;justify-content:center}
 #clueQ:focus,#award:focus{outline:none}
 
 /* ---------- zoom ghost + lucky star ---------- */
@@ -223,6 +224,7 @@ body.toasting .mini{visibility:hidden}
 .toast span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
 .toast .ti{width:22px;height:22px;flex:none;color:var(--c)}
 .toast button{flex:none;min-height:52px;padding:10px 22px;border:0;border-radius:999px;background:var(--ink);color:var(--card);font:700 18px var(--f-body)}
+body:has(.ask:not([hidden])) .toast{z-index:34}   /* while a check like "End the game now?" is open, the Undo bar is dimmed with the board and can't be tapped */
 .ask{position:fixed;inset:0;z-index:35;display:grid;place-items:center;padding:16px;background:#03061ad9}
 .ask-card{width:min(560px,100%);box-sizing:border-box;padding:32px 28px;border-radius:22px;text-align:center;background:linear-gradient(180deg,var(--pod),var(--pod-deep));box-shadow:0 0 0 3px var(--gold-deep),0 30px 80px #000c}
 .ask-card h2{margin:0 0 8px;font:400 clamp(28px,4vw,40px)/1.1 var(--f-display);color:var(--gold)}
@@ -488,7 +490,7 @@ textarea.txt-in{min-height:84px;resize:vertical}
         <p>&copy; The Dad Side Hustle Co. Licensed to the purchaser for personal use.</p>
         <p>This is a nostalgia and conversation activity, not a medical or therapeutic product.</p>
         <p>Fonts: Alfa Slab One and Atkinson Hyperlegible (SIL Open Font License), Yellowtail (Apache License 2.0). Reading voice &ldquo;Heart&rdquo;: Kokoro-82M (Apache License 2.0). Sound effects: public-domain (CC0) recordings.</p>
-        <p><a href="LICENSES.txt" target="_blank" rel="noopener">Read the full licences</a></p>
+        <p><a href="LICENSES.txt" target="_blank" rel="noopener">Read the full licenses</a></p>
       </div>
       <div class="row" style="justify-content:flex-start"><button class="btn-gold" data-go="title">Done</button></div>
     </div>
@@ -549,7 +551,7 @@ textarea.txt-in{min-height:84px;resize:vertical}
 <div class="ask" id="endAsk" hidden role="dialog" aria-modal="true" aria-labelledby="endQ">
   <div class="ask-card">
     <h2 id="endQ">End the game now?</h2>
-    <p>You'll go straight to the final scores.</p>
+    <p id="endP">You'll go straight to the final scores.</p>
     <div class="row"><button class="btn-gold" id="endFam" hidden>Go to the Family Round</button><button class="btn-gold" id="endYes">Yes, show final scores</button><button class="btn-ghost" id="endNo">Keep playing</button></div>
   </div>
 </div>
@@ -582,7 +584,7 @@ textarea.txt-in{min-height:84px;resize:vertical}
 
 <script>
 'use strict';
-const APP_VERSION='0.5.1';   // internal; shown only in Settings > About
+const APP_VERSION='0.5.2';   // internal; shown only in Settings > About
 const EDITION='us';          // 'us' now; a Canadian edition later reads data/ca/ (BUILD-SPEC 16)
 // The single-file computer backup (tools/build_single.py) puts window.MLCC_SINGLE and window.EMBED (path -> data: URL) in front of this script.
 const SINGLE=!!window.MLCC_SINGLE;
@@ -837,11 +839,10 @@ function radio(groupId,onPick){
   $(groupId).addEventListener('click',e=>{const b=e.target.closest('.chip');if(!b)return;
     syncChips(groupId,b.dataset.v);onPick(b.dataset.v);saveSettings()});
 }
-function updateEraHint(){
-  const e=settings.setup.era;
-  $('eraHint').textContent=e==='mixed'
-    ?'Mixed decades: each column of the board draws from a different decade, so everyone gets a few of their own.'
-    :`Questions come from their golden years, roughly ages 15 to 25 (${DECADE_YEARS[e]}).`;
+function updateEraHint(){   // the years lead and are bold, so the change is easy to see when a decade is tapped
+  const e=settings.setup.era,h=$('eraHint');
+  if(e==='mixed'){h.innerHTML='<b>Mixed decades:</b> each column of the board draws from a different decade, so everyone gets a few of their own.';return}
+  h.innerHTML=`<b>Questions from ${DECADE_YEARS[e]}</b>, when they were about 15 to 25: their golden years.`;
 }
 function updateFamCount(){const n=famQs().length;$('familyCount').textContent=n>=3?`${n} questions ready.`:`Add at least 3 questions to use it (${n} so far).`}
 function setReadMode(v){settings.readMode=v;syncChips('readMode',v);syncChips('setReadMode',v);saveSettings()}
@@ -1150,9 +1151,13 @@ $('undoBtn').addEventListener('click',()=>{
   settleAdjust();save();
   hideToast();renderBoard();renderPods(true);
 });
-$('endBtn').addEventListener('click',()=>{$('endFam').hidden=!familyReady();$('endAsk').hidden=false;($('endFam').hidden?$('endYes'):$('endFam')).focus()});
+$('endBtn').addEventListener('click',()=>{const fam=familyReady();$('endFam').hidden=!fam;
+  $('endP').textContent=fam?'Play the Family Round first, or go straight to the final scores?':"You'll go straight to the final scores.";
+  $('endAsk').hidden=false;($('endFam').hidden?$('endYes'):$('endFam')).focus()});
 $('endFam').addEventListener('click',()=>{$('endAsk').hidden=true;hideToast();enterFamily()});
 $('endNo').addEventListener('click',()=>{$('endAsk').hidden=true});
+// While a check box is open, the Undo bar behind it is dimmed and can't be tapped (CSS) or reached with the Tab key (inert)
+{const o=new MutationObserver(()=>{$('toast').inert=!!document.querySelector('.ask:not([hidden])')});document.querySelectorAll('.ask').forEach(a=>o.observe(a,{attributes:true,attributeFilter:['hidden']}))}
 $('endYes').addEventListener('click',()=>{$('endAsk').hidden=true;hideToast();state.famDone=true;go('finale')});
 function closeClue(){
   stopVoice();

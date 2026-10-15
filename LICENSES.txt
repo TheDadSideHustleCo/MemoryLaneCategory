@@ -1,8 +1,8 @@
-MEMORY LANE CATEGORY CHALLENGE: THIRD-PARTY LICENCES AND CREDITS
+MEMORY LANE CATEGORY CHALLENGE: THIRD-PARTY LICENSES AND CREDITS
 (c) The Dad Side Hustle Co. Licensed to the purchaser for personal use.
 
 This file lists the open-source fonts, voice model and sound recordings used by the app.
-Each licence below was checked at its source on 2026-10-13 against the licence notice
+Each license below was checked at its source on 2026-10-13 against the license notice
 embedded in the font files themselves.
 
 =====================================================================================
