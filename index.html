@@ -379,7 +379,7 @@ textarea.txt-in{min-height:84px;resize:vertical}
           <button class="chip" role="radio" aria-checked="false" data-v="off">Off</button>
           <button class="chip" role="radio" aria-checked="false" data-v="on">On</button>
         </div>
-        <p class="hint">When it's on and a team answers wrong, another team can try once before the answer is shown. Needs 2 or more teams.</p>
+        <p class="hint">When it's on and a team misses, another team can try once before the answer is shown. Needs 2 or more teams.</p>
       </div>
       <div class="field">
         <span class="label" id="hv-l">Heart, your host</span>
@@ -582,7 +582,7 @@ textarea.txt-in{min-height:84px;resize:vertical}
 
 <script>
 'use strict';
-const APP_VERSION='0.5.0';   // internal; shown only in Settings > About
+const APP_VERSION='0.5.1';   // internal; shown only in Settings > About
 const EDITION='us';          // 'us' now; a Canadian edition later reads data/ca/ (BUILD-SPEC 16)
 // The single-file computer backup (tools/build_single.py) puts window.MLCC_SINGLE and window.EMBED (path -> data: URL) in front of this script.
 const SINGLE=!!window.MLCC_SINGLE;
